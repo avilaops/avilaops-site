@@ -1,0 +1,55 @@
+# Dependencias
+node_modules/
+.pnp
+.pnp.js
+
+# Build e export
+.next/
+out/
+build/
+.vercel/
+.wrangler/
+tsconfig.tsbuildinfo
+
+# Artefatos locais de validacao visual
+artifacts/
+**/.playwright-cli/
+
+# Gerado no postbuild a partir de config/security-headers.mjs. Versionar
+# criaria uma segunda copia da politica, livre para divergir da fonte.
+nginx/security-headers.conf
+
+# Ambiente
+.env
+.env.local
+.env.development
+.env.production
+.env*.local
+# Arquivos de deploy que terminam em .env carregam segredo real. Os
+# .env.example / .env.template continuam versionados de proposito — eles
+# so tem placeholders.
+*.env
+!*.env.example
+!*.env.template
+
+# Qualquer arquivo *.local guarda valor de maquina, nao de repositorio.
+*.local
+
+# Credenciais e certificados (nunca versionar)
+*.p12
+*.pem
+*.dump
+# Chave de conta de servico do Google exportada com esse nome.
+contatos-*.json
+
+# IDE e sistema operacional
+.vs/
+.idea/
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Pacote baixado do gerador de favicon
+favicon.zip

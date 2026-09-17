@@ -1,0 +1,59 @@
+<!doctype html>
+<!--
+  Atalho avilaops.com/prompts -> /guias/ia/prompts-para-ia
+
+  O site é exportado como HTML estático (next.config.ts: output "export"), então
+  o redirect não pode vir do next.config nem de um middleware: precisa ser um
+  arquivo servido pelo próprio nginx. Este index.html é copiado de public/ para
+  out/prompts/index.html no build.
+-->
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content="0; url=/guias/ia/prompts-para-ia/" />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href="https://avilaops.com/guias/ia/prompts-para-ia/" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <title>Prompts para IA | Avila Ops</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+      }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        padding: 24px;
+        background: #f4f5f7;
+        color: #0b0e14;
+        font-family: "Inter", "Segoe UI", system-ui, sans-serif;
+        text-align: center;
+      }
+      @media (prefers-color-scheme: dark) {
+        body {
+          background: #080b11;
+          color: #f2f5fa;
+        }
+      }
+      a {
+        color: #225cf2;
+      }
+      @media (prefers-color-scheme: dark) {
+        a {
+          color: #4e7dff;
+        }
+      }
+    </style>
+    <script>
+      window.location.replace("/guias/ia/prompts-para-ia/");
+    </script>
+  </head>
+  <body>
+    <p>
+      Redirecionando para a biblioteca de prompts…<br />
+      <a href="/guias/ia/prompts-para-ia/">Abrir /guias/ia/prompts-para-ia</a>
+    </p>
+  </body>
+</html>

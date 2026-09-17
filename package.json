@@ -1,0 +1,45 @@
+{
+  "name": "avilaops-com-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && node scripts/copiar-favicons.ts",
+    "start": "next start",
+    "lint": "eslint",
+    "og:defaults": "node scripts/generate-og-defaults.mjs",
+    "og:generate": "node scripts/generate-og-images.mjs",
+    "portfolio:previews": "node scripts/generate-portfolio-previews.mjs",
+    "seo:validate:export": "node scripts/validate-seo-export.mjs",
+    "seo:validate": "node scripts/validate-seo-public.mjs",
+    "visual:validate": "node scripts/validate-visual.mjs",
+    "social:images": "node scripts/generate-social-images.mjs",
+    "social:announce": "node scripts/social-announce.mjs",
+    "deploy": "npm run build && npm run seo:validate:export && npm run headers:validate && powershell -ExecutionPolicy Bypass -File scripts/deploy-avila-inc.ps1 && npm run seo:validate && npm run social:announce -- --tolerante",
+    "postbuild": "node scripts/apply-page-previews.mjs out scripts/page-previews.json --apply && node scripts/gerar-headers.mjs",
+    "headers:generate": "node scripts/gerar-headers.mjs",
+    "headers:check": "node scripts/gerar-headers.mjs --conferir",
+    "headers:validate": "node scripts/validar-headers.mjs"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.29.0",
+    "next": "16.2.9",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "tailwind-merge": "^3.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.9",
+    "playwright": "^1.62.0",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "wrangler": "^3"
+  }
+}

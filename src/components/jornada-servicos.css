@@ -1,0 +1,118 @@
+.js-hero { padding: 50px 0 94px; overflow: hidden; }
+.js-hero-grid { display: grid; grid-template-columns: 1fr 1.05fr; align-items: center; gap: 48px; }
+.js-hero-copy { position: relative; z-index: 1; }
+.js-eyebrow { display: flex; align-items: center; gap: 9px; color: var(--muted-foreground); font-size: .75rem; font-weight: 650; letter-spacing: .07em; text-transform: uppercase; }
+.js-eyebrow i { width: 8px; height: 8px; flex: 0 0 8px; border-radius: 50%; background: #e4513f; box-shadow: 0 0 0 5px #e4513f20; }
+.js-hero h1 { margin: 23px 0; color: var(--foreground); font-size: clamp(2.9rem, 4.7vw, 4.85rem); line-height: 1.03; font-weight: 650; letter-spacing: -.055em; }
+.js-hero h1 em, .js-section-heading h2 em { color: var(--blue); font-style: normal; }
+.js-hero-copy > p { max-width: 460px; margin: 0; color: var(--muted-foreground); font-size: 1.08rem; line-height: 1.75; }
+.js-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 15px 23px; margin-top: 28px; }
+.js-button { display: inline-flex; justify-content: center; align-items: center; gap: 14px; min-height: 50px; padding: 15px 21px; border: 1px solid transparent; border-radius: 7px; background: var(--blue); color: white; text-decoration: none; font-size: .9rem; font-weight: 650; line-height: 1.35; transition: background .2s, transform .2s; }
+.js-button:hover { background: #164cd2; transform: translateY(-2px); }
+.js-button svg, .js-text-link svg { flex-shrink: 0; }
+.js-text-link { display: inline-flex; align-items: center; gap: 10px; min-height: 44px; color: var(--foreground); font-size: .85rem; font-weight: 600; text-decoration: none; }
+.js-text-link:hover { color: var(--blue); }
+.js-button:focus-visible, .js-text-link:focus-visible, .js-catalog-summary:focus-visible { outline: 3px solid var(--blue); outline-offset: 5px; }
+.js-hero-art { position: relative; padding: 15px 0 26px; }
+.js-hero-art::before { position: absolute; inset: 5% -5% 7% 10%; border-radius: 44% 54% 40% 42%; background: #f7c196; transform: rotate(8deg); content: ""; }
+.js-services-hero .js-hero-art::before { background: #baddce; transform: rotate(-7deg); }
+.js-image-wrap { position: relative; width: 100%; aspect-ratio: 6 / 5; overflow: hidden; border-radius: 12px 80px 12px 12px; background: var(--surface); }
+.js-image-wrap img { display: block; height: 100%; width: 100%; object-fit: cover; }
+.js-image-note { position: absolute; right: 16px; bottom: 0; display: flex; align-items: center; gap: 10px; max-width: calc(100% - 25px); padding: 14px 18px; border: 1px solid var(--border); border-radius: 5px; color: var(--foreground); background: var(--surface); box-shadow: 0 12px 40px #080b1110; font-size: .76rem; font-weight: 600; transform: rotate(-2deg); }
+.js-image-note > span { color: var(--blue); font-size: 1.5rem; line-height: 1; }
+.js-section-heading h2 { margin: 17px 0 0; color: var(--foreground); font-size: clamp(2rem, 3.5vw, 3.2rem); font-weight: 600; letter-spacing: -.04em; line-height: 1.13; }
+.js-section-heading > p { max-width: 650px; margin: 20px 0; color: var(--muted-foreground); line-height: 1.75; font-size: .98rem; }
+.js-journey { padding: 75px 0 88px; background: var(--surface); border-top: 1px solid var(--border); }
+.js-step-list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); list-style: none; margin: 52px 0 0; padding: 0; gap: 0; }
+.js-step { position: relative; padding: 0 30px; border-right: 1px solid var(--border); }
+.js-step:first-child { padding-left: 0; }
+.js-step:last-child { padding-right: 0; border-right: 0; }
+.js-step-number { display: inline-flex; width: 58px; height: 58px; justify-content: center; align-items: center; border-radius: 50%; background: #f7dbbd; color: #69461d; font-size: 1rem; font-weight: 650; }
+.js-step:nth-child(2) .js-step-number { background: #d9e4ff; color: #2854ad; }
+.js-step:nth-child(3) .js-step-number { background: #ffe28c; color: #614b08; }
+.js-step h3 { margin: 25px 0 15px; color: var(--foreground); font-size: clamp(1.3rem, 2vw, 1.6rem); letter-spacing: -.025em; font-weight: 600; }
+.js-step p { margin: 0; color: var(--muted-foreground); font-size: .9rem; line-height: 1.8; }
+.js-step-output { display: flex; gap: 8px; align-items: flex-start; margin-top: 23px; color: var(--foreground); font-size: .75rem; font-weight: 550; line-height: 1.5; }
+.js-step-output svg { flex: 0 0 16px; color: var(--blue); }
+.js-journey-close { display: flex; justify-content: space-between; align-items: center; gap: 30px; margin-top: 70px; padding: 36px; border-radius: 8px; background: color-mix(in srgb, var(--blue) 7%, var(--background)); }
+.js-journey-close h3 { color: var(--foreground); margin: 13px 0 8px; font-size: 1.6rem; font-weight: 600; letter-spacing: -.025em; }
+.js-journey-close p { margin: 0; color: var(--muted-foreground); font-size: .9rem; line-height: 1.7; }
+.js-journey-close .js-button { flex-shrink: 0; }
+.js-solutions { padding: 75px 0; background: var(--surface); border-top: 1px solid var(--border); }
+.js-solutions-layout { display: grid; grid-template-columns: 1fr 1.25fr; gap: 85px; align-items: start; }
+.js-solutions-layout > .js-section-heading { position: sticky; top: 115px; }
+.js-solution { display: grid; grid-template-columns: 35px 1fr; gap: 15px; padding: 28px 0; border-bottom: 1px solid var(--border); }
+.js-solution:first-child { padding-top: 0; }
+.js-solution:last-child { border-bottom: 0; padding-bottom: 0; }
+.js-solution-number { padding-top: 6px; color: #e4513f; font-size: .8rem; font-weight: 650; }
+.js-solution h3 { margin: 0 0 12px; color: var(--foreground); font-size: 1.5rem; font-weight: 600; letter-spacing: -.025em; }
+.js-solution p { margin: 0; color: var(--muted-foreground); font-size: .93rem; line-height: 1.75; }
+.js-solution-items { display: block; margin: 16px 0 6px; color: var(--muted-foreground); font-size: .74rem; line-height: 1.65; }
+.js-catalog { padding: 80px 0; }
+.js-catalog-groups { margin-top: 38px; border-top: 1px solid var(--border); }
+.js-catalog-group { border-bottom: 1px solid var(--border); scroll-margin-top: 110px; }
+.js-catalog-summary { display: flex; align-items: center; gap: 23px; min-height: 112px; padding: 22px 4px; list-style: none; cursor: pointer; }
+.js-catalog-summary::-webkit-details-marker { display: none; }
+.js-catalog-icon { display: inline-flex; width: 52px; height: 52px; align-items: center; justify-content: center; flex-shrink: 0; border-radius: 15px; color: var(--blue); background: color-mix(in srgb, var(--blue) 9%, var(--surface)); }
+.js-catalog-group:nth-child(3n + 1) .js-catalog-icon { color: #93612e; background: #f6e4c8; }
+.js-catalog-group:nth-child(3n) .js-catalog-icon { color: #27634c; background: #d7ede0; }
+.js-catalog-summary-copy { display: grid; flex: 1; gap: 7px; }
+/* A categoria e um <h3> desde que o catalogo passou a ter hierarquia de
+   verdade (secao h2 > categoria h3 > item h4). Os zeros abaixo desfazem a
+   margem e o tamanho que o navegador da ao heading: o visual e o mesmo do
+   <strong> que estava aqui. */
+.js-catalog-summary-copy h3 { margin: 0; color: var(--foreground); font-weight: 600; font-size: 1.2rem; line-height: 1.2; letter-spacing: -.02em; }
+.js-catalog-summary-copy > span { color: var(--muted-foreground); font-size: .84rem; line-height: 1.5; }
+.js-catalog-toggle { flex-shrink: 0; color: var(--foreground); transition: transform .2s; }
+.js-catalog-group[open] .js-catalog-toggle { transform: rotate(45deg); }
+.js-catalog-summary:hover .js-catalog-summary-copy h3 { color: var(--blue); }
+.js-catalog-items { display: grid; grid-template-columns: 1fr 1fr; column-gap: 36px; padding-left: 79px; }
+.js-catalog-item { padding: 19px 0; border-top: 1px solid var(--border); }
+.js-catalog-item h3 { margin: 0 0 8px; color: var(--foreground); font-size: .92rem; font-weight: 600; }
+.js-catalog-item p { margin: 0; color: var(--muted-foreground); font-size: .83rem; line-height: 1.7; }
+.js-catalog-action { margin: 3px 0 24px 79px; color: var(--blue); }
+.js-catalog-close { display: flex; align-items: center; justify-content: space-between; gap: 25px; margin-top: 45px; }
+.js-catalog-close p { max-width: 600px; color: var(--muted-foreground); line-height: 1.75; }
+.js-catalog-close .js-button { flex-shrink: 0; }
+#jornada, #solucoes, #catalogo { scroll-margin-top: 110px; }
+@media (max-width: 1050px) {
+  .js-hero-grid { gap: 25px; }
+  .js-hero h1 { font-size: clamp(2.75rem, 5vw, 4rem); }
+  .js-solutions-layout { gap: 40px; }
+  .js-step { padding-inline: 20px; }
+}
+@media (max-width: 760px) {
+  .js-hero { padding: 35px 0 60px; }
+  .js-hero-grid { grid-template-columns: 1fr; gap: 32px; }
+  .js-hero h1 { font-size: clamp(2.7rem, 10.7vw, 4.5rem); }
+  .js-eyebrow { font-size: .65rem; line-height: 1.6; }
+  .js-hero-copy > p { max-width: 550px; font-size: 1rem; }
+  .js-actions { gap: 9px 20px; margin-top: 23px; }
+  .js-hero-art { max-width: 600px; width: 100%; }
+  .js-image-wrap { aspect-ratio: 6 / 4; border-top-right-radius: 55px; }
+  .js-image-note { right: 8px; font-size: .7rem; padding: 12px; }
+  .js-journey, .js-solutions, .js-catalog { padding: 54px 0; }
+  .js-step-list { grid-template-columns: 1fr; margin-top: 32px; gap: 28px; }
+  .js-step, .js-step:first-child, .js-step:last-child { padding: 0 0 26px 67px; border-right: 0; border-bottom: 1px solid var(--border); }
+  .js-step:last-child { padding-bottom: 0; border-bottom: 0; }
+  .js-step-number { position: absolute; left: 0; top: 0; width: 46px; height: 46px; font-size: .88rem; }
+  .js-step h3 { margin-top: 7px; font-size: 1.4rem; }
+  .js-step-output { margin-top: 16px; }
+  .js-journey-close { flex-direction: column; align-items: flex-start; margin-top: 42px; padding: 26px; gap: 20px; }
+  .js-journey-close h3 { font-size: 1.4rem; }
+  .js-solutions-layout { grid-template-columns: 1fr; gap: 32px; }
+  .js-solutions-layout > .js-section-heading { position: static; }
+  .js-solution { grid-template-columns: 28px 1fr; gap: 10px; }
+  .js-solution h3 { font-size: 1.35rem; }
+  .js-catalog-summary { gap: 14px; min-height: 108px; }
+  .js-catalog-icon { width: 42px; height: 42px; border-radius: 12px; }
+  .js-catalog-summary-copy h3 { font-size: 1.02rem; }
+  .js-catalog-summary-copy > span { font-size: .78rem; }
+  .js-catalog-items { grid-template-columns: 1fr; padding-left: 0; }
+  .js-catalog-action { margin-left: 0; }
+  .js-catalog-close { align-items: flex-start; flex-direction: column; gap: 12px; margin-top: 30px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .js-button, .js-catalog-toggle { transition: none; }
+  .js-button:hover { transform: none; }
+}

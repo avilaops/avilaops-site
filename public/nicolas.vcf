@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Avila;Nicolas;;;
+FN:Nicolas Avila
+ORG:Ávila Ops Tecnologia
+TITLE:Fundador
+TEL;TYPE=CELL,VOICE:+5517997811471
+EMAIL;TYPE=INTERNET,WORK:nicolas@avilaops.com
+URL:https://avilaops.com
+URL;TYPE=LinkedIn:https://linkedin.com/company/avilaops
+URL;TYPE=Instagram:https://instagram.com/avila.ops
+URL;TYPE=TikTok:https://www.tiktok.com/@avilaops
+ADR;TYPE=WORK:;;;Ribeirão Preto;SP;;Brasil
+NOTE:Site, domínio, hospedagem, e-mail, automações de WhatsApp e IA para pequenas empresas.
+END:VCARD

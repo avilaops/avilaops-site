@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "home-v2",
+    "original": "exec-ec51d9e9-e237-4a85-90a5-77a23cdddd6f.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: avilaops.com website editorial hero, landscape 3:2, high resolution\nPrimary request: A wide, sunlit contemporary Brazilian creative small-business showroom. In the right two thirds, a cheerful Black Brazilian female entrepreneur in cobalt blue overshirt and a male designer in warm neutral clothes naturally smile while looking at her beautiful shop website on a real laptop; tasteful physical products, a terracotta vase, leafy plants, soft apricot wall and electric blue shelving. Left third is a calm cream wall and daylight for flexible cropping. Authentic happy working moment, aspirational yet attainable, editorial brand photography, absolutely no holograms or floating interfaces.\nStyle: premium natural editorial photography, lively and joyful but professional, human skin texture, realistic anatomy, subtle film grain, fresh colors and generous light. Brand palette grounded in electric cobalt blue, cream, sunny warm accents.\nConstraints: composition must work cropped to 16:10 and 1200x630. No logos, no readable text, no watermarks, no generic stock-photo handshake, no city landmarks, no dark cyberpunk, no neon trails. People are fictional editorial models, not actual clients.",
+    "social": true
+  },
+  {
+    "slug": "jornada-v2",
+    "original": "exec-7e902e6b-6b4b-4efa-8e25-6df8b04af1a0.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: avilaops.com website editorial hero, landscape 3:2, high resolution\nPrimary request: A bright creative workshop table photographed obliquely with depth. Three tangible stages of a business website idea becoming real: simple handwritten-free paper sketches and color swatches in foreground, laptop prototype in middle, confident entrepreneur and designer happily reviewing the completed shop page on a tablet in the far right. Natural candid people, tactile paper, cobalt blue stationery, apricot and soft mint details, strong morning sunlight, no digital overlays.\nStyle: premium natural editorial photography, lively and joyful but professional, human skin texture, realistic anatomy, subtle film grain, fresh colors and generous light. Brand palette grounded in electric cobalt blue, cream, sunny warm accents.\nConstraints: composition must work cropped to 16:10 and 1200x630. No logos, no readable text, no watermarks, no generic stock-photo handshake, no city landmarks, no dark cyberpunk, no neon trails. People are fictional editorial models, not actual clients.",
+    "social": true
+  },
+  {
+    "slug": "servicos-v2",
+    "original": "exec-4cafea9e-8db7-41d4-904f-efe7a8703446.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: avilaops.com website editorial hero, landscape 3:2, high resolution\nPrimary request: Premium still life in a small-business brand studio filled with warm sunlight: coordinated electric blue and coral packaging, a real laptop displaying an elegant website with image blocks and no readable labels, phone displaying a product catalog, business cards, folded letterhead and a ceramic cup, hand of a creative business owner adjusting a sample. A lively tangible brand ecosystem, dimensional objects, thoughtful art direction, cream backdrop. No floating icons or holograms.\nStyle: premium natural editorial photography, lively and joyful but professional, human skin texture, realistic anatomy, subtle film grain, fresh colors and generous light. Brand palette grounded in electric cobalt blue, cream, sunny warm accents.\nConstraints: composition must work cropped to 16:10 and 1200x630. No logos, no readable text, no watermarks, no generic stock-photo handshake, no city landmarks, no dark cyberpunk, no neon trails. People are fictional editorial models, not actual clients.",
+    "social": true
+  },
+  {
+    "slug": "comparativos-v2",
+    "original": "exec-b389820b-2675-4f68-921d-f7a18df6d81e.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: avilaops.com website editorial hero, landscape 3:2, high resolution\nPrimary request: A cheerful Brazilian entrepreneur and a female creative consultant comparing two printed visual website moodboards at a sunny round table, three open alternatives represented by tactile page layouts and color swatches; attentive collaboration and confident choice, contemporary office garden background, cobalt chair, mustard accent, ivory and fresh mint. Photojournalistic candid gesture, no money, no trophies, no fabricated data charts, no holograms.\nStyle: premium natural editorial photography, lively and joyful but professional, human skin texture, realistic anatomy, subtle film grain, fresh colors and generous light. Brand palette grounded in electric cobalt blue, cream, sunny warm accents.\nConstraints: composition must work cropped to 16:10 and 1200x630. No logos, no readable text, no watermarks, no generic stock-photo handshake, no city landmarks, no dark cyberpunk, no neon trails. People are fictional editorial models, not actual clients.",
+    "social": true
+  },
+  {
+    "slug": "segmentos-v2",
+    "original": "exec-1ae33860-d762-44f4-a832-6a22f0c24011.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: avilaops.com business sector editorial photography, landscape 3:2.\nPrimary request: A lively sunlit small Brazilian neighborhood shopping courtyard with three fictional entrepreneurs chatting naturally: a woman cafe owner holding a tray, a man in a cobalt work shirt and a female boutique owner holding a wrapped package. Joyful authentic connection between local businesses, leafy planters, peach plaster, cobalt door, cream shade cloth, editorial medium-wide photo, not a posed lineup.\nStyle: premium sunny editorial photograph, human skin texture, realistic anatomy, joyful professional optimism, cobalt blue, warm cream and apricot accents, natural saturated color, tactile and real, composition works cropped 16:10.\nConstraints: no logos, no readable lettering, no text, no watermarks, no floating UI, no holograms. Fictional editorial people and businesses, not real client portraits.",
+    "social": true
+  },
+  {
+    "slug": "segmento-servicos-v2",
+    "original": "exec-2c8b7f29-1b3c-4f9d-ad28-28347655f6f4.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: avilaops.com business sector editorial photography, landscape 3:2.\nPrimary request: A confident smiling Brazilian female architect or independent consultant showing a material sample to a client across a tidy oak desk in a sunlit airy studio. Cobalt notebook, clay samples, green plant, window light, candid business consultation, no generic handshake.\nStyle: premium sunny editorial photograph, human skin texture, realistic anatomy, joyful professional optimism, cobalt blue, warm cream and apricot accents, natural saturated color, tactile and real, composition works cropped 16:10.\nConstraints: no logos, no readable lettering, no text, no watermarks, no floating UI, no holograms. Fictional editorial people and businesses, not real client portraits.",
+    "social": false
+  },
+  {
+    "slug": "segmento-industria-v2",
+    "original": "exec-da186d50-61b0-4fc0-aa6d-c8feca9b9559.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: avilaops.com business sector editorial photography, landscape 3:2.\nPrimary request: A Brazilian female industrial small-business owner and technician in navy workwear and clear safety glasses inspecting a precision machined metal component at a clean workshop bench. Shelves of parts, naturally bright modern workshop, orange tool organizer, authentic eye contact, both properly dressed for a non-operating inspection area.\nStyle: premium sunny editorial photograph, human skin texture, realistic anatomy, joyful professional optimism, cobalt blue, warm cream and apricot accents, natural saturated color, tactile and real, composition works cropped 16:10.\nConstraints: no logos, no readable lettering, no text, no watermarks, no floating UI, no holograms. Fictional editorial people and businesses, not real client portraits.",
+    "social": false
+  },
+  {
+    "slug": "segmento-logistica-v2",
+    "original": "exec-cf6f5b54-4c4a-4750-bde5-e597160525d5.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: avilaops.com business sector editorial photography, landscape 3:2.\nPrimary request: A cheerful Brazilian small-business logistics manager in a cobalt polo giving a neatly packed unbranded parcel to a delivery colleague at the open door of a bright organized small warehouse. Kraft boxes, realistic shelves, natural daylight, soft orange delivery cart, candid action not stock handshake.\nStyle: premium sunny editorial photograph, human skin texture, realistic anatomy, joyful professional optimism, cobalt blue, warm cream and apricot accents, natural saturated color, tactile and real, composition works cropped 16:10.\nConstraints: no logos, no readable lettering, no text, no watermarks, no floating UI, no holograms. Fictional editorial people and businesses, not real client portraits.",
+    "social": false
+  },
+  {
+    "slug": "segmento-alimentacao-v2",
+    "original": "exec-b14df520-ed6b-4d47-bc70-de1dbdeaf930.png",
+    "prompt": "Cena editorial de uma dona de cafeteria brasileira servindo doces artesanais a clientes em um espaço ensolarado, com paleta azul, coral, creme e plantas.",
+    "social": false
+  },
+  {
+    "slug": "segmento-construcao-v2",
+    "original": "exec-1de244b5-17b4-42f6-a2ad-4fbc0a2db6cc.png",
+    "prompt": "Dois profissionais brasileiros de arquitetura analisando uma maquete residencial e amostras de materiais em estúdio iluminado.",
+    "social": false
+  },
+  {
+    "slug": "segmento-comercio-v2",
+    "original": "exec-9f65a13d-db77-439d-abd8-d310a91a7b26.png",
+    "prompt": "Dona de boutique brasileira organizando uma vitrine colorida com cerâmicas e produtos artesanais em luz natural.",
+    "social": false
+  }
+]

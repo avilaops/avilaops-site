@@ -1,0 +1,21 @@
+{
+  "_nota": "Registro TagFlow do avilaops.com. Espelha database/avila-inc/tagflow.json do TagFlow (D:/Administrativo/tagflow) — é referência, nenhum código lê este arquivo em runtime. O container e a propriedade citados abaixo são os que estão no ar; o par anterior (GTM-PFDXCHV5 / G-Y7E7WXE7VV) foi criado pela service account antiga, ficou órfão e não deve ser reutilizado.",
+  "clientId": "avila-inc",
+  "clientName": "Avila Ops",
+  "domain": "avila.inc",
+  "createdAt": "2026-07-26T04:35:02.059Z",
+  "updatedAt": "2026-08-15T00:00:00.000Z",
+  "ga4": {
+    "propertyId": "properties/546993283",
+    "measurementId": "G-T7DZ51MVZK"
+  },
+  "gtm": {
+    "publicId": "GTM-MTG7CHVV",
+    "containerId": "259420614",
+    "snippet": {
+      "head": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MTG7CHVV');</script>\n<!-- End Google Tag Manager -->",
+      "body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MTG7CHVV\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
+    }
+  },
+  "metaPixelId": null
+}
