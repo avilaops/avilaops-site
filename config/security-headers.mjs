@@ -32,8 +32,12 @@ function origem(url) {
  * NEXT_PUBLIC_LEAD_INTAKE_URL: se alguem trocar o Worker de lugar sem
  * passar por aqui, o formulario de contato para de enviar. Gerar a CSP do
  * mesmo valor que o bundle usa mantem os dois sempre em sincronia.
+ *
+ * `transcriptionUrl` segue a mesma logica para NEXT_PUBLIC_TRANSCRICAO_URL,
+ * o servico de transcricao que recebe o audio do ditado por voz. Fica de
+ * fora do connect-src enquanto nao for configurado.
  */
-export function montarCsp({ leadIntakeUrl, analytics = true } = {}) {
+export function montarCsp({ leadIntakeUrl, transcriptionUrl, analytics = true } = {}) {
   const conexoes = new Set(["'self'"]);
   const scripts = new Set(["'self'", "'unsafe-inline'"]);
   const imagens = new Set(["'self'", "data:"]);
@@ -41,6 +45,9 @@ export function montarCsp({ leadIntakeUrl, analytics = true } = {}) {
 
   const lead = origem(leadIntakeUrl);
   if (lead) conexoes.add(lead);
+
+  const transcricao = origem(transcriptionUrl);
+  if (transcricao) conexoes.add(transcricao);
 
   if (analytics) {
     // GTM entrega a tag; GA4 recebe os eventos. Os curingas cobrem os
@@ -119,7 +126,9 @@ export function montarCabecalhos(opcoes = {}) {
       "gyroscope=()",
       "interest-cohort=()",
       "magnetometer=()",
-      "microphone=()",
+      // O ditado da etapa 4 do /criar-meu-resumo/ precisa do microfone. Fica
+      // em `(self)`: so o proprio site pede, nunca um iframe de terceiro.
+      "microphone=(self)",
       "midi=()",
       "payment=()",
       "usb=()",

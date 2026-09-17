@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { Sparkles, BookOpen, Wrench, MessageCircle } from "lucide-react";
 import { siteConfig, whatsappUrl } from "@/lib/site";
+import VoiceInput from "@/components/VoiceInput";
 
 type Familiarity = "novo" | "basico" | "experiente";
 type SiteType =
@@ -117,6 +118,24 @@ export default function BriefWizard() {
 
   function update<K extends keyof BriefState>(key: K, value: BriefState[K]) {
     setBrief((current) => ({ ...current, [key]: value }));
+  }
+
+  /**
+   * Encaixa o que foi ditado no que ja estava escrito, em vez de trocar o
+   * texto: a pessoa pode alternar entre teclado e microfone na mesma
+   * resposta, e o ditado chega em trechos conforme ela fala.
+   */
+  function appendChallenge(trecho: string) {
+    const limpo = trecho.trim();
+    if (!limpo) return;
+
+    setBrief((current) => {
+      const atual = current.challenge.trimEnd();
+      return {
+        ...current,
+        challenge: atual ? `${atual} ${limpo}` : limpo,
+      };
+    });
   }
 
   function goNext() {
@@ -279,12 +298,15 @@ export default function BriefWizard() {
             </div>
 
             <textarea
+              id="brief-challenge"
               className="brief-textarea"
               rows={6}
               value={brief.challenge}
               onChange={(event) => update("challenge", event.target.value)}
               placeholder="Ex.: perdemos contatos, fazemos muito trabalho manual, os sistemas não conversam..."
             />
+
+            <VoiceInput controls="brief-challenge" onTranscription={appendChallenge} />
           </div>
         )}
 

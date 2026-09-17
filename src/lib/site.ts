@@ -40,6 +40,13 @@ export const siteConfig = {
   leadIntakeUrl:
     process.env.NEXT_PUBLIC_LEAD_INTAKE_URL ||
     "https://avila-inc-lead-intake.nicolas-85b.workers.dev",
+  /**
+   * Endpoint do servico de transcricao da casa
+   * (`ferramentas/voz/servico-transcricao`, faster-whisper), usado como
+   * segunda camada do ditado por voz. Vazio por padrao: sem ele o site
+   * usa so o reconhecimento do navegador, sem botao quebrado na tela.
+   */
+  transcriptionUrl: process.env.NEXT_PUBLIC_TRANSCRICAO_URL || "",
 } as const;
 
 /**
