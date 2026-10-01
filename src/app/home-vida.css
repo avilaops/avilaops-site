@@ -26,6 +26,14 @@
 .vida-outcomes { display: grid; grid-template-columns: repeat(3, 1fr); margin-top: 58px; padding: 30px 0; border-top: 1px solid var(--border); gap: 30px; }
 .vida-outcomes > span { display: grid; gap: 7px; color: var(--muted-foreground); font-size: .82rem; }
 .vida-outcomes strong { color: var(--foreground); font-size: .93rem; font-weight: 600; }
+.vida-app { padding: 64px 0; border-top: 1px solid var(--border); }
+.vida-app-grid { display: grid; grid-template-columns: 1.1fr .9fr; align-items: start; gap: 56px; }
+.vida-app-copy > p { max-width: 620px; color: var(--muted-foreground); font-size: 1rem; }
+.vida-app-links { display: flex; flex-wrap: wrap; gap: 4px 24px; margin-top: 18px; }
+.vida-app-points { display: grid; gap: 18px; margin: 0; padding: 0; list-style: none; }
+.vida-app-points li { padding: 20px 22px; background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--vida-red); border-radius: 10px; }
+.vida-app-points strong { display: block; font-size: .95rem; font-weight: 650; }
+.vida-app-points p { margin: 6px 0 0; color: var(--muted-foreground); font-size: .88rem; line-height: 1.65; }
 .vida-explore { padding: 86px 0 65px; background: var(--surface); }
 .vida-services-feature { display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 70px; }
 .vida-services-image { overflow: hidden; border-radius: 12px 12px 75px 12px; aspect-ratio: 1.03; }
@@ -86,7 +94,8 @@ html.dark .vida-finale p, html.dark .vida-finale .vida-eyebrow { color: #b7c9ef;
 @media (max-width: 800px) {
   /* O cabeçalho é fixo: reserve espaço para que o eyebrow não fique por baixo dele. */
   .vida-hero { padding-top: 96px; }
-  .vida-hero-grid, .vida-services-feature, .vida-journey-grid { grid-template-columns: 1fr; gap: 34px; }
+  .vida-hero-grid, .vida-services-feature, .vida-journey-grid, .vida-app-grid { grid-template-columns: 1fr; gap: 34px; }
+  .vida-app { padding: 52px 0; }
   .vida-hero h1 { font-size: clamp(3.8rem, 10vw, 5.3rem); }
   .vida-hero-copy > p { max-width: 600px; font-size: 1rem; }
   .vida-hero-art { max-width: 650px; width: 100%; padding-top: 16px; }
