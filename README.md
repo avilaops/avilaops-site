@@ -69,7 +69,16 @@ formularios chamam. Trocar o endereco do Worker sem rebuildar deixaria o
 
 `npm run deploy` gera o export estatico, valida o resultado, publica pelo script
 PowerShell e verifica o endereco publico. O destino remoto pode ser alterado
-pelos parametros de `scripts/deploy-avila-inc.ps1`.
+pelos parametros de `scripts/deploy-avilaops-com.ps1`.
+
+No servidor, o Caddy serve `/var/www/avilaops.com`, que e um symlink para a
+release ativa em `/var/www/.releases/avilaops.com/<data>-<commit>`. Cada deploy
+extrai uma release nova e troca o link de uma vez; as cinco mais recentes ficam
+no disco. Rollback e apontar o link para a anterior:
+
+```bash
+ln -sfn /var/www/.releases/avilaops.com/<release> /var/www/avilaops.com
+```
 
 Segredos e valores de ambiente nao devem ser versionados. Use `.env.local` ou
 as variaveis configuradas no ambiente de deploy.
