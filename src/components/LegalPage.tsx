@@ -1,6 +1,18 @@
 import { siteConfig } from "@/lib/site";
 import Link from "next/link";
 
+// Endereços e e-mails citados no texto viram links, sem obrigar cada página a
+// montar JSX. A pontuação final não entra no link.
+const LINK_PATTERN = /(https?:\/\/[^\s,;)]+[^\s,;).]|[\w.+-]+@[\w-]+\.[\w.]+\w)/g;
+
+function withLinks(text: string) {
+  return text.split(LINK_PATTERN).map((part, index) => {
+    if (index % 2 === 0) return part;
+    const href = part.includes("@") && !part.startsWith("http") ? `mailto:${part}` : part;
+    return <a key={index} href={href}>{part}</a>;
+  });
+}
+
 type LegalSection = {
   title: string;
   body: string[];
@@ -44,7 +56,7 @@ export default function LegalPage({
             <section key={section.title}>
               <h2>{section.title}</h2>
               {section.body.map((paragraph) => (
-                <p key={paragraph}>{paragraph}</p>
+                <p key={paragraph}>{withLinks(paragraph)}</p>
               ))}
             </section>
           ))}

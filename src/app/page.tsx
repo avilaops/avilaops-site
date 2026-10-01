@@ -5,6 +5,7 @@ import PortfolioGrid from "@/components/PortfolioGrid";
 import Testimonials from "@/components/Testimonials";
 import HomeFaq from "@/components/HomeFaq";
 import HomeExplore from "@/components/HomeExplore";
+import HomeAppAccess from "@/components/HomeAppAccess";
 import Products from "@/components/Ecosystem";
 import Footer from "@/components/Footer";
 import Link from "next/link";
@@ -15,6 +16,7 @@ export default function Home() {
     <main className="vida-home">
       <Header />
       <Hero />
+      <HomeAppAccess />
       <HomeExplore />
       <Products />
       <HowItWorks />
