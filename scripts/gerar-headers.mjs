@@ -30,7 +30,11 @@ const leadIntakeUrl =
   process.env.NEXT_PUBLIC_LEAD_INTAKE_URL ||
   "https://avila-inc-lead-intake.nicolas-85b.workers.dev";
 
-const cabecalhos = montarCabecalhos({ leadIntakeUrl });
+// Mesmo default de src/lib/site.ts: vazio enquanto o servico de
+// transcricao nao estiver publicado, para nao liberar origem inexistente.
+const transcriptionUrl = process.env.NEXT_PUBLIC_TRANSCRICAO_URL || "";
+
+const cabecalhos = montarCabecalhos({ leadIntakeUrl, transcriptionUrl });
 
 const cacheHash = regrasDeCache.find((r) => r.nome === "assets-com-hash");
 const cacheMidia = regrasDeCache.find((r) => r.nome === "midia");
@@ -94,6 +98,7 @@ if (!conferir) {
     JSON.stringify({
       cabecalhos: Object.keys(cabecalhos).length,
       leadIntakeUrl,
+      transcriptionUrl: transcriptionUrl || null,
       midia: cacheMidia.extensoesNginx.length,
     })
   );

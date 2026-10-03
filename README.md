@@ -62,8 +62,33 @@ nao quebra o build: ela falha calada no navegador do visitante. Por isso a
 checagem roda tambem dentro do `npm run deploy`, antes de publicar.
 
 A CSP e montada a partir de `NEXT_PUBLIC_LEAD_INTAKE_URL`, o endpoint que os
-formularios chamam. Trocar o endereco do Worker sem rebuildar deixaria o
-`connect-src` apontando para o lugar antigo e os envios parariam.
+formularios chamam, e de `NEXT_PUBLIC_TRANSCRICAO_URL`, o servico que recebe
+o audio do ditado por voz. Trocar o endereco de um deles sem rebuildar
+deixaria o `connect-src` apontando para o lugar antigo e os envios parariam.
+
+## Ditado por voz
+
+A etapa "O que hoje mais limita o seu negocio?" do `/criar-meu-resumo/`
+aceita voz alem do teclado (`src/components/VoiceInput.tsx`). Sao duas
+camadas, nessa ordem:
+
+1. `SpeechRecognition` do navegador — transcreve enquanto a pessoa fala.
+   O audio pode ser enviado ao provedor do navegador para processamento;
+   esta integracao nao garante transcricao local. A disponibilidade varia
+   conforme navegador, sistema e permissoes.
+2. Gravar e enviar para o servico de transcricao da casa
+   (`ferramentas/voz/servico-transcricao`, faster-whisper), para navegadores
+   sem a API — Firefox, por exemplo.
+
+A segunda camada so aparece quando `NEXT_PUBLIC_TRANSCRICAO_URL` aponta para
+o endpoint completo do servico, por exemplo
+`https://transcricao.avilaops.com/transcrever`. Sem a variavel o site usa so
+a primeira, e onde nem ela existe o botao simplesmente nao e renderizado: o
+campo de texto continua sendo o caminho padrao, nunca o plano B.
+
+O servico precisa liberar a origem do site por CORS — a chamada sai do
+navegador do visitante, nao de um servidor. O `Permissions-Policy` do site
+mantem `microphone=(self)` por causa dessa etapa.
 
 ## Deploy
 
@@ -82,3 +107,4 @@ ln -sfn /var/www/.releases/avilaops.com/<release> /var/www/avilaops.com
 
 Segredos e valores de ambiente nao devem ser versionados. Use `.env.local` ou
 as variaveis configuradas no ambiente de deploy.
+
