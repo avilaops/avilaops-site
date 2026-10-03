@@ -2,9 +2,9 @@
  * Ditado por voz do site, em duas camadas.
  *
  * 1. `SpeechRecognition` do proprio navegador: transcreve enquanto a pessoa
- *    fala, sem enviar audio para lugar nenhum e sem custo por minuto. Cobre
- *    Chrome, Edge, Android e Safari (iOS 14.5+), que e a maior parte de quem
- *    chega ao formulario pelo celular.
+ *    fala. O processamento pode usar servidores do provedor do navegador;
+ *    esta API nao garante reconhecimento local. A disponibilidade varia
+ *    conforme navegador, sistema e permissoes.
  * 2. Gravacao local + `POST` para o servico de transcricao da casa
  *    (`ferramentas/voz/servico-transcricao`, faster-whisper), usada quando o
  *    navegador nao tem a API — Firefox, por exemplo. So entra em cena se
@@ -168,3 +168,4 @@ export async function transcreverAudio(
   const texto = (dados as { texto?: unknown })?.texto;
   return typeof texto === "string" ? texto.trim() : "";
 }
+

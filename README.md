@@ -72,9 +72,10 @@ A etapa "O que hoje mais limita o seu negocio?" do `/criar-meu-resumo/`
 aceita voz alem do teclado (`src/components/VoiceInput.tsx`). Sao duas
 camadas, nessa ordem:
 
-1. `SpeechRecognition` do navegador — transcreve enquanto a pessoa fala, o
-   audio nao sai do aparelho e nao ha custo por minuto. Cobre Chrome, Edge,
-   Android e Safari do iOS 14.5 em diante.
+1. `SpeechRecognition` do navegador — transcreve enquanto a pessoa fala.
+   O audio pode ser enviado ao provedor do navegador para processamento;
+   esta integracao nao garante transcricao local. A disponibilidade varia
+   conforme navegador, sistema e permissoes.
 2. Gravar e enviar para o servico de transcricao da casa
    (`ferramentas/voz/servico-transcricao`, faster-whisper), para navegadores
    sem a API — Firefox, por exemplo.
@@ -106,3 +107,4 @@ ln -sfn /var/www/.releases/avilaops.com/<release> /var/www/avilaops.com
 
 Segredos e valores de ambiente nao devem ser versionados. Use `.env.local` ou
 as variaveis configuradas no ambiente de deploy.
+

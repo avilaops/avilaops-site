@@ -14,7 +14,7 @@ import {
 } from "@/lib/speech";
 
 type Modo = "ditado" | "gravacao";
-type Estado = "ocioso" | "ouvindo" | "gravando" | "transcrevendo";
+type Estado = "ocioso" | "abrindo" | "ouvindo" | "gravando" | "transcrevendo";
 
 type Props = {
   /** Recebe cada trecho ja transcrito, para o campo decidir onde encaixar. */
@@ -67,7 +67,7 @@ function formatarDuracao(segundos: number): string {
  * Botao de ditado reutilizavel.
  *
  * Prefere o reconhecimento do proprio navegador (texto aparece enquanto a
- * pessoa fala, audio nao sai do aparelho) e cai para gravar + enviar ao
+ * pessoa fala; o provedor pode processar audio remotamente) e usa o
  * servico de transcricao da casa quando a API nao existe. Sem nenhum dos
  * dois caminhos o componente nao renderiza nada.
  */
@@ -86,9 +86,12 @@ export default function VoiceInput({
 
   const reconhecimentoRef = useRef<ReconhecimentoDeFala | null>(null);
   const gravadorRef = useRef<MediaRecorder | null>(null);
-  const pedacosRef = useRef<Blob[]>([]);
   const inicioRef = useRef(0);
   const ativoRef = useRef(false);
+  const montadoRef = useRef(false);
+  const geracaoRef = useRef(0);
+  const abrindoRef = useRef(false);
+  const envioRef = useRef<AbortController | null>(null);
 
   const endpointTranscricao = siteConfig.transcriptionUrl;
 
@@ -111,18 +114,31 @@ export default function VoiceInput({
 
     if (gravadorRef.current && gravadorRef.current.state !== "inactive") {
       // O `onstop` do gravador e quem envia o audio e limpa o stream.
+      setEstado("transcrevendo");
       gravadorRef.current.stop();
     }
   }, []);
 
   // Microfone aberto nao sobrevive a troca de etapa nem a saida da pagina.
   useEffect(() => {
+    montadoRef.current = true;
     return () => {
+      montadoRef.current = false;
+      geracaoRef.current += 1;
+      abrindoRef.current = false;
+      envioRef.current?.abort();
       ativoRef.current = false;
-      reconhecimentoRef.current?.abort();
+      if (reconhecimentoRef.current) {
+        reconhecimentoRef.current.onresult = null;
+        reconhecimentoRef.current.onerror = null;
+        reconhecimentoRef.current.onend = null;
+        reconhecimentoRef.current.abort();
+      }
       reconhecimentoRef.current = null;
-      if (gravadorRef.current && gravadorRef.current.state !== "inactive") {
-        gravadorRef.current.stop();
+      if (gravadorRef.current) {
+        gravadorRef.current.onstop = null;
+        gravadorRef.current.ondataavailable = null;
+        if (gravadorRef.current.state !== "inactive") gravadorRef.current.stop();
       }
       encerrarGravador();
     };
@@ -142,16 +158,21 @@ export default function VoiceInput({
   }, [estado, parar]);
 
   function iniciarDitado() {
+    if (ativoRef.current || !montadoRef.current) return;
+    const geracao = ++geracaoRef.current;
+    const atual = () => montadoRef.current && geracaoRef.current === geracao;
     const reconhecimento = criarReconhecimento(idioma);
     if (!reconhecimento) return;
 
     reconhecimento.onresult = (evento) => {
+      if (!atual()) return;
       const { final, parcial: emRevisao } = lerResultado(evento);
       if (final) onTranscription(final);
       setParcial(emRevisao);
     };
 
     reconhecimento.onerror = (evento) => {
+      if (!atual()) return;
       // Silencio e interrupcao sao rotina: o proprio `onend` reabre.
       if (evento.error === "no-speech" || evento.error === "aborted") return;
 
@@ -172,6 +193,7 @@ export default function VoiceInput({
     };
 
     reconhecimento.onend = () => {
+      if (!atual()) return;
       // O navegador encerra sozinho depois de alguns segundos de silencio.
       // Enquanto a pessoa nao apertar "parar", reabrimos.
       if (!ativoRef.current) {
@@ -201,61 +223,70 @@ export default function VoiceInput({
   }
 
   async function iniciarGravacao() {
-    if (!endpointTranscricao) return;
-
-    let stream: MediaStream;
+    if (!endpointTranscricao || abrindoRef.current || ativoRef.current || envioRef.current) return;
+    abrindoRef.current = true;
+    const geracao = ++geracaoRef.current;
+    const atual = () => montadoRef.current && geracaoRef.current === geracao;
+    setEstado("abrindo");
+    setErro(null);
+    let stream: MediaStream | undefined;
     try {
       stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-    } catch {
-      setErro("Permita o acesso ao microfone no navegador para gravar.");
-      return;
-    }
-
-    const formato = formatoDeGravacao();
-    const gravador = new MediaRecorder(stream, formato ? { mimeType: formato } : undefined);
-    pedacosRef.current = [];
-
-    gravador.ondataavailable = (evento) => {
-      if (evento.data.size > 0) pedacosRef.current.push(evento.data);
-    };
-
-    gravador.onstop = async () => {
-      encerrarGravador();
-      const audio = new Blob(pedacosRef.current, {
-        type: formato ?? pedacosRef.current[0]?.type ?? "audio/webm",
-      });
-      pedacosRef.current = [];
-
-      if (audio.size === 0) {
-        setEstado("ocioso");
+      if (!atual()) {
+        stream.getTracks().forEach((faixa) => faixa.stop());
         return;
       }
-
-      setEstado("transcrevendo");
-      try {
-        const texto = await transcreverAudio(audio, endpointTranscricao);
-        if (texto) {
-          onTranscription(texto);
-        } else {
-          setErro("Não entendi o áudio. Tente falar mais perto do microfone.");
+      const formato = formatoDeGravacao();
+      const gravador = new MediaRecorder(stream, formato ? { mimeType: formato } : undefined);
+      const pedacos: Blob[] = [];
+      gravadorRef.current = gravador;
+      gravador.ondataavailable = (evento) => {
+        if (atual() && evento.data.size > 0) pedacos.push(evento.data);
+      };
+      gravador.onstop = async () => {
+        encerrarGravador();
+        if (!atual()) return;
+        const audio = new Blob(pedacos, { type: formato ?? pedacos[0]?.type ?? "audio/webm" });
+        if (audio.size === 0) {
+          setEstado("ocioso");
+          return;
         }
-      } catch {
-        setErro("Não consegui transcrever agora. Você pode escrever no campo.");
-      } finally {
+        const envio = new AbortController();
+        envioRef.current = envio;
+        setEstado("transcrevendo");
+        try {
+          const texto = await transcreverAudio(audio, endpointTranscricao, envio.signal);
+          if (!atual() || envio.signal.aborted) return;
+          if (texto) onTranscription(texto);
+          else setErro("Não entendi o áudio. Tente falar mais perto do microfone.");
+        } catch {
+          if (atual() && !envio.signal.aborted) {
+            setErro("Não consegui transcrever agora. Você pode escrever no campo.");
+          }
+        } finally {
+          if (envioRef.current === envio) envioRef.current = null;
+          if (atual()) setEstado("ocioso");
+        }
+      };
+      gravador.start();
+      ativoRef.current = true;
+      inicioRef.current = Date.now();
+      setSegundos(0);
+      setEstado("gravando");
+    } catch {
+      stream?.getTracks().forEach((faixa) => faixa.stop());
+      gravadorRef.current = null;
+      if (atual()) {
         setEstado("ocioso");
+        setErro("Não consegui abrir o microfone. Confira a permissão do navegador.");
       }
-    };
-
-    gravador.start();
-    gravadorRef.current = gravador;
-    ativoRef.current = true;
-    inicioRef.current = Date.now();
-    setSegundos(0);
-    setErro(null);
-    setEstado("gravando");
+    } finally {
+      if (atual()) abrindoRef.current = false;
+    }
   }
 
   function alternar() {
+    if (disabled || abrindoRef.current || envioRef.current || estado === "transcrevendo") return;
     if (estado === "ouvindo" || estado === "gravando") {
       parar();
       return;
@@ -270,7 +301,7 @@ export default function VoiceInput({
   if (!modo) return null;
 
   const emCaptura = estado === "ouvindo" || estado === "gravando";
-  const rotulo = emCaptura
+  const rotulo = estado === "abrindo" ? "Abrindo o microfone..." : emCaptura
     ? "Parar e usar o que falei"
     : estado === "transcrevendo"
       ? "Transcrevendo o áudio..."
@@ -290,7 +321,7 @@ export default function VoiceInput({
         type="button"
         className={`brief-voice-button${emCaptura ? " recording" : ""}`}
         onClick={alternar}
-        disabled={disabled || estado === "transcrevendo"}
+        disabled={disabled || estado === "transcrevendo" || estado === "abrindo"}
         aria-pressed={emCaptura}
         aria-controls={controls}
       >
@@ -321,3 +352,4 @@ export default function VoiceInput({
     </div>
   );
 }
+
