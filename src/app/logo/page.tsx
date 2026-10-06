@@ -1,29 +1,18 @@
 import Image from "next/image";
+import Link from "next/link";
 import type { Metadata } from "next";
-import { absoluteUrl, siteConfig } from "@/lib/site";
+import {
+  absoluteUrl,
+  logoImageSchema,
+  logoUsageAnchor,
+  siteConfig,
+} from "@/lib/site";
 
 const title = "Logo Avila Ops | Marca oficial";
 const description =
   "Logo oficial da Avila Ops Tecnologia para identificação da marca nos buscadores, redes sociais, documentos e materiais comerciais.";
 
-const logoSchema = {
-  "@context": "https://schema.org",
-  "@type": "ImageObject",
-  "@id": absoluteUrl("/logo/#image"),
-  name: "Logo oficial da Avila Ops",
-  caption: "Logo oficial da Avila Ops Tecnologia",
-  contentUrl: absoluteUrl(siteConfig.logoPath),
-  thumbnailUrl: absoluteUrl(siteConfig.logoSvgPath),
-  url: absoluteUrl("/logo/"),
-  representativeOfPage: true,
-  creator: {
-    "@id": absoluteUrl("/#organization"),
-  },
-  copyrightHolder: {
-    "@id": absoluteUrl("/#organization"),
-  },
-  inLanguage: siteConfig.language,
-};
+const logoSchema = logoImageSchema({ representativeOfPage: true });
 
 export const metadata: Metadata = {
   title,
@@ -41,8 +30,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: siteConfig.logoPath,
-        width: 512,
-        height: 512,
+        width: siteConfig.logoWidth,
+        height: siteConfig.logoHeight,
         alt: siteConfig.logoAlt,
       },
     ],
@@ -69,8 +58,8 @@ export default function LogoPage() {
           <Image
             src={siteConfig.logoPath}
             alt={siteConfig.logoAlt}
-            width={512}
-            height={512}
+            width={siteConfig.logoWidth}
+            height={siteConfig.logoHeight}
             priority
             style={{
               width: "min(100%, 360px)",
@@ -102,6 +91,24 @@ export default function LogoPage() {
             Brasil.
           </p>
         </div>
+      </section>
+
+      <section id={logoUsageAnchor} className="logo-page-usage">
+        <h2>Uso da marca</h2>
+        <p>
+          O logo e o nome Avila Ops pertencem à {siteConfig.legalName}. Todos
+          os direitos reservados.
+        </p>
+        <p>
+          Pode ser usado, sem alteração de cor, proporção ou desenho, para
+          identificar a empresa em matérias, listagens, diretórios e
+          materiais de parceiros e clientes. Outros usos — em produtos,
+          anúncios ou qualquer contexto que sugira vínculo ou endosso —
+          pedem autorização prévia.
+        </p>
+        <p>
+          <Link href="/contato/">Pedir autorização de uso</Link>
+        </p>
       </section>
     </main>
   );

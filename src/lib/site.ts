@@ -31,6 +31,9 @@ export const siteConfig = {
   language: "pt-BR",
   logoPath: "/logo.png",
   logoSvgPath: "/logo.svg",
+  /** Dimensões reais de public/logo.png. */
+  logoWidth: 512,
+  logoHeight: 504,
   logoAlt: "Logo oficial da Avila Ops",
   /** Card 1200x630 de fallback, gerado por scripts/generate-og-defaults.mjs. */
   ogImagePath: "/og-default.png",
@@ -100,6 +103,52 @@ export function absoluteUrl(path = "") {
   if (!path) return siteConfig.siteUrl;
   if (path.startsWith("http")) return path;
   return `${siteConfig.siteUrl}${path.startsWith("/") ? path : `/${path}`}`;
+}
+
+/** Âncora da seção de /logo/ que explica como a marca pode ser usada. */
+export const logoUsageAnchor = "uso-da-marca";
+
+/**
+ * `ImageObject` do logo, emitido pelo layout em todas as páginas e pela
+ * própria /logo/.
+ *
+ * Declarar `creator` ou `copyrightHolder` faz o Google tratar a imagem como
+ * licenciável e cobrar o pacote inteiro no Search Console: `license`,
+ * `acquireLicensePage`, `creditText` e `copyrightNotice`. Por isso os campos
+ * andam juntos aqui, em um lugar só — as duas cópias que existiam antes já
+ * tinham saído sem eles.
+ *
+ * `representativeOfPage` só vale na /logo/: nas outras páginas o logo não é a
+ * imagem principal.
+ */
+export function logoImageSchema({
+  representativeOfPage = false,
+}: { representativeOfPage?: boolean } = {}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ImageObject",
+    "@id": absoluteUrl("/logo/#image"),
+    name: siteConfig.logoAlt,
+    caption: `Logo oficial da ${siteConfig.legalName}`,
+    contentUrl: absoluteUrl(siteConfig.logoPath),
+    thumbnailUrl: absoluteUrl(siteConfig.logoSvgPath),
+    url: absoluteUrl("/logo/"),
+    width: siteConfig.logoWidth,
+    height: siteConfig.logoHeight,
+    encodingFormat: "image/png",
+    ...(representativeOfPage ? { representativeOfPage: true } : {}),
+    creator: {
+      "@id": absoluteUrl("/#organization"),
+    },
+    copyrightHolder: {
+      "@id": absoluteUrl("/#organization"),
+    },
+    creditText: siteConfig.legalName,
+    copyrightNotice: `© ${siteConfig.legalName}. Todos os direitos reservados.`,
+    license: absoluteUrl(`/logo/#${logoUsageAnchor}`),
+    acquireLicensePage: absoluteUrl("/contato/"),
+    inLanguage: siteConfig.language,
+  };
 }
 
 export function whatsappUrl(message?: string) {
