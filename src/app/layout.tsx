@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import ThemeProvider from "@/components/ThemeProvider";
 import { scriptInicial } from "@/lib/tema-noturno";
-import { absoluteUrl, ogImages, siteConfig } from "@/lib/site";
+import { absoluteUrl, logoImageSchema, ogImages, siteConfig } from "@/lib/site";
 
 // Temporarily using system fonts instead of Google Fonts due to Turbopack issues
 const inter = {
@@ -74,25 +74,6 @@ const websiteSchema = {
   url: siteConfig.siteUrl,
   name: siteConfig.name,
   publisher: {
-    "@id": absoluteUrl("/#organization"),
-  },
-  inLanguage: siteConfig.language,
-};
-
-const logoImageSchema = {
-  "@context": "https://schema.org",
-  "@type": "ImageObject",
-  "@id": absoluteUrl("/logo/#image"),
-  name: "Logo oficial da Avila Ops",
-  caption: "Logo oficial da Avila Ops Tecnologia",
-  contentUrl: logoUrl,
-  thumbnailUrl: absoluteUrl(siteConfig.logoSvgPath),
-  url: absoluteUrl("/logo/"),
-  representativeOfPage: true,
-  creator: {
-    "@id": absoluteUrl("/#organization"),
-  },
-  copyrightHolder: {
     "@id": absoluteUrl("/#organization"),
   },
   inLanguage: siteConfig.language,
@@ -251,7 +232,7 @@ export default function RootLayout({
           id="avila-logo-image-schema"
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(logoImageSchema),
+            __html: JSON.stringify(logoImageSchema()),
           }}
         />
         <script

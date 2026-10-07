@@ -4167,6 +4167,25 @@ button {
   color: var(--muted-foreground);
 }
 
+.logo-page-usage {
+  max-width: 68ch;
+  margin-top: 64px;
+  padding-top: 32px;
+  border-top: 1px solid var(--border);
+  scroll-margin-top: 120px;
+}
+
+.logo-page-usage p {
+  margin-top: 16px;
+  color: var(--muted-foreground);
+}
+
+.logo-page-usage a {
+  color: var(--foreground);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
 @media (max-width: 760px) {
   .logo-page-grid {
     grid-template-columns: 1fr;
