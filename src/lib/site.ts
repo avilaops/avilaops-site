@@ -8,7 +8,7 @@ const whatsapp = normalizePhone(
 export const siteConfig = {
   name: "Avila Ops",
   legalName: "Ávila Ops Tecnologia",
-  alternateName: ["Ávila Ops", "Avila.inc"],
+  alternateName: ["Ávila Ops"],
   description:
     "Organizamos a tecnologia da sua empresa: site, e-mail, atendimento, CRM, automações e integrações em uma estrutura que você consegue operar e evoluir.",
   siteUrl,

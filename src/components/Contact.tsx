@@ -83,7 +83,7 @@ export default function Contact() {
       <div className="container contact-layout">
         <div className="contact-copy">
           <span className="section-index">Uma conversa para começar</span>
-          <h2>Vamos transformar sua próxima ideia em uma operação digital.</h2>
+          <h1>Vamos transformar sua próxima ideia em uma operação digital.</h1>
           <p>
             Conte onde sua empresa está agora. A conversa começa pelo problema,
             pelos custos invisíveis e pelas oportunidades que já existem no

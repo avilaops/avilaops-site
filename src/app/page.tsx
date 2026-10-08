@@ -17,10 +17,10 @@ export default function Home() {
       <Header />
       <Hero />
       <HomeExplore />
-      <Products />
-      <HowItWorks />
       <PortfolioGrid />
       <Testimonials />
+      <Products />
+      <HowItWorks />
       <HomeFaq />
       <HomeAppAccess />
       <section className="vida-finale">

@@ -1,0 +1,24 @@
+/* Scroll reveal */
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(28px);
+  transition:
+    opacity 0.8s var(--ease-out-expo),
+    transform 0.8s var(--ease-out-expo);
+  transition-delay: var(--reveal-delay, 0ms);
+}
+
+[data-reveal="true"] {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+[data-reveal-fade] {
+  opacity: 0;
+  transition: opacity 1s var(--ease-out-quart);
+  transition-delay: var(--reveal-delay, 0ms);
+}
+
+[data-reveal-fade="true"] {
+  opacity: 1;
+}

@@ -22,6 +22,7 @@ O ambiente local abre em `http://localhost:3000`.
 ```text
 src/app/       paginas, layouts, metadata, sitemap e robots
 src/components componentes visuais reutilizaveis
+src/styles/    CSS por area; a ordem dos imports em app/globals.css e a cascata
 src/lib/       conteudo estruturado, configuracao e utilitarios
 public/        imagens e arquivos servidos diretamente
 scripts/       build, SEO, imagens sociais, validacao e deploy
@@ -120,8 +121,20 @@ alterado pelos parametros de `scripts/deploy-avilaops-com.ps1`.
 `applications`), e ainda envia os cabecalhos do Caddy. Os dois scripts publicam
 do mesmo jeito: mudou um, muda o outro.
 
-O workflow do GitHub Actions so constroi a imagem com nginx; ele nao publica o
-avilaops.com. Push na `main` nao poe nada no ar: e preciso rodar o deploy.
+O workflow do GitHub Actions (`.github/workflows/deploy-production.yml`) roda os
+validadores, constroi a imagem com nginx e, com a variavel `DEPLOY_ENABLED` em
+`true` e os segredos `DEPLOY_HOST`, `DEPLOY_USER`, `DEPLOY_SSH_KEY` e
+`DEPLOY_KNOWN_HOSTS` gravados, publica pelo `avila-deploy` do servidor a cada
+push na `main`. Sem a variavel o job de deploy e pulado e o site so vai ao ar
+pelos scripts acima.
+
+Os jobs de imagem e deploy sao copia dos workflows de `avilaops/infra`: este
+repositorio e publico, o `infra` e privado, e o GitHub nao deixa repositorio
+publico chamar workflow reutilizavel de repositorio privado.
+
+O deploy do Actions troca os arquivos do site, nao os cabecalhos do Caddy. Se
+`config/security-headers.mjs` mudar, o job `conferir producao` fica vermelho
+ate alguem rodar `scripts/deploy-avilaops-com.sh`, que envia o arquivo novo.
 
 No servidor, o Caddy serve `/var/www/avilaops.com`, que e um symlink para a
 release ativa em `/var/www/.releases/avilaops.com/<data>-<commit>`. Cada deploy

@@ -34,7 +34,10 @@ Este repositório pertence à Ávila Ops Tecnologia, que ajuda pequenas empresas
 Site institucional `avilaops.com` (Next.js 16, export estático). Ler o README antes de agir.
 
 - **Git:** toda alteração é commitada e enviada direto para a `main`, na mesma tarefa (regra do Nicolas de 2026-10-05). Sem branch nem PR parado.
-- **Push não publica.** O workflow do Actions só constrói a imagem com nginx. Quem põe o site no ar é `npm run deploy` (Windows) ou `npm run deploy:linux`, que envia `out/` para o servidor `applications` e troca o symlink `/var/www/avilaops.com`. Terminou a alteração: push e deploy.
+- **Publicação.** O workflow do Actions roda os validadores e constrói a imagem; o job `deploy` só publica com a variável `DEPLOY_ENABLED=true` e os quatro segredos `DEPLOY_*` no repositório (em 2026-10-08 ainda não gravados: conferir com `gh variable list` e `gh secret list`). Enquanto isso, quem põe o site no ar é `npm run deploy` (Windows) ou `npm run deploy:linux`, que envia `out/` para o servidor `applications` e troca o symlink `/var/www/avilaops.com`. Terminou a alteração: push e, se o deploy automático estiver desligado, deploy pelo script.
+- **Build pesado não roda no `creators`.** Use o `apps-noclient` (modelo em `~/.agents/claude/out/avilaops-site/`).
+- **CSS:** um arquivo por área em `src/styles/`, importados em ordem por `src/app/globals.css`. A ordem é a cascata.
+- **A marca é Avila Ops e o domínio é `avilaops.com`.** "Avila.inc" não existe mais: não usar em texto, schema nem imagem. O `avila.inc` só redireciona para cá; o nome do Worker de leads (`avila-inc-lead-intake`) é endereço técnico e ficou.
 - **Antes de publicar:** `npm run verificar` (lint, build, SEO, links, cabeçalhos e contraste). Os validadores de cabeçalhos e de contraste precisam do Chromium do Playwright.
 - **Links internos terminam com `/`.** `links:validate` recusa o contrário.
 - **Cor de fundo de seção é variável, não hex.** O tema troca pelo relógio (escuro das 18h às 6h); fundo fixo deixa o texto ilegível em um dos temas. `contraste:validate` confere os dois.

@@ -1,0 +1,265 @@
+/* Portfólio */
+.portfolio-section {
+  padding: 100px 0;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+
+.portfolio-heading {
+  margin-bottom: 40px;
+}
+
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+/* Card é <button> porque abre o modal de prévia, não navega. Daí o reset de
+   padding, font e text-align, que o navegador aplica por padrão em botão. */
+.portfolio-card {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  overflow: hidden;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+  background: var(--background);
+  cursor: pointer;
+  transition:
+    border-color 0.3s var(--ease-out-quart),
+    transform 0.3s var(--ease-out-expo);
+}
+
+.portfolio-card:hover {
+  border-color: var(--blue);
+  transform: translateY(-3px);
+}
+
+.portfolio-card:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 3px;
+}
+
+.portfolio-card-frame {
+  position: relative;
+  display: block;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: var(--surface);
+}
+
+/* Prévia estática (public/portfolio) em vez de <iframe> do site ao vivo: o
+   saudepet.app.br responde X-Frame-Options e ficava em branco, e a home
+   deixava de carregar quatro sites de terceiros. Ancorada no topo porque o
+   herói é a parte que identifica o projeto. */
+.portfolio-card-frame img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.portfolio-card-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 16px 18px;
+  border-top: 1px solid var(--border);
+  font-size: 0.86rem;
+  font-weight: 650;
+}
+
+.portfolio-card-label span[aria-hidden="true"] {
+  color: var(--blue);
+  font-weight: 700;
+}
+
+/* Modal de prévia do projeto */
+.portfolio-dialog {
+  width: min(680px, calc(100vw - 32px));
+  max-height: calc(100vh - 48px);
+  padding: 0;
+  /* O reset zera a margem de todo elemento, inclusive <dialog>. Um dialog
+     modal é `position: fixed` com `inset: 0`, e é a margem automática que o
+     centraliza — sem isto ele encosta no canto superior esquerdo. */
+  margin: auto;
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  background: var(--background);
+  color: var(--foreground);
+  overflow: hidden;
+}
+
+.portfolio-dialog::backdrop {
+  background: rgb(8 12 24 / 62%);
+  backdrop-filter: blur(3px);
+}
+
+.portfolio-dialog[open] {
+  animation: portfolio-dialog-in 0.28s var(--ease-out-expo);
+}
+
+@keyframes portfolio-dialog-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.985);
+  }
+}
+
+.portfolio-dialog-inner {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh - 48px);
+  overflow-y: auto;
+}
+
+.portfolio-dialog-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: var(--background);
+  color: var(--foreground);
+  cursor: pointer;
+}
+
+.portfolio-dialog-close:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+}
+
+.portfolio-dialog-preview {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: top center;
+  border-bottom: 1px solid var(--border);
+}
+
+.portfolio-dialog-body {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 22px 24px 24px;
+}
+
+.portfolio-dialog-identity {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.portfolio-dialog-icon {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  flex: none;
+  border-radius: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--blue);
+}
+
+.portfolio-dialog-identity strong {
+  display: block;
+  font-size: 1.02rem;
+}
+
+.portfolio-dialog-identity small {
+  color: var(--quiet-foreground);
+  font-size: 0.78rem;
+}
+
+.portfolio-dialog-body > p {
+  margin: 0;
+  color: var(--muted-foreground);
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+
+.portfolio-dialog-highlights {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.portfolio-dialog-highlights li {
+  padding: 7px 12px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  font-size: 0.78rem;
+  color: var(--foreground);
+}
+
+.portfolio-dialog-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 4px;
+}
+
+.portfolio-dialog-actions a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex: 1 1 200px;
+  padding: 13px 18px;
+  border-radius: 12px;
+  font-size: 0.86rem;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+/* "Projeto parecido" é o primário: é a ação comercial da seção. Visitar o
+   site do cliente fica em secundário. */
+.portfolio-dialog-similar {
+  border: 1px solid var(--blue);
+  background: var(--blue);
+  color: #fff;
+}
+
+.portfolio-dialog-visit {
+  border: 1px solid var(--border);
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.portfolio-dialog-actions a:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .portfolio-dialog[open] {
+    animation: none;
+  }
+
+  .portfolio-card {
+    transition: none;
+  }
+
+  .portfolio-card:hover {
+    transform: none;
+  }
+}

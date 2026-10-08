@@ -2,7 +2,7 @@
   "_nota": "Registro TagFlow do avilaops.com. Espelha database/avila-inc/tagflow.json do TagFlow (D:/Administrativo/tagflow) — é referência, nenhum código lê este arquivo em runtime. O container e a propriedade citados abaixo são os que estão no ar; o par anterior (GTM-PFDXCHV5 / G-Y7E7WXE7VV) foi criado pela service account antiga, ficou órfão e não deve ser reutilizado.",
   "clientId": "avila-inc",
   "clientName": "Avila Ops",
-  "domain": "avila.inc",
+  "domain": "avilaops.com",
   "createdAt": "2026-07-26T04:35:02.059Z",
   "updatedAt": "2026-08-15T00:00:00.000Z",
   "ga4": {

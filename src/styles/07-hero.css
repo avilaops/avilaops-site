@@ -1,0 +1,57 @@
+/* Hero */
+
+.eyebrow {
+  width: max-content;
+  max-width: 100%;
+  margin-bottom: 28px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--muted-foreground);
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--foreground);
+  font-size: 0.88rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.text-link span {
+  color: var(--blue);
+  transition: transform 0.2s ease;
+}
+
+.text-link:hover span {
+  transform: translateY(3px);
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(118, 227, 159, 0);
+  }
+  50% {
+    box-shadow: 0 0 0 6px rgba(118, 227, 159, 0.08);
+  }
+}
+
+@keyframes gradient-flow {
+  to {
+    background-position: -250% center;
+  }
+}
+
+@keyframes marquee-scroll {
+  to {
+    transform: translateX(-50%);
+  }
+}

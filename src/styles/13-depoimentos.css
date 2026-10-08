@@ -1,0 +1,57 @@
+/* Depoimentos */
+.testimonials-section {
+  padding: 100px 0;
+  background: var(--background);
+}
+
+.testimonials-heading {
+  margin-bottom: 48px;
+}
+
+.testimonials-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+}
+
+.testimonial-card {
+  padding: 26px 24px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: var(--surface);
+  color: var(--blue);
+}
+
+/* Texto de espaço reservado: itálico e apagado, para nunca ser confundido
+   com fala de cliente. */
+.testimonial-card p {
+  margin: 14px 0 20px;
+  color: var(--muted-foreground);
+  font-size: 0.85rem;
+  line-height: 1.65;
+  font-style: italic;
+}
+
+/* Depoimento real: sem recuo padrão do navegador, sem itálico e no tom
+   cheio do texto — é fala de cliente, e tem mais peso que o reservado. */
+.testimonial-card blockquote {
+  margin: 14px 0 20px;
+  color: var(--foreground);
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+.testimonial-author strong {
+  display: block;
+  color: var(--foreground);
+  font-size: 0.82rem;
+}
+
+.testimonial-author span {
+  color: var(--quiet-foreground);
+  font-size: 0.75rem;
+}
+
+.testimonial-placeholder {
+  border-style: dashed;
+}

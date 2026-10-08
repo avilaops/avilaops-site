@@ -1,0 +1,5 @@
+/* Precisa vir depois dos estilos legados de páginas SEO. */
+@media (max-width: 640px) {
+  .breadcrumbs + .editorial-article-hero { padding: 28px 0 48px; }
+  .editorial-article-hero .editorial-cover { order: -1; }
+}
