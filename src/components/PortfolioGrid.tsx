@@ -21,9 +21,13 @@ type Project = {
   category: string;
   url: string;
   icon: LucideIcon;
+  /** Uma linha para o card: o que foi entregue, em palavras de quem contrata. */
+  delivered: string;
   description: string;
   /** O que o site realmente tem. Nada de métrica de resultado do cliente. */
   highlights: string[];
+  /** Só texto que o cliente escreveu, o mesmo de Testimonials.tsx. */
+  testimonial?: { quote: string; author: string };
 };
 
 const projects: Project[] = [
@@ -33,6 +37,12 @@ const projects: Project[] = [
     category: "E-commerce",
     url: "https://brilhax.com",
     icon: ShoppingCart,
+    delivered: "Loja com catálogo e venda pelo WhatsApp",
+    testimonial: {
+      quote:
+        "Quando entrei pelo PC agora... ficou brabo demais! Ficou top, mano. Obrigado pelo trabalho, satisfação total.",
+      author: "Lucas, Brilhax",
+    },
     description:
       "Loja de produtos para estética automotiva, com catálogo, alternância entre tema claro e escuro e a venda conduzida pelo WhatsApp.",
     highlights: [
@@ -47,6 +57,7 @@ const projects: Project[] = [
     category: "Consultoria tributária",
     url: "https://cifrainssdeobras.com.br",
     icon: Calculator,
+    delivered: "Site que já abre no formulário de análise",
     description:
       "Consultoria de INSS de obra e regularização tributária. A primeira tela já abre o formulário de análise, e a calculadora roda em subdomínio próprio.",
     highlights: [
@@ -61,6 +72,7 @@ const projects: Project[] = [
     category: "Arquitetura e engenharia",
     url: "https://maprojetos.com.br",
     icon: Ruler,
+    delivered: "Galeria de obras com página para cada projeto",
     description:
       "Arquitetura, construção e regularização de imóveis, com galeria de obras e uma página dedicada a cada projeto.",
     highlights: [
@@ -75,6 +87,12 @@ const projects: Project[] = [
     category: "Veterinária",
     url: "https://saudepet.app.br",
     icon: PawPrint,
+    delivered: "Plataforma com acesso do cliente e painel",
+    testimonial: {
+      quote:
+        "O desenvolvedor entendeu a ideia desde o começo, teve paciência com os ajustes e entregou um site do jeito que eu imaginava.",
+      author: "Abraão Santos, Saúde Pet Brasil",
+    },
     description:
       "Plataforma de atendimento veterinário domiciliar, com acesso do cliente, painel administrativo e conteúdo de apoio.",
     highlights: ["Acesso do cliente", "Painel administrativo", "Blog e FAQ"],
@@ -156,6 +174,13 @@ export default function PortfolioGrid() {
               ))}
             </ul>
 
+            {active.testimonial ? (
+              <figure className="portfolio-dialog-quote">
+                <blockquote>{active.testimonial.quote}</blockquote>
+                <figcaption>{active.testimonial.author}</figcaption>
+              </figure>
+            ) : null}
+
             <div className="portfolio-dialog-actions">
               <a
                 className="portfolio-dialog-visit"
@@ -184,8 +209,8 @@ export default function PortfolioGrid() {
           <span className="section-index">Projetos reais, negócios de verdade</span>
           <h2>Ideias que já ganharam o mundo.</h2>
           <p>
-            Uma amostra do que já colocamos no ar para clientes reais. Abra para
-            ver a prévia, visitar o site ou pedir algo parecido.
+            Quatro negócios que já estão no ar com a gente. Abra um deles para
+            ver o que foi feito, visitar o site ou pedir algo parecido.
           </p>
         </div>
 
@@ -208,7 +233,11 @@ export default function PortfolioGrid() {
                 />
               </span>
               <span className="portfolio-card-label">
-                <strong>{project.category}</strong>
+                <span className="portfolio-card-text">
+                  <small>{project.category}</small>
+                  <strong>{project.name}</strong>
+                  <span>{project.delivered}</span>
+                </span>
                 <span aria-hidden="true">↗</span>
               </span>
             </button>

@@ -75,6 +75,55 @@
   font-weight: 650;
 }
 
+.portfolio-card-label {
+  align-items: flex-start;
+}
+
+.portfolio-card-text {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+}
+
+.portfolio-card-text small {
+  color: var(--muted-foreground);
+  font-size: 0.7rem;
+  font-weight: 650;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.portfolio-card-text strong {
+  font-size: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.portfolio-card-text > span {
+  color: var(--muted-foreground);
+  font-size: 0.82rem;
+  font-weight: 500;
+  line-height: 1.45;
+}
+
+.portfolio-dialog-quote {
+  margin: 0;
+  padding: 2px 0 2px 16px;
+  border-left: 2px solid var(--blue);
+}
+
+.portfolio-dialog-quote blockquote {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+.portfolio-dialog-quote figcaption {
+  margin-top: 8px;
+  color: var(--muted-foreground);
+  font-size: 0.78rem;
+  font-weight: 650;
+}
+
 .portfolio-card-label span[aria-hidden="true"] {
   color: var(--blue);
   font-weight: 700;
