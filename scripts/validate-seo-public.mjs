@@ -25,7 +25,7 @@ const pages = [
       "schema-faq-automatizar-whatsapp",
       "schema-breadcrumbs",
       "Como acontece",
-      "Benef",
+      "O que muda na pr",
       "Revisado",
     ],
   },
