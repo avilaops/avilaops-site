@@ -1,4 +1,5 @@
-import { Quote } from "lucide-react";
+import { Quote, Star } from "lucide-react";
+import { siteConfig } from "@/lib/site";
 
 // Depoimentos de clientes. `quote` só é preenchido com texto que o cliente
 // realmente escreveu. Entradas ainda sem autorização não aparecem no site.
@@ -7,6 +8,25 @@ type Testimonial = {
   role: string;
   quote?: string;
 };
+
+// Avaliações do perfil "Avila Ops Tecnologia" no Google Maps, copiadas
+// palavra por palavra em 08/10/2026 (siteConfig.googleReviews guarda a nota e
+// o total). Só entram as que têm texto sobre o trabalho; a terceira do perfil
+// é um agradecimento de uma linha e conta apenas no total.
+const googleReviews: Testimonial[] = [
+  {
+    name: "Guilherme Rosa Avila Barros",
+    role: "Avaliação no Google",
+    quote:
+      "Empresa sensacional, atendimento personalizado e contato efetivo para solucionar todas as demandas para a minha empresa. Muito satisfeito com o atendimento nota MIL do Nícolas, que esclareceu todas as minhas dúvidas, e já montou um plano de trabalho espetacular para a minha empresa. Super recomendo!!",
+  },
+  {
+    name: "Abraão Pereira",
+    role: "Avaliação no Google",
+    quote:
+      "Minha experiência foi muito positiva! Desde o primeiro contato, fui muito bem atendido, com atenção e respeito. Fiquei muito satisfeito com o atendimento e com a experiência como um todo. Recomendo muito, principalmente para quem procura uma empresa de tecnologia!",
+  },
+];
 
 const testimonials: Testimonial[] = [
   {
@@ -42,10 +62,28 @@ export default function Testimonials() {
         <div className="section-heading testimonials-heading">
           <span className="section-index">Quem construiu com a gente</span>
           <h2>O melhor retorno vem de quem vive o projeto.</h2>
+          <a
+            className="testimonials-google"
+            href={siteConfig.googleMapsUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span className="testimonials-google-stars" aria-hidden="true">
+              {Array.from({ length: 5 }, (_, index) => (
+                <Star size={16} strokeWidth={0} fill="currentColor" key={index} />
+              ))}
+            </span>
+            <span>
+              <strong>{siteConfig.googleReviews.rating} no Google</strong>
+              {" · "}
+              {siteConfig.googleReviews.count} avaliações
+            </span>
+            <span aria-hidden="true">↗</span>
+          </a>
         </div>
 
         <div className="testimonials-grid">
-          {testimonials.filter((testimonial) => testimonial.quote).map((testimonial) => (
+          {[...testimonials, ...googleReviews].filter((testimonial) => testimonial.quote).map((testimonial) => (
             <article
               className={
                 testimonial.quote

@@ -55,3 +55,34 @@
 .testimonial-placeholder {
   border-style: dashed;
 }
+
+/* Nota do perfil no Google Maps, com link para as avaliacoes. */
+.testimonials-google {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 22px;
+  min-height: 44px;
+  color: var(--muted-foreground);
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.testimonials-google strong {
+  color: var(--foreground);
+}
+
+.testimonials-google:hover strong {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.testimonials-google-stars {
+  display: inline-flex;
+  gap: 2px;
+  color: #b7791f;
+}
+
+html.dark .testimonials-google-stars {
+  color: #f6c945;
+}

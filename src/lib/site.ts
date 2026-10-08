@@ -26,6 +26,21 @@ export const siteConfig = {
   linkedinUrl:
     process.env.NEXT_PUBLIC_LINKEDIN_URL ||
     "https://linkedin.com/company/avilaops",
+  /** Perfil da empresa no Google Maps (Avila Ops Tecnologia, Ribeirão Preto). */
+  googleMapsUrl:
+    "https://www.google.com/maps/search/?api=1&query=Avila+Ops+Tecnologia+Ribeir%C3%A3o+Preto",
+  /**
+   * Nota e número de avaliações do perfil, lidos à mão em `checkedAt`. O site
+   * é estático: o número não se atualiza sozinho. Ao conferir o perfil de
+   * novo, atualizar os três campos e as avaliações em Testimonials.tsx.
+   */
+  googleReviews: { rating: "5,0", count: 3, checkedAt: "2026-10-08" },
+  /** O mesmo endereço do perfil no Google: nome, endereço e telefone iguais nos dois lugares. */
+  address: {
+    street: "Av. José Antônio Ferrarezi, 3053",
+    neighborhood: "Jardim Helena",
+    postalCode: "14094-135",
+  },
   locale: "pt_BR",
   language: "pt-BR",
   logoPath: "/logo.png",

@@ -54,6 +54,15 @@ const localBusinessSchema = {
   image: logoUrl,
   email: siteConfig.email,
   telephone: publicPhone,
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: `${siteConfig.address.street} - ${siteConfig.address.neighborhood}`,
+    addressLocality: siteConfig.city,
+    addressRegion: siteConfig.region,
+    postalCode: siteConfig.address.postalCode,
+    addressCountry: "BR",
+  },
+  hasMap: siteConfig.googleMapsUrl,
   areaServed: [
     {
       "@type": "Country",

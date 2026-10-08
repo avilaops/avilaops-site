@@ -94,6 +94,9 @@ export default function Contact() {
               WhatsApp
             </a>
             <a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a>
+            <a href={siteConfig.googleMapsUrl} target="_blank" rel="noopener noreferrer">
+              Ver no Google Maps
+            </a>
           </div>
         </div>
 
