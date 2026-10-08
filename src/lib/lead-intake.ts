@@ -12,16 +12,19 @@ import { siteConfig } from "@/lib/site";
  * `text/plain` é "requisição simples": sai sem preflight, e o Worker lê o
  * corpo com `request.json()` do mesmo jeito.
  *
- * `keepalive` segura o envio mesmo com a aba indo para o WhatsApp logo depois.
+ * `keepalive` segura o envio mesmo com a aba indo para o WhatsApp logo depois,
+ * e por isso não há prazo de desistência (ver abaixo).
  *
  * O envio continua sendo melhor esforço: se falhar, o WhatsApp é o caminho
  * principal e a pessoa não vê erro.
  */
 export async function enviarLead(dados: Record<string, unknown>) {
   if (!siteConfig.leadIntakeUrl) return;
-  const controller = new AbortController();
-  const timeout = window.setTimeout(() => controller.abort(), 4000);
 
+  // Sem prazo para desistir. Havia um AbortController de 4 s, herdado de
+  // quando a página esperava a resposta; em conexão lenta a primeira chamada
+  // ao Worker passa disso e o lead era cancelado no meio. Com `keepalive` o
+  // navegador conclui o envio sozinho, mesmo depois de a aba mudar.
   try {
     await fetch(siteConfig.leadIntakeUrl, {
       method: "POST",
@@ -29,11 +32,8 @@ export async function enviarLead(dados: Record<string, unknown>) {
       keepalive: true,
       headers: { "Content-Type": "text/plain;charset=UTF-8" },
       body: JSON.stringify(dados),
-      signal: controller.signal,
     });
   } catch {
     // Melhor esforço: ver o comentário acima.
-  } finally {
-    window.clearTimeout(timeout);
   }
 }

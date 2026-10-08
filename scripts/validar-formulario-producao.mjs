@@ -57,7 +57,7 @@ try {
   }
 
   const resposta = pagina
-    .waitForResponse((r) => r.url().startsWith(worker) && r.request().method() === "POST", { timeout: 10_000 })
+    .waitForResponse((r) => r.url().startsWith(worker) && r.request().method() === "POST", { timeout: 30_000 })
     .catch(() => null);
   await formulario.locator('button[type="submit"]').click();
   const chegou = await resposta;
