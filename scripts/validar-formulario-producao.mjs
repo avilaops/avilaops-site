@@ -30,9 +30,11 @@ const erros = [];
 
 try {
   const contexto = await navegador.newContext();
-  // O envio abre o WhatsApp em outra aba; ela nao interessa ao teste.
-  contexto.on("page", (aba) => aba.close().catch(() => {}));
   const pagina = await contexto.newPage();
+  // O envio abre o WhatsApp em outra aba; ela nao interessa ao teste.
+  contexto.on("page", (aba) => {
+    if (aba !== pagina) aba.close().catch(() => {});
+  });
   const bloqueios = [];
   pagina.on("console", (m) => {
     if (/CORS|Content Security Policy|Refused to connect/i.test(m.text())) bloqueios.push(m.text().slice(0, 200));
