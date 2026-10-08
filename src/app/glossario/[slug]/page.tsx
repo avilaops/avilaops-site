@@ -11,7 +11,7 @@ type PageProps = {
   params: Promise<{ slug: string }>;
 };
 
-const reviewedAt = "2026-07-25";
+const reviewedAt = "2026-10-08";
 
 export function generateStaticParams() {
   return glossaryTerms.map((entry) => ({ slug: entry.slug }));
@@ -44,6 +44,16 @@ export default async function GlossaryTermPage({ params }: PageProps) {
   const { slug } = await params;
   const entry = getGlossaryTerm(slug);
   if (!entry) notFound();
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: entry.faq.map((item) => ({
+      "@type": "Question",
+      name: item.question,
+      acceptedAnswer: { "@type": "Answer", text: item.answer },
+    })),
+  };
 
   const definedTermSchema = {
     "@context": "https://schema.org",
@@ -86,6 +96,34 @@ export default async function GlossaryTermPage({ params }: PageProps) {
           </div>
         </section>
 
+        <section className="seo-page-section glossary-explanation">
+          <div className="container seo-guide-article">
+            <span className="section-index">NA PRÁTICA</span>
+            <h2>Um exemplo do dia a dia</h2>
+            <p>{entry.example}</p>
+            <h2 style={{ marginTop: 56 }}>Sinais de que isso já é assunto da sua empresa</h2>
+            <ul className="seo-checklist">
+              {entry.signs.map((sign) => (
+                <li key={sign}>{sign}</li>
+              ))}
+            </ul>
+          </div>
+        </section>
+
+        <section className="seo-page-section">
+          <div className="container">
+            <h2>Perguntas frequentes sobre {entry.term}</h2>
+            <div className="seo-faq-list">
+              {entry.faq.map((item) => (
+                <article key={item.question}>
+                  <h3>{item.question}</h3>
+                  <p>{item.answer}</p>
+                </article>
+              ))}
+            </div>
+          </div>
+        </section>
+
         <section className="seo-page-section">
           <div className="container">
             <h2>Onde isso aparece na operação</h2>
@@ -99,6 +137,11 @@ export default async function GlossaryTermPage({ params }: PageProps) {
           </div>
         </section>
       </article>
+      <script
+        id={`schema-glossary-faq-${entry.slug}`}
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       <script
         id={`schema-glossary-${entry.slug}`}
         type="application/ld+json"
