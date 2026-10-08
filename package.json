@@ -22,10 +22,11 @@
     "headers:check": "node scripts/gerar-headers.mjs --conferir",
     "headers:validate": "node scripts/validar-headers.mjs",
     "headers:validate:public": "node scripts/validar-headers-producao.mjs",
+    "leads:validate": "node scripts/validar-formulario-producao.mjs",
     "links:validate": "node scripts/validar-links.mjs",
     "contraste:validate": "node scripts/validar-contraste.mjs",
     "verificar": "npm run lint && npm run build && npm run seo:validate:export && npm run links:validate && npm run headers:validate && npm run contraste:validate",
-    "deploy:linux": "npm run verificar && bash scripts/deploy-avilaops-com.sh && npm run headers:validate:public && npm run seo:validate"
+    "deploy:linux": "npm run verificar && bash scripts/deploy-avilaops-com.sh && npm run headers:validate:public && npm run leads:validate && npm run seo:validate"
   },
   "dependencies": {
     "lucide-react": "^1.29.0",

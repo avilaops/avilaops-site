@@ -176,5 +176,10 @@ jobs:
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps --only-shell chromium
       - run: npm run headers:validate:public
+      # Formulario de contato entregando o lead ao Worker, num navegador de verdade.
+      - run: npm run leads:validate
       - run: npm run seo:validate

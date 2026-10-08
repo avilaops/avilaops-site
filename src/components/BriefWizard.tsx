@@ -3,7 +3,8 @@
 import { useState } from "react";
 import Link from "next/link";
 import { Sparkles, BookOpen, Wrench, MessageCircle } from "lucide-react";
-import { siteConfig, whatsappUrl } from "@/lib/site";
+import { enviarLead } from "@/lib/lead-intake";
+import { whatsappUrl } from "@/lib/site";
 import VoiceInput from "@/components/VoiceInput";
 
 type Familiarity = "novo" | "basico" | "experiente";
@@ -93,24 +94,6 @@ const timelineOptions: Timeline[] = [
 
 const totalSteps = 6;
 
-async function notifyLeadIntake(payload: Record<string, unknown>) {
-  const controller = new AbortController();
-  const timeout = window.setTimeout(() => controller.abort(), 4000);
-
-  try {
-    await fetch(siteConfig.leadIntakeUrl, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload),
-      signal: controller.signal,
-    });
-  } catch {
-    // Best-effort: se a captura falhar, o WhatsApp continua sendo o caminho principal.
-  } finally {
-    window.clearTimeout(timeout);
-  }
-}
-
 export default function BriefWizard() {
   const [step, setStep] = useState(1);
   const [brief, setBrief] = useState<BriefState>(initialState);
@@ -197,9 +180,18 @@ export default function BriefWizard() {
       timeline: brief.timeline,
     });
 
-    void notifyLeadIntake({
+    // O Worker guarda nome, empresa, WhatsApp, momento e desafio. Tipo de
+    // site, prazo e familiaridade vão dentro do desafio para não se perderem.
+    void enviarLead({
       source: "criar_meu_resumo",
       ...brief,
+      challenge: [
+        brief.challenge,
+        "",
+        `Tipo de site: ${brief.siteType}`,
+        `Prazo: ${brief.timeline}`,
+        `Familiaridade com sites: ${familiarityLabel}`,
+      ].join("\n"),
     });
     window.open(whatsappUrl(message), "_blank", "noopener,noreferrer");
     setStatus("opened");

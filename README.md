@@ -45,6 +45,11 @@ npm run contraste:validate
 
 `npm run verificar` roda os seis em sequencia.
 
+Depois de publicar, `npm run leads:validate` preenche o formulario de contato
+do endereco publico num Chromium e confere que o POST chega ao Worker de leads
+(com o campo-isca preenchido, entao nada e gravado nem enviado por e-mail). O
+envio do lead e melhor esforco e falha calado: sem este teste ninguem percebe.
+
 `links:validate` recusa link interno sem a barra final (o site usa
 `trailingSlash`; sem a barra cada clique paga um redirecionamento) e link para
 pagina que nao existe no export. Ao escrever um caminho interno, termine com

@@ -33,7 +33,9 @@ for (const [nome, valor] of Object.entries(cabecalhos)) conferir(home, nome, val
 conferir(home, "cache-control", cache.html, "/");
 
 const asset = html.match(/\/_next\/static\/[^"']+\.(?:js|css)/)?.[0];
-const imagem = html.match(/\/media\/[^"']+\.(?:webp|jpg|png)/)?.[0];
+// Para no espaco e na virgula: dentro de um srcset o endereco vem seguido de
+// " 480w, ..." e sem esse limite a expressao engolia a lista inteira.
+const imagem = html.match(/(?:\/_v)?\/media\/[^"'\s,]+\.(?:webp|jpg|png)/)?.[0];
 if (!asset) erros.push("nenhum asset de /_next/static/ encontrado na home");
 if (asset) conferir(await fetch(`${siteUrl}${asset}`), "cache-control", cache["assets-com-hash"], asset);
 if (imagem) conferir(await fetch(`${siteUrl}${imagem}`), "cache-control", cache.midia, imagem);

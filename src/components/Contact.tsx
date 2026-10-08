@@ -1,25 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import { enviarLead } from "@/lib/lead-intake";
 import { siteConfig, whatsappUrl } from "@/lib/site";
-
-async function notifyLeadIntake(form: FormState) {
-  const controller = new AbortController();
-  const timeout = window.setTimeout(() => controller.abort(), 4000);
-
-  try {
-    await fetch(siteConfig.leadIntakeUrl, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(form),
-      signal: controller.signal,
-    });
-  } catch {
-    // Best-effort: se a captura falhar, o WhatsApp continua sendo o caminho principal.
-  } finally {
-    window.clearTimeout(timeout);
-  }
-}
 
 type FormState = {
   name: string;
@@ -72,7 +55,7 @@ export default function Contact() {
       business_moment: form.moment,
     });
 
-    void notifyLeadIntake(form);
+    void enviarLead(form);
     window.open(whatsappUrl(message), "_blank", "noopener,noreferrer");
     setStatus("opened");
     window.setTimeout(() => setStatus("idle"), 3000);
