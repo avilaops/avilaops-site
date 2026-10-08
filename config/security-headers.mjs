@@ -41,7 +41,8 @@ export function montarCsp({ leadIntakeUrl, transcriptionUrl, analytics = true } 
   const conexoes = new Set(["'self'"]);
   const scripts = new Set(["'self'", "'unsafe-inline'"]);
   const imagens = new Set(["'self'", "data:"]);
-  const frames = new Set();
+  // 'self': /us/demo/auto-shop/ mostra a demo de public/demos/ em um iframe.
+  const frames = new Set(["'self'"]);
 
   const lead = origem(leadIntakeUrl);
   if (lead) conexoes.add(lead);
@@ -68,7 +69,8 @@ export function montarCsp({ leadIntakeUrl, transcriptionUrl, analytics = true } 
     ["default-src", ["'self'"]],
     ["base-uri", ["'self'"]],
     ["object-src", ["'none'"]],
-    ["frame-ancestors", ["'none'"]],
+    // So o proprio site pode emoldurar uma pagina daqui (a demo acima).
+    ["frame-ancestors", ["'self'"]],
     // Os formularios enviam por fetch, nunca por submit nativo para fora.
     ["form-action", ["'self'"]],
     // 'unsafe-inline' e inevitavel aqui: o script do tema noturno roda antes
@@ -112,7 +114,7 @@ export function montarCabecalhos(opcoes = {}) {
     "Content-Security-Policy": montarCsp(opcoes),
     "Strict-Transport-Security": "max-age=31536000",
     "X-Content-Type-Options": "nosniff",
-    "X-Frame-Options": "DENY",
+    "X-Frame-Options": "SAMEORIGIN",
     "Referrer-Policy": "strict-origin-when-cross-origin",
     "Cross-Origin-Opener-Policy": "same-origin",
     "Permissions-Policy": [

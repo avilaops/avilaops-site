@@ -13,8 +13,8 @@
  *
  *   node scripts/validar-contraste.mjs
  *
- * CONTRASTE_MINIMO muda o piso (padrao 3, o limite da WCAG para texto
- * grande; abaixo disso o texto esta de fato sumindo, nao so discreto).
+ * O piso e o da WCAG AA: 4,5:1 para texto comum e 3:1 para texto grande
+ * (24px, ou 18,66px em negrito). CONTRASTE_MINIMO muda o piso do texto comum.
  * PLAYWRIGHT_CHROMIUM_PATH aponta um Chromium ja instalado.
  */
 import { createReadStream, existsSync, readdirSync, statSync } from "node:fs";
@@ -23,7 +23,7 @@ import { extname, join, normalize, relative, resolve, sep } from "node:path";
 import { chromium } from "playwright";
 
 const outDir = resolve(process.env.OUT_DIR || "out");
-const minimo = Number(process.env.CONTRASTE_MINIMO || 3);
+const minimo = Number(process.env.CONTRASTE_MINIMO || 4.5);
 
 /** Mesma chave de src/lib/tema-noturno: a escolha manual do visitante. */
 const CHAVE_TEMA = "avilaops-tema";
@@ -140,7 +140,9 @@ function medir(piso) {
     const final = sobre(frente, fundo);
     const [clara, escura] = [luminancia(final), luminancia(fundo)].sort((a, b) => b - a);
     const razao = (clara + 0.05) / (escura + 0.05);
-    if (razao < piso) {
+    const tamanho = parseFloat(estilo.fontSize);
+    const grande = tamanho >= 24 || (tamanho >= 18.66 && Number(estilo.fontWeight) >= 700);
+    if (razao < (grande ? Math.min(piso, 3) : piso)) {
       achados.push({
         onde: `${el.tagName.toLowerCase()}${el.className && typeof el.className === "string" ? `.${el.className.trim().split(/\s+/).join(".")}` : ""}`,
         secao: el.closest("section, header, footer, main")?.className?.toString().trim() || "",

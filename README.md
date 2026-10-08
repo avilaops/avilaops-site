@@ -75,7 +75,7 @@ envia o arquivo do Caddy para `/etc/caddy/avilaops-site.caddy` e recarrega o
 Caddy quando ele muda; `npm run headers:validate:public` confere se o endereco
 publico responde com a politica.
 
-`npm run headers:validate` sobe o export com esses cabecalhos e abre catorze
+`npm run headers:validate` sobe o export com esses cabecalhos e abre dezesseis
 paginas em um Chromium de verdade, conferindo o valor de cada cabecalho, o
 cache dos assets com hash e se a CSP bloqueou algum recurso. Uma CSP errada
 nao quebra o build: ela falha calada no navegador do visitante. Por isso a

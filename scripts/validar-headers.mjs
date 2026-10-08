@@ -56,6 +56,10 @@ const paginas = [
   "/segmentos/",
   "/nicolas/",
   "/politica-de-privacidade/",
+  // Demo em iframe e o HTML avulso que ela carrega: com `frame-src` sem
+  // 'self' a pagina abria em branco, e nada mais na lista cobria esse caso.
+  "/us/demo/auto-shop/",
+  "/demos/auto-shop.html",
   "/pagina-que-nao-existe/",
 ];
 

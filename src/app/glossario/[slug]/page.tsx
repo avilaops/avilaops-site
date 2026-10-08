@@ -23,13 +23,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!entry) return {};
 
   return {
-    title: `${entry.term} | o que é | Avila Ops`,
+    title: `O que é ${entry.term}? | Glossário Avila Ops`,
     description: entry.shortDefinition,
     alternates: {
       canonical: absoluteUrl(`/glossario/${entry.slug}/`),
     },
     openGraph: {
-      title: `${entry.term} | o que é | Avila Ops`,
+      title: `O que é ${entry.term}? | Glossário Avila Ops`,
       description: entry.shortDefinition,
       url: absoluteUrl(`/glossario/${entry.slug}/`),
       siteName: siteConfig.name,

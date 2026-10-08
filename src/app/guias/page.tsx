@@ -8,7 +8,7 @@ import { estimateGuideMinutes, guideCover, guides } from "@/lib/seo-guides";
 import { absoluteUrl, paginaOpenGraph } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Guias de automação, WhatsApp, Instagram e operação digital | Avila Ops",
+  title: "Guias de WhatsApp, Instagram e operação digital | Avila Ops",
   description:
     "Guias práticos da Avila Ops sobre automação de WhatsApp, Instagram, Meta Ads, CRM, site profissional e presença digital para pequenas empresas.",
   alternates: {

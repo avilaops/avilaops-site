@@ -134,7 +134,7 @@ const pages = [
   {
     file: "guias/como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias/index.html",
     url: "/guias/como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias",
-    title: "Como fazer minha empresa aparecer no ChatGPT e nas outras IAs? | Avila Ops",
+    title: "Como fazer minha empresa aparecer no ChatGPT e nas IAs?",
     description:
       "O que uma pequena empresa precisa ter no site, nos dados e no conteúdo para ser citada por ChatGPT, Gemini, Perplexity e pelas respostas de IA do Google.",
     type: "article",
@@ -150,7 +150,7 @@ const pages = [
   {
     file: "guias/agente-de-ia-no-whatsapp-vale-a-pena-para-pequena-empresa/index.html",
     url: "/guias/agente-de-ia-no-whatsapp-vale-a-pena-para-pequena-empresa",
-    title: "Vale a pena colocar um agente de IA no WhatsApp da empresa? | Avila Ops",
+    title: "Vale a pena colocar um agente de IA no WhatsApp da empresa?",
     description:
       "Quando um agente de IA no WhatsApp resolve, quando atrapalha, o que ele precisa saber para funcionar e como implantar sem perder cliente no caminho.",
     type: "article",
@@ -179,7 +179,7 @@ const pages = [
   {
     file: "glossario/whatsapp-business-api/index.html",
     url: "/glossario/whatsapp-business-api",
-    title: "WhatsApp Business API | o que é | Avila Ops",
+    title: "O que é WhatsApp Business API? | Glossário Avila Ops",
     description:
       "Versão do WhatsApp voltada a empresas com múltiplos atendentes, integrações e mensagens automatizadas em escala.",
     type: "article",

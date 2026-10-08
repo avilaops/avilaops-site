@@ -98,6 +98,19 @@ export function paginaOpenGraph({
   };
 }
 
+/**
+ * Título de página para o `<title>`.
+ *
+ * O Google corta por volta de 60 caracteres. A marca entra no fim quando
+ * cabe; quando não cabe, sai ela e fica a frase inteira, que é o que a
+ * pessoa buscou. Um `seoTitle` mais curto resolve os casos em que nem a
+ * frase sozinha cabe.
+ */
+export function tituloDaPagina(titulo: string) {
+  const comMarca = `${titulo} | ${siteConfig.name}`;
+  return comMarca.length <= 60 ? comMarca : titulo;
+}
+
 export function absoluteUrl(path = "") {
   if (!path) return siteConfig.siteUrl;
   if (path.startsWith("http")) return path;

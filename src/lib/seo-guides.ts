@@ -1,6 +1,8 @@
 export type Guide = {
   slug: string;
   title: string;
+  /** Versão do título com até 60 caracteres, só para o `<title>`. O h1 segue com `title`. */
+  seoTitle?: string;
   description: string;
   answer: string;
   ogImage?: string;
@@ -448,6 +450,7 @@ export const guides: Guide[] = [
   {
     slug: "o-que-uma-pequena-empresa-precisa-para-vender-melhor-no-digital",
     title: "O que uma pequena empresa precisa para vender melhor no digital?",
+    seoTitle: "O que a pequena empresa precisa para vender no digital?",
     description:
       "Checklist prático de presença digital, atendimento, medição e automação para pequenas empresas venderem mais.",
     answer:
@@ -531,6 +534,7 @@ export const guides: Guide[] = [
   {
     slug: "como-trocar-o-numero-do-whatsapp-business-da-empresa",
     title: "Como trocar o número do WhatsApp Business da empresa sem perder atendimento?",
+    seoTitle: "Como trocar o número do WhatsApp Business da empresa?",
     description:
       "Passo a passo para migrar o número do WhatsApp Business (comum ou API) sem perder conversas, qualidade da conta ou leads em andamento.",
     answer:
@@ -594,6 +598,7 @@ export const guides: Guide[] = [
   {
     slug: "como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias",
     title: "Como fazer minha empresa aparecer no ChatGPT e nas outras IAs?",
+    seoTitle: "Como fazer minha empresa aparecer no ChatGPT e nas IAs?",
     description:
       "O que uma pequena empresa precisa ter no site, nos dados e no conteúdo para ser citada por ChatGPT, Gemini, Perplexity e pelas respostas de IA do Google.",
     reviewedAt: "2026-08-13",
@@ -678,6 +683,7 @@ export const guides: Guide[] = [
   {
     slug: "meu-site-perdeu-trafego-com-as-respostas-de-ia-do-google",
     title: "Meu site perdeu tráfego com as respostas de IA do Google. O que fazer?",
+    seoTitle: "Meu site perdeu tráfego com a IA do Google. O que fazer?",
     description:
       "Por que as respostas geradas por IA no Google reduzem cliques, como saber se foi isso que aconteceu com o seu site e o que ajustar na estratégia.",
     reviewedAt: "2026-08-13",
@@ -834,6 +840,7 @@ export const guides: Guide[] = [
   {
     slug: "como-usar-pix-automatico-para-cobranca-recorrente",
     title: "Como usar o Pix Automático para cobrança recorrente na empresa?",
+    seoTitle: "Como usar o Pix Automático para cobrança recorrente?",
     description:
       "O que é o Pix Automático, para quais negócios ele faz sentido, o que muda em relação a boleto e cartão e o que precisa estar pronto na operação antes de ativar.",
     reviewedAt: "2026-08-13",
@@ -908,8 +915,9 @@ export const guides: Guide[] = [
   {
     slug: "reforma-tributaria-o-que-muda-na-operacao-digital-da-empresa",
     title: "Reforma tributária: o que muda na operação digital da pequena empresa?",
+    seoTitle: "Reforma tributária: o que muda no digital da empresa?",
     description:
-      "O que a pequena empresa precisa ajustar em sistema, emissão de nota, cadastro de clientes e cobrança por causa de CBS, IBS e split payment — sem entrar no mérito contábil.",
+      "O que a pequena empresa precisa ajustar em sistema, nota fiscal, cadastro e cobrança por causa de CBS, IBS e split payment, sem entrar no mérito contábil.",
     reviewedAt: "2026-08-13",
     answer:
       "A reforma tributária muda menos o marketing e mais a operação: emissão de nota, cadastro de cliente e fornecedor, descrição de produtos e serviços, sistema de vendas e conciliação de recebimento. Com CBS e IBS em implantação e o split payment previsto para os anos seguintes, o imposto passa a ser separado no momento do pagamento — o que exige dado limpo e sistema atualizado. As decisões de regime e enquadramento são do contador; o que cabe à empresa é chegar com a operação pronta.",
@@ -1054,7 +1062,7 @@ export const guides: Guide[] = [
     slug: "como-usar-ia-no-atendimento-sem-violar-a-lgpd",
     title: "Como usar IA no atendimento sem violar a LGPD?",
     description:
-      "O que a empresa precisa fazer para usar inteligência artificial no atendimento e nas vendas sem problema com a LGPD: aviso, base legal, dados mínimos e revisão humana.",
+      "O que fazer para usar inteligência artificial no atendimento e nas vendas sem problema com a LGPD: aviso, base legal, dados mínimos e revisão humana.",
     reviewedAt: "2026-08-13",
     answer:
       "Usar IA no atendimento é permitido, mas o tratamento de dados pessoais continua sob a LGPD. Na prática, a empresa precisa de quatro coisas: avisar que o atendimento é automatizado, ter base legal e finalidade definidas para os dados coletados, coletar o mínimo necessário e garantir revisão humana quando a decisão afetar o cliente. Também é preciso saber o que o fornecedor da ferramenta faz com as conversas — inclusive se as usa para treinar modelos.",
@@ -1138,7 +1146,7 @@ export const guides: Guide[] = [
     slug: "como-configurar-o-e-mail-da-empresa-no-celular-e-no-outlook",
     title: "Como configurar o e-mail da empresa no celular e no Outlook?",
     description:
-      "Dados do servidor e passo a passo para ler o e-mail profissional da empresa no iPhone, no Android, no Outlook, no Mac e no navegador, com as portas certas e a solução dos erros mais comuns.",
+      "Dados do servidor e passo a passo para ler o e-mail da empresa no iPhone, no Android, no Outlook e no navegador, com as portas certas e os erros mais comuns.",
     reviewedAt: "2026-09-04",
     answer:
       "Toda caixa de e-mail profissional hospedada pela Avila Ops funciona em qualquer programa de e-mail por IMAP. O usuário é sempre o endereço completo, a senha é a mesma do webmail, o servidor de entrada e de saída é mail.avilaops.com, com a porta 993 para receber e a 465 para enviar, ambas com SSL/TLS. Antes de configurar qualquer aparelho, entre uma vez em mail.avilaops.com: se a senha abre o webmail, ela vai funcionar em todos os programas.",

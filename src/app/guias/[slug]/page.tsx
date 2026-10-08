@@ -5,7 +5,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { estimateGuideMinutes, getGuide, guideCover, guides } from "@/lib/seo-guides";
-import { absoluteUrl, siteConfig } from "@/lib/site";
+import { absoluteUrl, siteConfig, tituloDaPagina } from "@/lib/site";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -26,13 +26,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const ogImage = guideCover(guide.slug);
 
   return {
-    title: `${guide.title} | Avila Ops`,
+    title: tituloDaPagina(guide.seoTitle ?? guide.title),
     description: guide.description,
     alternates: {
       canonical: absoluteUrl(`/guias/${guide.slug}/`),
     },
     openGraph: {
-      title: `${guide.title} | Avila Ops`,
+      title: tituloDaPagina(guide.seoTitle ?? guide.title),
       description: guide.description,
       url: absoluteUrl(`/guias/${guide.slug}/`),
       siteName: siteConfig.name,
@@ -49,7 +49,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     },
     twitter: {
       card: "summary_large_image",
-      title: `${guide.title} | Avila Ops`,
+      title: tituloDaPagina(guide.seoTitle ?? guide.title),
       description: guide.description,
       images: [ogImage],
     },

@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PromptCard from "@/components/PromptCard";
 import { aiPrompts } from "@/lib/ai-prompts";
-import { absoluteUrl, siteConfig, whatsappUrl } from "@/lib/site";
+import { absoluteUrl, siteConfig, whatsappUrl, tituloDaPagina } from "@/lib/site";
 
 const path = "/guias/ia/prompts-para-ia/";
 const reviewedAt = "2026-08-26";
@@ -17,13 +17,13 @@ const description =
   "Sete prompts de edição de imagem com IA em português, prontos para copiar e colar: efeito cromo, clone, boneco, pôster gráfico, halo, LEGO e comida Minecraft.";
 
 export const metadata: Metadata = {
-  title: `${title} | Avila Ops`,
+  title: tituloDaPagina(title),
   description,
   alternates: {
     canonical: absoluteUrl(path),
   },
   openGraph: {
-    title: `${title} | Avila Ops`,
+    title: tituloDaPagina(title),
     description,
     url: absoluteUrl(path),
     siteName: siteConfig.name,
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: `${title} | Avila Ops`,
+    title: tituloDaPagina(title),
     description,
     images: [ogImage],
   },

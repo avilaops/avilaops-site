@@ -132,7 +132,7 @@
 .traduzindo-question-list summary { display:grid; grid-template-columns:55px 1fr 34px; align-items:center; gap:18px; padding:24px 0; cursor:pointer; list-style:none; font-size:1.05rem; font-weight:700; }
 .traduzindo-question-list summary::-webkit-details-marker { display:none; }
 .traduzindo-question-list summary span { color:var(--blue); font:700 .69rem "SFMono-Regular",Consolas,monospace; }
-.traduzindo-question-list summary b { color:#f04d3e; font-size:1.35rem; font-weight:400; text-align:right; }
+.traduzindo-question-list summary b { color:var(--accent-red); font-size:1.35rem; font-weight:400; text-align:right; }
 .traduzindo-question-list details[open] summary b { transform:rotate(45deg); }
 .traduzindo-question-list details p { max-width:720px; margin:0 0 25px 73px; color:var(--muted-foreground); line-height:1.7; }
 .traduzindo-terms { background:var(--paper-cool); }
@@ -147,7 +147,7 @@
 .traduzindo-term-card h3,.traduzindo-guide-card h3 { margin:12px 0 8px; font-size:1.35rem; letter-spacing:-.035em; }
 .traduzindo-term-card p,.traduzindo-guide-card p { margin:0 0 20px; color:var(--muted-foreground); font-size:.88rem; line-height:1.65; }
 .traduzindo-term-card strong,.traduzindo-guide-card strong { color:var(--foreground); font-size:.82rem; }
-.traduzindo-term-card i,.traduzindo-guide-card i { color:#f04d3e; font-style:normal; margin-left:5px; }
+.traduzindo-term-card i,.traduzindo-guide-card i { color:var(--accent-red); font-style:normal; margin-left:5px; }
 .traduzindo-guides { background:var(--surface); }
 .traduzindo-guide-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
 .traduzindo-guide-card { padding:0 0 24px; overflow:hidden; }
@@ -156,5 +156,5 @@
 .traduzindo-final { display:flex; align-items:center; justify-content:space-between; gap:24px; margin-top:58px; padding-top:25px; border-top:1px solid var(--border); }
 .traduzindo-final p { margin:0; color:var(--muted-foreground); }
 .traduzindo-final a { color:var(--blue); font-weight:750; text-decoration:none; }
-.traduzindo-final a span { color:#f04d3e; }
+.traduzindo-final a span { color:var(--accent-red); }
 @media (max-width: 760px) { .traduzindo-hero { padding:80px 0 88px; } .traduzindo-hero-orb-red { right:-40px; top:15%; } .traduzindo-term-grid,.traduzindo-guide-grid { grid-template-columns:1fr; } .traduzindo-question-list summary { grid-template-columns:38px 1fr 25px; gap:10px; font-size:.96rem; } .traduzindo-question-list details p { margin-left:48px; } .traduzindo-final { align-items:flex-start; flex-direction:column; } }

@@ -6,14 +6,14 @@ import BriefWizard from "@/components/BriefWizard";
 import { absoluteUrl, paginaOpenGraph } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Criar meu resumo | Avila Ops",
+  title: "Protótipo grátis: conte sobre o seu negócio | Avila Ops",
   description:
     "Responda algumas perguntas rápidas sobre o seu projeto e receba um resumo pronto para a gente começar a conversa.",
   alternates: {
     canonical: absoluteUrl("/criar-meu-resumo/"),
   },
   openGraph: paginaOpenGraph({
-    title: "Criar meu resumo | Avila Ops",
+    title: "Protótipo grátis: conte sobre o seu negócio | Avila Ops",
     description:
       "Responda algumas perguntas rápidas sobre o seu projeto e receba um resumo pronto para a gente começar a conversa.",
     path: "/criar-meu-resumo/",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   }),
   twitter: {
     card: "summary_large_image",
-    title: "Criar meu resumo | Avila Ops",
+    title: "Protótipo grátis: conte sobre o seu negócio | Avila Ops",
     description: "Poucas perguntas sobre o seu projeto e um resumo pronto para começar a conversa.",
     images: [absoluteUrl("/og/paginas/criar-meu-resumo-v1.jpg")],
   },

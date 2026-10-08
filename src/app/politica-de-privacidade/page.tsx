@@ -5,7 +5,7 @@ import { absoluteUrl, siteConfig } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Política de Privacidade | Avila Ops",
   description:
-    "Como o app Avila Ops e os sites, portais e integrações da Avila Ops coletam, usam, protegem e compartilham dados, incluindo dados recebidos pelo login com o Google.",
+    "Como o app e os sites da Avila Ops coletam, usam, protegem e compartilham dados, incluindo dados recebidos pelo login com o Google.",
   alternates: { canonical: absoluteUrl("/politica-de-privacidade/") },
   robots: { index: true, follow: true },
 };

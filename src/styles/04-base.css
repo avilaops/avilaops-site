@@ -11,6 +11,8 @@
   /* Fundo de botao. Separado do --blue, que no tema escuro clareia para
      servir de texto e deixaria o rotulo branco do botao com 3,7:1. */
   --blue-solid: #225cf2;
+  /* Vermelho de destaque usado como texto: escuro no claro, claro no escuro. */
+  --accent-red: #c83a29;
   --paper: #fffaf2;
   --paper-cool: #f2f5f9;
   --card: #ffffff;
@@ -42,6 +44,7 @@ html.dark {
   --muted-foreground: #9aa5b7;
   --quiet-foreground: #8791a3;
   --blue-solid: #2f5fe8;
+  --accent-red: #ff7564;
   --paper: #111619;
   --paper-cool: #080b11;
   --card: #111722;

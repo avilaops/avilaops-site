@@ -20,6 +20,9 @@ artifacts/
 nginx/security-headers.conf
 caddy/avilaops-site.caddy
 
+# Imagens redimensionadas no prebuild a partir de public/ (config/imagens.json).
+public/_v/
+
 # Ambiente
 .env
 .env.local
