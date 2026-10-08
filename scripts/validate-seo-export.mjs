@@ -30,7 +30,7 @@ const pages = [
       "schema-service-automatizar-whatsapp",
       "schema-faq-automatizar-whatsapp",
       "schema-breadcrumbs",
-      "Processo em etapas",
+      "Como acontece",
       "Benef",
       "Revisado",
     ],

@@ -4,7 +4,9 @@ import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
-import { absoluteUrl, ogImages, siteConfig, dataPorExtenso } from "@/lib/site";
+import ClosingCta from "@/components/ClosingCta";
+import { rotuloDaPagina } from "@/lib/rotulos";
+import { absoluteUrl, dataPorExtenso, ogImages, siteConfig, whatsappUrl } from "@/lib/site";
 
 type SeoPage = {
   title: string;
@@ -629,18 +631,32 @@ export default async function SeoServicePage({
           <h1>{page.h1}</h1>
           <p>{page.intro}</p>
           <div className="seo-review-date">Revisado em <time dateTime={page.reviewedAt ?? reviewedAt}>{dataPorExtenso(page.reviewedAt ?? reviewedAt)}</time></div>
-          {page.cta ? (
-            <a href={page.cta.href}>{page.cta.label}</a>
-          ) : (
-            <Link href="/criar-meu-resumo/">Solicitar diagnóstico</Link>
-          )}
+          <div className="seo-hero-actions">
+            {page.cta ? (
+              <a className="button button-large" href={page.cta.href}>
+                {page.cta.label} <span aria-hidden="true">↗</span>
+              </a>
+            ) : (
+              <Link className="button button-large" href="/criar-meu-resumo/" prefetch={false}>
+                Quero meu protótipo grátis <span aria-hidden="true">↗</span>
+              </Link>
+            )}
+            <a
+              className="text-link"
+              href={whatsappUrl(`Olá, Avila Ops! Quero saber mais sobre: ${page.h1}.`)}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Falar pelo WhatsApp
+            </a>
+          </div>
         </div>
       </section>
 
       <section className="seo-page-section">
         <div className="container seo-page-grid">
           <article>
-            <h2>Quando sua empresa precisa disso</h2>
+            <h2>Quando faz sentido</h2>
             <ul>
               {page.audience.map((item) => (
                 <li key={item}>{item}</li>
@@ -662,7 +678,7 @@ export default async function SeoServicePage({
       <section className="seo-page-section">
         <div className="container seo-page-grid">
           <article>
-            <h2>Processo em etapas</h2>
+            <h2>Como acontece</h2>
             <ol>
               {page.process.map((item) => (
                 <li key={item}>{item}</li>
@@ -671,7 +687,7 @@ export default async function SeoServicePage({
           </article>
 
           <article>
-            <h2>Benefícios mensuráveis</h2>
+            <h2>O que muda na prática</h2>
             <ul>
               {page.benefits.map((item) => (
                 <li key={item}>{item}</li>
@@ -701,12 +717,14 @@ export default async function SeoServicePage({
           <div className="seo-related-links">
             {page.related.map((slug) => (
               <a href={`/${slug}/`} key={slug}>
-                {slug.replaceAll("-", " ")}
+                {rotuloDaPagina(slug)}
               </a>
             ))}
           </div>
         </div>
       </section>
+
+      <ClosingCta whatsappMessage={`Olá, Avila Ops! Quero saber mais sobre: ${page.h1}.`} />
 
       <script
         id={`schema-service-${paramsSlug}`}

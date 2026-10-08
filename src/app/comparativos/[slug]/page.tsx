@@ -7,6 +7,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { comparisons, getComparison, comparisonImage } from "@/lib/comparisons";
+import { rotuloDaPagina } from "@/lib/rotulos";
 import { absoluteUrl, ogImages, siteConfig } from "@/lib/site";
 import "@/components/segmentos-comparativos.css";
 
@@ -16,17 +17,6 @@ type PageProps = {
 
 const reviewedAt = "2026-09-12";
 const publishedAt = "2026-07-25";
-
-const relatedLabels: Record<string, string> = {
-  "presenca-digital-para-pequenas-empresas": "Presença digital para pequenas empresas",
-  "automatizar-whatsapp": "Atendimento pelo WhatsApp",
-  "instagram-meta-ads": "Instagram e campanhas",
-  "automacao-para-pequenas-empresas": "Automação para pequenas empresas",
-  "crm-para-pequenas-empresas": "Organização de clientes e oportunidades",
-  "portal-do-cliente": "Portal do cliente",
-  "criacao-de-site-profissional": "Criação de site profissional",
-  "integrar-instagram-whatsapp": "Instagram e WhatsApp conectados",
-};
 
 export function generateStaticParams() {
   return comparisons.map((comparison) => ({ slug: comparison.slug }));
@@ -134,7 +124,7 @@ export default async function ComparisonPage({ params }: PageProps) {
         <nav className="sc-related container" aria-label="Conteúdos relacionados">
           <h2>Continue explorando</h2>
           <div>{comparison.related.map((relatedSlug) => (
-            <Link href={`/${relatedSlug}/`} key={relatedSlug}>{relatedLabels[relatedSlug] || relatedSlug.replaceAll("-", " ")}<ArrowUpRight size={18} aria-hidden="true" /></Link>
+            <Link href={`/${relatedSlug}/`} key={relatedSlug}>{rotuloDaPagina(relatedSlug)}<ArrowUpRight size={18} aria-hidden="true" /></Link>
           ))}</div>
           <Link className="sc-text-link" href="/comparativos/">Ver todos os comparativos<ArrowUpRight size={18} aria-hidden="true" /></Link>
         </nav>

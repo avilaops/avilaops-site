@@ -4,6 +4,8 @@ import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import ClosingCta from "@/components/ClosingCta";
+import { rotuloDaPagina } from "@/lib/rotulos";
 import { estimateGuideMinutes, getGuide, guideCover, guides } from "@/lib/seo-guides";
 import { absoluteUrl, siteConfig, tituloDaPagina, dataPorExtenso } from "@/lib/site";
 
@@ -167,7 +169,7 @@ export default async function GuidePage({ params }: PageProps) {
                     href={relatedGuide ? `/guias/${relatedSlug}/` : `/${relatedSlug}/`}
                     key={relatedSlug}
                   >
-                    {relatedGuide ? <><Image src={guideCover(relatedGuide.slug)} alt="" width={240} height={126} /><span>{relatedGuide.title}</span></> : <span>{relatedSlug.replaceAll("-", " ")}</span>}
+                    {relatedGuide ? <><Image src={guideCover(relatedGuide.slug)} alt="" width={240} height={126} /><span>{relatedGuide.title}</span></> : <span>{rotuloDaPagina(relatedSlug)}</span>}
                   </a>
                 );
               })}
@@ -175,6 +177,10 @@ export default async function GuidePage({ params }: PageProps) {
           </div>
         </section>
       </article>
+      <ClosingCta
+        title="Quer aplicar isso na sua empresa?"
+        whatsappMessage={`Olá, Avila Ops! Li o guia "${guide.title}" e quero conversar.`}
+      />
       <script
         id={`schema-article-${guide.slug}`}
         type="application/ld+json"
