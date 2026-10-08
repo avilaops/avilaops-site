@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
-import { absoluteUrl, ogImages, siteConfig } from "@/lib/site";
+import { absoluteUrl, ogImages, siteConfig, dataPorExtenso } from "@/lib/site";
 
 type SeoPage = {
   title: string;
@@ -358,11 +358,178 @@ const pages: Record<string, SeoPage> = {
       },
     ],
   },
+  "crm-para-pequenas-empresas": {
+    title: "CRM para pequenas empresas | Avila Ops",
+    description:
+      "Implantação de CRM para pequenas empresas: funil enxuto, contatos de WhatsApp e site no mesmo lugar e rotina de retorno que a equipe consegue manter.",
+    h1: "CRM para pequenas empresas",
+    intro:
+      "CRM é o sistema onde cada contato tem dono, etapa e próximo passo. Em empresa pequena ele só funciona se for simples: poucas etapas, poucos campos e uso todo dia. A Avila Ops desenha o funil a partir de como a empresa já vende, leva para dentro dele os contatos que hoje chegam por WhatsApp, Instagram e site, e deixa a rotina de retorno pronta para a equipe seguir.",
+    audience: [
+      "empresas em que cada vendedor guarda os contatos no próprio celular",
+      "negócios que enviam orçamento e não sabem quantos ficaram sem resposta",
+      "equipes que cresceram e passaram a atender o mesmo cliente duas vezes",
+      "gestores que só descobrem como foi o mês perguntando a cada pessoa",
+    ],
+    deliverables: [
+      "funil de vendas com quatro a seis etapas, cada uma ligada a um fato",
+      "cadastro com os campos que a empresa realmente usa",
+      "entrada de contatos do site, do WhatsApp e do Instagram no mesmo lugar",
+      "lembrete de retorno e visão semanal do que está parado",
+    ],
+    process: [
+      "levantar como a empresa vende hoje e onde os contatos se perdem",
+      "definir etapas, campos obrigatórios e quem é dono de cada contato",
+      "ligar formulários do site e canais de atendimento ao CRM",
+      "acompanhar as primeiras semanas de uso e cortar o que ninguém preenche",
+    ],
+    benefits: [
+      "nenhum orçamento sem dono nem data de retorno",
+      "histórico do cliente fica na empresa, não no celular de quem atendeu",
+      "origem de cada venda registrada, para saber qual canal compensa",
+      "previsão do mês a partir das oportunidades abertas, não de palpite",
+    ],
+    related: [
+      "automatizar-whatsapp",
+      "automacao-para-pequenas-empresas",
+      "funil-de-vendas-whatsapp",
+      "instagram-meta-ads",
+    ],
+    faq: [
+      {
+        question: "Qual CRM a Avila Ops implanta?",
+        answer:
+          "Depende da operação. Antes de escolher a ferramenta, a Avila Ops mapeia como a empresa vende, quantas pessoas atendem e quais canais precisam entrar. A ferramenta é consequência disso, e não o ponto de partida.",
+      },
+      {
+        question: "Planilha não resolve?",
+        answer:
+          "Resolve enquanto uma pessoa vende e os contatos são poucos. Deixa de resolver quando mais gente precisa atualizar ao mesmo tempo, quando é preciso lembrete de retorno ou quando a conversa precisa ficar junto do cadastro.",
+      },
+      {
+        question: "Em quanto tempo a equipe começa a usar?",
+        answer:
+          "Com funil e campos definidos, a configuração é rápida. O que leva mais tempo é o hábito: por isso as primeiras semanas têm acompanhamento, para ajustar etapas e tirar o que atrapalha o uso diário.",
+      },
+    ],
+    reviewedAt: "2026-10-08",
+  },
+  "pixel-da-meta": {
+    title: "Pixel da Meta e API de Conversões | Avila Ops",
+    description:
+      "Instalação do Pixel da Meta e da API de Conversões: eventos de contato e compra medidos direito, para anunciar buscando resultado e não clique.",
+    h1: "Pixel da Meta para medir o que os anúncios trazem",
+    intro:
+      "O Pixel da Meta registra o que o visitante faz no site depois de clicar no anúncio. Sem ele, a campanha é otimizada para clique e a empresa não sabe quais anúncios geraram contato. A Avila Ops instala o Pixel e a API de Conversões, configura os eventos que importam para o negócio e confere se o número do relatório bate com o que chegou de verdade.",
+    audience: [
+      "empresas que anunciam no Instagram ou no Facebook e não sabem quais anúncios deram retorno",
+      "campanhas otimizadas para clique, alcance ou visita ao perfil",
+      "sites sem público de remarketing de quem já visitou",
+      "relatórios de leads que não batem com os contatos recebidos",
+    ],
+    deliverables: [
+      "Pixel instalado e conferido em todas as páginas",
+      "eventos de contato, cadastro e compra configurados",
+      "API de Conversões enviando os mesmos eventos a partir do servidor",
+      "públicos de remarketing e aviso na política de privacidade",
+    ],
+    process: [
+      "listar as ações do site que valem como conversão para o negócio",
+      "instalar o Pixel e a API de Conversões e eliminar evento duplicado",
+      "testar cada evento com a ferramenta da Meta e com um contato real",
+      "conferir, depois de alguns dias, o relatório contra os contatos recebidos",
+    ],
+    benefits: [
+      "campanha otimizada para quem entra em contato, não para quem só clica",
+      "custo por contato visível por anúncio e por público",
+      "remarketing para quem visitou e não chamou",
+      "decisão de verba com base no que cada campanha trouxe",
+    ],
+    related: [
+      "instagram-meta-ads",
+      "meta-ads-para-empresas",
+      "presenca-digital-para-pequenas-empresas",
+      "automatizar-whatsapp",
+    ],
+    faq: [
+      {
+        question: "O Pixel ainda funciona com as restrições de privacidade?",
+        answer:
+          "Funciona, mas enxerga menos do que antes, porque navegadores e sistemas bloqueiam parte do rastreamento. Por isso ele é usado junto com a API de Conversões, que envia os eventos a partir do servidor.",
+      },
+      {
+        question: "Preciso de site para usar o Pixel?",
+        answer:
+          "Sim. O Pixel mede o que acontece em páginas da empresa. Quem vende só pelo WhatsApp ou pelo próprio Instagram mede por outros sinais, como as conversas iniciadas.",
+      },
+      {
+        question: "O Pixel exige aviso ao visitante?",
+        answer:
+          "Sim. Ele trata dados de navegação, então a política de privacidade deve informar o uso e a finalidade, e o consentimento deve seguir o que a LGPD pede para esse tipo de dado.",
+      },
+    ],
+    reviewedAt: "2026-10-08",
+  },
+  "dominio-e-hospedagem": {
+    title: "Domínio e hospedagem para empresas | Avila Ops",
+    description:
+      "Registro de domínio no nome da empresa, hospedagem, DNS e e-mail configurados e documentados, para o site e os e-mails não dependerem de terceiros.",
+    h1: "Domínio e hospedagem no nome da sua empresa",
+    intro:
+      "Domínio é o endereço da empresa na internet; hospedagem é onde o site fica guardado. Os dois costumam ser contratados com pressa e esquecidos, até o dia em que o site sai do ar ou o e-mail para de chegar. A Avila Ops registra o domínio no nome da empresa, organiza hospedagem, DNS e e-mail e entrega tudo documentado, com os acessos na mão do dono do negócio.",
+    audience: [
+      "empresas com o domínio registrado no nome de um ex-funcionário ou da agência",
+      "negócios que não sabem quando o domínio vence nem quem recebe o aviso",
+      "sites lentos ou fora do ar sem ninguém responsável",
+      "e-mails da empresa que caem no spam do cliente",
+    ],
+    deliverables: [
+      "domínio registrado ou transferido para o CNPJ ou CPF do responsável",
+      "hospedagem adequada ao tipo de site, com certificado de segurança",
+      "DNS organizado, com SPF, DKIM e DMARC para o e-mail",
+      "documento com acessos, vencimentos e o que cada registro faz",
+    ],
+    process: [
+      "levantar onde estão hoje domínio, DNS, site e e-mail e quem tem acesso",
+      "regularizar a titularidade e a renovação do domínio",
+      "migrar ou configurar hospedagem e DNS sem derrubar site nem e-mail",
+      "testar site, certificado e entrega de e-mail e entregar a documentação",
+    ],
+    benefits: [
+      "o endereço da empresa não depende de fornecedor nem de ex-funcionário",
+      "troca de hospedagem ou de quem faz o site sem perder o domínio",
+      "e-mail da empresa aceito por Gmail e Outlook",
+      "renovação com aviso para quem realmente decide",
+    ],
+    related: [
+      "email-profissional",
+      "presenca-digital-para-pequenas-empresas",
+      "criacao-de-site-profissional",
+      "automatizar-minha-empresa",
+    ],
+    faq: [
+      {
+        question: "Quem deve ser o dono do domínio?",
+        answer:
+          "A própria empresa, com o CNPJ ou o CPF do responsável. Agência e desenvolvedor cuidam da parte técnica, mas o registro precisa estar no nome de quem é dono do negócio.",
+      },
+      {
+        question: "Dá para trocar de hospedagem sem tirar o site do ar?",
+        answer:
+          "Sim. O site novo é preparado antes, o tempo de cache do DNS é reduzido e a troca é feita em um horário de pouco acesso. Os registros de e-mail são copiados antes de qualquer mudança, para as caixas não pararem.",
+      },
+      {
+        question: "O que acontece se o domínio vencer?",
+        answer:
+          "O site e os e-mails param de funcionar e, depois de um prazo de carência, o endereço pode ser registrado por outra pessoa. Renovação automática e um e-mail de aviso que alguém leia evitam isso.",
+      },
+    ],
+    reviewedAt: "2026-10-08",
+  },
 };
 
 const aliases: Record<string, keyof typeof pages> = {
   "criacao-de-site-profissional": "presenca-digital-para-pequenas-empresas",
-  "dominio-e-hospedagem": "presenca-digital-para-pequenas-empresas",
   "identidade-visual": "presenca-digital-para-pequenas-empresas",
   "whatsapp-business-api": "automatizar-whatsapp",
   "funil-de-vendas-whatsapp": "automatizar-whatsapp",
@@ -371,8 +538,6 @@ const aliases: Record<string, keyof typeof pages> = {
   "automacao-instagram": "instagram-meta-ads",
   "meta-ads-para-empresas": "instagram-meta-ads",
   "integrar-instagram-whatsapp": "instagram-meta-ads",
-  "pixel-da-meta": "instagram-meta-ads",
-  "crm-para-pequenas-empresas": "automacao-para-pequenas-empresas",
   "portal-do-cliente": "automacao-para-pequenas-empresas",
   "sistema-para-pequenas-empresas": "automacao-para-pequenas-empresas",
 };
@@ -463,7 +628,7 @@ export default async function SeoServicePage({
           <span className="section-index">Avila Ops / Operação digital</span>
           <h1>{page.h1}</h1>
           <p>{page.intro}</p>
-          <div className="seo-review-date">Revisado em {page.reviewedAt ?? reviewedAt}</div>
+          <div className="seo-review-date">Revisado em <time dateTime={page.reviewedAt ?? reviewedAt}>{dataPorExtenso(page.reviewedAt ?? reviewedAt)}</time></div>
           {page.cta ? (
             <a href={page.cta.href}>{page.cta.label}</a>
           ) : (
