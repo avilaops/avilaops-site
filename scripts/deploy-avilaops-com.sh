@@ -10,8 +10,10 @@
 #
 # Alem do site, este script envia caddy/avilaops-site.caddy — os cabecalhos
 # de seguranca e de cache gerados no postbuild — e recarrega o Caddy quando
-# o arquivo muda. O bloco do avilaops.com no Caddyfile precisa importar
-# /etc/caddy/avilaops-site.caddy; sem o import o script avisa e segue.
+# o arquivo muda. O Caddyfile precisa importar /etc/caddy/avilaops-site.caddy
+# no topo e usar os trechos `avilaops_site` e `avilaops_site_erros` no bloco
+# do avilaops.com (modelo em scripts/gerar-headers.mjs); sem o import o
+# script avisa e segue.
 #
 #   DEPLOY_SSH   destino do ssh (padrao: applications, o alias do servidor)
 set -euo pipefail

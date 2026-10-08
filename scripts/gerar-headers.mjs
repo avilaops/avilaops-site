@@ -70,38 +70,64 @@ function gerarConfNginx() {
 }
 
 /**
- * Trecho importado pelo bloco `avilaops.com` do Caddyfile do servidor.
+ * Arquivo importado pelo Caddyfile do servidor.
  *
  * O Caddy nao le `_headers` nem a configuracao do nginx: enquanto este
  * arquivo nao existia, a producao respondia sem nenhum cabecalho de
  * seguranca e sem `Cache-Control`, embora a politica estivesse pronta aqui.
  * O deploy envia o arquivo e recarrega o Caddy so quando ele muda.
+ *
+ * Sao dois trechos nomeados porque o `handle_errors` do Caddy e uma rota a
+ * parte: os `header` do bloco do site nao valem para a pagina 404, e importar
+ * o mesmo trecho nos dois lugares falha com "matcher is defined more than
+ * once". No Caddyfile:
+ *
+ *   import /etc/caddy/avilaops-site.caddy        (no topo, fora de qualquer bloco)
+ *
+ *   avilaops.com, www.avilaops.com {
+ *       ...
+ *       import avilaops_site
+ *       file_server
+ *       handle_errors {
+ *           import avilaops_site_erros
+ *           ...
+ *       }
+ *   }
  */
 function gerarSnippetCaddy() {
   const midia = cacheMidia.extensoesNginx.map((ext) => `*.${ext}`).join(" ");
-  const linhas = ["# Gerado por scripts/gerar-headers.mjs. Nao editar a mao."];
-  linhas.push("header {");
-  for (const [nome, valor] of Object.entries(cabecalhos)) {
-    linhas.push(`\t${nome} "${valor}"`);
-  }
-  linhas.push("}");
-  linhas.push("");
-  linhas.push(`@avila_hash path ${cacheHash.padraoPages}`);
-  linhas.push(`header @avila_hash Cache-Control "${cacheHash.valor}"`);
-  linhas.push("@avila_midia {");
-  linhas.push(`\tnot path ${cacheHash.padraoPages}`);
-  linhas.push(`\tpath ${midia}`);
-  linhas.push("}");
-  linhas.push(`header @avila_midia Cache-Control "${cacheMidia.valor}"`);
-  linhas.push("@avila_html {");
-  linhas.push(`\tnot path ${cacheHash.padraoPages} ${midia}`);
-  linhas.push("}");
-  linhas.push(`header @avila_html Cache-Control "${cacheHtml.valor}"`);
-  linhas.push("");
-  linhas.push("# O _headers so existe para o Cloudflare Pages ler.");
-  linhas.push("respond /_headers 404");
-  linhas.push("");
-  return linhas.join("\n");
+  const seguranca = Object.entries(cabecalhos).map(([nome, valor]) => `\t\t${nome} "${valor}"`);
+  return [
+    "# Gerado por scripts/gerar-headers.mjs. Nao editar a mao.",
+    "(avilaops_site_seguranca) {",
+    "\theader {",
+    ...seguranca,
+    "\t}",
+    "}",
+    "",
+    "(avilaops_site) {",
+    "\timport avilaops_site_seguranca",
+    `\t@avila_hash path ${cacheHash.padraoPages}`,
+    `\theader @avila_hash Cache-Control "${cacheHash.valor}"`,
+    "\t@avila_midia {",
+    `\t\tnot path ${cacheHash.padraoPages}`,
+    `\t\tpath ${midia}`,
+    "\t}",
+    `\theader @avila_midia Cache-Control "${cacheMidia.valor}"`,
+    "\t@avila_html {",
+    `\t\tnot path ${cacheHash.padraoPages} ${midia}`,
+    "\t}",
+    `\theader @avila_html Cache-Control "${cacheHtml.valor}"`,
+    "\t# O _headers so existe para o Cloudflare Pages ler.",
+    "\trespond /_headers 404",
+    "}",
+    "",
+    "(avilaops_site_erros) {",
+    "\timport avilaops_site_seguranca",
+    `\theader Cache-Control "${cacheHtml.valor}"`,
+    "}",
+    "",
+  ].join("\n");
 }
 
 const arquivos = [
