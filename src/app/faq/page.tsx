@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
-import { absoluteUrl, ogImages, siteConfig } from "@/lib/site";
+import { absoluteUrl, ogImages, siteConfig, dataPorExtenso } from "@/lib/site";
 
 const reviewedAt = "2026-08-06";
 
@@ -157,7 +157,7 @@ export default function FaqPage() {
             Respostas diretas sobre WhatsApp, Instagram, Meta Ads, site, CRM, dados e suporte.
             Não encontrou o que precisa? Fale com a gente pelo WhatsApp.
           </p>
-          <div className="seo-review-date">Revisado em {reviewedAt}</div>
+          <div className="seo-review-date">Revisado em <time dateTime={reviewedAt}>{dataPorExtenso(reviewedAt)}</time></div>
         </div>
       </section>
 

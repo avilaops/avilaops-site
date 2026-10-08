@@ -111,6 +111,14 @@ export function tituloDaPagina(titulo: string) {
   return comMarca.length <= 60 ? comMarca : titulo;
 }
 
+const MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"];
+
+/** "2026-10-08" vira "8 de outubro de 2026". As páginas mostravam a data crua. */
+export function dataPorExtenso(iso: string) {
+  const [ano, mes, dia] = iso.split("-").map(Number);
+  return `${dia} de ${MESES[mes - 1]} de ${ano}`;
+}
+
 export function absoluteUrl(path = "") {
   if (!path) return siteConfig.siteUrl;
   if (path.startsWith("http")) return path;

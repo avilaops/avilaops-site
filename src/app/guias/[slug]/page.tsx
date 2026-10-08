@@ -5,7 +5,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { estimateGuideMinutes, getGuide, guideCover, guides } from "@/lib/seo-guides";
-import { absoluteUrl, siteConfig, tituloDaPagina } from "@/lib/site";
+import { absoluteUrl, siteConfig, tituloDaPagina, dataPorExtenso } from "@/lib/site";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -116,7 +116,7 @@ export default async function GuidePage({ params }: PageProps) {
             <span className="section-index">Avila Ops / Guia</span>
             <h1>{guide.title}</h1>
             <p>{guide.description}</p>
-            <div className="editorial-article-meta"><span>{readingMinutes} min de leitura</span><span>Revisado em {reviewedAt}</span></div>
+            <div className="editorial-article-meta"><span>{readingMinutes} min de leitura</span><span>Revisado em <time dateTime={reviewedAt}>{dataPorExtenso(reviewedAt)}</time></span></div>
             </div>
             <figure className="editorial-cover">
               <Image src={guideCover(guide.slug)} alt={`Imagem editorial: ${guide.title}`} fill priority sizes="(max-width: 900px) 100vw, 54vw" />

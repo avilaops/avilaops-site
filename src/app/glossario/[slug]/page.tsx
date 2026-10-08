@@ -5,7 +5,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { getGlossaryTerm, glossaryCover, glossaryTerms } from "@/lib/glossary";
-import { absoluteUrl, siteConfig } from "@/lib/site";
+import { absoluteUrl, siteConfig, dataPorExtenso } from "@/lib/site";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -82,7 +82,7 @@ export default async function GlossaryTermPage({ params }: PageProps) {
             <span className="section-index">Avila Ops / Glossário</span>
             <h1>{entry.term}</h1>
             <p>{entry.shortDefinition}</p>
-            <div className="seo-review-date">Revisado em {reviewedAt}</div>
+            <div className="seo-review-date">Revisado em <time dateTime={reviewedAt}>{dataPorExtenso(reviewedAt)}</time></div>
             </div>
             <figure className="editorial-cover"><Image src={glossaryCover(entry.slug)} alt={`Representação visual de ${entry.term}`} fill priority sizes="(max-width: 900px) 100vw, 54vw" /></figure>
           </div>

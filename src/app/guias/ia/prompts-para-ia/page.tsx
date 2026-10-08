@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PromptCard from "@/components/PromptCard";
 import { aiPrompts } from "@/lib/ai-prompts";
-import { absoluteUrl, siteConfig, whatsappUrl, tituloDaPagina } from "@/lib/site";
+import { absoluteUrl, siteConfig, whatsappUrl, tituloDaPagina, dataPorExtenso } from "@/lib/site";
 
 const path = "/guias/ia/prompts-para-ia/";
 const reviewedAt = "2026-08-26";
@@ -155,7 +155,7 @@ export default function PromptsParaIaPage() {
               enquadramento. Copie, troque o que está entre colchetes e rode na
               ferramenta que você já usa.
             </p>
-            <div className="seo-review-date">Revisado em {reviewedAt}</div>
+            <div className="seo-review-date">Revisado em <time dateTime={reviewedAt}>{dataPorExtenso(reviewedAt)}</time></div>
           </div>
         </section>
 
