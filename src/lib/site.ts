@@ -13,9 +13,6 @@ export const siteConfig = {
     "Organizamos a tecnologia da sua empresa: site, e-mail, atendimento, CRM, automações e integrações em uma estrutura que você consegue operar e evoluir.",
   siteUrl,
   appUrl: process.env.NEXT_PUBLIC_APP_URL || "https://app.avilaops.com",
-  clientPortalUrl:
-    process.env.NEXT_PUBLIC_CLIENT_PORTAL_URL ||
-    "https://cliente.avilaops.com",
   whatsapp,
   phoneDisplay: `+${whatsapp}`,
   email: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "nicolas@avilaops.com",

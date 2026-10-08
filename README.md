@@ -37,23 +37,42 @@ resources/     arquivos-fonte e pacotes de identidade visual
 npm run lint
 npm run build
 npm run seo:validate:export
+npm run links:validate
 npm run headers:validate
+npm run contraste:validate
 ```
+
+`npm run verificar` roda os seis em sequencia.
+
+`links:validate` recusa link interno sem a barra final (o site usa
+`trailingSlash`; sem a barra cada clique paga um redirecionamento) e link para
+pagina que nao existe no export. Ao escrever um caminho interno, termine com
+`/`.
+
+`contraste:validate` abre todas as paginas do export nos dois temas e mede o
+contraste de cada texto contra o fundo. O tema troca pelo relogio (escuro das
+18h as 6h), entao uma secao com fundo fixo em hex fica ilegivel em metade do
+dia sem que ninguem veja: use as variaveis de `globals.css` (`--background`,
+`--surface`, `--paper`, `--paper-cool`, `--card`) em vez de cor fixa.
 
 ## Cabecalhos HTTP
 
 A politica de seguranca e de cache mora em `config/security-headers.mjs`, em
-um lugar so. O site e servido por dois caminhos — nginx, dentro da imagem
-publicada, e Cloudflare Pages, que le um arquivo `_headers` — e cada um quer
-um formato diferente. O `postbuild` roda `scripts/gerar-headers.mjs`, que
-traduz a mesma politica para os dois:
+um lugar so. Tres servidores podem entregar o site — o Caddy do servidor de producao, o
+nginx dentro da imagem publicada e o Cloudflare Pages, que le um arquivo
+`_headers` — e cada um quer um formato diferente. O `postbuild` roda
+`scripts/gerar-headers.mjs`, que traduz a mesma politica para os tres:
 
 ```text
+caddy/avilaops-site.caddy    importado pelo Caddyfile do servidor (producao)
 out/_headers                 Cloudflare Pages
 nginx/security-headers.conf  incluido por nginx/avilaops.conf na imagem
 ```
 
-Nenhum dos dois e versionado: sao consequencia da fonte, nao copias.
+Nenhum deles e versionado: sao consequencia da fonte, nao copias. O deploy
+envia o arquivo do Caddy para `/etc/caddy/avilaops-site.caddy` e recarrega o
+Caddy quando ele muda; `npm run headers:validate:public` confere se o endereco
+publico responde com a politica.
 
 `npm run headers:validate` sobe o export com esses cabecalhos e abre catorze
 paginas em um Chromium de verdade, conferindo o valor de cada cabecalho, o
@@ -92,9 +111,17 @@ mantem `microphone=(self)` por causa dessa etapa.
 
 ## Deploy
 
-`npm run deploy` gera o export estatico, valida o resultado, publica pelo script
-PowerShell e verifica o endereco publico. O destino remoto pode ser alterado
-pelos parametros de `scripts/deploy-avilaops-com.ps1`.
+`npm run deploy` (Windows) gera o export estatico, valida o resultado, publica
+pelo script PowerShell e verifica o endereco publico. O destino remoto pode ser
+alterado pelos parametros de `scripts/deploy-avilaops-com.ps1`.
+
+`npm run deploy:linux` faz o mesmo a partir de Linux ou macOS, por
+`scripts/deploy-avilaops-com.sh` (destino em `DEPLOY_SSH`, padrao
+`applications`), e ainda envia os cabecalhos do Caddy. Os dois scripts publicam
+do mesmo jeito: mudou um, muda o outro.
+
+O workflow do GitHub Actions so constroi a imagem com nginx; ele nao publica o
+avilaops.com. Push na `main` nao poe nada no ar: e preciso rodar o deploy.
 
 No servidor, o Caddy serve `/var/www/avilaops.com`, que e um symlink para a
 release ativa em `/var/www/.releases/avilaops.com/<data>-<commit>`. Cada deploy

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Traduzindo | termos e decisões do mercado tech | Avila Ops",
   description:
     "Perguntas honestas, jargões traduzidos e guias práticos para escolher tecnologia e organizar a operação da sua empresa.",
-  alternates: { canonical: absoluteUrl("/traduzindo") },
+  alternates: { canonical: absoluteUrl("/traduzindo/") },
 };
 
 const questions = [
@@ -34,7 +34,7 @@ export default function TraduzindoPage() {
   return (
     <main className="traduzindo-page">
       <Header />
-      <Breadcrumbs items={[{ name: "Traduzindo", href: "/traduzindo" }]} />
+      <Breadcrumbs items={[{ name: "Traduzindo", href: "/traduzindo/" }]} />
 
       <section className="traduzindo-hero">
         <div className="container">
@@ -59,12 +59,12 @@ export default function TraduzindoPage() {
       <section className="seo-page-section traduzindo-terms">
         <div className="container">
           <div className="traduzindo-section-heading"><span className="section-index">02 / Dicionário do mercado tech</span><h2>Fale de tecnologia sem deixar a conversa artificial.</h2></div>
-          <div className="traduzindo-term-grid">{featuredTerms.map((term) => <Link className="traduzindo-term-card" href={`/glossario/${term.slug}`} key={term.slug}><div className="traduzindo-term-media"><Image src={glossaryCover(term.slug)} alt="" fill sizes="(max-width: 760px) 100vw, 33vw" /></div><div><span>TERMO {term.slug === "crm" ? "DE NEGÓCIO" : "ESSENCIAL"}</span><h3>{term.term}</h3><p>{term.shortDefinition}</p><strong>Traduzir na prática <i>↗</i></strong></div></Link>)}</div>
+          <div className="traduzindo-term-grid">{featuredTerms.map((term) => <Link className="traduzindo-term-card" href={`/glossario/${term.slug}/`} key={term.slug}><div className="traduzindo-term-media"><Image src={glossaryCover(term.slug)} alt="" fill sizes="(max-width: 760px) 100vw, 33vw" /></div><div><span>TERMO {term.slug === "crm" ? "DE NEGÓCIO" : "ESSENCIAL"}</span><h3>{term.term}</h3><p>{term.shortDefinition}</p><strong>Traduzir na prática <i>↗</i></strong></div></Link>)}</div>
         </div>
       </section>
 
       <section className="seo-page-section traduzindo-guides">
-        <div className="container"><div className="traduzindo-section-heading"><span className="section-index">03 / Guias para decidir</span><h2>Quando a dúvida vira próximo passo.</h2><p>Conteúdo para escolher o tipo de site, estimar investimento e construir uma presença digital que faça sentido.</p></div><div className="traduzindo-guide-grid">{featuredGuides.map((guide) => <Link className="traduzindo-guide-card" href={`/guias/${guide.slug}`} key={guide.slug}><div className="traduzindo-guide-media"><Image src={guideCover(guide.slug)} alt="" fill sizes="(max-width: 760px) 100vw, 33vw" /></div><span>{estimateGuideMinutes(guide)} MIN DE LEITURA</span><h3>{guide.title}</h3><p>{guide.description}</p><strong>Ler guia <i>↗</i></strong></Link>)}</div><div className="traduzindo-final"><p>Não encontrou o que queria traduzir?</p><a href={whatsappUrl("Olá, Avila Ops! Quero traduzir uma dúvida sobre tecnologia.")} target="_blank" rel="noopener noreferrer">Falar com a Avila Ops <span>↗</span></a></div></div>
+        <div className="container"><div className="traduzindo-section-heading"><span className="section-index">03 / Guias para decidir</span><h2>Quando a dúvida vira próximo passo.</h2><p>Conteúdo para escolher o tipo de site, estimar investimento e construir uma presença digital que faça sentido.</p></div><div className="traduzindo-guide-grid">{featuredGuides.map((guide) => <Link className="traduzindo-guide-card" href={`/guias/${guide.slug}/`} key={guide.slug}><div className="traduzindo-guide-media"><Image src={guideCover(guide.slug)} alt="" fill sizes="(max-width: 760px) 100vw, 33vw" /></div><span>{estimateGuideMinutes(guide)} MIN DE LEITURA</span><h3>{guide.title}</h3><p>{guide.description}</p><strong>Ler guia <i>↗</i></strong></Link>)}</div><div className="traduzindo-final"><p>Não encontrou o que queria traduzir?</p><a href={whatsappUrl("Olá, Avila Ops! Quero traduzir uma dúvida sobre tecnologia.")} target="_blank" rel="noopener noreferrer">Falar com a Avila Ops <span>↗</span></a></div></div>
       </section>
       <Footer />
     </main>

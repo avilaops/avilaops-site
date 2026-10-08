@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description:
     "Definições diretas de WhatsApp Business API, CRM, Pixel da Meta, landing page, domínio, DNS, e-mail profissional, funil de vendas e automação.",
   alternates: {
-    canonical: absoluteUrl("/glossario"),
+    canonical: absoluteUrl("/glossario/"),
   },
 };
 
@@ -19,7 +19,7 @@ export default function GlossaryPage() {
   return (
     <main>
       <Header />
-      <Breadcrumbs items={[{ name: "Glossário", href: "/glossario" }]} />
+      <Breadcrumbs items={[{ name: "Glossário", href: "/glossario/" }]} />
       <section className="seo-page-hero editorial-index-hero glossary-index-hero">
         <div className="container">
           <span className="section-index">Avila Ops / Glossário</span>
@@ -39,14 +39,14 @@ export default function GlossaryPage() {
         <div className="container editorial-grid glossary-grid">
           {glossaryTerms.map((entry) => (
             <article className="editorial-card glossary-card" key={entry.slug}>
-              <a className="editorial-card-media" href={`/glossario/${entry.slug}`}>
+              <a className="editorial-card-media" href={`/glossario/${entry.slug}/`}>
                 <Image src={glossaryCover(entry.slug)} alt="" fill sizes="(max-width: 760px) 100vw, 33vw" />
               </a>
               <div className="editorial-card-content">
                 <div className="editorial-card-meta"><span>TERMO ESSENCIAL</span></div>
-                <h2><a href={`/glossario/${entry.slug}`}>{entry.term}</a></h2>
+                <h2><a href={`/glossario/${entry.slug}/`}>{entry.term}</a></h2>
                 <p>{entry.shortDefinition}</p>
-                <a className="editorial-card-cta" href={`/glossario/${entry.slug}`}>Entender na prática →</a>
+                <a className="editorial-card-cta" href={`/glossario/${entry.slug}/`}>Entender na prática →</a>
               </div>
             </article>
           ))}

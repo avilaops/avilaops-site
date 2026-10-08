@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description:
     "Tecnologia aplicada ao processo real de cada segmento: serviços profissionais, indústria, logística, alimentação, construção e comércio.",
   alternates: {
-    canonical: absoluteUrl("/segmentos"),
+    canonical: absoluteUrl("/segmentos/"),
   },
   openGraph: paginaOpenGraph({
     title: "Segmentos atendidos | Avila Ops",
@@ -29,7 +29,7 @@ export default function SegmentosPage() {
   return (
     <main>
       <Header />
-      <Breadcrumbs items={[{ name: "Segmentos", href: "/segmentos" }]} />
+      <Breadcrumbs items={[{ name: "Segmentos", href: "/segmentos/" }]} />
       <section className="sc-hero">
         <div className="container sc-hero-grid">
           <div className="sc-hero-copy">

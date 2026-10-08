@@ -6,7 +6,7 @@ const products = [
     title: "Uma caixa de entrada com cara de empresa.",
     description:
       "Domínio próprio, endereços profissionais e uma presença mais confiável para cada conversa comercial.",
-    href: "/contato",
+    href: "/contato/",
     cta: "Quero entender",
     tone: "red",
   },
@@ -17,7 +17,7 @@ const products = [
     title: "Menos memória solta. Mais oportunidade acompanhada.",
     description:
       "Centralize contatos, histórico e próximos passos para sua equipe vender e atender com contexto.",
-    href: "https://crm.avilaops.com",
+    href: "/crm-para-pequenas-empresas/",
     cta: "Conhecer CRM",
     tone: "yellow",
   },
@@ -39,8 +39,8 @@ const products = [
     title: "Coordenação digital para obras mais previsíveis.",
     description:
       "Ferramentas e fluxos BIM para visualizar, compatibilizar e decidir melhor em cada etapa.",
-    href: "https://arxisbim.com.br",
-    cta: "Conhecer BIM",
+    href: "/contato/",
+    cta: "Quero entender",
     tone: "red",
   },
   {

@@ -29,8 +29,7 @@ export default function HomeAppAccess() {
           <p>
             O Avila Ops é a nossa plataforma de software. Clientes e equipe entram
             com uma conta só, inclusive pelo botão &quot;Fazer login com o Google&quot;, para acessar o painel
-            de gestão ({siteConfig.appUrl.replace("https://", "")}), o portal do cliente
-            ({siteConfig.clientPortalUrl.replace("https://", "")}), o CRM, as lojas virtuais, o Saúde Pet e os
+            de gestão ({siteConfig.appUrl.replace("https://", "")}), o CRM, as lojas virtuais, o Saúde Pet e os
             demais sistemas que construímos e operamos para nossos clientes.
           </p>
           <div className="vida-app-links">

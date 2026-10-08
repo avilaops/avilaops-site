@@ -2,29 +2,29 @@ import { siteConfig, whatsappUrl } from "@/lib/site";
 import Logo from "./Logo";
 
 const navigation = [
-  ["Jornada", "/jornada"],
-  ["Serviços", "/servicos"],
-  ["Comparativos", "/comparativos"],
-  ["Segmentos", "/segmentos"],
-  ["Guias", "/guias"],
-  ["Traduzindo", "/traduzindo"],
-  ["Contato", "/contato"],
+  ["Jornada", "/jornada/"],
+  ["Serviços", "/servicos/"],
+  ["Comparativos", "/comparativos/"],
+  ["Segmentos", "/segmentos/"],
+  ["Guias", "/guias/"],
+  ["Traduzindo", "/traduzindo/"],
+  ["Contato", "/contato/"],
 ];
 
 const authorityPages = [
-  ["Automatizar minha empresa", "/automatizar-minha-empresa"],
-  ["Automatizar WhatsApp", "/automatizar-whatsapp"],
-  ["Instagram e Meta Ads", "/instagram-meta-ads"],
-  ["Presença digital", "/presenca-digital-para-pequenas-empresas"],
-  ["CRM para pequenas empresas", "/crm-para-pequenas-empresas"],
-  ["Comparativos", "/comparativos"],
-  ["Traduzindo", "/traduzindo"],
+  ["Automatizar minha empresa", "/automatizar-minha-empresa/"],
+  ["Automatizar WhatsApp", "/automatizar-whatsapp/"],
+  ["Instagram e Meta Ads", "/instagram-meta-ads/"],
+  ["Presença digital", "/presenca-digital-para-pequenas-empresas/"],
+  ["CRM para pequenas empresas", "/crm-para-pequenas-empresas/"],
+  ["Comparativos", "/comparativos/"],
+  ["Traduzindo", "/traduzindo/"],
 ];
 
 const legalPages = [
-  ["Privacidade", "/politica-de-privacidade"],
-  ["Termos", "/termos-de-servico"],
-  ["Exclusão de dados", "/exclusao-de-dados"],
+  ["Privacidade", "/politica-de-privacidade/"],
+  ["Termos", "/termos-de-servico/"],
+  ["Exclusão de dados", "/exclusao-de-dados/"],
 ];
 
 export default function Footer() {
@@ -54,13 +54,6 @@ export default function Footer() {
           <span>PRODUTOS</span>
           <a href={siteConfig.appUrl} target="_blank" rel="noopener noreferrer">
             app.avilaops.com
-          </a>
-          <a
-            href={siteConfig.clientPortalUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            cliente.avilaops.com
           </a>
           <a href={siteConfig.instagramUrl} target="_blank" rel="noopener noreferrer">
             Instagram

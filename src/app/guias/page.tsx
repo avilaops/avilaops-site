@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description:
     "Guias práticos da Avila Ops sobre automação de WhatsApp, Instagram, Meta Ads, CRM, site profissional e presença digital para pequenas empresas.",
   alternates: {
-    canonical: absoluteUrl("/guias"),
+    canonical: absoluteUrl("/guias/"),
   },
   openGraph: paginaOpenGraph({
     title: "Decisões digitais explicadas sem enrolação | Avila Ops",
@@ -45,14 +45,14 @@ export default function GuidesPage() {
 
   const renderGuide = (guide: (typeof guides)[number], featured = false) => (
     <article className={featured ? "editorial-card editorial-card-featured" : "editorial-card"} key={guide.slug}>
-      <Link className="editorial-card-media" href={`/guias/${guide.slug}`} aria-label={`Ler: ${guide.title}`}>
+      <Link className="editorial-card-media" href={`/guias/${guide.slug}/`} aria-label={`Ler: ${guide.title}`}>
         <Image src={guideCover(guide.slug)} alt="" fill sizes={featured ? "(max-width: 760px) 100vw, 50vw" : "(max-width: 760px) 100vw, 33vw"} />
       </Link>
       <div className="editorial-card-content">
         <div className="editorial-card-meta"><span>GUIA PRÁTICO</span><span>{estimateGuideMinutes(guide)} MIN</span></div>
-        <h3><Link href={`/guias/${guide.slug}`}>{guide.title}</Link></h3>
+        <h3><Link href={`/guias/${guide.slug}/`}>{guide.title}</Link></h3>
         <p>{guide.description}</p>
-        <Link className="editorial-card-cta" href={`/guias/${guide.slug}`}>Ler guia <span aria-hidden="true">→</span></Link>
+        <Link className="editorial-card-cta" href={`/guias/${guide.slug}/`}>Ler guia <span aria-hidden="true">→</span></Link>
       </div>
     </article>
   );
@@ -60,7 +60,7 @@ export default function GuidesPage() {
   return (
     <main>
       <Header />
-      <Breadcrumbs items={[{ name: "Guias", href: "/guias" }]} />
+      <Breadcrumbs items={[{ name: "Guias", href: "/guias/" }]} />
       <section className="seo-page-hero editorial-index-hero">
         <div className="container">
           <span className="section-index">Avila Ops / Guias</span>
@@ -99,7 +99,7 @@ export default function GuidesPage() {
           <div className="editorial-grid">
             {otherGuides.map((guide) => renderGuide(guide))}
           </div>
-          <Link className="editorial-trail-link" href="/guias/ia">Explorar a trilha de inteligência artificial →</Link>
+          <Link className="editorial-trail-link" href="/guias/ia/">Explorar a trilha de inteligência artificial →</Link>
         </div>
       </section>
       <Footer />

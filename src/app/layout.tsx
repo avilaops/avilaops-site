@@ -1,14 +1,18 @@
 import Script from "next/script";
 import type { Metadata } from "next";
+import { Inter } from "next/font/google";
 import "./globals.css";
 import ThemeProvider from "@/components/ThemeProvider";
 import { scriptInicial } from "@/lib/tema-noturno";
 import { absoluteUrl, logoImageSchema, ogImages, siteConfig } from "@/lib/site";
 
-// Temporarily using system fonts instead of Google Fonts due to Turbopack issues
-const inter = {
+// O next/font baixa a Inter no build e a serve do próprio domínio: nenhum
+// pedido a terceiro em runtime, e a CSP continua com `font-src 'self'`.
+const inter = Inter({
+  subsets: ["latin"],
   variable: "--font-inter",
-};
+  display: "swap",
+});
 
 const logoUrl = absoluteUrl(siteConfig.logoPath);
 const publicPhone = siteConfig.phoneDisplay;

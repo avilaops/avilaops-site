@@ -7,12 +7,12 @@ import Logo from "./Logo";
 import { useTheme } from "./ThemeProvider";
 
 const navLinks = [
-  { label: "Jornada", href: "/jornada" },
-  { label: "Serviços", href: "/servicos" },
-  { label: "Comparativos", href: "/comparativos" },
-  { label: "Segmentos", href: "/segmentos" },
-  { label: "Guias", href: "/guias" },
-  { label: "Traduzindo", href: "/traduzindo" },
+  { label: "Jornada", href: "/jornada/" },
+  { label: "Serviços", href: "/servicos/" },
+  { label: "Comparativos", href: "/comparativos/" },
+  { label: "Segmentos", href: "/segmentos/" },
+  { label: "Guias", href: "/guias/" },
+  { label: "Traduzindo", href: "/traduzindo/" },
 ];
 
 function ThemeToggle() {
@@ -68,14 +68,14 @@ export default function Header() {
         <div className="header-actions">
           <a
             className="app-link desktop-only"
-            href={siteConfig.clientPortalUrl}
+            href={siteConfig.appUrl}
             target="_blank"
             rel="noopener noreferrer"
           >
             Entrar no app
           </a>
           <ThemeToggle />
-          <Link className="button button-small desktop-only" href="/criar-meu-resumo" prefetch={false}>
+          <Link className="button button-small desktop-only" href="/criar-meu-resumo/" prefetch={false}>
             Protótipo grátis
           </Link>
           <button
@@ -108,7 +108,7 @@ export default function Header() {
           <div className="mobile-menu-actions">
             <a
               className="button button-secondary"
-              href={siteConfig.clientPortalUrl}
+              href={siteConfig.appUrl}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -116,7 +116,7 @@ export default function Header() {
             </a>
             <Link
               className="button"
-              href="/criar-meu-resumo"
+              href="/criar-meu-resumo/"
               prefetch={false}
               onClick={() => setMenuOpen(false)}
             >

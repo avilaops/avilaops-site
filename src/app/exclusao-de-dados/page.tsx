@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Exclusão de Dados do Usuário | Avila Ops",
   description:
     "Instruções para solicitar exclusão de dados pessoais e dados de integrações conectadas à Avila Ops.",
-  alternates: { canonical: absoluteUrl("/exclusao-de-dados") },
+  alternates: { canonical: absoluteUrl("/exclusao-de-dados/") },
   robots: { index: true, follow: true },
 };
 

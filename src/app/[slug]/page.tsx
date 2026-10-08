@@ -398,12 +398,12 @@ export async function generateMetadata({
     title: page.title,
     description: page.description,
     alternates: {
-      canonical: absoluteUrl(`/${slug}`),
+      canonical: absoluteUrl(`/${slug}/`),
     },
     openGraph: {
       title: page.title,
       description: page.description,
-      url: absoluteUrl(`/${slug}`),
+      url: absoluteUrl(`/${slug}/`),
       siteName: siteConfig.name,
       locale: siteConfig.locale,
       type: "website",
@@ -451,7 +451,7 @@ export default async function SeoServicePage({
   return (
     <main>
       <Header />
-      <Breadcrumbs items={[{ name: page.h1, href: `/${paramsSlug}` }]} />
+      <Breadcrumbs items={[{ name: page.h1, href: `/${paramsSlug}/` }]} />
       <section className="seo-page-hero">
         <div className="container">
           <span className="section-index">Avila Ops / Operação digital</span>
@@ -461,7 +461,7 @@ export default async function SeoServicePage({
           {page.cta ? (
             <a href={page.cta.href}>{page.cta.label}</a>
           ) : (
-            <Link href="/criar-meu-resumo">Solicitar diagnóstico</Link>
+            <Link href="/criar-meu-resumo/">Solicitar diagnóstico</Link>
           )}
         </div>
       </section>
@@ -529,7 +529,7 @@ export default async function SeoServicePage({
           <h2>Serviços relacionados</h2>
           <div className="seo-related-links">
             {page.related.map((slug) => (
-              <a href={`/${slug}`} key={slug}>
+              <a href={`/${slug}/`} key={slug}>
                 {slug.replaceAll("-", " ")}
               </a>
             ))}

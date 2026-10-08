@@ -5,7 +5,7 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import { getGuide } from "@/lib/seo-guides";
 import { absoluteUrl, siteConfig } from "@/lib/site";
 
-const path = "/guias/ia";
+const path = "/guias/ia/";
 const title = "Guias de IA para pequenas empresas";
 const description =
   "Prompts prontos, atendimento com IA, LGPD e como aparecer nas respostas do ChatGPT e do Google: os guias de inteligência artificial da Avila Ops.";
@@ -46,7 +46,7 @@ const guideSlugs = [
 /** Páginas de IA que vivem fora do índice de guias. */
 const extraGuides = [
   {
-    href: "/guias/ia/prompts-para-ia",
+    href: "/guias/ia/prompts-para-ia/",
     title: "Prompts para IA: 7 efeitos de imagem prontos para copiar",
     description:
       "Biblioteca de prompts em português para editar foto com IA preservando a identidade da pessoa: cromo, clone, boneco, pôster, halo, LEGO e comida Minecraft.",
@@ -63,7 +63,7 @@ export default function GuiasIaPage() {
       <Header />
       <Breadcrumbs
         items={[
-          { name: "Guias", href: "/guias" },
+          { name: "Guias", href: "/guias/" },
           { name: "IA", href: path },
         ]}
       />
@@ -96,7 +96,7 @@ export default function GuiasIaPage() {
               <span>GUIA</span>
               <h2>{guide.title}</h2>
               <p>{guide.description}</p>
-              <a href={`/guias/${guide.slug}`}>Ler guia</a>
+              <a href={`/guias/${guide.slug}/`}>Ler guia</a>
             </article>
           ))}
         </div>

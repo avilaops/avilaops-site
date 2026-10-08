@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Termos de Serviço | Avila Ops",
   description:
     "Condições gerais de uso dos sites, portais, integrações e serviços da Avila Ops.",
-  alternates: { canonical: absoluteUrl("/termos-de-servico") },
+  alternates: { canonical: absoluteUrl("/termos-de-servico/") },
   robots: { index: true, follow: true },
 };
 
@@ -16,12 +16,12 @@ export default function TermsOfServicePage() {
       eyebrow="Termos"
       title="Termos de Serviço"
       description="Estes termos definem as condições de uso dos sites, portais, integrações e serviços operacionais fornecidos pela Avila Ops."
-      updatedAt="30/07/2026"
+      updatedAt="08/10/2026"
       sections={[
         {
           title: "1. Aceitação",
           body: [
-            `Ao acessar ${siteConfig.siteUrl}, ${siteConfig.appUrl}, ${siteConfig.clientPortalUrl} ou contratar serviços da ${siteConfig.legalName}, você concorda com estes Termos de Serviço e com a Política de Privacidade.`,
+            `Ao acessar ${siteConfig.siteUrl}, ${siteConfig.appUrl} ou contratar serviços da ${siteConfig.legalName}, você concorda com estes Termos de Serviço e com a Política de Privacidade.`,
             "Se você usa os serviços em nome de uma empresa, declara que possui autorização para aceitar estes termos em nome dessa empresa.",
           ],
         },

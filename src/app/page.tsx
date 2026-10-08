@@ -16,13 +16,13 @@ export default function Home() {
     <main className="vida-home">
       <Header />
       <Hero />
-      <HomeAppAccess />
       <HomeExplore />
       <Products />
       <HowItWorks />
       <PortfolioGrid />
       <Testimonials />
       <HomeFaq />
+      <HomeAppAccess />
       <section className="vida-finale">
         <div className="container vida-finale-inner">
           <div>

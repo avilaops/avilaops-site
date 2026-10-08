@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Conte onde sua empresa está agora e receba uma leitura inicial, prioridades por impacto e um próximo passo sob medida.",
   alternates: {
-    canonical: absoluteUrl("/contato"),
+    canonical: absoluteUrl("/contato/"),
   },
 };
 
@@ -18,7 +18,7 @@ export default function ContatoPage() {
   return (
     <main>
       <Header />
-      <Breadcrumbs items={[{ name: "Contato", href: "/contato" }]} />
+      <Breadcrumbs items={[{ name: "Contato", href: "/contato/" }]} />
       <Contact />
       <Footer />
     </main>

@@ -18,6 +18,7 @@ artifacts/
 # Gerado no postbuild a partir de config/security-headers.mjs. Versionar
 # criaria uma segunda copia da politica, livre para divergir da fonte.
 nginx/security-headers.conf
+caddy/avilaops-site.caddy
 
 # Ambiente
 .env
@@ -53,3 +54,6 @@ yarn-debug.log*
 
 # Pacote baixado do gerador de favicon
 favicon.zip
+
+# Rascunhos de agente dentro do repositorio
+.work/

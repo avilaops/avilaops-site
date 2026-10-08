@@ -11,7 +11,6 @@ A proposta não é apenas criar sites ou fazer social media. A Avila Ops conecta
 ## Site Oficial
 
 - Home: https://avilaops.com/
-- Portal do cliente: https://cliente.avilaops.com/
 
 ## Canais Oficiais
 

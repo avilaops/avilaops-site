@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Política de Privacidade | Avila Ops",
   description:
     "Como o app Avila Ops e os sites, portais e integrações da Avila Ops coletam, usam, protegem e compartilham dados, incluindo dados recebidos pelo login com o Google.",
-  alternates: { canonical: absoluteUrl("/politica-de-privacidade") },
+  alternates: { canonical: absoluteUrl("/politica-de-privacidade/") },
   robots: { index: true, follow: true },
 };
 
@@ -16,12 +16,12 @@ export default function PrivacyPolicyPage() {
       eyebrow="Privacidade"
       title="Política de Privacidade"
       description="Esta política explica como o app Avila Ops e os sites, portais, integrações e serviços da Avila Ops tratam dados pessoais, incluindo os dados recebidos quando você entra com a sua conta Google."
-      updatedAt="01/10/2026"
+      updatedAt="08/10/2026"
       sections={[
         {
           title: "1. Quem somos",
           body: [
-            `A Avila Ops (${siteConfig.legalName}, Ribeirão Preto, SP, Brasil) é a controladora dos dados tratados nesta política. Operamos o site ${siteConfig.siteUrl}, o app Avila Ops, com login único em https://auth.avilaops.com, o painel de gestão ${siteConfig.appUrl}, o portal do cliente ${siteConfig.clientPortalUrl} e os sistemas que construímos e operamos para nossos clientes, como CRM, lojas virtuais e Saúde Pet.`,
+            `A Avila Ops (${siteConfig.legalName}, Ribeirão Preto, SP, Brasil) é a controladora dos dados tratados nesta política. Operamos o site ${siteConfig.siteUrl}, o app Avila Ops, com login único em https://auth.avilaops.com, o painel de gestão ${siteConfig.appUrl} e os sistemas que construímos e operamos para nossos clientes, como CRM, lojas virtuais e Saúde Pet.`,
             "Atuamos com presença digital, sites, automações, CRM, WhatsApp, Instagram, Meta Ads, pagamentos e suporte operacional para empresas.",
             `Para dúvidas sobre privacidade ou para falar com o responsável pelo tratamento de dados, escreva para ${siteConfig.email}.`,
           ],
@@ -98,7 +98,7 @@ export default function PrivacyPolicyPage() {
           title: "11. Seus direitos e como excluir seus dados",
           body: [
             "Você pode pedir confirmação de tratamento, acesso, correção, atualização, portabilidade, revogação de consentimento e exclusão de dados, conforme a legislação aplicável.",
-            `Para excluir sua conta do app Avila Ops e os dados recebidos do Google, envie um e-mail para ${siteConfig.email} com o assunto "Exclusão de dados" ou siga as instruções em ${absoluteUrl("/exclusao-de-dados")}.`,
+            `Para excluir sua conta do app Avila Ops e os dados recebidos do Google, envie um e-mail para ${siteConfig.email} com o assunto "Exclusão de dados" ou siga as instruções em ${absoluteUrl("/exclusao-de-dados/")}.`,
             "Você também pode retirar o acesso do Avila Ops à sua conta Google a qualquer momento em https://myaccount.google.com/permissions. Depois disso, o login com o Google deixa de funcionar até que você autorize de novo.",
           ],
         },

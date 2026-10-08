@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Comparativos de operação digital | Avila Ops",
   description:
     "Compare Avila Ops com agência tradicional, ferramentas SaaS soltas e presença baseada apenas em Instagram.",
-  alternates: { canonical: absoluteUrl("/comparativos") },
+  alternates: { canonical: absoluteUrl("/comparativos/") },
   openGraph: {
     title: "Comparativos de operação digital | Avila Ops",
     description: "Compare Avila Ops com agência tradicional, ferramentas SaaS soltas e presença baseada apenas em Instagram.",
@@ -27,7 +27,7 @@ export default function ComparisonsPage() {
   return (
     <main>
       <Header />
-      <Breadcrumbs items={[{ name: "Comparativos", href: "/comparativos" }]} />
+      <Breadcrumbs items={[{ name: "Comparativos", href: "/comparativos/" }]} />
       <section className="sc-hero">
         <div className="container sc-hero-grid">
           <div className="sc-hero-copy">

@@ -26,12 +26,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: `${entry.term} | o que é | Avila Ops`,
     description: entry.shortDefinition,
     alternates: {
-      canonical: absoluteUrl(`/glossario/${entry.slug}`),
+      canonical: absoluteUrl(`/glossario/${entry.slug}/`),
     },
     openGraph: {
       title: `${entry.term} | o que é | Avila Ops`,
       description: entry.shortDefinition,
-      url: absoluteUrl(`/glossario/${entry.slug}`),
+      url: absoluteUrl(`/glossario/${entry.slug}/`),
       siteName: siteConfig.name,
       locale: siteConfig.locale,
       type: "article",
@@ -50,8 +50,8 @@ export default async function GlossaryTermPage({ params }: PageProps) {
     "@type": "DefinedTerm",
     name: entry.term,
     description: entry.explanation,
-    inDefinedTermSet: absoluteUrl("/glossario"),
-    url: absoluteUrl(`/glossario/${entry.slug}`),
+    inDefinedTermSet: absoluteUrl("/glossario/"),
+    url: absoluteUrl(`/glossario/${entry.slug}/`),
     inLanguage: siteConfig.language,
     dateModified: reviewedAt,
   };
@@ -62,8 +62,8 @@ export default async function GlossaryTermPage({ params }: PageProps) {
       <article>
         <Breadcrumbs
           items={[
-            { name: "Glossário", href: "/glossario" },
-            { name: entry.term, href: `/glossario/${entry.slug}` },
+            { name: "Glossário", href: "/glossario/" },
+            { name: entry.term, href: `/glossario/${entry.slug}/` },
           ]}
         />
         <section className="seo-page-hero editorial-article-hero glossary-term-hero">

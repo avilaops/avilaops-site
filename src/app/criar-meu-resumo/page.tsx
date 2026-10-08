@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Responda algumas perguntas rápidas sobre o seu projeto e receba um resumo pronto para a gente começar a conversa.",
   alternates: {
-    canonical: absoluteUrl("/criar-meu-resumo"),
+    canonical: absoluteUrl("/criar-meu-resumo/"),
   },
   openGraph: paginaOpenGraph({
     title: "Criar meu resumo | Avila Ops",
@@ -32,7 +32,7 @@ export default function CriarMeuResumoPage() {
   return (
     <main>
       <Header />
-      <Breadcrumbs items={[{ name: "Criar meu resumo", href: "/criar-meu-resumo" }]} />
+      <Breadcrumbs items={[{ name: "Criar meu resumo", href: "/criar-meu-resumo/" }]} />
       <BriefWizard />
       <Footer />
     </main>

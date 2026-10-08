@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Conte sua ideia, veja e ajuste a proposta, publique e evolua. Conheça os três passos para construir a presença digital da sua empresa com a Avila Ops.",
   alternates: {
-    canonical: absoluteUrl("/jornada"),
+    canonical: absoluteUrl("/jornada/"),
   },
   openGraph: {
     title: "Uma boa ideia. Um novo começo. | Avila Ops",
@@ -31,7 +31,7 @@ export default function JornadaPage() {
   return (
     <main>
       <Header />
-      <Breadcrumbs items={[{ name: "Jornada", href: "/jornada" }]} />
+      <Breadcrumbs items={[{ name: "Jornada", href: "/jornada/" }]} />
       <Operations />
       <Footer />
     </main>

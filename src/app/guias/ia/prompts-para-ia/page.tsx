@@ -7,7 +7,7 @@ import PromptCard from "@/components/PromptCard";
 import { aiPrompts } from "@/lib/ai-prompts";
 import { absoluteUrl, siteConfig, whatsappUrl } from "@/lib/site";
 
-const path = "/guias/ia/prompts-para-ia";
+const path = "/guias/ia/prompts-para-ia/";
 const reviewedAt = "2026-08-26";
 
 const title = "Prompts para IA: 7 efeitos de imagem prontos para copiar";
@@ -139,8 +139,8 @@ export default function PromptsParaIaPage() {
       <article>
         <Breadcrumbs
           items={[
-            { name: "Guias", href: "/guias" },
-            { name: "IA", href: "/guias/ia" },
+            { name: "Guias", href: "/guias/" },
+            { name: "IA", href: "/guias/ia/" },
             { name: "Prompts para IA", href: path },
           ]}
         />
@@ -219,7 +219,7 @@ export default function PromptsParaIaPage() {
               WhatsApp, Instagram e automações.
             </p>
             <div className="prompt-cta">
-              <Link className="button" href="/criar-meu-resumo">
+              <Link className="button" href="/criar-meu-resumo/">
                 Quero meu protótipo grátis
               </Link>
               <a
@@ -240,16 +240,16 @@ export default function PromptsParaIaPage() {
           <div className="container">
             <h2>Guias relacionados</h2>
             <div className="seo-related-links">
-              <Link href="/guias/como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias">
+              <Link href="/guias/como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias/">
                 Como fazer minha empresa aparecer no ChatGPT e nas IAs
               </Link>
-              <Link href="/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd">
+              <Link href="/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd/">
                 Como usar IA no atendimento sem violar a LGPD
               </Link>
-              <Link href="/guias/como-aumentar-o-alcance-no-instagram-com-o-algoritmo-atual">
+              <Link href="/guias/como-aumentar-o-alcance-no-instagram-com-o-algoritmo-atual/">
                 Como aumentar o alcance no Instagram
               </Link>
-              <Link href="/guias/como-automatizar-instagram-da-empresa">
+              <Link href="/guias/como-automatizar-instagram-da-empresa/">
                 Como automatizar o Instagram da empresa
               </Link>
             </div>

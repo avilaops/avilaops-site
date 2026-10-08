@@ -41,12 +41,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: `${comparison.title} | Avila Ops`,
     description: comparison.description,
     alternates: {
-      canonical: absoluteUrl(`/comparativos/${comparison.slug}`),
+      canonical: absoluteUrl(`/comparativos/${comparison.slug}/`),
     },
     openGraph: {
       title: `${comparison.title} | Avila Ops`,
       description: comparison.description,
-      url: absoluteUrl(`/comparativos/${comparison.slug}`),
+      url: absoluteUrl(`/comparativos/${comparison.slug}/`),
       siteName: siteConfig.name,
       locale: siteConfig.locale,
       type: "article",
@@ -71,7 +71,7 @@ export default async function ComparisonPage({ params }: PageProps) {
       name: siteConfig.name,
       url: siteConfig.siteUrl,
     },
-    mainEntityOfPage: absoluteUrl(`/comparativos/${comparison.slug}`),
+    mainEntityOfPage: absoluteUrl(`/comparativos/${comparison.slug}/`),
     inLanguage: siteConfig.language,
     datePublished: publishedAt,
     dateModified: reviewedAt,
@@ -84,8 +84,8 @@ export default async function ComparisonPage({ params }: PageProps) {
       <article className="sc-detail">
         <Breadcrumbs
           items={[
-            { name: "Comparativos", href: "/comparativos" },
-            { name: comparison.title, href: `/comparativos/${comparison.slug}` },
+            { name: "Comparativos", href: "/comparativos/" },
+            { name: comparison.title, href: `/comparativos/${comparison.slug}/` },
           ]}
         />
         <section className="sc-detail-hero">

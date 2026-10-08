@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description:
     "Site, identidade visual, loja virtual, marketing e atendimento. Encontre os serviços que fazem sentido para o próximo passo da sua empresa.",
   alternates: {
-    canonical: absoluteUrl("/servicos"),
+    canonical: absoluteUrl("/servicos/"),
   },
   openGraph: paginaOpenGraph({
     title: "Seu negócio tem muito pela frente. | Avila Ops",
@@ -32,7 +32,7 @@ export default function ServicosPage() {
   return (
     <main>
       <Header />
-      <Breadcrumbs items={[{ name: "Serviços", href: "/servicos" }]} />
+      <Breadcrumbs items={[{ name: "Serviços", href: "/servicos/" }]} />
       <Services />
       <ServiceCatalog />
       <Footer />

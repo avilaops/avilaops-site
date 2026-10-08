@@ -31,4 +31,12 @@ Este repositório pertence à Ávila Ops Tecnologia, que ajuda pequenas empresas
 
 ## Este projeto
 
-Ainda sem instruções específicas registradas. Ler o README e a documentação do repositório antes de agir.
+Site institucional `avilaops.com` (Next.js 16, export estático). Ler o README antes de agir.
+
+- **Git:** toda alteração é commitada e enviada direto para a `main`, na mesma tarefa (regra do Nicolas de 2026-10-05). Sem branch nem PR parado.
+- **Push não publica.** O workflow do Actions só constrói a imagem com nginx. Quem põe o site no ar é `npm run deploy` (Windows) ou `npm run deploy:linux`, que envia `out/` para o servidor `applications` e troca o symlink `/var/www/avilaops.com`. Terminou a alteração: push e deploy.
+- **Antes de publicar:** `npm run verificar` (lint, build, SEO, links, cabeçalhos e contraste). Os validadores de cabeçalhos e de contraste precisam do Chromium do Playwright.
+- **Links internos terminam com `/`.** `links:validate` recusa o contrário.
+- **Cor de fundo de seção é variável, não hex.** O tema troca pelo relógio (escuro das 18h às 6h); fundo fixo deixa o texto ilegível em um dos temas. `contraste:validate` confere os dois.
+- **Cabeçalhos HTTP:** a fonte é `config/security-headers.mjs`. Em produção quem serve é o Caddy, que importa `/etc/caddy/avilaops-site.caddy` (gerado no build, enviado pelo deploy). Não editar esse arquivo no servidor.
+- **Domínios citados no site precisam existir.** `cliente.avilaops.com` e `arxisbim.com.br` não resolvem e `crm.avilaops.com` responde 502 (2026-10-08); por isso saíram dos links. Antes de voltar a apontar para um deles, conferir que responde.

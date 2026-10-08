@@ -1,7 +1,7 @@
 .vida-home { --vida-warm: #faf6ef; --vida-peach: #f5c69f; --vida-green: #c8e4d1; --vida-red: #e4513f; --vida-yellow: #f4c544; background: var(--vida-warm); }
 .vida-home h1, .vida-home h2, .vida-home h3 { text-wrap: balance; }
 .vida-home em { color: var(--blue); font-style: normal; }
-.vida-eyebrow { display: inline-flex; align-items: center; gap: 10px; color: var(--muted-foreground); font-family: "Avenir Next", "Segoe UI", "Trebuchet MS", sans-serif; font-size: .76rem; font-weight: 620; letter-spacing: .035em; line-height: 1.6; text-transform: uppercase; }
+.vida-eyebrow { display: inline-flex; align-items: center; gap: 10px; color: var(--muted-foreground); font-family: var(--font-sans); font-size: .76rem; font-weight: 620; letter-spacing: .035em; line-height: 1.6; text-transform: uppercase; }
 .vida-eyebrow i { width: 8px; height: 8px; background: var(--vida-red); border-radius: 50%; box-shadow: 0 0 0 5px color-mix(in srgb, var(--vida-red) 12%, transparent); flex-shrink: 0; }
 .vida-home h2 { margin: 20px 0; font-size: clamp(2.25rem, 4vw, 3.9rem); letter-spacing: -.055em; font-weight: 650; line-height: 1.08; }
 .vida-home p { line-height: 1.75; }
@@ -85,6 +85,8 @@
 html.dark .vida-home { --vida-warm: #111619; --vida-peach: #72523c; --vida-red: #ff7564; --vida-yellow: #f6d05b; }
 html.dark .vida-finale { background: #392a1a; color: #f1f5ff; }
 html.dark .vida-finale p, html.dark .vida-finale .vida-eyebrow { color: #b7c9ef; }
+/* No escuro o --vida-red clareia para #ff7564 e o texto branco do botao cai para 2,6:1. */
+html.dark .vida-finale .button { color: #2a0d08; }
 @media (max-width: 1050px) {
   .vida-hero-grid { gap: 25px; }
   .vida-hero h1 { font-size: clamp(3.2rem, 6vw, 4.8rem); }

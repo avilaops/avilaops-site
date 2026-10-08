@@ -106,7 +106,7 @@ const faqGroups: FaqGroup[] = [
       {
         question: "Como entro em contato com o suporte?",
         answer:
-          `Pelo WhatsApp (${siteConfig.phoneDisplay}) ou pelo e-mail ${siteConfig.email}. Clientes com portal ativo também podem abrir solicitações diretamente em ${siteConfig.clientPortalUrl}.`,
+          `Pelo WhatsApp (${siteConfig.phoneDisplay}) ou pelo e-mail ${siteConfig.email}.`,
       },
     ],
   },
@@ -116,12 +116,12 @@ export const metadata: Metadata = {
   title: "Perguntas frequentes | Avila Ops",
   description:
     "Respostas diretas sobre WhatsApp Business API, site, CRM, Meta Ads, dados, contrato e suporte da Avila Ops.",
-  alternates: { canonical: absoluteUrl("/faq") },
+  alternates: { canonical: absoluteUrl("/faq/") },
   openGraph: {
     title: "Perguntas frequentes | Avila Ops",
     description:
       "Respostas diretas sobre WhatsApp Business API, site, CRM, Meta Ads, dados, contrato e suporte da Avila Ops.",
-    url: absoluteUrl("/faq"),
+    url: absoluteUrl("/faq/"),
     siteName: siteConfig.name,
     locale: siteConfig.locale,
     type: "website",
@@ -148,7 +148,7 @@ export default function FaqPage() {
   return (
     <main>
       <Header />
-      <Breadcrumbs items={[{ name: "Perguntas frequentes", href: "/faq" }]} />
+      <Breadcrumbs items={[{ name: "Perguntas frequentes", href: "/faq/" }]} />
       <section className="seo-page-hero">
         <div className="container">
           <span className="section-index">Avila Ops / FAQ</span>
@@ -187,7 +187,7 @@ export default function FaqPage() {
               "glossario/whatsapp-business-api",
               "guias",
             ].map((slug) => (
-              <a href={`/${slug}`} key={slug}>
+              <a href={`/${slug}/`} key={slug}>
                 {slug.split("/").pop()?.replaceAll("-", " ")}
               </a>
             ))}

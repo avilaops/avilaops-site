@@ -29,12 +29,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: `${guide.title} | Avila Ops`,
     description: guide.description,
     alternates: {
-      canonical: absoluteUrl(`/guias/${guide.slug}`),
+      canonical: absoluteUrl(`/guias/${guide.slug}/`),
     },
     openGraph: {
       title: `${guide.title} | Avila Ops`,
       description: guide.description,
-      url: absoluteUrl(`/guias/${guide.slug}`),
+      url: absoluteUrl(`/guias/${guide.slug}/`),
       siteName: siteConfig.name,
       locale: siteConfig.locale,
       type: "article",
@@ -79,7 +79,7 @@ export default async function GuidePage({ params }: PageProps) {
       name: siteConfig.name,
       url: siteConfig.siteUrl,
     },
-    mainEntityOfPage: absoluteUrl(`/guias/${guide.slug}`),
+    mainEntityOfPage: absoluteUrl(`/guias/${guide.slug}/`),
     inLanguage: siteConfig.language,
     datePublished: reviewedAt,
     dateModified: reviewedAt,
@@ -106,8 +106,8 @@ export default async function GuidePage({ params }: PageProps) {
       <article>
         <Breadcrumbs
           items={[
-            { name: "Guias", href: "/guias" },
-            { name: guide.title, href: `/guias/${guide.slug}` },
+            { name: "Guias", href: "/guias/" },
+            { name: guide.title, href: `/guias/${guide.slug}/` },
           ]}
         />
         <section className="seo-page-hero editorial-article-hero">
@@ -164,7 +164,7 @@ export default async function GuidePage({ params }: PageProps) {
                 const relatedGuide = getGuide(relatedSlug);
                 return (
                   <a className="editorial-related-card"
-                    href={relatedGuide ? `/guias/${relatedSlug}` : `/${relatedSlug}`}
+                    href={relatedGuide ? `/guias/${relatedSlug}/` : `/${relatedSlug}/`}
                     key={relatedSlug}
                   >
                     {relatedGuide ? <><Image src={guideCover(relatedGuide.slug)} alt="" width={240} height={126} /><span>{relatedGuide.title}</span></> : <span>{relatedSlug.replaceAll("-", " ")}</span>}
