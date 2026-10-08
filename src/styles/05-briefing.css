@@ -119,7 +119,7 @@
 }
 
 .brief-card.selected .brief-card-icon {
-  background: var(--blue);
+  background: var(--blue-solid);
   color: #fff;
 }
 
@@ -236,7 +236,7 @@
 }
 
 .brief-voice-button.recording .brief-voice-icon {
-  background: var(--blue);
+  background: var(--blue-solid);
   color: #fff;
   animation: brief-voice-pulse 1.4s var(--ease-out-quart) infinite;
 }

@@ -1,4 +1,4 @@
-.vida-home { --vida-warm: #faf6ef; --vida-peach: #f5c69f; --vida-green: #c8e4d1; --vida-red: #e4513f; --vida-yellow: #f4c544; background: var(--vida-warm); }
+.vida-home { --vida-warm: #faf6ef; --vida-peach: #f5c69f; --vida-green: #c8e4d1; --vida-red: #d4402e; --vida-yellow: #f4c544; background: var(--vida-warm); }
 .vida-home h1, .vida-home h2, .vida-home h3 { text-wrap: balance; }
 .vida-home em { color: var(--blue); font-style: normal; }
 .vida-eyebrow { display: inline-flex; align-items: center; gap: 10px; color: var(--muted-foreground); font-family: var(--font-sans); font-size: .76rem; font-weight: 620; letter-spacing: .035em; line-height: 1.6; text-transform: uppercase; }
@@ -121,11 +121,11 @@ html.dark .vida-finale .button { color: #2a0d08; }
   .vida-finale-inner { align-items: flex-start; flex-direction: column; gap: 24px; }
 }
 @media (max-width: 580px) {
-  .vida-eyebrow { font-size: .64rem; letter-spacing: .045em; }
+  .vida-eyebrow { font-size: 0.69rem; letter-spacing: .045em; }
   .vida-hero h1 { font-size: clamp(3rem, 13.8vw, 4.4rem); }
   .vida-actions { gap: 8px; align-items: flex-start; flex-direction: column; }
-  .vida-art-stamp { width: 88px; height: 88px; font-size: .6rem; }
-  .vida-art-note { padding: 11px 12px; font-size: .65rem; }
+  .vida-art-stamp { width: 88px; height: 88px; font-size: 0.69rem; }
+  .vida-art-note { padding: 11px 12px; font-size: 0.69rem; }
   .vida-outcomes { grid-template-columns: 1fr; gap: 15px; padding-block: 24px; }
   .vida-outcomes > span { display: block; font-size: .76rem; }
   .vida-outcomes strong { display: block; margin-bottom: 3px; }

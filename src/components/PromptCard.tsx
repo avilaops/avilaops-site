@@ -120,7 +120,7 @@ export default function PromptCard({
           <span className="console-label">Prompt</span>
           <CopyButton text={prompt.prompt} targetId={textId} />
         </div>
-        <pre className="prompt-text" id={textId}>
+        <pre className="prompt-text" id={textId} tabIndex={0}>
           {prompt.prompt}
         </pre>
       </div>

@@ -235,7 +235,7 @@
    site do cliente fica em secundário. */
 .portfolio-dialog-similar {
   border: 1px solid var(--blue);
-  background: var(--blue);
+  background: var(--blue-solid);
   color: #fff;
 }
 

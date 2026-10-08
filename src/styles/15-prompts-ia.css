@@ -157,7 +157,7 @@
   background: var(--surface);
   color: var(--muted-foreground);
   font-family: "SFMono-Regular", Consolas, monospace;
-  font-size: 0.62rem;
+  font-size: 0.69rem;
   font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -270,7 +270,7 @@
   height: 6px;
   border: 0;
   border-radius: 999px;
-  background: var(--blue);
+  background: var(--blue-solid);
 }
 
 .prompt-cta-text {
@@ -364,3 +364,5 @@
     padding: 32px;
   }
 }
+
+html.dark .prompt-index { color: var(--blue-hover); }

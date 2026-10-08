@@ -39,7 +39,7 @@ export default function GlossaryPage() {
         <div className="container editorial-grid glossary-grid">
           {glossaryTerms.map((entry) => (
             <article className="editorial-card glossary-card" key={entry.slug}>
-              <a className="editorial-card-media" href={`/glossario/${entry.slug}/`}>
+              <a className="editorial-card-media" href={`/glossario/${entry.slug}/`} aria-label={`Entender: ${entry.term}`}>
                 <Image src={glossaryCover(entry.slug)} alt="" fill sizes="(max-width: 760px) 100vw, 33vw" />
               </a>
               <div className="editorial-card-content">

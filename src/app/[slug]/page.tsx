@@ -394,16 +394,22 @@ export async function generateMetadata({
   const page = getPage(slug);
   if (!page) return {};
 
+  // Um apelido entrega o mesmo conteúdo da página principal, palavra por
+  // palavra. Com canônica própria, eram 14 URLs disputando a mesma busca com
+  // título e descrição idênticos; apontando para a principal, o apelido
+  // continua abrindo para quem chega por link antigo e deixa de competir.
+  const canonical = absoluteUrl(`/${aliases[slug] ?? slug}/`);
+
   return {
     title: page.title,
     description: page.description,
     alternates: {
-      canonical: absoluteUrl(`/${slug}/`),
+      canonical,
     },
     openGraph: {
       title: page.title,
       description: page.description,
-      url: absoluteUrl(`/${slug}/`),
+      url: canonical,
       siteName: siteConfig.name,
       locale: siteConfig.locale,
       type: "website",

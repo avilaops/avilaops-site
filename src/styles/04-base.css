@@ -5,9 +5,12 @@
   --surface-strong: #dfe4ec;
   --foreground: #0b0e14;
   --muted-foreground: #5f6878;
-  --quiet-foreground: #788293;
+  --quiet-foreground: #667085;
   /* Fundos de secao que eram hex fixo. Como variavel eles escurecem junto
      com o tema; fixos, o texto do tema escuro sumia sobre o creme. */
+  /* Fundo de botao. Separado do --blue, que no tema escuro clareia para
+     servir de texto e deixaria o rotulo branco do botao com 3,7:1. */
+  --blue-solid: #225cf2;
   --paper: #fffaf2;
   --paper-cool: #f2f5f9;
   --card: #ffffff;
@@ -37,7 +40,8 @@ html.dark {
   --surface-strong: #18202d;
   --foreground: #f2f5fa;
   --muted-foreground: #9aa5b7;
-  --quiet-foreground: #687386;
+  --quiet-foreground: #8791a3;
+  --blue-solid: #2f5fe8;
   --paper: #111619;
   --paper-cool: #080b11;
   --card: #111722;
@@ -95,7 +99,7 @@ button {
 }
 
 ::selection {
-  background: var(--blue);
+  background: var(--blue-solid);
   color: #fff;
 }
 
@@ -108,7 +112,7 @@ button {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--blue);
+  background: var(--blue-solid);
   border-radius: 99px;
 }
 
@@ -156,7 +160,7 @@ button {
   padding: 0 22px;
   border: 1px solid var(--blue);
   border-radius: 10px;
-  background: var(--blue);
+  background: var(--blue-solid);
   color: #fff;
   display: inline-flex;
   align-items: center;

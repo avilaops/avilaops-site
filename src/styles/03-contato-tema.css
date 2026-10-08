@@ -3,10 +3,10 @@
 .contact-section::after { content: ""; position: absolute; width: 180px; height: 180px; right: 5%; top: 12%; border-radius: 50%; background: #f4c544; opacity: .24; pointer-events: none; }
 .contact-copy h1 { max-width: 650px; font-size: clamp(2.7rem, 5.2vw, 5rem); }
 .contact-promises div:nth-child(2) span { color: #d5a500; }
-.contact-promises div:nth-child(3) span { color: #e4513f; }
+.contact-promises div:nth-child(3) span { color: #d4402e; }
 .direct-contact { font-family: var(--font-sans); font-size: .84rem; }
-.diagnostic-form { position: relative; z-index: 1; border-top: 4px solid #e4513f; box-shadow: 0 28px 70px rgba(74, 43, 21, .14); }
-.form-submit { background: #e4513f; border-color: #e4513f; }
+.diagnostic-form { position: relative; z-index: 1; border-top: 4px solid #d4402e; box-shadow: 0 28px 70px rgba(74, 43, 21, .14); }
+.form-submit { background: #d4402e; border-color: #d4402e; }
 .form-submit:hover { background: #c83b2e; border-color: #c83b2e; }
 html.dark .contact-section { background: linear-gradient(135deg, var(--background), #261d16 72%, #352019); }
 html.dark .contact-section::after { opacity: .14; }

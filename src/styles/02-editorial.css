@@ -31,7 +31,7 @@
 .editorial-hero-stats strong { color: #fff; }
 
 .editorial-library-section { padding-block: 96px; }
-.editorial-library-dark { background: #0a0e17; color: #f7f9ff; }
+.editorial-library-dark { --blue: #7da5ff; background: #0a0e17; color: #f7f9ff; }
 .editorial-section-heading { display: grid; gap: 14px; margin-bottom: 42px; }
 .editorial-section-heading h2 { max-width: 900px; margin: 0; font-size: clamp(2rem, 5vw, 4rem); }
 .editorial-section-heading p { max-width: 720px; margin: 0; color: var(--muted-foreground); font-size: 1.1rem; line-height: 1.7; }
@@ -47,7 +47,7 @@
 .editorial-card:hover .editorial-card-media img { transform: scale(1.035); }
 .editorial-card-content { display: flex; flex: 1; flex-direction: column; gap: 15px; padding: 24px; }
 .editorial-card-featured .editorial-card-content { padding: 28px; }
-.editorial-card-meta { display: flex; justify-content: space-between; gap: 12px; color: var(--blue); font: 700 .65rem/1.2 var(--font-mono); letter-spacing: .1em; }
+.editorial-card-meta { display: flex; justify-content: space-between; gap: 12px; color: var(--blue); font: 700 .69rem/1.2 var(--font-mono); letter-spacing: .1em; }
 /* Titulo do card e h3: o h2 fica para o titulo da secao que agrupa os
    cards, que antes era irmao deles em vez de pai. */
 .editorial-card h3 { margin: 0; font-size: clamp(1.35rem, 2.2vw, 2rem); line-height: 1.08; }
@@ -67,11 +67,11 @@
 
 .editorial-answer-band { padding: 42px 0; border-block: 1px solid #253047; background: #0b111d; color: #fff; }
 .editorial-answer-grid { display: grid; grid-template-columns: 180px minmax(0, 850px); gap: 34px; }
-.editorial-answer-grid > span { color: #79a1ff; font: 750 .68rem/1.4 var(--font-mono); letter-spacing: .12em; }
+.editorial-answer-grid > span { color: #79a1ff; font: 750 .69rem/1.4 var(--font-mono); letter-spacing: .12em; }
 .editorial-answer-grid p { margin: 0; font-size: clamp(1.15rem, 2vw, 1.55rem); line-height: 1.6; }
 .editorial-reading-layout { display: grid; grid-template-columns: 230px minmax(0, 820px); justify-content: center; gap: clamp(42px, 7vw, 96px); padding-block: 88px; }
 .editorial-toc { position: sticky; top: 110px; align-self: start; }
-.editorial-toc > span, .editorial-section-number { color: var(--blue); font: 750 .67rem/1.4 var(--font-mono); letter-spacing: .1em; }
+.editorial-toc > span, .editorial-section-number { color: var(--blue); font: 750 .69rem/1.4 var(--font-mono); letter-spacing: .1em; }
 .editorial-toc ol { display: grid; gap: 13px; margin: 20px 0 0; padding-left: 20px; color: var(--quiet-foreground); }
 .editorial-toc a { color: var(--muted-foreground); font-size: .84rem; line-height: 1.45; text-decoration: none; }
 .editorial-toc a:hover { color: var(--blue); }

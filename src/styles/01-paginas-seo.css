@@ -67,6 +67,12 @@
   text-decoration: none;
 }
 
+/* Link e texto tem a mesma cor na trilha: o sublinhado e o que os separa. */
+.legal-hero .breadcrumbs a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .legal-hero h1 {
   max-width: 900px;
   margin: 18px 0;
@@ -115,6 +121,13 @@
 
 .legal-summary strong {
   color: var(--foreground);
+}
+
+/* Link no meio do texto se distingue pelo sublinhado, nao so pela cor. */
+.legal-page p a,
+.legal-page li a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .legal-summary a {
@@ -270,7 +283,7 @@
 .seo-guide-list span {
   color: var(--blue);
   font-family: "SFMono-Regular", Consolas, monospace;
-  font-size: 0.6rem;
+  font-size: 0.69rem;
   font-weight: 700;
   letter-spacing: 0.1em;
 }

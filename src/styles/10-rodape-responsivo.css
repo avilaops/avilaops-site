@@ -31,7 +31,7 @@
   margin-bottom: 6px;
   color: var(--blue);
   font-family: "SFMono-Regular", Consolas, monospace;
-  font-size: 0.58rem;
+  font-size: 0.69rem;
   font-weight: 700;
   letter-spacing: 0.1em;
 }
@@ -69,7 +69,7 @@
   margin: 0;
   color: var(--quiet-foreground);
   font-family: "SFMono-Regular", Consolas, monospace;
-  font-size: 0.58rem;
+  font-size: 0.69rem;
   text-decoration: none;
 }
 
@@ -218,5 +218,16 @@
   .legal-content,
   .legal-summary {
     padding: 24px 18px;
+  }
+}
+
+/* No toque, cada link do rodape precisa de area propria: em linha corrida
+   eles ficavam com 18px de altura, um colado no outro. */
+@media (pointer: coarse) {
+  .footer-column a,
+  .footer-bottom a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 32px;
   }
 }

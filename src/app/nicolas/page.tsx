@@ -52,9 +52,9 @@ const botao = (destaque?: boolean): React.CSSProperties => ({
   borderRadius: 14,
   textDecoration: "none",
   fontWeight: 600,
-  background: destaque ? "var(--blue)" : "var(--surface-soft)",
+  background: destaque ? "var(--blue-solid)" : "var(--surface-soft)",
   color: destaque ? "#fff" : "var(--foreground)",
-  border: destaque ? "1px solid var(--blue)" : "1px solid var(--border)",
+  border: destaque ? "1px solid var(--blue-solid)" : "1px solid var(--border)",
 });
 
 export default function CartaoNicolas() {
@@ -111,7 +111,7 @@ export default function CartaoNicolas() {
           {acoes.map((a) => (
             <a key={a.rotulo} href={a.href} target={a.href.startsWith("http") ? "_blank" : undefined} rel="noopener" style={botao(a.destaque)}>
               <span>{a.rotulo}</span>
-              <span style={{ fontWeight: 400, fontSize: 14, opacity: 0.85 }}>{a.detalhe}</span>
+              <span style={{ fontWeight: 400, fontSize: 14 }}>{a.detalhe}</span>
             </a>
           ))}
         </div>
