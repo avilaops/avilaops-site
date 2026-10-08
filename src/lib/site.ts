@@ -15,7 +15,9 @@ export const siteConfig = {
   appUrl: process.env.NEXT_PUBLIC_APP_URL || "https://app.avilaops.com",
   whatsapp,
   phoneDisplay: `+${whatsapp}`,
-  email: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "nicolas@avilaops.com",
+  email: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "comercial@avilaops.com",
+  /** Contato pessoal do fundador: só o cartão em /nicolas/ usa. */
+  founderEmail: "nicolas@avilaops.com",
   instagramUrl:
     process.env.NEXT_PUBLIC_INSTAGRAM_URL ||
     "https://instagram.com/avila.ops",
