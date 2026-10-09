@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-08-01"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/e-mail-profissional/", "/guias/o-que-e-engenharia-social/", "/contato/"]
 ---
 
@@ -32,7 +33,7 @@ Outro que atinge empresas: o e-mail que imita o Registro.br avisando que o domí
 
 Não clique. Abra o site do banco ou do fornecedor digitando o endereço, ou ligue no telefone que você já tem salvo. Se a pendência for real, ela vai estar lá.
 
-Confira o remetente completo, não só o nome. No celular, toque no nome para ver o endereço. Boleto que chega por e-mail: confira o beneficiário no aplicativo do banco antes de pagar. Em agosto isso importa mais, porque muito fornecedor manda cobrança de campanha de Dia dos Pais.
+Confira o remetente completo, não só o nome. No celular, toque no nome para ver o endereço. Boleto que chega por e-mail: confira o beneficiário no aplicativo do banco antes de pagar. Perto de datas comerciais, como o Dia dos Pais, isso importa mais, porque chega muita cobrança de campanha e o golpe se mistura a ela.
 
 Se alguém da equipe clicou e digitou senha, troque a senha na hora, ative a verificação em duas etapas e avise o banco. Vergonha não resolve; velocidade resolve.
 

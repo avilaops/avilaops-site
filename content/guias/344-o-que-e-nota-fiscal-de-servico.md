@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-08-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/reforma-tributaria-o-que-muda-na-operacao-digital-da-empresa/", "/guias/o-que-e-terceirizacao-e-o-que-ela-nao-resolve/", "/contato/"]
 ---
 

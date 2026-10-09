@@ -9,14 +9,15 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-08-07"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/reajuste-anual-como-comunicar-sem-perder-base/", "/guias/cliente-antigo-com-preco-antigo-o-que-fazer/", "/jornada/"]
 ---
 
 # O que é reajuste anual e como calcular
 
-Reajuste anual é a correção do preço de um serviço ou contrato uma vez por ano, para repor o que os custos subiram nesse período. Não é aumento de margem. É manter a mesma margem com custos maiores. Sem reajuste, a empresa cobra o preço de 2026 com o aluguel, a folha e o fornecedor de 2027, e a diferença sai do lucro.
+Reajuste anual é a correção do preço de um serviço ou contrato uma vez por ano, para repor o que os custos subiram nesse período. Não é aumento de margem. É manter a mesma margem com custos maiores. Sem reajuste, a empresa cobra o preço do ano passado com o aluguel, a folha e o fornecedor deste ano, e a diferença sai do lucro.
 
 Para quem vende serviço recorrente, como mensalidade, manutenção, assinatura ou contrato de prestação, o reajuste é a única forma de o preço acompanhar a realidade sem renegociar tudo do zero.
 
@@ -28,7 +29,7 @@ O índice, porém, mede a inflação média do país, não a sua. Se o seu maior
 
 ## Quando aplicar o reajuste?
 
-Na data de aniversário do contrato, ou numa data fixa para todos os clientes. Fazer a conta em agosto ajuda: você vê o ano quase inteiro, ainda dá tempo de avisar com 30 dias e o novo preço entra antes do planejamento do ano seguinte.
+Na data de aniversário do contrato, ou numa data fixa para todos os clientes. Fazer a conta no segundo semestre ajuda: você já vê a maior parte do ano, ainda dá tempo de avisar com 30 dias e o novo preço entra antes do planejamento do ano seguinte.
 
 Coloque a regra no contrato desde o primeiro cliente. Cláusula de reajuste anual pelo índice X é comum, o cliente espera e evita a discussão. O que gera atrito é reajustar sem cláusula ou pular dois anos e aplicar tudo de uma vez.
 

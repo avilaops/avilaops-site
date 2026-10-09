@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-08-09"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/primeira-contratacao-o-que-delegar-primeiro/", "/guias/como-automatizar-minha-empresa/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -26,7 +27,7 @@ Faça três perguntas sobre a tarefa. Ela se repete do mesmo jeito? Dá para diz
 
 Agendar, responder dúvida frequente, embalar, emitir nota, postar no Instagram com pauta pronta, cadastrar produto, conferir estoque: três sim. Negociar desconto, aprovar compra acima de certo valor, responder reclamação grave: dois sim, com regra clara e limite. Definir preço, contratar, demitir, decidir onde investir: fica com o dono.
 
-Uma parte do que se repete nem precisa de pessoa. Resposta automática no WhatsApp para horário e endereço, cobrança que vai sozinha, planilha que se atualiza a partir do sistema. Antes de delegar para alguém, veja se dá para delegar para uma automação.
+Uma parte do que se repete nem precisa de pessoa. Mensagem de saudação do WhatsApp Business com horário e endereço, cobrança que vai sozinha, planilha que se atualiza a partir do sistema. Antes de delegar para alguém, veja se dá para delegar para uma automação.
 
 ## Por que delegar dá errado tantas vezes?
 
