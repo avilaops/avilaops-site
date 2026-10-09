@@ -5,12 +5,13 @@ import { guides, guideCover } from "@/lib/seo-guides";
 import assets from "../../../content/imagens.json";
 import legacyAlts from "../../../content/imagens-legado.json";
 import { type Post, type EditorialImage, slugify } from "./model";
+import { validDate, validatePosts } from "./validation";
 
 // Adaptador local executado no build. Um CMS deve mapear sua resposta para Post,
 // aplicar esta mesma política editorial e disparar novo build por webhook.
 const today = () => new Intl.DateTimeFormat("en-CA", { timeZone: "America/Sao_Paulo", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
 export function canPublish(status: string, date: string, now = today()) {
-  return status === "aprovado" && /^\d{4}-\d{2}-\d{2}$/.test(date) && date <= now;
+  return status === "aprovado" && validDate(date) && date <= now;
 }
 const team: Post["author"] = {
   name: "Equipe Avila Ops", type: "Organization", url: "/",
@@ -57,9 +58,11 @@ export function getPosts(): Post[] {
       faq: [...(content.split(/^## Perguntas frequentes\s*$/m)[1] || "").matchAll(/\*\*([^\n]+?)\*\*\s*\n([\s\S]*?)(?=\n\s*\*\*|$)/g)].map(match => ({ question: match[1], answer: match[2].trim() })),
     }];
   });
+  validatePosts(incoming, today());
   const merged = new Map(existing.map(post => [post.slug, post]));
   incoming.forEach(post => merged.set(post.slug, post));
   buildSnapshot = [...merged.values()].sort((a, b) => (b.publishedAt || b.updatedAt || "").localeCompare(a.publishedAt || a.updatedAt || "") || a.title.localeCompare(b.title, "pt-BR"));
+  validatePosts(buildSnapshot, today());
   return buildSnapshot;
 }
 export const getPost = (slug: string) => getPosts().find(post => post.slug === slug);

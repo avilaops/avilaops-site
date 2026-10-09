@@ -98,3 +98,17 @@ manifesto `content/previews-editoriais.json` são versionados. Ao alterar conte�
 de uma imagem já publicada, criar nova versão de arquivo para evitar cache de
 compartilhamento. Os 17 cards são composições tipográficas, não novas fotografias
 nem substituição do projeto completo de ilustrações internas.
+
+## Validação do contrato antes do export
+
+O adaptador valida o contrato público de todos os artigos no build: campos
+obrigatórios, slugs únicos, datas reais e não futuras, revisão posterior ou
+igual à publicação, alt e dimensões positivas. A primeira publicação do
+legado continua opcional porque não há data comprovada. Datas inexistentes
+(como 30 de fevereiro) não liberam publicação. Duas entradas aprovadas com
+o mesmo slug interrompem o build em vez de sobrescrever conteúdo silenciosamente.
+
+`npm run editorial:test`, incluído em `npm run verificar`, cobre essas
+regressões. Um futuro adaptador de CMS deve chamar `validatePosts` antes de
+entregar os dados aos templates. Isto valida os dados; não substitui revisão
+humana nem significa que um CMS externo já está conectado.

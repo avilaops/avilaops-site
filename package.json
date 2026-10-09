@@ -25,10 +25,11 @@
     "leads:validate": "node scripts/validar-formulario-producao.mjs",
     "links:validate": "node scripts/validar-links.mjs",
     "contraste:validate": "node scripts/validar-contraste.mjs",
-    "verificar": "npm run lint && npm run build && npm run seo:validate:export && npm run editorial:validate && npm run links:validate && npm run headers:validate && npm run contraste:validate",
+    "verificar": "npm run lint && npm run editorial:test && npm run build && npm run seo:validate:export && npm run editorial:validate && npm run links:validate && npm run headers:validate && npm run contraste:validate",
     "deploy:linux": "npm run verificar && bash scripts/deploy-avilaops-com.sh && npm run headers:validate:public && npm run leads:validate && npm run seo:validate",
     "editorial:validate": "node scripts/validar-editorial.mjs",
-    "editorial:previews": "tsx scripts/gerar-previews-editoriais.mts"
+    "editorial:previews": "tsx scripts/gerar-previews-editoriais.mts",
+    "editorial:test": "tsx scripts/testar-contrato-editorial.mts"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
