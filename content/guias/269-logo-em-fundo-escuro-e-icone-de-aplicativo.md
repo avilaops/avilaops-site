@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-27"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-favicon-icone-da-aba/", "/guias/cor-fonte-e-logo-num-arquivo-so/", "/identidade-visual/"]
 ---
 

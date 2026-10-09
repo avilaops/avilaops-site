@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/confirmacao-de-agendamento-que-reduz-falta/", "/guias/lista-de-espera-para-agenda-cheia/", "/jornada/"]
 ---
 
@@ -55,4 +56,4 @@ Pode, se a regra estava clara e aceita antes da marcação. Sem aviso prévio da
 Não existe número de mercado confiável para citar. O que importa é o seu: conte as faltas de um mês, aplique a confirmação e conte de novo no mês seguinte.
 
 **Lembrete por WhatsApp resolve sozinho?**
-Resolve boa parte. O lembrete precisa pedir resposta ("confirma?") e alguém precisa agir se a resposta for "não" ou se não vier.
+Resolve boa parte. Se o envio for automático, precisa ser pela API oficial do WhatsApp, com modelo aprovado e cliente que aceitou receber. O lembrete precisa pedir resposta ("confirma?") e alguém precisa agir se a resposta for "não" ou se não vier.

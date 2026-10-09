@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-30"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-no-show-e-quanto-custa/", "/guias/lista-de-espera-para-agenda-cheia/", "/guias/como-automatizar-whatsapp-da-empresa/", "/automatizar-whatsapp/"]
 ---
 
@@ -49,7 +50,7 @@ A vaga liberada não tem valor se ninguém a preenche. A lista de espera é a ou
 
 ## Como automatizar sem parecer robô?
 
-Avise ao marcar que a confirmação vai pelo WhatsApp: no envio automático, a política do WhatsApp Business exige que o cliente aceite receber mensagens. Depois, cuide de:
+Avise ao marcar que a confirmação vai pelo WhatsApp e registre o aceite: envio automático só pela API oficial do WhatsApp, com modelo de mensagem aprovado, e a política do WhatsApp exige que o cliente aceite receber mensagens. No aplicativo WhatsApp Business, as respostas rápidas ajudam, mas o envio é manual. Depois, cuide de:
 
 1. Nome e profissional na mensagem. "Seu horário com a Carla" é diferente de "seu agendamento". A automação preenche a partir da agenda; o texto continua pessoal.
 2. Resposta fora do SIM e do NÃO vai para uma pessoa. Se o cliente escreve "posso chegar 15 minutos atrasada?", a automação não tenta responder. Passa para quem atende, com a conversa inteira.

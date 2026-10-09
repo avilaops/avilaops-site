@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-06"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-identidade-visual-o-que-entra/", "/guias/como-automatizar-whatsapp-da-empresa/", "/identidade-visual/"]
 ---
 
@@ -34,7 +35,7 @@ O tom certo não é o mais simpático; é o que combina com o que você vende e 
 
 Anote as três decisões numa página, junto do manual de marca. A parte visual está em https://avilaops.com/guias/o-que-e-identidade-visual-o-que-entra/.
 
-Numa floricultura que decide falar de perto, por "você", e proíbe "promoção imperdível", a mensagem de Dia das Mães sai assim: "Oi, Carla. As orquídeas chegaram hoje. Se quiser uma para a sua mãe, reservo até sexta e entrego sábado de manhã." Quem lê sabe que é a mesma loja do Instagram.
+Numa floricultura que decide falar de perto, por "você", e proíbe "promoção imperdível", a mensagem de Dia das Mães, para quem aceitou receber novidades, sai assim: "Oi, Carla. As orquídeas chegaram hoje. Se quiser uma para a sua mãe, reservo até sexta e entrego sábado de manhã." Quem lê sabe que é a mesma loja do Instagram.
 
 ## O que fazer agora
 

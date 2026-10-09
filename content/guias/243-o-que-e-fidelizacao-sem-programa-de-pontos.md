@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-01"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/crm/", "/guias/crm-para-pequenas-empresas-com-whatsapp/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -36,7 +37,7 @@ Uma floricultura que entrega 80 arranjos de Dia das Mães manda, dois dias depoi
 
 ## O que fazer agora
 
-Pegue os clientes de maio e anote o que cada um comprou. Depois decida onde isso vai morar: caderno, planilha ou CRM. Saiba quantas mensagens viram venda e quantos clientes voltam: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Pegue os clientes da última data forte (Dia das Mães, Dia dos Pais, Natal) e anote o que cada um comprou. Depois decida onde isso vai morar: caderno, planilha ou CRM. Saiba quantas mensagens viram venda e quantos clientes voltam: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
@@ -44,7 +45,7 @@ Pegue os clientes de maio e anote o que cada um comprou. Depois decida onde isso
 Para compra frequente e barata (café, lanche, lavagem de carro), o cartão carimbado funciona e custa quase nada. Para compra rara e cara (móvel, joia, serviço), não. Ali o que fideliza é atendimento e memória.
 
 **Como medir se estou fidelizando?**
-Conte quantos clientes compraram mais de uma vez nos últimos 12 meses e divida pelo total. Essa é a sua taxa de recompra. Se não consegue calcular, esse é o primeiro problema a resolver.
+Conte quantos clientes compraram mais de uma vez nos últimos 12 meses e divida pelo total de clientes que compraram nesses mesmos 12 meses. Essa é a sua taxa de recompra. Se não consegue calcular, esse é o primeiro problema a resolver.
 
 **Fidelização serve para serviço, não só para loja?**
 Serve até melhor. Salão, clínica, oficina e escritório vivem de cliente que volta. A ferramenta é a mesma: histórico, contato depois do serviço e facilidade para marcar de novo.

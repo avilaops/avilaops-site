@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-fidelizacao-sem-programa-de-pontos/", "/guias/lista-de-espera-para-agenda-cheia/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -51,7 +52,7 @@ Quem cumpre uma das três é fiel. No cadastro, uma marcação: "fiel desde 03/2
 
 Em planilha, isso é uma coluna. Em CRM (sistema que guarda o histórico de cada cliente), é automático: o sistema conta as compras e marca. E a lista de "fiéis que não compram há 60 dias" aparece sozinha, porque cliente fiel que some costuma ser a perda mais cara.
 
-Um pet shop pode marcar como fiel quem compra ração há mais de um ano. Quando chega a linha nova, esses recebem a foto na terça; o Instagram só vê na quinta. Quando o entregador atrasa, o fiel recebe o aviso antes de perguntar. Nenhum deles ganha desconto.
+Um pet shop pode marcar como fiel quem compra ração há mais de um ano. Quando chega a linha nova, os que aceitaram receber mensagens recebem a foto na terça; o Instagram só vê na quinta. Quando o entregador atrasa, o fiel recebe o aviso antes de perguntar. Nenhum deles ganha desconto.
 
 ## O que fazer agora
 

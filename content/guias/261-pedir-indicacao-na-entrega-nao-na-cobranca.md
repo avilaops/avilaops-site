@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-19"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/programa-de-indicacao-sem-aplicativo-nem-cupom/", "/guias/depois-do-dia-das-maes-quem-comprou-presente/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/programa-de-indicacao-sem-aplicativo-nem-cupom/", "/gui
 
 O momento de pedir indicação é quando o cliente acabou de receber o que comprou e disse que gostou. Não é na cobrança, não é no orçamento, não é na mensagem de "seu boleto vence amanhã". Pedir junto do dinheiro faz a indicação parecer condição; pedir junto da satisfação faz ela parecer natural. A frase é a mesma. O que muda é a hora, e a hora decide se o cliente indica ou ignora.
 
-Depois do Dia das Mães, dezenas de presentes foram entregues, e a mãe gostou ou não. Quem pergunta "ela gostou?" e ouve "adorou" tem o melhor momento do ano para pedir. Quem manda "gostou? indica a gente" junto com o lembrete de pagamento perde os dois.
+Depois de uma data como o Dia das Mães, dezenas de presentes são entregues, e a mãe gosta ou não. Quem pergunta "ela gostou?" e ouve "adorou" tem o melhor momento do ano para pedir. Quem manda "gostou? indica a gente" junto com o lembrete de pagamento perde os dois.
 
 ## Por que a cobrança é o pior momento?
 

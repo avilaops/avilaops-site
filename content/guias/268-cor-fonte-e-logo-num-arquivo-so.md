@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-26"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/para-que-serve-um-manual-de-marca/", "/guias/logo-em-fundo-escuro-e-icone-de-aplicativo/", "/identidade-visual/"]
 ---
 
@@ -45,7 +46,7 @@ Na nuvem, numa pasta com nome claro ("Marca Casa Flor - oficial"), com link de l
 
 1. Uma pasta só. Se existir "marca antiga" e "marca nova", alguém vai usar a antiga. Apague ou arquive fora do alcance.
 2. Link de leitura, não de edição. Fornecedor baixa; não altera.
-3. Data no leia-me: "versão de 05/2027". Quando mudar algo, muda a data e avisa quem usa.
+3. Data no leia-me, com mês e ano: "versão de 03/2026", por exemplo. Quando mudar algo, muda a data e avisa quem usa.
 4. Cópia local com você, fora da nuvem. Conta de nuvem bloqueada não pode ser o fim da sua marca.
 
 Quando alguém pedir "me manda o logo", a resposta é o link da pasta. Sempre o mesmo. O manual de marca, quando existir, mora na mesma pasta: https://avilaops.com/guias/para-que-serve-um-manual-de-marca/.
