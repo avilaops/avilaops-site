@@ -39,7 +39,7 @@ Preço fica congelado também, com uma exceção: o preço promocional que já f
 
 ## O que fazer nessa semana, então?
 
-Conferir, não mudar. Segunda, 23/11: comprar de verdade na loja, com Pix, cartão e boleto, pelo celular, e conferir se a nota e a etiqueta saem do pedido de teste; depois, cancele a nota, a etiqueta e o pedido. Terça, 24/11: percorrer as respostas automáticas mandando as cinco perguntas comuns de outro número. Quarta, 25/11: contar o estoque físico dos produtos da campanha e comparar com o sistema; ajustar o sistema, não o contrário. Quinta, 26/11: revisar a página da oferta escondida, com o preço riscado batendo com o registrado em outubro, e avisar do dia e da hora quem aceitou receber mensagens.
+Conferir, não mudar. Segunda, 23/11: comprar de verdade na loja, com Pix, cartão e boleto, pelo celular, e conferir se a nota e a etiqueta saem do pedido de teste; depois, estorne cada pagamento pelo mesmo meio, confira que o estorno aparece como concluído e cancele a nota, a etiqueta e o pedido. Terça, 24/11: percorrer as respostas automáticas mandando as cinco perguntas comuns de outro número. Quarta, 25/11: contar o estoque físico dos produtos da campanha e comparar com o sistema; ajustar o sistema, não o contrário. Quinta, 26/11: revisar a página da oferta escondida, com o preço riscado batendo com o registrado em outubro, e avisar do dia e da hora quem aceitou receber mensagens.
 
 O guia sobre [testar o site antes do pico](https://avilaops.com/guias/seu-site-aguenta-o-pico-como-testar/) é rodado uma última vez na segunda-feira. Se algo falhar, a decisão não é "trocar", é "desligar": tira o aplicativo que quebrou, esconde o produto sem estoque, pausa a automação que mandou mensagem errada. Consertar de verdade fica para dezembro.
 

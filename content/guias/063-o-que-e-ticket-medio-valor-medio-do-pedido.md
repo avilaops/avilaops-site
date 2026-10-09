@@ -19,7 +19,7 @@ links_internos: ["/guias/o-que-e-taxa-de-conversao-e-como-calcular/", "/glossari
 
 Ticket médio é quanto cada pedido vale, em média. A conta é o faturamento do período dividido pelo número de pedidos. Se você vendeu R$ 9.000 em 60 pedidos, o ticket médio é R$ 150. Ele mostra se cada cliente está levando mais ou menos por compra.
 
-Faturamento é visitantes vezes taxa de conversão vezes ticket médio. Dá para crescer atraindo mais gente, convencendo mais gente ou fazendo cada pessoa levar mais. As duas primeiras custam anúncio e tempo. A terceira custa quase nada, e pouca gente olha para ela.
+Faturamento é visitantes vezes pedidos por visitante vezes ticket médio. Na maioria das lojas pequenas, quase todo cliente faz um pedido só no período, e pedidos por visitante fica perto da taxa de conversão. Dá para crescer atraindo mais gente, convencendo mais gente ou fazendo cada pessoa levar mais. As duas primeiras custam anúncio e tempo. A terceira custa quase nada, e pouca gente olha para ela.
 
 ## Por que o ticket médio cai em novembro?
 

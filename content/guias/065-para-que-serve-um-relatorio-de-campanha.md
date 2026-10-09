@@ -19,7 +19,7 @@ links_internos: ["/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/g
 
 Relatório de campanha serve para responder uma pergunta: valeu a pena? Ele junta quanto você gastou, quantas pessoas alcançou, quantas compraram e quanto sobrou depois de tirar custo de produto, frete e taxa. Sem ele, a campanha termina com uma sensação. Com ele, termina com uma decisão: repetir, ajustar ou não fazer de novo.
 
-A Black Friday consome caixa antes de devolver. Você compra estoque em outubro, paga anúncio em novembro e recebe o cartão a partir de dezembro, parcela por parcela.
+A Black Friday consome caixa antes de devolver. Você compra estoque em outubro, paga anúncio em novembro e recebe o cartão conforme o contrato com o intermediário: de uma vez, parcela por parcela ou com antecipação. Use o calendário de recebimento do seu contrato para prever o caixa.
 
 ## O que precisa estar no relatório?
 
