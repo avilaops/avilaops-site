@@ -112,3 +112,25 @@ o mesmo slug interrompem o build em vez de sobrescrever conteúdo silenciosament
 regressões. Um futuro adaptador de CMS deve chamar `validatePosts` antes de
 entregar os dados aos templates. Isto valida os dados; não substitui revisão
 humana nem significa que um CMS externo já está conectado.
+
+## Continuação das imagens — 09/10/2026
+
+O lote `content/lotes-imagens/2026-10-09-060-062.json` retoma a sequência
+do planejamento original: 060-2, 061-1, 061-2, 062-1 e 062-2. São cinco
+artes de image_gen em diorama, composição geométrica e risografia, com
+originais preservados, prompts, revisão, alt, dimensões e tamanho registrados.
+Uma marca semelhante a bandeira de cartão foi removida na revisão da 061-2.
+Os WebP finais e os recortes quadrados das duas capas foram conferidos.
+
+As imagens estão integradas ao manifesto do site. Os guias 060–062 mantêm
+suas datas e status: preparar imagens não aprova nem antecipa artigos.
+O próximo ID ainda não produzido na sequência é 063-1; correções pendentes
+dos lotes anteriores continuam no controle original de marketing.
+Os lotes versionados do site complementam esse controle: consultá-los antes
+de retomar a geração para não produzir novamente os mesmos IDs.
+
+Para importar um próximo lote já revisado, usar
+`node scripts/importar-imagens-editoriais.mjs <arquivo-do-lote.json>`.
+O comando usa o sharp deste projeto, respeita os limites de peso e recusa
+sobrescrever arquivos ou cadastros. `npm run editorial:validate` confere
+também esses arquivos futuros e a existência da seção de inserção no Markdown.

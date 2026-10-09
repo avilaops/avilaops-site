@@ -27,7 +27,7 @@
     "contraste:validate": "node scripts/validar-contraste.mjs",
     "verificar": "npm run lint && npm run editorial:test && npm run build && npm run seo:validate:export && npm run editorial:validate && npm run links:validate && npm run headers:validate && npm run contraste:validate",
     "deploy:linux": "npm run verificar && bash scripts/deploy-avilaops-com.sh && npm run headers:validate:public && npm run leads:validate && npm run seo:validate",
-    "editorial:validate": "node scripts/validar-editorial.mjs",
+    "editorial:validate": "node scripts/validar-editorial.mjs && node scripts/validar-lotes-imagens.mjs",
     "editorial:previews": "tsx scripts/gerar-previews-editoriais.mts",
     "editorial:test": "tsx scripts/testar-contrato-editorial.mts"
   },

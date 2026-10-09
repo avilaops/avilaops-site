@@ -862,5 +862,50 @@
     "height": 630,
     "position": 1,
     "section": "Abertura do guia"
+  },
+  {
+    "slug": "orcamento-de-anuncio-quanto-colocar-sem-quebrar",
+    "src": "/editorial/guias/orcamento-de-anuncio-quanto-colocar-sem-quebrar-2.webp",
+    "alt": "Mão distribui uma ficha entre bandejas de anúncios e pedidos, mantendo uma reserva para a operação da loja.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como fazer a conta de quanto pode gastar?",
+    "position": 2
+  },
+  {
+    "slug": "ultima-semana-antes-da-black-friday-o-que-congelar",
+    "src": "/editorial/guias/ultima-semana-antes-da-black-friday-o-que-congelar.webp",
+    "alt": "Caixa de ferramentas lacrada ao lado de uma loja aberta, representando a pausa nas alterações técnicas antes da Black Friday.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "ultima-semana-antes-da-black-friday-o-que-congelar",
+    "src": "/editorial/guias/ultima-semana-antes-da-black-friday-o-que-congelar-2.webp",
+    "alt": "Símbolos de pagamento, entrega e automação protegidos numa caixa lacrada, com uma oferta preparada do lado de fora.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que congelar, exatamente?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-taxa-de-conversao-e-como-calcular",
+    "src": "/editorial/guias/o-que-e-taxa-de-conversao-e-como-calcular.webp",
+    "alt": "Visitantes entram numa pequena loja enquanto uma cliente sai com uma sacola, ilustrando a conversão de visitas em compras.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-taxa-de-conversao-e-como-calcular",
+    "src": "/editorial/guias/o-que-e-taxa-de-conversao-e-como-calcular-2.webp",
+    "alt": "Celular e computador separados por uma linha, cada um com cesta e sacola, indicando a medição de compras por tipo de aparelho.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como calcular a sua sem se enganar?",
+    "position": 2
   }
 ]

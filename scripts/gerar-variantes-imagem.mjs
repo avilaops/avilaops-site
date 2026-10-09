@@ -16,6 +16,11 @@ import { mkdirSync, readdirSync, readFileSync, statSync, existsSync } from "node
 import { dirname, join } from "node:path";
 import sharp from "sharp";
 
+// O lote já é sequencial. Evita reter imagens entre variantes e multiplicar
+// threads nativas em máquinas de build compartilhadas com pouca memória.
+sharp.cache(false);
+sharp.concurrency(1);
+
 const { larguras, prefixos, saida } = JSON.parse(readFileSync("config/imagens.json", "utf8"));
 const raiz = "public";
 
