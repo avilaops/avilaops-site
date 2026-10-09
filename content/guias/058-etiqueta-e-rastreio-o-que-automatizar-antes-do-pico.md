@@ -40,7 +40,7 @@ Comece pela etiqueta, porque é onde o tempo e o erro estão. Para funcionar, ca
 
 O rastreio vem em seguida: quando o pedido muda para "enviado", a loja manda a mensagem com o código e o link. O cliente para de perguntar, e quando pergunta, a resposta automática já tem o dado. O guia sobre [separação de pedido](https://avilaops.com/guias/separacao-de-pedido-processo-que-evita-erro/) mostra onde esse passo entra no processo.
 
-A nota fiscal ligada à loja é o terceiro passo; o guia sobre [nota fiscal eletrônica](https://avilaops.com/guias/o-que-e-nota-fiscal-eletronica-e-quando-emitir/) explica o que confirmar com o contador antes. A ordem é a da automação, não a do envio: o pacote só sai com a nota emitida, mesmo que ela ainda seja feita à mão (quem não é obrigado a emitir nota envia com a declaração de conteúdo).
+A nota fiscal ligada à loja é o terceiro passo; o guia sobre [nota fiscal eletrônica](https://avilaops.com/guias/o-que-e-nota-fiscal-eletronica-e-quando-emitir/) explica o que confirmar com o contador antes. A ordem é a da automação, não a do envio: quando a venda exige nota fiscal, o pacote só sai com ela emitida, mesmo que ainda seja feita à mão. Quem está dispensado da nota, como o vendedor que não é contribuinte de ICMS, envia com a declaração de conteúdo exigida no seu estado, que em vários deles já é a eletrônica (DC-e).
 
 ## Como testar em outubro?
 
