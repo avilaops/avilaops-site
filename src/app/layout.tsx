@@ -199,17 +199,17 @@ export default function RootLayout({
         */}
         <script dangerouslySetInnerHTML={{ __html: scriptInicial() }} />
         {/*
-          lazyOnload: o GTM entra quando o navegador fica ocioso depois do
-          carregamento. Com afterInteractive ele disputava a CPU com a
-          hidratação da página e respondia por cerca de 1 s de bloqueio no
-          celular (Lighthouse, 08/10/2026), o maior item isolado da medição.
-          O custo é não contar a visita de quem sai antes de a página
-          terminar de carregar.
+          GTM em afterInteractive. Em 08/10/2026 testei lazyOnload para tirar
+          o ~1 s de bloqueio que ele causa no celular: o Lighthouse não
+          melhorou em nenhuma das nove páginas medidas, porque o script roda
+          dentro da mesma janela de medição. Sem ganho, não vale perder a
+          contagem das visitas curtas. Reduzir esse bloqueio de verdade exige
+          carregar o GTM só na primeira interação, que é decisão de medição.
         */}
         {GTM_ID && (
           <Script
             id="gtm-script"
-            strategy="lazyOnload"
+            strategy="afterInteractive"
             dangerouslySetInnerHTML={{
               __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
               new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
