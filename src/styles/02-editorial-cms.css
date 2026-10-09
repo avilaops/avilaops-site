@@ -40,11 +40,15 @@
 .editorial-prose blockquote { border-left: 4px solid var(--blue); margin: 28px 0; padding: 20px; background: var(--surface); }
 .editorial-table { max-width: 100%; overflow-x: auto; margin-bottom: 28px; }
 .editorial-table table { width: 100%; border-collapse: collapse; }
-/* Preserve palavras e colunas legíveis; o excesso rola apenas neste contêiner. */
-.editorial-table th, .editorial-table td { min-width: 14rem; padding: 12px; border: 1px solid var(--border); text-align: left; overflow-wrap: normal; word-break: normal; }
-.editorial-table th:first-child, .editorial-table td:first-child { min-width: 10rem; }
+.editorial-table th, .editorial-table td { padding: 12px; border: 1px solid var(--border); text-align: left; }
 .editorial-table-hint { display: none; }
-@media (max-width: 599px) { .editorial-table-hint { display: block; font-size: .85rem; color: var(--quiet-foreground); } }
+/* No celular, preserve palavras e colunas legíveis; o excesso rola apenas neste contêiner.
+   Acima disso as colunas mantêm a largura natural para não rolar sem necessidade. */
+@media (max-width: 599px) {
+  .editorial-table th, .editorial-table td { min-width: 14rem; overflow-wrap: normal; word-break: normal; }
+  .editorial-table th:first-child, .editorial-table td:first-child { min-width: 10rem; }
+  .editorial-table-hint { display: block; font-size: .85rem; color: var(--quiet-foreground); }
+}
 .editorial-prose pre { overflow-x: auto; padding: 20px; background: var(--surface); }
 .editorial-author { margin-top: 48px; padding: 28px; background: var(--surface); border-top: 3px solid var(--blue); }
 .editorial-author h2 { font-size: 1.3rem; margin-bottom: 16px; }
