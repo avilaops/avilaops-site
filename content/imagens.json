@@ -979,5 +979,95 @@
     "height": 800,
     "section": "Quem paga a devolução?",
     "position": 2
+  },
+  {
+    "slug": "para-que-serve-o-pix-numa-loja",
+    "src": "/editorial/guias/para-que-serve-o-pix-numa-loja-2.webp",
+    "alt": "Caixa de pedido e confirmação de pagamento compartilham um identificador visual, mostrando a associação automática do Pix ao pedido.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como funciona o Pix dentro da loja?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-frete-e-quem-paga",
+    "src": "/editorial/guias/o-que-e-frete-e-quem-paga-2.webp",
+    "alt": "Vela, caixa, proteção e fita mostram os materiais de embalagem que também compõem o custo de envio.",
+    "width": 1200,
+    "height": 800,
+    "section": "Do que o frete é feito?",
+    "position": 2
+  },
+  {
+    "slug": "pix-cartao-ou-boleto-o-que-custa",
+    "src": "/editorial/guias/pix-cartao-ou-boleto-o-que-custa-2.webp",
+    "alt": "Miniaturas de celular, cartão e documento representam os meios de pagamento comparados no guia.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que cada meio custa?",
+    "position": 2
+  },
+  {
+    "slug": "prazo-de-recebimento-do-cartao",
+    "src": "/editorial/guias/prazo-de-recebimento-do-cartao-2.webp",
+    "alt": "Cartão, relógio e caixa da loja representam a espera entre a venda e o recebimento do dinheiro.",
+    "width": 1200,
+    "height": 800,
+    "section": "Por que o prazo existe?",
+    "position": 2
+  },
+  {
+    "slug": "foto-de-produto-fundo-padronizado",
+    "src": "/editorial/guias/foto-de-produto-fundo-padronizado-2.webp",
+    "alt": "Três canecas de tamanhos diferentes são mostradas com fundo e enquadramento padronizados para facilitar a comparação.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que o fundo padronizado muda na prática?",
+    "position": 2
+  },
+  {
+    "slug": "como-fotografar-produto-com-celular",
+    "src": "/editorial/guias/como-fotografar-produto-com-celular-2.webp",
+    "alt": "Celular apoiado fotografa um calçado com fundo branco e luz lateral filtrada por uma cortina.",
+    "width": 1200,
+    "height": 800,
+    "section": "Onde e quando fotografar?",
+    "position": 2
+  },
+  {
+    "slug": "como-escolher-nome-da-loja",
+    "src": "/editorial/guias/como-escolher-nome-da-loja-2.webp",
+    "alt": "Uma pessoa fala enquanto outra se prepara para anotar, ilustrando o teste de compreensão do nome da loja.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que faz um nome funcionar?",
+    "position": 2
+  },
+  {
+    "slug": "preco-de-e-por-quando-vira-mentira",
+    "src": "/editorial/guias/preco-de-e-por-quando-vira-mentira-2.webp",
+    "alt": "Etiquetas anteriores guardadas em uma pasta acompanham uma nova etiqueta promocional, representando o histórico de preços.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que a lei exige?",
+    "position": 2
+  },
+  {
+    "slug": "calculo-de-frete-por-cep",
+    "src": "/editorial/guias/calculo-de-frete-por-cep-2.webp",
+    "alt": "Caixa sobre balança e fita de medição representam o peso e as dimensões usados no cálculo do frete.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como o cálculo funciona?",
+    "position": 2
+  },
+  {
+    "slug": "embalagem-medida-custo-do-frete",
+    "src": "/editorial/guias/embalagem-medida-custo-do-frete-2.webp",
+    "alt": "A mesma almofada aparece em uma caixa ajustada e em outra grande demais, comparando o espaço ocupado na embalagem.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que é peso cúbico e por que ele manda?",
+    "position": 2
   }
 ]
