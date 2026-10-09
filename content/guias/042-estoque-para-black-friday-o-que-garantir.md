@@ -51,7 +51,7 @@ Esses produtos podem continuar à venda a preço normal. Só não são a cara da
 
 ## Como não vender o que não tem?
 
-Com o estoque da loja ligado ao estoque real. Se a loja online e a loja física puxam do mesmo lugar sem atualização automática, a venda dupla acontece no primeiro dia de pico. O sistema precisa baixar o estoque no momento do pedido, não da separação, e esconder o produto quando chegar a zero.
+Com o estoque da loja ligado ao estoque real. Se a loja online e a loja física puxam do mesmo lugar sem atualização automática, a venda dupla acontece no primeiro dia de pico. O sistema precisa reservar o estoque no momento do pedido, não da separação, e esconder o produto quando chegar a zero. Pedido de boleto ou Pix que não for pago no prazo precisa ser cancelado sozinho, devolvendo as unidades à venda; senão, pedidos abandonados escondem produto que ninguém comprou.
 
 Defina também um estoque de segurança para os produtos principais, por exemplo cinco unidades, que a loja trata como zero. Ele cobre o pedido que chegou ao mesmo tempo, o item que veio com defeito e a contagem que estava errada. O guia sobre [prazo de entrega](https://avilaops.com/guias/prazo-de-entrega-como-prometer-o-que-se-cumpre/) mostra como esse estoque afeta o prazo prometido.
 
