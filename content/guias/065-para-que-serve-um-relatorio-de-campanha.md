@@ -31,7 +31,7 @@ Esse último é o único que diz se valeu. Uma loja de artigos de festa gastou R
 
 Durante e depois. Durante, o relatório é diário e curto: gasto do dia, pedidos do dia, ticket, custo por pedido. Serve para cortar um anúncio que não converte. O guia sobre [taxa de conversão](https://avilaops.com/guias/o-que-e-taxa-de-conversao-e-como-calcular/) mostra como ler o número principal.
 
-Depois, em dezembro, quando vence o prazo de desistência dos últimos pedidos entregues, vem o relatório fechado, com devoluções, estornos e estoque que sobrou. Contestações de cartão ainda podem chegar até março; reserve uma linha para elas. Para os números de anúncio e de venda baterem, o [pixel precisa registrar compra](https://avilaops.com/guias/como-configurar-pixel-da-meta-e-medir-conversoes/), não só visita.
+Depois, em dezembro, quando vence o prazo de desistência dos últimos pedidos entregues, vem o relatório fechado, com devoluções, estornos e estoque que sobrou. Mesmo fechado, ele recebe ajustes: troca por defeito tem 30 dias para produto não durável e 90 para durável, contados do recebimento ou, no defeito oculto, de quando ele aparece (CDC, art. 26), e contestações de cartão ainda podem chegar até março. Reserve uma linha para esses ajustes e atualize o lucro da campanha quando eles chegarem. Para os números de anúncio e de venda baterem, o [pixel precisa registrar compra](https://avilaops.com/guias/como-configurar-pixel-da-meta-e-medir-conversoes/), não só visita.
 
 ## O que fazer agora
 

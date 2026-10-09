@@ -17,13 +17,13 @@ links_internos: ["/glossario/funil-de-vendas/", "/guias/como-configurar-pixel-da
 
 # O que é taxa de conversão e como calcular a sua
 
-Taxa de conversão é a parte das pessoas que entrou na sua loja e comprou. A conta: pedidos pagos divididos por visitantes, vezes 100. Se 400 pessoas visitaram o site e oito compraram, a taxa é 2%.
+Taxa de conversão é a parte das pessoas que entrou na sua loja e comprou. A conta: visitantes que fizeram pelo menos um pedido pago, divididos pelo total de visitantes, vezes 100. Se 400 pessoas visitaram o site e oito compraram, a taxa é 2%.
 
 Esse número responde à pergunta mais cara de novembro: falta gente ou a loja não convence? Com anúncio rodando para a Black Friday, cada real de tráfego que cai numa loja de conversão baixa é real perdido.
 
 ## Como calcular a sua sem se enganar?
 
-Pegue um período fechado, sete dias ou o mês. Conte visitantes únicos no painel da loja. Conte pedidos pagos, não criados: boleto não pago é intenção, não conversão. Divida e multiplique por 100.
+Pegue um período fechado, sete dias ou o mês. Conte visitantes únicos no painel da loja. Conte quem fez pelo menos um pedido pago, não criado: boleto não pago é intenção, não conversão. Quem comprou duas vezes conta uma, porque o denominador também conta cada visitante uma vez. Divida e multiplique por 100.
 
 Faça a conta separada para celular e computador. Na maioria das lojas pequenas, quase todo mundo chega pelo celular, e é lá que a loja costuma falhar. Uma loja com 1,5% no geral pode ter 1% no celular, e o número geral esconde uma tela de fechamento do pedido (checkout) que trava no telefone. No WhatsApp a conta é igual: vendas fechadas divididas por conversas iniciadas. É o [funil de vendas](https://avilaops.com/glossario/funil-de-vendas/) etapa por etapa.
 
