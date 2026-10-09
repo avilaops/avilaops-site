@@ -60,7 +60,7 @@ Cadastre peso e dimensões de todos os produtos da campanha esta semana. Ligue a
 Ligando a loja ao serviço de integração dos Correios com contrato, ou a uma plataforma de frete que faz isso. O pedido pago gera a etiqueta com os dados do cliente e o peso cadastrado no produto.
 
 **O rastreio precisa ser enviado por WhatsApp?**
-Não precisa, mas é onde o cliente vê. E-mail serve como registro; WhatsApp reduz a pergunta. O ideal é os dois, disparados pela mudança de status do pedido.
+Não precisa, mas é onde o cliente vê. E-mail serve como registro; WhatsApp reduz a pergunta. O ideal é os dois, disparados pela mudança de status do pedido. No WhatsApp, o envio automático exige a API oficial, com modelo de mensagem aprovado e cliente que aceitou receber mensagens; pelo aplicativo WhatsApp Business, o aviso sai à mão.
 
 **Vale automatizar com menos de 10 pedidos por dia?**
 Vale pela redução de erro, mesmo que o ganho de tempo seja pequeno. E o volume de novembro não é o de outubro: quem automatiza com 10 chega em 60 sem mudar nada.

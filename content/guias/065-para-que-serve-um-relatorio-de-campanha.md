@@ -23,7 +23,7 @@ A Black Friday consome caixa antes de devolver. Você compra estoque em outubro,
 
 ## O que precisa estar no relatório?
 
-Cinco números. Investimento total: anúncio, cupom, frete absorvido e desconto dado. Visitantes e conversas por canal. Pedidos pagos e ticket médio, que juntos dão o faturamento. Custo por pedido: investimento dividido por pedidos. E a margem que sobrou: faturamento menos custo dos produtos e taxas, menos anúncio e frete absorvido. Desconto e cupom não entram de novo aqui, porque já saíram do faturamento.
+Cinco números. Investimento total: anúncio, cupom, frete absorvido e desconto dado. Visitantes e conversas por canal. Pedidos pagos e ticket médio, que juntos dão o faturamento. Custo por pedido: investimento dividido por pedidos. Ele é diferente do custo por venda do anúncio, que divide só o gasto com anúncio pelas compras atribuídas à campanha. E a margem que sobrou: faturamento menos custo dos produtos e taxas, menos anúncio e frete absorvido. Desconto e cupom não entram de novo aqui, porque já saíram do faturamento.
 
 Esse último é o único que diz se valeu. Uma loja de artigos de festa gastou R$ 1.800 em anúncio, deu R$ 2.400 em desconto e faturou R$ 11.600 em 95 pedidos, já com o desconto. O custo dos produtos, com as taxas, foi R$ 7.000. Sobra: R$ 2.800. Num mês comum ela tira R$ 3.500. A campanha trouxe cliente novo, mas custou lucro.
 
@@ -31,7 +31,7 @@ Esse último é o único que diz se valeu. Uma loja de artigos de festa gastou R
 
 Durante e depois. Durante, o relatório é diário e curto: gasto do dia, pedidos do dia, ticket, custo por pedido. Serve para cortar um anúncio que não converte. O guia sobre [taxa de conversão](https://avilaops.com/guias/o-que-e-taxa-de-conversao-e-como-calcular/) mostra como ler o número principal.
 
-Depois, em dezembro, quando vence o prazo de desistência dos últimos pedidos entregues, vem o relatório fechado, com devoluções, estornos e estoque que sobrou. Para os números de anúncio e de venda baterem, o [pixel precisa registrar compra](https://avilaops.com/guias/como-configurar-pixel-da-meta-e-medir-conversoes/), não só visita.
+Depois, em dezembro, quando vence o prazo de desistência dos últimos pedidos entregues, vem o relatório fechado, com devoluções, estornos e estoque que sobrou. Contestações de cartão ainda podem chegar até março; reserve uma linha para elas. Para os números de anúncio e de venda baterem, o [pixel precisa registrar compra](https://avilaops.com/guias/como-configurar-pixel-da-meta-e-medir-conversoes/), não só visita.
 
 ## O que fazer agora
 

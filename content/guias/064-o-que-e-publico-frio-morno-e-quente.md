@@ -25,7 +25,7 @@ Essa separação evita o erro mais comum de novembro: mostrar "50% só hoje" par
 
 Pelo [pixel da Meta](https://avilaops.com/glossario/pixel-da-meta/), um código no site que registra quem visitou, quem colocou no carrinho e quem comprou, e pelas interações no Instagram e no Facebook. Com isso você cria públicos: "visitou nos últimos 30 dias", "adicionou ao carrinho e não comprou", "comprou nos últimos 180 dias".
 
-Sem pixel, quem visitou o site volta a ser frio para o anúncio; sobram só as interações nas redes e a sua lista de clientes. O pixel precisa estar no ar antes da campanha. O guia sobre [Meta Ads para gerar contatos no WhatsApp](https://avilaops.com/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/) mostra onde ele entra no funil.
+Sem pixel, quem visitou o site volta a ser frio para o anúncio; sobram só as interações nas redes e a sua lista de clientes, que só pode ir para a Meta se a sua política de privacidade avisar esse uso. O pixel precisa estar no ar antes da campanha. O guia sobre [Meta Ads para gerar contatos no WhatsApp](https://avilaops.com/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/) mostra onde ele entra no funil.
 
 ## O que dizer para cada um durante a Black Friday?
 
@@ -46,4 +46,4 @@ Não. Quem chegou ao checkout, quem pediu preço por mensagem e quem está na su
 Você define ao criar o público, em dias desde a última visita; para visitante do site, o máximo da Meta é 180. Compra rápida, 30 dias. Serviço que exige decisão, 90 ou mais.
 
 **Dá para separar público sem anúncio pago?**
-Dá, no WhatsApp e no e-mail. Quem comprou e quem só pediu orçamento estão no cadastro. Mensagem diferente para cada grupo é a mesma lógica, sem pagar por clique.
+Dá, no WhatsApp e no e-mail, para quem aceitou receber mensagens. Quem comprou e quem só pediu orçamento estão no cadastro; envie só para quem deu o aceite e sempre com opção de sair. Mensagem diferente para cada grupo é a mesma lógica, sem pagar por clique.

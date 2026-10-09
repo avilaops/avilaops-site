@@ -39,8 +39,8 @@ A segunda versão diz que é automática, diz o horário, responde parte do prob
 
 Modelos para a campanha:
 
-1. Fora do horário: "Oi, [nome]. Já anotei sua mensagem. Respondemos das 9h às 20h durante a Black Friday. Prazo e frete estão na página do produto, com o CEP. Amanhã cedo eu te respondo por aqui."
-2. Pedido confirmado: "[Nome], pagamento confirmado no pedido [número]. Separo hoje e o rastreio chega por aqui assim que o pacote sair. Qualquer dúvida, é só responder esta mensagem."
+1. Fora do horário: "Oi! Já anotei sua mensagem. Respondemos das 9h às 20h durante a Black Friday. Prazo e frete estão na página do produto, com o CEP. Amanhã cedo eu te respondo por aqui."
+2. Pedido confirmado: "[Nome], pagamento confirmado no pedido [número]. Separo hoje e o rastreio chega por aqui assim que o pacote sair. Qualquer dúvida, é só responder esta mensagem." No aplicativo WhatsApp Business, a mensagem de ausência não preenche o nome, por isso o modelo 1 vai sem ele; o modelo 2, enviado sozinho quando o pagamento confirma, exige a API oficial, com modelo de mensagem aprovado e cliente que aceitou receber mensagens.
 3. Pergunta comum durante o horário: "[Nome], sobre devolução: você tem 7 dias depois de receber para desistir da compra, e troca por defeito tem prazo maior. O passo a passo está em [link]. Se preferir falar com alguém, escreve 'pessoa' que eu chamo."
 
 ## Quando a automação precisa parar e chamar alguém?

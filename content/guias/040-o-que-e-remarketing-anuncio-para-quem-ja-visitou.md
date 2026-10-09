@@ -29,7 +29,7 @@ O detalhe que muita gente descobre tarde: a lista só começa a ser montada depo
 
 ## Quando vale e quando não vale?
 
-Vale quando o site já tem visita. Com 300 visitantes por mês, a lista é pequena, mas é a mais quente que você tem; R$ 10 por dia costuma cobrir. Com 3 mil visitantes, o remarketing pode ser a campanha principal do mês.
+Vale quando o site já tem visita. Com 300 visitantes por mês, a lista é pequena, mas é a mais quente que você tem; R$ 10 por dia costuma cobrir. No Google, a lista precisa de pelo menos 100 usuários ativos nos últimos 30 dias para começar a exibir anúncios. Com 3 mil visitantes, o remarketing pode ser a campanha principal do mês.
 
 Não vale quando o site não tem visita nenhuma: não há quem lembrar. E não vale mostrar o mesmo anúncio 20 vezes para a mesma pessoa; limite a frequência.
 

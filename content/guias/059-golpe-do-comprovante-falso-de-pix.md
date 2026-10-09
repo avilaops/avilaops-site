@@ -35,7 +35,7 @@ Isso vale para retirada na loja, entrega por motoboy, envio pelos Correios e lib
 
 1. Gere a cobrança Pix pelo sistema da loja ou pelo banco, com valor e identificador do pedido, em vez de mandar a chave solta. O pagamento cai vinculado ao pedido e o sistema confirma sozinho.
 2. Se a chave for enviada à mão, quem confere o extrato é uma pessoa definida, com o aplicativo do banco aberto, não quem está no WhatsApp.
-3. Comprovante recebido por imagem é tratado como "aguardando": a resposta padrão é "obrigado, assim que cair aqui eu libero".
+3. Comprovante recebido por imagem é tratado como "aguardando": a resposta padrão é "obrigado, assim que cair aqui eu libero". Se o nome de quem pagou, no extrato, for diferente do comprador, confirme com o cliente antes de liberar: no golpe da triangulação, o Pix vem de uma vítima enganada, que depois pede o dinheiro de volta pelo MED.
 4. Nada de devolver "diferença" de valor sem o valor original ter caído no extrato. Se um valor a mais caiu de verdade, devolva pela função de devolução do próprio Pix recebido, no aplicativo do banco, e nunca com um Pix novo para a conta que o cliente indicar: se o Pix original for contestado depois, a devolução pela transação original evita pagar duas vezes.
 5. Em caso de dúvida, a conferência manda; a pressa do cliente, não.
 

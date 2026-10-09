@@ -27,7 +27,7 @@ Liste os 20 produtos que mais venderam nos últimos três meses. Para cada um, a
 
 Decida a oferta: quais produtos, qual desconto ou qual kit, e por quantos dias. Decida também o que fica de fora, e aceite que "tudo com 10%" é a pior oferta possível: dilui a margem e não chama atenção. Prefira poucos produtos com desconto real e o resto com frete grátis ou brinde.
 
-Anote o preço praticado de cada produto neste momento. Ele é o seu preço de referência, e vai provar que o desconto de novembro é verdadeiro.
+Anote o preço praticado de cada produto neste momento. Ele é o seu preço de referência, e vai provar que o desconto de novembro é verdadeiro. Se algum preço subiu nas últimas semanas, a referência é o valor anterior ao aumento, não o novo.
 
 ## Semana 2 (até 07/11): estoque e entrega
 
@@ -66,4 +66,4 @@ Trinta dias antes é o mínimo para uma loja pequena com fornecedor confiável. 
 Não. Escolha um dia ou um fim de semana, avise antes e concentre a oferta. Um mês de desconto cansa o cliente e a margem.
 
 **O que fazer se o estoque acabar antes do previsto?**
-Tirar o produto do ar na hora, não deixar vender sem estoque. Avisar quem pediu e não vai receber no mesmo dia, com opção de trocar ou estornar.
+Tirar o produto do ar na hora, não deixar vender sem estoque. Avisar no mesmo dia quem pediu e não vai receber, e deixar o cliente escolher entre esperar a reposição, trocar por outro produto equivalente ou receber o valor de volta.

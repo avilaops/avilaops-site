@@ -38,12 +38,12 @@ Se você quiser testar de verdade, existem ferramentas gratuitas de teste de car
 1. Meça o tempo das três páginas principais no celular.
 2. Descubra o pico de uma hora nos últimos três meses e multiplique por cinco.
 3. Pergunte à hospedagem o limite do plano por escrito.
-4. Converta em acessos simultâneos pelo pico, não pela média: conte quantos visitantes chegam no intervalo mais cheio com a duração de uma visita média, em geral os primeiros minutos depois de um disparo de mensagem ou de anúncio. Esse número é o de acessos ao mesmo tempo: se a visita dura três minutos e 500 pessoas chegam no primeiro minuto, são cerca de 500 juntas, enquanto a média da hora daria 25. Some uma folga de 50% e compare com o limite do passo 3; se passar, mude o plano ou a hospedagem agora.
+4. Converta em acessos simultâneos pelo pico, não pela média: conte quantos visitantes chegam no intervalo mais cheio com a duração de uma visita média, em geral os primeiros minutos depois de um disparo de mensagem ou de anúncio. Esse número é o de acessos ao mesmo tempo: se a visita dura três minutos e 500 pessoas chegam no primeiro minuto, são cerca de 500 juntas, enquanto a média da hora daria 25. Some uma folga de 50% e compare com o limite do passo 3; se passar, mude o plano ou a hospedagem agora. No teste de carga, simule essa rajada de uma vez, com todos os acessos começando juntos, e não espalhados ao longo dos minutos.
 5. Teste a compra completa depois de qualquer mudança.
 
 ## O que ter pronto se o site cair mesmo assim?
 
-Uma página estática de aviso, hospedada em outro lugar, com o WhatsApp e o link do Instagram, para o domínio apontar para ela. Para a troca valer em minutos, e não em horas, deixe o TTL do domínio em cinco minutos desde a semana anterior. O contato do suporte da hospedagem salvo no celular, com o número do contrato. E o catálogo dos produtos da oferta pronto para vender pelo WhatsApp, com link de pagamento, enquanto o site volta.
+Uma página estática de aviso, hospedada em outro lugar e com certificado HTTPS válido para o seu domínio, com o WhatsApp e o link do Instagram, para o domínio apontar para ela. Para a troca valer em minutos, e não em horas, deixe o TTL do domínio em cinco minutos desde a semana anterior; confira antes se o painel do seu DNS aceita esse valor. O contato do suporte da hospedagem salvo no celular, com o número do contrato. E o catálogo dos produtos da oferta pronto para vender pelo WhatsApp, com link de pagamento, enquanto o site volta.
 
 Uma loja de artigos de festa anuncia no Instagram às 9h de sexta-feira e o site, em hospedagem compartilhada de R$ 15 por mês, para de responder às 9h20. Sem página de aviso, o anúncio continua rodando e cada clique é dinheiro jogado fora. Com página de aviso e catálogo no WhatsApp, a manhã ainda vende.
 

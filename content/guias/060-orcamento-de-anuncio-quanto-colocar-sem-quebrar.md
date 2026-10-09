@@ -25,7 +25,7 @@ Quem nunca mediu não tem a segunda conta. Rode um anúncio pequeno em outubro, 
 
 Primeiro, a margem por venda: preço médio do pedido menos custo do produto, taxa de pagamento, imposto, frete que você paga e embalagem. É o que sobra para pagar o anúncio e ainda lucrar. Segundo, quanto dessa margem você aceita entregar ao anúncio: metade é um limite razoável para quem quer lucrar na primeira compra; mais do que isso, só quem tem recompra medida.
 
-Terceiro, o custo por venda que o pixel mostra: gasto total da campanha dividido pelo número de compras registradas. Com esses três números:
+Terceiro, o custo por venda que o pixel mostra: gasto total da campanha dividido pelo número de compras registradas. Confira esse número contra os pedidos pagos da loja no mesmo período: o pixel pode contar a mais ou a menos. Com esses três números:
 
 | Número | Como obter | Exemplo |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ Se você vende por WhatsApp e não pela loja, a medida é o custo por conversa i
 
 Dividir em três: para quem já visitou ou comprou, o público mais barato por venda, conforme o guia sobre [remarketing](https://avilaops.com/guias/o-que-e-remarketing-anuncio-para-quem-ja-visitou/), vai a maior parte que esse público comportar sem repetir demais o anúncio para as mesmas pessoas; uma parte para público novo parecido com quem já comprou; e uma parte pequena para teste de criativo. Lembre que o orçamento diário da Meta é uma média: num dia, ela pode gastar até 75% a mais. Para um teto rígido no total, use o orçamento total da campanha ou o limite de gastos da conta; nenhum deles trava o gasto de um único dia, então acompanhe o custo por venda diariamente no pico.
 
-Uma loja de acessórios roda R$ 20 por dia em outubro, por 12 dias: gasta R$ 240, faz 11 vendas, custo por venda de R$ 22. A margem por pedido é R$ 55, o teto é R$ 27. Em novembro, ela começa com R$ 60 por dia, sobe para R$ 100 quando o custo por venda fica em R$ 24, e para de subir quando ele bate R$ 28.
+Uma loja de acessórios roda R$ 20 por dia em outubro, por 12 dias: gasta R$ 240, faz 11 vendas, custo por venda de R$ 22. A margem por pedido é R$ 55, o teto é R$ 27. Em novembro, ela começa com R$ 60 por dia, sobe 20% de cada vez (R$ 72, depois R$ 86) enquanto o custo por venda fica em torno de R$ 24, e para de subir quando ele chega a R$ 27.
 
 ## O que fazer agora
 

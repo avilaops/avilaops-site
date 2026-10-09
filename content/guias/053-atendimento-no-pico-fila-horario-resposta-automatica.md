@@ -39,22 +39,22 @@ As cinco perguntas que mais chegam numa campanha, com resposta pronta e um camin
 
 1. Prazo e frete: "O prazo aparece na página do produto ao digitar o CEP. Na Black Friday, é de X dias úteis após o pagamento."
 2. Cupom que não funcionou: "Confira se o cupom foi digitado sem espaço e se o pedido atinge o valor mínimo. Se ainda não funcionar, me mande o print que eu resolvo."
-3. Pedido pago e sem confirmação: "Pix confirma na hora; boleto em até 3 dias úteis. Me mande o número do pedido que eu confiro."
-4. Onde está o meu pedido: "O código de rastreio foi enviado por e-mail e por aqui. Se não recebeu, me mande o número do pedido."
+3. Pedido pago e sem confirmação: "Pix confirma na hora; boleto em até 3 dias úteis. Me mande o número do pedido: confiro se ele está no cadastro deste WhatsApp e te respondo."
+4. Onde está o meu pedido: "O código de rastreio foi enviado por e-mail e por aqui. Se não recebeu, me mande o número do pedido: confiro se ele está no cadastro deste WhatsApp e reenvio."
 5. Troca e devolução: "Você tem 7 dias, a contar do recebimento, para desistir da compra. Produto com defeito tem prazo maior. O passo a passo está em [link]."
 
 A resposta automática responde a pergunta, não desvia dela. E cada uma termina com o que fazer se não resolveu. O guia sobre [mensagem automática que não parece robô](https://avilaops.com/guias/mensagem-automatica-que-nao-parece-robo/) mostra o tom, e o guia sobre [automatizar o WhatsApp](https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/) mostra como ligar isso ao pedido.
 
 | Situação | Quem responde |
 | --- | --- |
-| Prazo, frete, rastreio, cupom, troca | Automático, com saída para pessoa |
+| Prazo, frete, rastreio, cupom, troca | Resposta pronta, com saída para pessoa |
 | Fora do horário | Automático: horário e o que fazer enquanto isso |
 | Pedido errado, produto quebrado, reclamação | Pessoa, em até duas horas |
 | Cliente irritado ou ameaçando reclamação pública | Dono, no mesmo dia |
 
 ## O que fazer agora
 
-Escreva as cinco respostas com os seus prazos e links, cadastre como resposta rápida no WhatsApp Business e teste com alguém de fora por uma semana. Defina o horário e publique. Se uma pessoa não dá conta e a API faz sentido, a gente configura para responder rápido sem ficar acordado: https://avilaops.com/automatizar-whatsapp/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escreva as cinco respostas com os seus prazos e links, cadastre como resposta rápida no WhatsApp Business e teste com alguém de fora por uma semana. No aplicativo, a resposta rápida é um atalho que a pessoa envia; sozinha, só sai a mensagem de ausência. Defina o horário e publique. Se uma pessoa não dá conta e a API faz sentido, a gente configura para responder rápido sem ficar acordado: https://avilaops.com/automatizar-whatsapp/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

@@ -50,7 +50,7 @@ Fotografar em alta resolução continua certo; o erro é subir a original. Crie 
 
 Nomeie o arquivo com o nome do produto, como "vela-lavanda-200g.webp", em vez de "IMG_4821.jpg". O Google lê o nome do arquivo, e o texto alternativo da imagem deve descrever o produto.
 
-Vídeo de produto segue a mesma lógica: nunca hospedado no próprio site. Suba no YouTube ou em serviço próprio de vídeo e incorpore o link. O guia sobre [página lenta](https://avilaops.com/guias/pagina-lenta-perde-venda-o-que-medir/) cobre os outros pesos, e o guia sobre [testar o site antes do pico](https://avilaops.com/guias/seu-site-aguenta-o-pico-como-testar/) mostra como medir o resultado.
+Vídeo de produto segue a mesma lógica: nunca hospedado no próprio site. Suba no YouTube ou em serviço próprio de vídeo e incorpore com carregamento sob demanda: a página mostra só a imagem de capa e carrega o player quando o cliente clica. O guia sobre [página lenta](https://avilaops.com/guias/pagina-lenta-perde-venda-o-que-medir/) cobre os outros pesos, e o guia sobre [testar o site antes do pico](https://avilaops.com/guias/seu-site-aguenta-o-pico-como-testar/) mostra como medir o resultado.
 
 ## O que fazer agora
 

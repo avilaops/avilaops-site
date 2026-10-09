@@ -29,7 +29,7 @@ Uma loja de roupa infantil com ticket normal de R$ 178, duas peças por pedido, 
 
 ## Como subir o ticket sem dar desconto?
 
-Comece pelo frete grátis a partir de um valor um pouco acima do ticket atual: se o ticket é R$ 150, frete grátis acima de R$ 199 leva parte dos clientes a adicionar um item. Depois, o kit: dois produtos que fazem sentido juntos, com preço de conjunto. E a sugestão na tela de fechamento do pedido (checkout): item barato e complementar ao que está no carrinho.
+Comece pelo frete grátis a partir de um valor um pouco acima do ticket atual: se o ticket é R$ 150, frete grátis acima de R$ 199 leva parte dos clientes a adicionar um item. Antes, confira se o frete médio cabe na margem dos pedidos acima desse valor. Depois, o kit: dois produtos que fazem sentido juntos, com preço de conjunto. E a sugestão na tela de fechamento do pedido (checkout): item barato e complementar ao que está no carrinho.
 
 Quem tem um [cadastro de clientes](https://avilaops.com/glossario/crm/) que registra o que cada um comprou sugere com base em compra anterior, e aí a sugestão vira serviço.
 

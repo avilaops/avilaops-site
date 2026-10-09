@@ -45,7 +45,7 @@ Scripts de rastreamento duplicados, em terceiro: pixel da Meta instalado duas ve
 ## O que cortar e em que ordem?
 
 1. Comprima e redimensione todas as imagens dos produtos da campanha. É o corte de maior efeito e menor risco.
-2. Remova todo aplicativo que você não sabe dizer para que serve. Anote o que removeu, para poder voltar.
+2. Desative, um de cada vez, os aplicativos que você não sabe dizer para que servem, e confira a loja depois de cada um. Não mexa nos de pagamento, frete, nota fiscal, antifraude e aviso de cookies. Anote o que desativou, para poder voltar.
 3. Confira se cada pixel e tag está instalado uma vez só.
 4. Reduza as fontes personalizadas a duas: uma para título, uma para texto.
 5. Elimine o vídeo que carrega sozinho na página inicial, ou troque por uma imagem com botão de play.

@@ -29,7 +29,7 @@ O rodapé é o lugar porque ele aparece em toda página, inclusive na de produto
 
 ## O que precisa estar na página de produto?
 
-Descrição com as características que decidem a compra: dimensões, material, cor, voltagem, quantidade, validade, composição, restrições. Preço à vista e, se houver parcelamento, o valor e a quantidade das parcelas com ou sem juros. Disponibilidade: se está em estoque ou é sob encomenda, com o prazo. Cálculo de frete por CEP na própria página, ou no mínimo antes de pedir dados de pagamento.
+Descrição com as características que decidem a compra: dimensões, material, cor, voltagem, quantidade, validade, composição, restrições. Preço à vista e, se houver parcelamento, a quantidade e o valor das parcelas; com juros, informe também a taxa, os acréscimos e o valor total a prazo. Disponibilidade: se está em estoque ou é sob encomenda, com o prazo. Cálculo de frete por CEP na própria página, ou no mínimo antes de pedir dados de pagamento.
 
 Foto que corresponde ao produto. Foto ilustrativa de um modelo diferente do que é entregue é propaganda enganosa, não detalhe.
 

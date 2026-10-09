@@ -27,7 +27,7 @@ Comece pela venda real. Pegue os últimos 90 dias e liste as unidades vendidas p
 
 Para produtos que você nunca promoveu, o histórico não serve. Compre pouco e trate como teste. Para produtos de reposição lenta, com fornecedor que leva mais de 15 dias, compre agora ou tire da oferta.
 
-Uma loja de suplementos vende 40 potes de um produto por semana e, com 20% de desconto e anúncio, estima 120 na semana da Black Friday. O fornecedor entrega em 10 dias. Ela pede 150 na segunda quinzena de outubro, com folga de 30 para a semana seguinte, e recebe no começo de novembro.
+Uma loja de suplementos vende 40 potes de um produto por semana e, com 20% de desconto e anúncio, estima 120 na semana da Black Friday. O fornecedor entrega em 10 dias. Ela pede 150 na segunda quinzena de outubro, com folga de 30 para a semana seguinte, além da reposição normal das outras semanas de novembro, e recebe no começo de novembro.
 
 ## O que o fornecedor precisa garantir por escrito?
 

@@ -61,7 +61,7 @@ Escreva a tabela de funções para o seu time, com nome em cada linha, e os hor�
 Vale para a função de pedidos, que se aprende em um dia com processo escrito. Para atendimento, só se a pessoa começar em outubro e conhecer os produtos. Atendimento novo em novembro gera mais problema do que resolve.
 
 **E se eu trabalho sozinho?**
-Então a automação faz o papel da segunda pessoa: confirmação, nota, etiqueta, rastreio e respostas comuns saem sozinhos, e você fica com separar pedido em dois blocos e responder o que exige gente. Reduza a oferta a poucos produtos.
+Então a automação faz o papel da segunda pessoa: confirmação, nota, etiqueta e rastreio saem sozinhos, as respostas comuns ficam prontas como respostas rápidas, e você fica com separar pedido em dois blocos e responder o que exige gente. Reduza a oferta a poucos produtos.
 
 **Quem decide quando o estoque acaba?**
 O dono, e a regra precisa estar escrita antes: tirar o produto do ar na hora, avisar quem pagou e não vai receber, deixar o cliente escolher entre outro produto e o estorno. Sem regra, cada pessoa decide diferente.

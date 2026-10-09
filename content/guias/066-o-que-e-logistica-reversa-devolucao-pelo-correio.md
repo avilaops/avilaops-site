@@ -25,7 +25,7 @@ Em novembro isso deixa de ser detalhe. Quem vende na Black Friday recebe pedidos
 
 Depende do motivo. Se o cliente desistiu da compra dentro dos sete dias do direito de arrependimento (CDC, art. 49), contados do recebimento, ou se o produto veio com defeito ou errado, o custo do retorno é seu. Troca por outro tamanho, sem defeito, não é obrigação da lei: a política da loja decide quem paga, e ela precisa estar publicada antes da venda.
 
-O erro comum é pedir para o cliente pagar o frete e "descontar depois". Gere o código de postagem reversa e mande por mensagem. Correios e transportadoras oferecem isso por contrato; sem contrato, dá para gerar etiqueta paga por plataformas de frete e enviar o arquivo.
+O erro comum é pedir para o cliente pagar o frete e "descontar depois". Gere o código de postagem reversa e mande por mensagem, só para o contato cadastrado no pedido. Correios e transportadoras oferecem isso por contrato; sem contrato, dá para gerar etiqueta paga por plataformas de frete e enviar o arquivo.
 
 ## Como montar o processo antes de precisar?
 
