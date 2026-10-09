@@ -31,7 +31,7 @@ O erro comum é pedir para o cliente pagar o frete e "descontar depois". Gere o 
 
 Escreva a política: prazo, condições do produto, quem paga em cada caso. Defina um canal único de pedido de devolução, um formulário no site ou uma palavra-chave no WhatsApp. E registre cada devolução com número do pedido, motivo e status.
 
-Esse registro mostra, em dezembro, se o problema foi tamanho, foto ou embalagem. O guia sobre [devolução em massa](https://avilaops.com/guias/devolucao-em-massa-o-custo-escondido-do-desconto/) trata do que fazer quando o volume cresce.
+Esse registro mostra, em dezembro, se o problema foi tamanho, foto ou embalagem.
 
 ## O que fazer agora
 

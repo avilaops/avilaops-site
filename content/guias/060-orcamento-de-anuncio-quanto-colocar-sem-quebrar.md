@@ -23,7 +23,7 @@ Quem nunca mediu não tem a segunda conta. Rode um anúncio pequeno em outubro, 
 
 ## Como fazer a conta de quanto pode gastar?
 
-Primeiro, a margem por venda: preço médio do pedido menos custo do produto, taxa de pagamento, imposto, frete que você paga e embalagem. É o que sobra para pagar o anúncio e ainda lucrar. A parte que fica com você precisa cobrir também os custos fixos da loja, como plataforma, aluguel e salários, divididos pelos pedidos do mês; só o que passar disso é lucro. Segundo, quanto dessa margem você aceita entregar ao anúncio: metade é um limite razoável para quem quer lucrar na primeira compra; mais do que isso, só quem tem recompra medida.
+Primeiro, a margem por venda: preço médio do pedido menos custo do produto, taxa de pagamento, imposto, frete que você paga, embalagem e a parte de cada pedido nos custos fixos da loja, como plataforma, aluguel e salários, divididos pelos pedidos do mês. É o que sobra para pagar o anúncio e ainda lucrar. Segundo, quanto dessa margem você aceita entregar ao anúncio: metade é um limite razoável para quem quer lucrar na primeira compra; mais do que isso, só quem tem recompra medida.
 
 Terceiro, o custo por venda que o pixel mostra: gasto total da campanha dividido pelo número de compras registradas. Confira se cada compra que o pixel registrou corresponde a um pedido pago na loja, pelo número do pedido: o pixel pode contar a mais ou a menos. Não compare com todos os pedidos do período, porque venda orgânica, de e-mail e de recompra também entram lá. Com esses três números:
 

@@ -52,7 +52,7 @@ A tela de fechamento não pode ter cobrança escondida. Taxa que aparece só dep
 
 ## E a política de privacidade?
 
-A LGPD exige que a loja diga quais dados coleta, para quê, por quanto tempo guarda e com quem compartilha, como o intermediário de pagamento e a transportadora. Se usa pixel da Meta, precisa dizer. Se usa inteligência artificial no atendimento, também; o guia sobre [IA no atendimento e LGPD](https://avilaops.com/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd/) mostra como.
+A LGPD exige que a loja diga quais dados coleta, para quê, por quanto tempo guarda e com quem compartilha, como o intermediário de pagamento e a transportadora. Também precisa dizer quais são os direitos do cliente, como ver, corrigir e apagar os próprios dados, e por qual canal ele faz esse pedido, com o nome ou o e-mail de quem responde pela privacidade na loja. Se usa pixel da Meta, precisa dizer. Se usa inteligência artificial no atendimento, também; o guia sobre [IA no atendimento e LGPD](https://avilaops.com/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd/) mostra como.
 
 Copiar a política de outra loja não funciona: ela vai falar de dados que você não coleta e omitir os que coleta. Escreva a sua em linguagem simples, em uma página.
 
