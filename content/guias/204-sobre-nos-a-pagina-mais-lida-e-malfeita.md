@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Site"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/pagina-de-contato-que-gera-confianca/", "/guias/foto-de-gente-real-x-banco-de-imagem/", "/criacao-de-site-profissional/"]
 ---
 

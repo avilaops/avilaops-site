@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Local"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-25"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/guias/pagina-de-contato-que-gera-confianca/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -27,7 +28,7 @@ O Perfil da Empresa no Google tem uma opção para empresas que atendem os clien
 Da política do Google, o que importa aqui:
 
 1. Não use endereço que não seja seu. Caixa postal, escritório virtual onde você nunca vai, ou endereço de parente resultam em suspensão do perfil quando detectados.
-2. Se você recebe cliente em casa com hora marcada, pode mostrar o endereço. Aí o perfil é de local físico, e a política pede placa fixa com o nome no endereço e atendimento no horário informado.
+2. Se você recebe cliente em casa com hora marcada, pode mostrar o endereço. Aí o perfil é de local físico, e a política pede atendimento presencial no horário informado.
 3. Área de atendimento é para dizer onde você vai, não para "cobrir" cidades onde você não atende de fato. O Google pede que ela não passe de 2 horas de carro de onde a empresa fica.
 
 O guia de como aparecer no Google cobre o resto da configuração: https://avilaops.com/guias/como-faco-para-minha-empresa-aparecer-no-google/.
@@ -40,7 +41,7 @@ Diga onde você atua e como o cliente é atendido, sem rua e número:
 - "Consultas online, com hora marcada pelo WhatsApp."
 - "Loja 100% online. Envio pelos Correios a partir de Rio Preto, SP, em até um dia útil."
 
-No rodapé, razão social, CNPJ e cidade com estado. O CNPJ é público e o endereço de registro pode ser consultado na Receita Federal por quem quiser, então ocultar a rua no site é uma escolha de privacidade, não de esconder a empresa. No comércio eletrônico, o Decreto 7.962/2013 pede nome empresarial, CNPJ e endereço físico e eletrônico nas informações da loja; para isso, o endereço fiscal atende.
+No rodapé, razão social, CNPJ e cidade com estado. O CNPJ é público e o endereço de registro pode ser consultado na Receita Federal por quem quiser, então, para quem presta serviço, ocultar a rua no site é uma escolha de privacidade, não de esconder a empresa. Quem vende pela internet não tem essa escolha: o Decreto 7.962/2013 exige nome empresarial, CNPJ e endereço físico e eletrônico em destaque na loja. Para isso, o endereço fiscal atende, e o escritório virtual resolve para quem não quer expor a casa.
 
 A página de contato com WhatsApp, e-mail no domínio e prazo de resposta faz mais pela confiança que um endereço de rua; veja https://avilaops.com/guias/pagina-de-contato-que-gera-confianca/.
 

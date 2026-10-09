@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Site"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-22"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/cnpj-no-rodape-por-que-faz-diferenca/", "/guias/endereco-comercial-em-casa-como-parecer-profissional/", "/integrar-site-com-whatsapp/", "/criacao-de-site-profissional/"]
 ---
 
@@ -32,7 +33,7 @@ A página de contato costuma ser a última que o visitante abre antes de decidir
 | Quem responde | Foto e nome de quem atende | Gente com nome responde por si; "equipe" não |
 | CNPJ e razão social | No rodapé, com o nome fantasia | Obrigatório no comércio eletrônico e verificável em segundos |
 
-O e-mail no domínio custa R$ 10 por caixa por mês e fica pronto no mesmo dia. Não há motivo para uma empresa com site mostrar um endereço de Gmail. Quem trabalha de casa e não quer expor a rua tem alternativas; veja https://avilaops.com/guias/endereco-comercial-em-casa-como-parecer-profissional/.
+O e-mail no domínio custa a partir de uns R$ 10 por caixa por mês e fica pronto no mesmo dia. Não há motivo para uma empresa com site mostrar um endereço de Gmail. Quem trabalha de casa e não quer expor a rua tem alternativas; veja https://avilaops.com/guias/endereco-comercial-em-casa-como-parecer-profissional/.
 
 ## O que tirar da página de contato?
 

@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-06"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/vazamento-o-que-fazer-nas-primeiras-24-horas/", "/guias/o-que-e-dado-pessoal-na-pratica/", "/contato/"]
 ---
 
@@ -46,7 +47,7 @@ Feche os pontos da lista acima nesta semana: senha única com gerenciador, verif
 ## Perguntas frequentes
 
 **Vazamento pequeno precisa ser comunicado à ANPD?**
-A lei manda comunicar incidentes que possam causar risco ou dano relevante aos titulares. E-mail com 300 endereços visíveis costuma ficar abaixo disso, mas registre internamente. Senha, dado bancário, de saúde ou de criança estão entre os critérios da ANPD (Resolução CD/ANPD nº 15/2024): comunique.
+A lei manda comunicar incidentes que possam causar risco ou dano relevante aos titulares. E-mail com 300 endereços visíveis costuma ficar abaixo disso, mas registre internamente. Senha, dado bancário, de saúde ou de criança estão entre os critérios da ANPD (Resolução CD/ANPD nº 15/2024): se o incidente pode afetar o titular de forma significativa, comunique.
 
 **Celular da empresa roubado é vazamento?**
 Se estava sem bloqueio ou com WhatsApp aberto, sim. Com bloqueio de tela e possibilidade de apagar à distância, o risco cai muito. Configure isso hoje.

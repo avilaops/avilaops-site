@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-21"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-cadeado-do-navegador-certificado-ssl/", "/guias/cnpj-no-rodape-por-que-faz-diferenca/", "/identidade-visual/"]
 ---
 

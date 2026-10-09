@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-lgpd-a-quem-se-aplica/", "/guias/dado-de-cliente-no-whatsapp-pessoal-do-funcionario/", "/contato/"]
 ---
 

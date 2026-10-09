@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Conteúdo"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-20"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/depoimento-de-cliente-que-soa-verdadeiro/", "/guias/o-que-e-consentimento-e-como-registrar/", "/criacao-de-site-profissional/"]
 ---
 

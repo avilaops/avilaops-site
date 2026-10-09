@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-09"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/dominio/", "/glossario/dns/", "/dominio-e-hospedagem/"]
 ---
 

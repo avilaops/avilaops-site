@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-29"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-sao-termos-de-servico/", "/guias/dia-do-consumidor-como-nao-virar-exemplo-ruim/", "/contato/"]
 ---
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-30"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/preco-publico-no-site-mostrar-ou-nao/", "/guias/site-institucional-landing-page-ou-loja-virtual/", "/jornada/"]
 ---
 
@@ -41,7 +42,7 @@ Modelo para cada caso, em três linhas, no canal em que o cliente chamou:
 | Fora do escopo | "Obrigado pelo contato. Sistema de estoque não é o que a gente faz bem, e prefiro dizer isso agora. O fulano faz; posso te passar o contato." |
 | Prazo | "Dá para fazer, mas não em 10 dias com a qualidade que você espera. Em 25 dias, sim. Se o prazo for fixo, indico alguém com equipe maior." |
 | Preço | "Nesse valor não consigo fazer sem cortar o que faz diferença. Meu preço para esse escopo é R$ X. Se não couber, entendo." |
-| Agenda cheia | "Estou com a agenda fechada até 15/04/2027. Se puder esperar, te encaixo; se não, indico o fulano." |
+| Agenda cheia | "Estou com a agenda fechada até o dia tal. Se puder esperar, te encaixo; se não, indico o fulano." |
 | Cliente difícil | "Acho que não sou a melhor opção para o que você precisa. Obrigado por considerar." |
 
 Regras. Rápido: recusa que demora uma semana é pior que recusa no mesmo dia. Sem lista de motivos: um motivo, verdadeiro, basta; dois viram desculpa. Sem "infelizmente": você não está triste, está decidindo. Com indicação, quando existe alguém que faz bem; e só indique quem você indicaria para um amigo.

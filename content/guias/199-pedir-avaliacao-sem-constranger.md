@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-18"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/crm-para-pequenas-empresas-com-whatsapp/", "/guias/o-contato-depois-da-venda-que-ninguem-faz/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -41,13 +42,13 @@ Três linhas, no tom de sempre, pelo canal que o cliente já usa:
 
 "Oi, Carla. Que bom que o vestido serviu. Se você puder deixar uma avaliação no Google, ajuda muito a loja: [link direto]. Leva um minuto. Obrigada."
 
-O link direto é o que faz a diferença. O Google gera um endereço curto que abre a caixa de avaliação já aberta; está no painel do Perfil da Empresa, em "pedir avaliações". Mandar o cliente "procurar a gente no Google" é pedir que ele faça três passos, e ele não faz nenhum.
+O link direto é o que faz a diferença. O Google gera um endereço curto que abre direto a caixa de avaliação; está no painel do Perfil da Empresa, em "pedir avaliações". Mandar o cliente "procurar a gente no Google" é pedir que ele faça três passos, e ele não faz nenhum.
 
 O que não escrever: "avalie com cinco estrelas", "se puder dar nota máxima", "avaliando você ganha 10% de desconto". As duas primeiras soam a manipulação. A terceira viola a política do Google e, se vier a público, derruba a credibilidade de todas as avaliações do perfil.
 
 ## Como automatizar sem parecer robô?
 
-O pedido pode ser automático desde que pareça pessoal, e isso depende de duas coisas: o gatilho certo e o texto com nome. Num CRM, a venda muda de etapa para "entregue" ou "concluído", e três dias depois sai a mensagem, com o nome do cliente e o do atendente que cuidou dele. Pelo WhatsApp, a mensagem automática só vai para quem aceitou receber mensagens da empresa. Se o cliente respondeu com reclamação nesse meio tempo, a mensagem não sai.
+O pedido pode ser automático desde que pareça pessoal, e isso depende de duas coisas: o gatilho certo e o texto com nome. Num CRM, a venda muda de etapa para "entregue" ou "concluído", e três dias depois sai a mensagem, com o nome do cliente e o do atendente que cuidou dele. Pelo WhatsApp, mensagem automática só sai pela API oficial, com modelo de mensagem aprovado pela Meta, e só vai para quem aceitou receber mensagens da empresa, com opção fácil de sair. No aplicativo WhatsApp Business, a resposta rápida ajuda, mas o envio é manual. Se o cliente respondeu com reclamação nesse meio tempo, a mensagem não sai.
 
 O que a automação resolve não é o texto; é a constância. Pedir para todo cliente, sempre, é o que faz o perfil sair de seis avaliações para 60 em alguns meses. Pedir só quando lembra rende uma avaliação por mês. O guia de CRM com WhatsApp mostra como isso se encaixa no atendimento: https://avilaops.com/guias/crm-para-pequenas-empresas-com-whatsapp/.
 

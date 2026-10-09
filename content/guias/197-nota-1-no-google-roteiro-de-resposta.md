@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Local"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-16"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/guias/pedir-avaliacao-sem-constranger/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -48,7 +49,7 @@ Só depois de resolver, e só uma vez. Na conversa privada, quando o problema es
 
 Não ofereça desconto ou brinde em troca de mudança de nota. Além de ferir a política do Google, se a troca vier a público, a sua reputação cai mais do que a nota 1 derrubou.
 
-Exemplo: uma pet shop recebeu nota 1 de um cliente cujo cão saiu do banho com um corte. A dona respondeu em público em duas horas, com nome, chamou o cliente, pagou a consulta no veterinário e ofereceu os próximos dois banhos. O cliente mudou para cinco estrelas e escreveu o que houve. Essa avaliação virou a mais lida do perfil.
+Exemplo: uma pet shop recebeu nota 1 de um cliente cujo cão saiu do banho com um corte. A dona respondeu em público em duas horas, com nome, chamou o cliente, pagou a consulta no veterinário e ofereceu os próximos dois banhos, sem pedir nada sobre a nota. O cliente mudou para cinco estrelas e escreveu o que houve. Essa avaliação virou a mais lida do perfil.
 
 ## O que fazer agora
 

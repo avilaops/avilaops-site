@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-11"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-sao-termos-de-servico/", "/guias/reclamacao-publica-responder-apagar-ou-ignorar/", "/contato/"]
 ---
 
@@ -25,7 +26,7 @@ Reclamação pública em março ganha eco porque todo mundo está falando de dir
 1. Desconto maquiado. Subir o preço em fevereiro para "baixar" em março é publicidade enganosa, art. 37 do CDC (Lei 8.078/1990). Sites que acompanham histórico de preço pegam isso em minutos, e o print circula.
 2. Estoque que não existe. Anunciar 10 unidades com desconto e ter duas. A oferta obriga, art. 30 do CDC, e quem escolhe a saída é o cliente (art. 35): o produto anunciado, outro equivalente ou o dinheiro de volta.
 3. Prazo de entrega otimista. Prometer 3 dias úteis quando os Correios levam cinco na sua região. O atraso vira reclamação; a reclamação, nota 1.
-4. Troca e arrependimento negados. Compra pelo site ou WhatsApp tem 7 dias para desistir, art. 49 do CDC, sem justificativa. "Promoção não tem troca" não vale para esse direito.
+4. Troca e arrependimento negados. Compra pelo site ou WhatsApp tem 7 dias para desistir, contados do recebimento, art. 49 do CDC, sem justificativa. "Promoção não tem troca" não vale para esse direito.
 5. Silêncio. A reclamação chega no WhatsApp, no Instagram, no Reclame Aqui, e ninguém responde em 48 horas. Esse é o erro que transforma um problema pequeno em caso público.
 
 ## Como preparar a operação antes da semana?
@@ -51,7 +52,7 @@ Exemplo: uma loja de calçados vendeu uma numeração que acabou no estoque dura
 
 ## O que fazer agora
 
-Escolha a data em que a promoção começa e conte 14 dias para trás: é hoje ou já passou. Rode as quatro verificações da tabela. Publique termos, prazo e política de troca antes de qualquer anúncio. Se quiser saber o que está exposto na sua operação antes da semana, a gente faz esse diagnóstico em uma conversa: https://avilaops.com/contato/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escolha a data em que a promoção começa e conte 14 dias para trás: esse é o dia de começar as verificações. Rode as quatro verificações da tabela. Publique termos, prazo e política de troca antes de qualquer anúncio. Se quiser saber o que está exposto na sua operação antes da semana, a gente faz esse diagnóstico em uma conversa: https://avilaops.com/contato/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
