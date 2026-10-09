@@ -134,4 +134,3 @@ que é local e não foi incluído neste PR. Ao concluir este lote, há 119 das 7
 imagens planejadas no workspace e 613 ainda sem arquivo; recontar antes de retomar.
 O lote anterior `2026-10-09-065-066.json` já está em main, mas seu deploy não foi
 confirmado nesta entrega. Não confundir disponibilidade local com URL publicada.
-
