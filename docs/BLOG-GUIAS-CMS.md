@@ -165,17 +165,18 @@ conferidos. Os guias mantêm status `revisado` e datas previstas de 04 e
 ## Publicação antecipada — 09/10/2026
 
 Nicolas pediu nesta data a publicação imediata dos guias que já tinham capa
-e imagem interna revisadas. Foram aprovados 21 textos (041–043, 045, 047–049,
-051–058 e 061–066), antes previstos para 11/10 a 05/11/2026. No frontmatter,
+e imagem interna revisadas. Foram aprovados 22 textos (041–043, 045, 047–058
+e 061–066), antes previstos para 11/10 a 05/11/2026. No frontmatter,
 `status` passou a `aprovado`, `data_publicacao` registra 09/10/2026 e
 `data_prevista` foi trazida para a mesma data, porque o export só libera
 datas iguais ou anteriores ao build. As datas originais ficam no histórico.
 
 Uma checagem de fatos antes da publicação corrigiu uma frase no guia 043:
-o Pix não é isento de tarifa para quem recebe como pessoa jurídica. O guia
-050 (Dia das Crianças) ficou fora: sua orientação de divulgar até 05/10 já
-venceu e o texto precisa ser revisto antes de ir ao ar. Os guias 046, 059 e
-060 continuam sem capa; 040 e 044 ainda não têm imagens.
+o Pix não é isento de tarifa para quem recebe como pessoa jurídica. No 058,
+a exigência de nota fiscal no envio ganhou a exceção da declaração de
+conteúdo. O guia 050 (Dia das Crianças) também foi aprovado, com o "O que
+fazer agora" ajustado para quem lê depois da data de corte da entrega.
+Os guias 046, 059 e 060 continuam sem capa; 040 e 044 ainda não têm imagens.
 
-A biblioteca passa a ter 89 artigos. Foram gerados os previews das novas
+A biblioteca passa a ter 90 artigos. Foram gerados os previews das novas
 páginas de listagem (Blog e Guias 9 e 10, Operação página 3).

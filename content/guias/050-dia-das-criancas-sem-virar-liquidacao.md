@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-20"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/combo-e-kit-aumentar-valor-do-pedido/", "/guias/preco-de-referencia-regra-que-evita-multa-procon/", "/guias/o-que-e-margem-de-lucro-desconto-sem-margem/", "/jornada/"]
 ---
 
@@ -52,7 +53,7 @@ Depois da data, guarde quem comprou. O cliente do Dia das Crianças compra de no
 
 ## O que fazer agora
 
-Monte as três seleções e um kit ainda esta semana, defina a data de corte e escreva as duas respostas prontas. Se você não tem como separar quem comprou em outubro para falar com eles em dezembro, esse é o próximo passo da operação. Descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Monte as três seleções e um kit, defina a data de corte e escreva as duas respostas prontas. Se a data de corte da entrega pelo correio já passou, divulgue a seleção com retirada na loja ou entrega local, que ainda chegam antes do dia 12. Se você não tem como separar quem comprou em outubro para falar com eles em dezembro, esse é o próximo passo da operação. Descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
