@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-13"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-indexacao-pagina-nao-existe-google/", "/guias/o-que-e-robots-txt/", "/guias/duas-paginas-brigando-pela-mesma-busca/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -34,7 +35,7 @@ No Search Console, costuma aparecer como "Detectada, mas não indexada no moment
 
 ## Causa 4: o conteúdo é repetido ou fraco
 
-Esta é a causa que mais confunde, porque não há erro técnico. O Google leu a página e decidiu que não vale guardar. No painel aparece como "Rastreada, mas ainda não indexada" ou "Cópia, o Google e o usuário não escolheram a mesma página canônica".
+Esta é a causa que mais confunde, porque não há erro técnico. O Google leu a página e decidiu que não vale guardar. No painel aparece como "Rastreada, mas ainda não indexada" ou numa das linhas que começam com "Cópia" (por exemplo, quando o Google escolheu outra página sua como a principal, a canônica).
 
 Os casos comuns: página de serviço com três frases e uma foto; 10 páginas de bairro com o mesmo texto trocando só o nome do bairro; produto com a descrição copiada do fornecedor, que existe em 200 outras lojas; página nova que repete o que outra página sua já diz. Correção: ou a página ganha conteúdo próprio que responda uma pergunta real, ou ela é unificada com a página que já responde. O caso de duas páginas concorrendo tem guia próprio: [duas páginas brigando pela mesma busca](https://avilaops.com/guias/duas-paginas-brigando-pela-mesma-busca/).
 

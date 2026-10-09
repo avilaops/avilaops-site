@@ -3,14 +3,15 @@ num: 216
 titulo: "O que é o arquivo robots.txt"
 slug: "o-que-e-robots-txt"
 title_seo: "O que é o arquivo robots.txt"
-meta_description: "O robots.txt é o arquivo que diz aos robôs de busca por onde podem ou não passar no seu site. Saiba o que ele controla e o erro que tira você do Google."
+meta_description: "O robots.txt é o arquivo que diz aos robôs de busca por onde podem passar no seu site. Saiba o que ele controla e o erro que tira você do Google."
 mes: "2027-04"
 bloco: "basico"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-04"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/para-que-serve-o-sitemap/", "/guias/o-que-e-llms-txt/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

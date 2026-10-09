@@ -3,14 +3,15 @@ num: 232
 titulo: "O que faz uma inteligência artificial citar a sua empresa"
 slug: "o-que-faz-ia-citar-sua-empresa"
 title_seo: "O que faz uma inteligência artificial citar a sua empresa"
-meta_description: "As IAs citam empresas que têm resposta clara em página própria, dados iguais em todo lugar e menções de terceiros. Veja os cinco fatores e o que controla."
+meta_description: "As IAs citam empresas com resposta clara em página própria, dados iguais em todo lugar e menções de terceiros. Veja os cinco fatores e o que controla."
 mes: "2027-04"
 bloco: "pratica"
 puxa: "IA"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-20"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias/", "/guias/escrever-para-pessoa-e-ia-ao-mesmo-tempo/", "/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/automacao-de-atendimento/"]
 ---
 

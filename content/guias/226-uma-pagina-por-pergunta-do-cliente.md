@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "SEO"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-14"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-intencao-de-busca/", "/guias/perguntas-frequentes-que-respondem-busca-real/", "/guias/conteudo-raso-300-palavras-nao-rendem/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

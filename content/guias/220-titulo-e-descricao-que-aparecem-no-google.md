@@ -3,14 +3,15 @@ num: 220
 titulo: "O que são o título e a descrição que aparecem no Google"
 slug: "titulo-e-descricao-que-aparecem-no-google"
 title_seo: "Título e descrição que aparecem no Google: o que são"
-meta_description: "O título e a descrição são o texto azul e o cinza do resultado de busca. Você escreve os dois. Saiba o tamanho certo e o que colocar para ganhar o clique."
+meta_description: "O título e a descrição são o texto azul e o cinza do resultado de busca. Você escreve os dois. Veja o tamanho certo e o que colocar para ganhar o clique."
 mes: "2027-04"
 bloco: "basico"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-08"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/impressao-clique-posicao-numeros-que-importam/", "/guias/o-que-e-palavra-chave-como-descobrir/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

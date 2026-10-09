@@ -3,14 +3,15 @@ num: 222
 titulo: "O que é o arquivo llms.txt, que fala com as inteligências artificiais"
 slug: "o-que-e-llms-txt"
 title_seo: "O que é o arquivo llms.txt e para que serve"
-meta_description: "O llms.txt é um arquivo de texto na raiz do site que resume para as inteligências artificiais o que você faz. O que ele é, o que não garante e como criar."
+meta_description: "O llms.txt é um arquivo de texto na raiz do site que resume para as inteligências artificiais o que você faz. O que é, o que não garante e como criar."
 mes: "2027-04"
 bloco: "basico"
 puxa: "IA"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias/", "/guias/o-que-e-robots-txt/", "/guias/o-que-faz-ia-citar-sua-empresa/", "/automacao-de-atendimento/"]
 ---
 

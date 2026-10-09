@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-03"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-indexacao-pagina-nao-existe-google/", "/guias/o-que-e-robots-txt/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -26,7 +27,7 @@ Faz: informa ao Google quais páginas existem e quando cada uma foi alterada pel
 
 Não faz: não obriga o Google a indexar. Listar uma página no sitemap é um pedido, não uma ordem. O Google ainda decide se a página vale o índice. Também não melhora posição.
 
-Numa loja de uniformes em Mirassol que cadastra 12 produtos novos para a volta às aulas, sem sitemap o Google acha os produtos quando resolver passar pela categoria. Com o sitemap atualizado automaticamente pela plataforma da loja, os 12 endereços são informados no mesmo dia.
+Numa loja de uniformes em Mirassol que cadastra 12 produtos novos para a volta às aulas, sem sitemap o Google acha os produtos quando resolver passar pela categoria. Com o sitemap atualizado automaticamente pela plataforma da loja, os 12 endereços entram no arquivo no mesmo dia e o Google os encontra na próxima vez que ler o sitemap.
 
 ## Como faço o meu sitemap?
 

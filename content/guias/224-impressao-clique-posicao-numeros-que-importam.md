@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/search-console-relatorio-o-que-consertar/", "/guias/titulo-e-descricao-que-aparecem-no-google/", "/guias/crm-para-pequenas-empresas-com-whatsapp/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -59,7 +60,7 @@ Abra o Search Console, filtre pelos últimos três meses, ordene as páginas por
 ## Perguntas frequentes
 
 **Qual é uma boa taxa de cliques?**
-Depende da posição. Nas três primeiras posições, abaixo de 5% costuma indicar título fraco. Da posição 10 em diante, 1% já é o esperado. Compare a mesma página com ela mesma, mês a mês, e não com médias de mercado.
+Depende da posição. Nas cinco primeiras posições, abaixo de 3% costuma indicar título fraco, como na tabela acima. Da posição 10 em diante, 1% já é o esperado. Compare a mesma página com ela mesma, mês a mês, e não com médias de mercado.
 
 **Minhas impressões subiram e os cliques não. É ruim?**
 Não necessariamente. Impressões sobem quando o Google começa a testar a sua página em mais buscas, quase sempre em posições baixas. É o começo do processo. Se em dois ou três meses a posição melhorar e os cliques não, aí o problema é o título.

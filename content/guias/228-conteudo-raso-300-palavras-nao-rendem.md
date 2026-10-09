@@ -3,14 +3,15 @@ num: 228
 titulo: "Conteúdo raso: por que 300 palavras não rendem"
 slug: "conteudo-raso-300-palavras-nao-rendem"
 title_seo: "Conteúdo raso: por que 300 palavras não rendem"
-meta_description: "Página curta que não responde a pergunta inteira não indexa, não é citada por IA e não gera contato. Saiba o que é raso, o que é suficiente e como testar."
+meta_description: "Página que não responde a pergunta inteira costuma ficar fora do Google e das IAs e não gera contato. Saiba o que é raso, o que é suficiente e como testar."
 mes: "2027-04"
 bloco: "pratica"
 puxa: "SEO"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-16"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/pagina-nao-indexa-cinco-causas/", "/guias/uma-pagina-por-pergunta-do-cliente/", "/guias/atualizar-texto-antigo-rende-mais/", "/criacao-de-site-profissional/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/pagina-nao-indexa-cinco-causas/", "/guias/uma-pagina-po
 
 Conteúdo raso é a página que toca no assunto e não responde. Não é uma questão de contagem: 300 palavras que respondem por inteiro a uma pergunta pequena são suficientes, e 1.500 palavras que rodeiam o tema sem dizer preço, prazo ou como funciona são rasas. O problema é que, na prática, quase toda página de 300 palavras de pequena empresa é a versão "tocou e não respondeu", e o Google e as IAs tratam essa página como se não existisse.
 
-O site padrão de pequena empresa tem exatamente essas páginas: "Nossos serviços" com um parágrafo por serviço, "Sobre nós" com a história e nada de útil, e uma página por produto com a descrição do fabricante. Muitas ficam no Search Console como "Rastreada, mas não indexada no momento", uma das [cinco causas de página que não indexa](https://avilaops.com/guias/pagina-nao-indexa-cinco-causas/).
+O site padrão de pequena empresa tem exatamente essas páginas: "Nossos serviços" com um parágrafo por serviço, "Sobre nós" com a história e nada de útil, e uma página por produto com a descrição do fabricante. Muitas ficam no Search Console como "Rastreada, mas ainda não indexada", uma das [cinco causas de página que não indexa](https://avilaops.com/guias/pagina-nao-indexa-cinco-causas/).
 
 ## Como o Google e as IAs tratam a página rasa?
 

@@ -3,14 +3,15 @@ num: 230
 titulo: "Duas páginas brigando pela mesma busca"
 slug: "duas-paginas-brigando-pela-mesma-busca"
 title_seo: "Duas páginas brigando pela mesma busca"
-meta_description: "Quando duas páginas suas respondem à mesma busca, o Google alterna entre elas e nenhuma sobe. Saiba identificar a canibalização e resolver com uma decisão."
+meta_description: "Quando duas páginas suas respondem à mesma busca, o Google alterna entre elas e nenhuma sobe. Veja como identificar e resolver a canibalização."
 mes: "2027-04"
 bloco: "pratica"
 puxa: "SEO"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-18"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/atualizar-texto-antigo-rende-mais/", "/guias/o-que-e-intencao-de-busca/", "/guias/pagina-de-categoria-mais-visitada-menos-cuidada/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

@@ -3,14 +3,15 @@ num: 218
 titulo: "O que é intenção de busca"
 slug: "o-que-e-intencao-de-busca"
 title_seo: "O que é intenção de busca"
-meta_description: "Intenção de busca é o que a pessoa quer de verdade quando digita algo no Google. Entenda os quatro tipos e por que a sua página precisa bater com um deles."
+meta_description: "Intenção de busca é o que a pessoa quer de verdade ao digitar algo no Google. Entenda os quatro tipos e por que a sua página precisa bater com um deles."
 mes: "2027-04"
 bloco: "basico"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-06"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-palavra-chave-como-descobrir/", "/guias/uma-pagina-por-pergunta-do-cliente/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

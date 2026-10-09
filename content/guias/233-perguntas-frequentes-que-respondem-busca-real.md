@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "SEO"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-21"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/uma-pagina-por-pergunta-do-cliente/", "/guias/escrever-para-pessoa-e-ia-ao-mesmo-tempo/", "/faq/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -53,7 +54,7 @@ Marque a seção com dados estruturados do tipo FAQ (schema FAQPage) se a plataf
 | Onde | Quantas perguntas | Sobre o quê |
 |---|---|---|
 | Fim de cada página de serviço | 3 a 5 | Só aquele serviço |
-| Página de pagamento e envio | 5 a 8 | Pix, cartão, boleto, prazo, troca, arrependimento (7 dias, CDC art. 49) |
+| Página de pagamento e envio | 5 a 8 | Pix, cartão, boleto, prazo, troca, arrependimento (7 dias a contar do recebimento, CDC art. 49) |
 | Página de contato | 3 a 5 | Horário, endereço, estacionamento, canais |
 | Página geral de FAQ | 8 a 12 | O que não cabe nas outras, com link para elas |
 
