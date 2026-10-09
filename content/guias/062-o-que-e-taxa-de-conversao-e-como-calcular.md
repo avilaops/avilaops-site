@@ -25,7 +25,7 @@ Esse número responde à pergunta mais cara de novembro: falta gente ou a loja n
 
 Pegue um período fechado, sete dias ou o mês. Conte visitantes únicos no painel da loja. Conte quem fez pelo menos um pedido pago, não criado: boleto não pago é intenção, não conversão. Quem comprou duas vezes conta uma, porque o denominador também conta cada visitante uma vez. Divida e multiplique por 100.
 
-Faça a conta separada para celular e computador. Na maioria das lojas pequenas, quase todo mundo chega pelo celular, e é lá que a loja costuma falhar. Uma loja com 1,5% no geral pode ter 1% no celular, e o número geral esconde uma tela de fechamento do pedido (checkout) que trava no telefone. No WhatsApp a conta é igual: vendas fechadas divididas por conversas iniciadas. É o [funil de vendas](https://avilaops.com/glossario/funil-de-vendas/) etapa por etapa.
+Faça a conta separada para celular e computador. Na maioria das lojas pequenas, quase todo mundo chega pelo celular, e é lá que a loja costuma falhar. Uma loja com 1,5% no geral pode ter 1% no celular, e o número geral esconde uma tela de fechamento do pedido (checkout) que trava no telefone. No WhatsApp a conta é igual: conversas que terminaram em pelo menos uma venda paga, divididas por conversas iniciadas. É o [funil de vendas](https://avilaops.com/glossario/funil-de-vendas/) etapa por etapa.
 
 ## O que fazer com o número depois de saber?
 
@@ -46,4 +46,4 @@ Não existe número certo; depende de produto, preço e origem do visitante. Use
 Pago. Boleto que não compensa e Pix que não cai não são venda. A diferença entre as duas taxas mostra quanto você perde no fechamento.
 
 **Como calcular taxa de conversão no WhatsApp?**
-Vendas fechadas divididas por conversas novas no período. Sem CRM isso é feito na mão, e por isso muita gente não sabe o próprio número.
+Conversas que terminaram em pelo menos uma venda paga, divididas por conversas novas no período. Sem CRM isso é feito na mão, e por isso muita gente não sabe o próprio número.

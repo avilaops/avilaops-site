@@ -17,15 +17,15 @@ links_internos: ["/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/g
 
 # Orçamento de anúncio: quanto colocar sem quebrar
 
-O orçamento de anúncio que não quebra sai de duas contas: quanto você ganha por venda, depois de todos os custos, e quanto custa uma venda vinda de anúncio, medido nas suas campanhas anteriores. Se cada venda deixa R$ 40 de margem e cada venda por anúncio custa R$ 15, abaixo do teto de metade da margem, o anúncio se paga e o orçamento pode subir enquanto essa relação se mantiver. Se custa R$ 50, o anúncio está comprando prejuízo, e mais orçamento é mais prejuízo.
+O orçamento de anúncio que não quebra sai de duas contas: quanto sobra de cada venda, depois dos custos dela, e quanto custa uma venda vinda de anúncio, medido nas suas campanhas anteriores. Se cada venda deixa R$ 40 de margem e cada venda por anúncio custa R$ 15, abaixo do teto de metade da margem, o anúncio se paga e o orçamento pode subir enquanto essa relação se mantiver. Se custa R$ 50, o anúncio está comprando prejuízo, e mais orçamento é mais prejuízo.
 
 Quem nunca mediu não tem a segunda conta. Rode um anúncio pequeno em outubro, com o pixel instalado, e chegue em novembro sabendo quanto custa uma venda. Definir orçamento de Black Friday no chute é a forma mais rápida de gastar R$ 3 mil para vender R$ 2 mil.
 
 ## Como fazer a conta de quanto pode gastar?
 
-Primeiro, a margem por venda: preço médio do pedido menos custo do produto, taxa de pagamento, imposto, frete que você paga e embalagem. É o que sobra para pagar o anúncio e ainda lucrar. Segundo, quanto dessa margem você aceita entregar ao anúncio: metade é um limite razoável para quem quer lucrar na primeira compra; mais do que isso, só quem tem recompra medida.
+Primeiro, a margem por venda: preço médio do pedido menos custo do produto, taxa de pagamento, imposto, frete que você paga e embalagem. É o que sobra para pagar o anúncio e ainda lucrar. A parte que fica com você precisa cobrir também os custos fixos da loja, como plataforma, aluguel e salários, divididos pelos pedidos do mês; só o que passar disso é lucro. Segundo, quanto dessa margem você aceita entregar ao anúncio: metade é um limite razoável para quem quer lucrar na primeira compra; mais do que isso, só quem tem recompra medida.
 
-Terceiro, o custo por venda que o pixel mostra: gasto total da campanha dividido pelo número de compras registradas. Confira esse número contra os pedidos pagos da loja no mesmo período: o pixel pode contar a mais ou a menos. Com esses três números:
+Terceiro, o custo por venda que o pixel mostra: gasto total da campanha dividido pelo número de compras registradas. Confira se cada compra que o pixel registrou corresponde a um pedido pago na loja, pelo número do pedido: o pixel pode contar a mais ou a menos. Não compare com todos os pedidos do período, porque venda orgânica, de e-mail e de recompra também entram lá. Com esses três números:
 
 | Número | Como obter | Exemplo |
 | --- | --- | --- |
