@@ -1,17 +1,20 @@
 /**
  * Confere as tabelas dos guias em larguras de celular e de desktop.
  *
- * No celular, colunas espremidas quebravam palavras letra a letra; a correcao
- * da largura minima as colunas e deixa a tabela rolar dentro do proprio
- * contêiner, com uma orientacao para deslizar. Essa largura minima nao pode
- * vazar para o desktop: uma tabela de quatro colunas passaria a rolar dentro
- * de um artigo de 800px sem precisar. Nenhum build quebra por isso, entao a
- * conferencia e feita com um navegador de verdade.
+ * Em colunas estreitas, celulas espremidas quebravam palavras letra a letra; a
+ * correcao da largura minima as colunas e deixa a tabela rolar dentro do
+ * proprio contêiner, com uma orientacao para deslizar. Essa largura minima nao
+ * pode vazar para colunas largas: uma tabela de quatro colunas passaria a rolar
+ * dentro de um artigo de 800px sem precisar. A regra segue a largura da coluna
+ * do artigo, nao a da janela: em 900px a barra lateral deixa so ~500px.
+ * Nenhum build quebra por isso, entao a conferencia e feita com um navegador.
  *
  *   node scripts/validar-tabelas.mjs
  *
- * Em 320px cada coluna respeita a largura minima e a orientacao aparece.
- * Em 600px, 768px e 1280px a orientacao some e nenhuma tabela rola.
+ * Coluna estreita (ate 36rem): cada coluna respeita a largura minima e a
+ * orientacao aparece. Coluna larga: a orientacao some, nenhuma celula tem
+ * largura minima e a tabela so rola se nem as palavras inteiras couberem.
+ * Em qualquer largura, nenhuma celula parte palavras no meio.
  * PLAYWRIGHT_CHROMIUM_PATH aponta um Chromium ja instalado.
  */
 import { createReadStream, existsSync, readdirSync, statSync } from "node:fs";
@@ -21,9 +24,8 @@ import { chromium } from "playwright";
 
 const outDir = resolve(process.env.OUT_DIR || "out");
 
-/** Larguras conferidas: celular estreito, limite do breakpoint, tablet e desktop. */
-const LARGURAS = [320, 600, 768, 1280];
-const CELULAR_MAXIMO = 599;
+/** Larguras de janela: celular, celular deitado, tablet, desktop com barra lateral estreita e desktop. */
+const LARGURAS = [320, 600, 768, 900, 1280];
 
 const tipos = {
   ".html": "text/html; charset=utf-8",
@@ -79,15 +81,27 @@ function subirServidor() {
 function medir() {
   const rem = parseFloat(getComputedStyle(document.documentElement).fontSize);
   return [...document.querySelectorAll(".editorial-table")].map((caixa) => {
-    const dica = caixa.previousElementSibling?.classList.contains("editorial-table-hint")
-      ? caixa.previousElementSibling
-      : null;
+    const bloco = caixa.closest(".editorial-table-block");
+    const dica = bloco?.querySelector(".editorial-table-hint");
+    const tabela = caixa.querySelector("table");
     const cabecalho = caixa.querySelector("tr");
-    const larguras = cabecalho ? [...cabecalho.children].map((celula) => celula.getBoundingClientRect().width) : [];
+    const celulas = cabecalho ? [...cabecalho.children] : [];
+    const larguras = celulas.map((celula) => celula.getBoundingClientRect().width);
+    // Largura em que so as palavras inteiras cabem: abaixo disso a rolagem e necessaria.
+    tabela.style.width = "min-content";
+    const minimoConteudo = tabela.getBoundingClientRect().width;
+    tabela.style.width = "";
     return {
       colunas: larguras.length,
-      rola: caixa.scrollWidth > caixa.clientWidth,
+      estreita: Boolean(bloco) && bloco.clientWidth <= 36 * rem,
+      rolaSemPrecisar: caixa.scrollWidth > caixa.clientWidth && minimoConteudo <= caixa.clientWidth + 1,
       dicaVisivel: Boolean(dica && dica.offsetParent !== null),
+      // `overflow-wrap: anywhere` herdado do artigo parte palavras no meio quando a coluna aperta.
+      partePalavra: celulas.some((celula) => {
+        const estilo = getComputedStyle(celula);
+        return estilo.overflowWrap !== "normal" || estilo.wordBreak !== "normal";
+      }),
+      larguraMinima: celulas.some((celula) => parseFloat(getComputedStyle(celula).minWidth) > 0),
       // Tolerancia de 1px para arredondamento de subpixel.
       espremida: larguras.some((largura, i) => largura + 1 < (i === 0 ? 10 : 14) * rem),
     };
@@ -107,7 +121,6 @@ let tabelas = 0;
 
 try {
   for (const largura of LARGURAS) {
-    const celular = largura <= CELULAR_MAXIMO;
     const contexto = await navegador.newContext({ viewport: { width: largura, height: 900 } });
     // So o proprio export interessa: tag de terceiro nao muda o layout do artigo.
     await contexto.route("**/*", (rota) =>
@@ -123,10 +136,15 @@ try {
           tabelas += 1;
           colunasVistas.add(tabela.colunas);
         }
-        if (celular && tabela.espremida) problemas.push(`${onde}: coluna abaixo da largura minima`);
-        if (celular && !tabela.dicaVisivel) problemas.push(`${onde}: orientacao para deslizar ausente`);
-        if (!celular && tabela.dicaVisivel) problemas.push(`${onde}: orientacao para deslizar fora do celular`);
-        if (!celular && tabela.rola) problemas.push(`${onde}: rolagem horizontal fora do celular`);
+        if (tabela.partePalavra) problemas.push(`${onde}: celula pode partir palavras no meio`);
+        if (tabela.estreita) {
+          if (tabela.espremida) problemas.push(`${onde}: coluna abaixo da largura minima`);
+          if (!tabela.dicaVisivel) problemas.push(`${onde}: orientacao para deslizar ausente em coluna estreita`);
+        } else {
+          if (tabela.dicaVisivel) problemas.push(`${onde}: orientacao para deslizar em coluna larga`);
+          if (tabela.larguraMinima) problemas.push(`${onde}: largura minima de coluna em coluna larga`);
+          if (tabela.rolaSemPrecisar) problemas.push(`${onde}: rolagem horizontal sem necessidade em coluna larga`);
+        }
       });
     }
     await contexto.close();

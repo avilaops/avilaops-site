@@ -34,7 +34,7 @@ export default function MarkdownBody({ post }: { post: Post }) {
             }
             return <a href={url} rel="noopener noreferrer">{children}</a>;
           },
-          table: ({ children }) => <><p className="editorial-table-hint">Deslize a tabela para os lados para ver todas as colunas.</p><div className="editorial-table" tabIndex={0} role="region" aria-label="Tabela do artigo, com rolagem horizontal"><table>{children}</table></div></>,
+          table: ({ children }) => <div className="editorial-table-block"><p className="editorial-table-hint">Deslize a tabela para os lados para ver todas as colunas.</p><div className="editorial-table" tabIndex={0} role="region" aria-label="Tabela do artigo"><table>{children}</table></div></div>,
           img: () => null, // Imagens vêm do contrato validado, com alt e dimensões.
         }}>{block}</Markdown>
         {illustration && <figure><Image src={illustration.src} alt={illustration.alt} width={illustration.width} height={illustration.height} loading="lazy" sizes="(max-width: 800px) 100vw, 760px" /><figcaption>{illustration.alt}</figcaption></figure>}
