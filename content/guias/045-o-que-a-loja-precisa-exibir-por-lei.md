@@ -3,7 +3,7 @@ num: 45
 titulo: "O que a loja precisa exibir por lei antes de vender"
 slug: "o-que-a-loja-precisa-exibir-por-lei"
 title_seo: "O que a loja online precisa exibir por lei"
-meta_description: "O que a loja virtual é obrigada a mostrar antes da compra: CNPJ, endereço, preço total, prazo, política de troca, contato e privacidade. Confira a sua."
+meta_description: "O que a loja virtual deve mostrar antes da compra: CNPJ ou CPF, endereço, preço total, prazo, política de troca, contato e privacidade. Confira a sua."
 mes: "2026-10"
 bloco: "pratica"
 puxa: "Legal"
@@ -23,7 +23,7 @@ Confira em outubro. Em novembro, o Procon e o cliente olham com mais atenção, 
 
 ## O que precisa estar no rodapé de toda página?
 
-Razão social (pode vir junto do nome fantasia) e CNPJ. Endereço físico completo, o mesmo que consta no CNPJ, mesmo que seja o da sua casa. Canal de atendimento: e-mail e, se quiser, telefone ou WhatsApp, com horário. Links para a política de troca e devolução, a política de privacidade e os termos de uso.
+Razão social (pode vir junto do nome fantasia) e CNPJ; quem vende como pessoa física, sem CNPJ, mostra o nome completo e o CPF. Endereço físico completo, o mesmo do cadastro, mesmo que seja o da sua casa. Canal de atendimento: e-mail e, se quiser, telefone ou WhatsApp, com horário. Links para a política de troca e devolução, a política de privacidade e os termos de uso.
 
 O rodapé é o lugar porque ele aparece em toda página, inclusive na de produto, que é onde o cliente chega vindo do anúncio ou do Google. Página "quem somos" não substitui: o cliente não vai procurar.
 
@@ -43,7 +43,7 @@ A tela de fechamento não pode ter cobrança escondida. Taxa que aparece só dep
 
 | Onde | O que exibir |
 | --- | --- |
-| Rodapé | CNPJ, endereço, contato, links das políticas |
+| Rodapé | CNPJ (ou CPF), endereço, contato, links das políticas |
 | Página de produto | Características, preço, parcelas, estoque, frete por CEP |
 | Fechamento do pedido | Itens, frete, total, prazo, correção de erros; aceite das políticas (boa prática) |
 | Página própria | Política de troca e devolução |
@@ -63,10 +63,10 @@ Abra a sua loja pelo celular e procure cada item da tabela acima. Anote o que fa
 ## Perguntas frequentes
 
 **É obrigatório colocar o endereço no site?**
-Sim. O Decreto 7.962/2013 exige endereço físico e eletrônico do fornecedor. Use o endereço que consta no seu CNPJ. Se a empresa está registrada num escritório contábil ou virtual, esse é o endereço a exibir.
+Sim. O Decreto 7.962/2013 exige endereço físico e eletrônico do fornecedor. Use o endereço que consta no seu CNPJ, ou no cadastro do CPF se você vende como pessoa física. Se a empresa está registrada num escritório contábil ou virtual, esse é o endereço a exibir.
 
 **Loja no Instagram precisa mostrar CNPJ?**
-Sim. Quem vende com regularidade é fornecedor, e o cliente tem direito de saber com quem está comprando. Coloque o CNPJ na bio ou em um destaque fixo.
+Precisa mostrar o cadastro que tiver: o CNPJ ou, para quem vende como pessoa física, o CPF. Quem vende com regularidade é fornecedor, e o cliente tem direito de saber com quem está comprando. Coloque o número na bio ou em um destaque fixo.
 
 **Posso cobrar taxa de embalagem na tela final?**
 Pode cobrar, desde que a taxa apareça antes de o cliente informar o pagamento e esteja somada ao total. Cobrança que só aparece no fim é o que o CDC proíbe.
