@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-27"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/perguntas-antes-de-mandar-orcamento/", "/guias/objecao-de-preco-tres-respostas/", "/guias/link-de-pagamento-no-whatsapp-com-seguranca/", "/jornada/"]
 ---
 
@@ -30,9 +31,9 @@ Inclui: projeto, material, ferragens com amortecedor, instalação e retirada do
 Não inclui: pia, torneira e parte elétrica
 Prazo: 20 dias úteis após a confirmação
 Valor: R$ 4.800 (à vista no Pix) ou 3x de R$ 1.600 sem juros no cartão
-Validade: 05/03/2027
+Validade: 15 dias, até [data]
 Garantia: 12 meses em ferragens e instalação
-Para reservar a data, é o sinal de R$ 1.200; fecho a agenda de março por ordem de confirmação. Prefere Pix ou cartão?
+Para reservar a data, é o sinal de R$ 1.200; fecho a agenda do mês por ordem de confirmação. Prefere Pix ou cartão?
 ```
 
 O que cada linha faz:

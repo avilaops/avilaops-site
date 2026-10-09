@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "E-mail"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-15"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-reputacao-de-remetente/", "/guias/frequencia-de-envio-pouco-ou-demais/", "/email-profissional/"]
 ---
 

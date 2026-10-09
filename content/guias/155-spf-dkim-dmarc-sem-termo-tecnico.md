@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "E-mail"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-02"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/dns/", "/guias/o-que-e-caixa-de-spam/", "/email-profissional/"]
 ---
 

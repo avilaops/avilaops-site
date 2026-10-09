@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "E-mail"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-reputacao-de-remetente/", "/glossario/dominio/", "/dominio-e-hospedagem/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/o-que-e-reputacao-de-remetente/", "/glossario/dominio/"
 
 Domínio registrado há poucas semanas não tem reputação nenhuma, e para o Gmail e o Outlook "nenhuma" é quase o mesmo que "ruim". Se o primeiro ato desse domínio for disparar 800 e-mails de promoção, a maior parte cai no spam e o domínio começa a vida marcado. Aquecer é o oposto: começar enviando pouco, para gente que responde, e subir o volume aos poucos ao longo de três ou quatro semanas.
 
-Isso interessa a quem abriu empresa em janeiro, registrou o domínio e quer avisar a base sobre o Carnaval ou lançar a primeira campanha do ano. A pressa custa mais do que a espera. O que é reputação e como ela é medida está em https://avilaops.com/guias/o-que-e-reputacao-de-remetente/.
+Isso interessa a quem abriu empresa há pouco, registrou o domínio e quer avisar a base sobre uma data como o Carnaval ou lançar a primeira campanha. A pressa custa mais do que a espera. O que é reputação e como ela é medida está em https://avilaops.com/guias/o-que-e-reputacao-de-remetente/.
 
 ## Por que o provedor desconfia de domínio novo?
 
@@ -37,13 +38,13 @@ Antes de tudo, configure SPF, DKIM e DMARC. Sem isso, não comece.
 | 3 | Primeiro envio em grupo pequeno, com pedido de resposta ("me diz se prefere retirar ou receber") | Quem abriu ou respondeu nas semanas anteriores, mais os próximos 100 | 100 a 150 |
 | 4 | Envio para a base ativa, dividido em dois ou três dias | Quem interagiu nos últimos seis meses | 200 a 300 |
 
-Os números são referência para uma empresa pequena; ajuste pelo tamanho da sua base, mantendo a proporção. A regra é subir em degraus: cada semana com cerca de duas a três vezes o volume da anterior, nunca direto para o volume final. Se a taxa de resposta cair ou aparecerem devoluções (bounces), segure o volume por mais uma semana.
+Os números são referência para uma empresa pequena; ajuste pelo tamanho da sua base, mantendo a proporção. A regra é subir em degraus: cada semana com cerca de duas a três vezes o volume da anterior, nunca direto para o volume final. Se a taxa de resposta cair ou aparecerem devoluções (bounces), segure o volume por mais uma semana. E todo envio em grupo, em qualquer semana, vai só para quem aceitou receber seus e-mails, com link de descadastro visível.
 
 ## O que fazer com a lista antiga durante o aquecimento?
 
 Não envie para ela ainda. Lista com dois anos de idade tem endereços que não existem mais, e cada devolução custa reputação justamente quando você não tem nenhuma. Separe os contatos que compraram ou responderam nos últimos seis meses; só esses entram nas semanas 3 e 4. O restante entra depois, em lotes de 50, quando o domínio já tiver um mês de vida limpa.
 
-Se a urgência é avisar sobre o Carnaval, use o WhatsApp e o Perfil da Empresa no Google para o aviso. O e-mail entra na sequência, sem apressar o domínio.
+Se a urgência é avisar sobre o Carnaval, use o status do WhatsApp, uma mensagem para quem aceitou receber avisos e o Perfil da Empresa no Google. O e-mail entra na sequência, sem apressar o domínio.
 
 ## O que fazer agora
 

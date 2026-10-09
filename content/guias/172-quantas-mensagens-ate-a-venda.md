@@ -9,23 +9,24 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-19"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/funil-de-vendas/", "/guias/crm-para-pequenas-empresas-com-whatsapp/", "/guias/onde-o-cliente-trava-achar-o-gargalo/", "/sistema-para-pequenas-empresas/"]
 ---
 
 # Quantas mensagens até a venda: a conta que muda o discurso
 
-A conta: número de conversas novas no mês dividido pelo número de vendas no mesmo mês. Se 80 pessoas chamaram no WhatsApp em janeiro e 10 compraram, você precisa de oito conversas para fechar uma. Esse número diz quanto vale cada mensagem que chega, quanto você pode pagar por um contato em anúncio e se o problema do mês é falta de gente ou falta de fechamento.
+A conta: número de conversas novas no mês dividido pelo número de vendas que saíram dessas conversas no mesmo mês. Se 80 pessoas chamaram no WhatsApp em janeiro e 10 compraram, você precisa de oito conversas para fechar uma. Esse número diz quanto vale cada mensagem que chega, quanto você pode pagar por um contato em anúncio e se o problema do mês é falta de gente ou falta de fechamento.
 
-Muda o discurso porque tira a conversa do "está fraco" para "chegaram menos conversas" ou "chegaram as mesmas e fechei menos". São problemas diferentes, com soluções diferentes. Em fevereiro, com o Carnaval no meio, a primeira frase costuma ser verdade. A conta mostra se a segunda também é.
+Muda o discurso porque tira a conversa do "está fraco" para "chegaram menos conversas" ou "chegaram as mesmas e fechei menos". São problemas diferentes, com soluções diferentes. Em mês com feriado prolongado, como o do Carnaval, a primeira frase costuma ser verdade. A conta mostra se a segunda também é.
 
 ## Como calcular com o que já existe no WhatsApp?
 
 Você não precisa de sistema para fazer a primeira conta. Precisa de uma hora e do celular.
 
 1. Abra o WhatsApp Business e conte as conversas que começaram no mês passado. Se usa etiquetas, conte as marcadas como "novo cliente" ou "orçamento". Se não usa, role a lista e conte quem apareceu pela primeira vez.
-2. Conte as vendas do mesmo mês: pedidos pagos, serviços fechados, contratos assinados. Use a nota fiscal ou o extrato do Pix, que não mentem.
+2. Conte as vendas do mesmo mês que vieram dessas conversas novas: pedidos pagos, serviços fechados, contratos assinados. Confira na nota fiscal ou no extrato do Pix, que não mentem, e deixe de fora recompras de clientes antigos e vendas de balcão.
 3. Divida. Conversas ÷ vendas = conversas por venda.
 4. Faça a mesma conta para o mês anterior. Dois meses já mostram se o número é estável.
 
@@ -35,8 +36,8 @@ Exemplo: uma loja de móveis planejados recebeu 45 conversas em janeiro e fechou
 
 | Uso | Como aplicar |
 |---|---|
-| Meta de conversas | Se você precisa de 12 vendas em março e fecha uma a cada oito conversas, precisa de 96 conversas. Isso vira meta de anúncio, de post e de indicação |
-| Teto do anúncio | Se cada venda deixa R$ 300 de margem e você precisa de oito conversas, cada conversa pode custar no máximo R$ 37 para não dar prejuízo; na prática, bem menos |
+| Meta de conversas | Se você precisa de 12 vendas no mês que vem e fecha uma a cada oito conversas, precisa de 96 conversas. Isso vira meta de anúncio, de post e de indicação |
+| Teto do anúncio | Se cada venda deixa R$ 300 de margem, já descontados custo do produto, taxas e a parte dela nos custos fixos, e você precisa de oito conversas, cada conversa pode custar no máximo R$ 37 para não dar prejuízo; na prática, bem menos |
 | Diagnóstico | Se as conversas subiram e as vendas não, o problema é no atendimento ou na oferta. Se as conversas caíram, o problema é na captação |
 
 O último uso é o que mais muda o discurso. Dono de empresa tende a pedir mais anúncio quando a venda cai. Com a conta na mão, às vezes a resposta é "as conversas estão chegando, o que está travando é a demora para mandar o orçamento". Isso não se resolve com verba. Onde exatamente o cliente trava, a gente mostra em https://avilaops.com/guias/onde-o-cliente-trava-achar-o-gargalo/.
@@ -49,7 +50,7 @@ Quando cada conversa é registrada com a etapa em que está, o número aparece s
 
 ## O que fazer agora
 
-Faça a conta de janeiro hoje, no celular, e anote. Repita em 01/03. Se você quer que esse número apareça atualizado sozinho, com as etapas no meio, o caminho é sair da planilha sem perder o histórico: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Faça a conta do mês passado hoje, no celular, e anote. Repita no primeiro dia do mês que vem. Se você quer que esse número apareça atualizado sozinho, com as etapas no meio, o caminho é sair da planilha sem perder o histórico: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

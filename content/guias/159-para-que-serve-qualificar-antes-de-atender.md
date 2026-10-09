@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-06"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-lead-e-quando-vira-cliente/", "/guias/perguntas-antes-de-mandar-orcamento/", "/jornada/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/o-que-e-lead-e-quando-vira-cliente/", "/guias/perguntas
 
 Qualificar é fazer duas ou três perguntas curtas antes de dedicar tempo a um contato, para saber se ele tem o problema que você resolve, se pode pagar e quando precisa. Serve para gastar a sua atenção com quem tem chance real de fechar e responder o resto com educação e rapidez, sem sacrificar a agenda.
 
-Para quem atende sozinho ou com uma pessoa, isso é o que separa o dia produtivo do dia que termina com 30 conversas abertas e nenhuma venda. Em fevereiro, com Carnaval no meio e equipe reduzida, cada hora de atendimento vale mais.
+Para quem atende sozinho ou com uma pessoa, isso é o que separa o dia produtivo do dia que termina com 30 conversas abertas e nenhuma venda. Em semanas de feriado prolongado, como o Carnaval, com equipe reduzida, cada hora de atendimento vale mais.
 
 ## O que muda quando você qualifica primeiro?
 

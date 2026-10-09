@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "E-mail"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-16"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/e-mail-profissional/", "/identidade-visual/", "/integrar-site-com-whatsapp/", "/email-profissional/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/glossario/e-mail-profissional/", "/identidade-visual/", "/int
 
 A assinatura de e-mail que trabalha por você tem cinco linhas em texto: nome, cargo, empresa, WhatsApp com link direto e site. Cabe no celular, passa pelo filtro de spam e dá ao cliente o próximo passo sem ele precisar procurar. Tudo além disso, banner, frase de efeito, seis ícones de rede social, atrapalha mais do que ajuda.
 
-É o pedaço da sua empresa que mais viaja. Cada orçamento, resposta e confirmação leva a assinatura junto, para gente que talvez nunca tenha visto seu site. Em fevereiro, quando você retoma as conversas paradas desde dezembro, a assinatura é o cartão que chega antes de você.
+É o pedaço da sua empresa que mais viaja. Cada orçamento, resposta e confirmação leva a assinatura junto, para gente que talvez nunca tenha visto seu site. Na volta de um feriado ou das férias, quando você retoma as conversas paradas, a assinatura é o cartão que chega antes de você.
 
 ## O que uma assinatura precisa ter?
 

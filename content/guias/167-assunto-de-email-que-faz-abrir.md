@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "E-mail"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-14"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/taxa-de-abertura-o-que-ela-nao-diz/", "/guias/o-que-e-caixa-de-spam/", "/guias/ia/prompts-para-ia/", "/email-profissional/"]
 ---
 

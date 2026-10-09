@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-26"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/orcamento-por-whatsapp-sem-virar-leilao/", "/guias/roteiro-de-atendimento-que-nao-engessa/", "/guias/contato-que-nao-responde-quando-encerrar/", "/jornada/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/orcamento-por-whatsapp-sem-virar-leilao/", "/guias/rote
 
 Quando o cliente diz "está caro", três respostas funcionam, nesta ordem: perguntar "caro comparado a quê?", mostrar o que está incluso e o que aconteceria sem, e oferecer uma versão menor com preço menor. O que não funciona é dar desconto na hora. Desconto imediato diz ao cliente que o preço anterior era inflado e ensina que reclamar rende 10%.
 
-É a objeção mais comum e a mais mal respondida. Em fevereiro, com cliente ainda pagando as contas de janeiro, ela aparece mais. Isso não muda a resposta; muda a paciência com que você responde.
+É a objeção mais comum e a mais mal respondida. No começo do ano, com o cliente ainda pagando as contas de janeiro, ela aparece mais. Isso não muda a resposta; muda a paciência com que você responde.
 
 ## Por que "está caro" quase nunca é sobre o preço?
 
@@ -36,11 +37,11 @@ Cada significado pede uma resposta diferente. Por isso a primeira coisa a fazer 
 |---|---|---|
 | 1. Perguntar "comparado a quê?" | Sempre, primeiro | "Entendo. Caro comparado com o que você tinha em mente, ou com outro orçamento que recebeu?" |
 | 2. Mostrar o que está incluso | Quando ele compara com algo menor ou com concorrente | "Esse valor inclui [material, instalação, garantia de X meses, retirada do antigo]. Sem isso, você teria de [contratar outra pessoa, comprar separado]. Se o outro orçamento não inclui, a diferença é essa" |
-| 3. Oferecer a versão menor | Quando o valor não cabe agora | "Dá para fazer em duas etapas: [parte essencial] agora por R$ X, e [o resto] em março. Ou a versão [mais simples], por R$ Y, sem [o que sai]" |
+| 3. Oferecer a versão menor | Quando o valor não cabe agora | "Dá para fazer em duas etapas: [parte essencial] agora por R$ X, e [o resto] no mês que vem. Ou a versão [mais simples], por R$ Y, sem [o que sai]" |
 
 A resposta 1 é uma pergunta porque devolve a conversa ao cliente. Ele explica, e você fica sabendo com qual das três situações está lidando. Muitas vezes ele mesmo conclui: "ah, o outro não inclui a instalação".
 
-A resposta 2 não é lista de qualidades. É lista do que ele deixaria de ter. "Nosso serviço é de qualidade" não responde nada. "Sem a garantia, se der problema em abril você paga de novo" responde.
+A resposta 2 não é lista de qualidades. É lista do que ele deixaria de ter. "Nosso serviço é de qualidade" não responde nada. "Sem a garantia de 12 meses, se der problema daqui a seis meses você paga de novo" responde.
 
 A resposta 3 é a única em que o preço muda, e ele muda porque o serviço mudou. Você tirou algo. O cliente que quer o serviço inteiro pelo preço menor recebe um "não" educado: "o valor inteiro é esse porque é o que custa fazer direito; o que dá para fazer é tirar [X] e reduzir para R$ Y".
 

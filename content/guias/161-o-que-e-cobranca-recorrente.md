@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Pagamento"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-08"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-usar-pix-automatico-para-cobranca-recorrente/", "/guias/link-de-pagamento-no-whatsapp-com-seguranca/", "/loja-virtual/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/como-usar-pix-automatico-para-cobranca-recorrente/", "/
 
 Cobrança recorrente é o pagamento que se repete em intervalo fixo, em geral todo mês, sem o cliente precisar pagar de novo por vontade própria. Ele autoriza uma vez, e o valor é debitado no cartão ou pelo Pix Automático; no boleto recorrente, a cobrança sai sozinha, mas o pagamento ainda é manual. É o modelo de assinatura: academia, plano de manutenção, mensalidade de curso, cesta de produtos.
 
-Isso muda a natureza do caixa. Em vez de recomeçar do zero todo dia 1º, você começa o mês sabendo quanto já está contratado. E fevereiro, com Carnaval e menos dias úteis, é o mês em que essa previsibilidade mais faz falta.
+Isso muda a natureza do caixa. Em vez de recomeçar do zero todo dia 1º, você começa o mês sabendo quanto já está contratado. E num mês curto, com feriado prolongado como o Carnaval e menos dias úteis, essa previsibilidade faz ainda mais falta.
 
 ## Quando a cobrança recorrente faz sentido?
 
