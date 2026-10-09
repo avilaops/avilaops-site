@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Local"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-02"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/guias/perfil-da-empresa-no-google-o-que-preencher-primeiro/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -45,4 +46,4 @@ Sim. O Google mudou o nome em 2021. A ficha é a mesma e agora é gerenciada dir
 Pode. Prestador que atende na casa do cliente cadastra a área de atendimento em vez do endereço. O Google esconde o endereço e mostra a região.
 
 **Quanto tempo leva para o perfil aparecer?**
-Depois de criar, o Google pede verificação, por telefone, SMS, e-mail, vídeo ou cartão-postal, conforme o que ele liberar para o seu caso. A análise leva até cinco dias úteis, segundo o Google. Sem verificação, ela não aparece.
+Depois de criar, o Google pede verificação, por telefone, SMS, e-mail, vídeo ou cartão-postal, conforme o que ele liberar para o seu caso. A análise leva até cinco dias úteis, segundo o Google. Sem verificação, o perfil não aparece.

@@ -3,14 +3,15 @@ num: 129
 titulo: "O que é lista de contatos e por que ela é sua, não da rede social"
 slug: "lista-de-contatos-e-sua-nao-da-rede-social"
 title_seo: "Lista de contatos: por que ela é sua, não da rede social"
-meta_description: "Lista de contatos é o cadastro de clientes que você guarda fora de qualquer plataforma. Veja por que seguidores não contam e como montar a sua em janeiro."
+meta_description: "Lista de contatos é o cadastro de clientes que você guarda fora de qualquer plataforma. Veja por que seguidores não contam e como montar a sua."
 mes: "2027-01"
 bloco: "basico"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-07"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/crm/", "/guias/o-que-e-newsletter-e-para-quem-serve/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -24,7 +25,7 @@ A lista é o patrimônio comercial mais barato de construir e o mais fácil de e
 
 Porque a relação é intermediada. Você publica, a plataforma decide quem vê. Não existe um botão "mandar mensagem para todos os meus seguidores", e se existisse, a Meta cobraria por ele. O seguidor é um contato da plataforma que ela deixa você alcançar às vezes.
 
-Já quem está na sua lista você chama quando quiser: por WhatsApp, por e-mail, por ligação. Se o Instagram sair do ar amanhã, a lista continua.
+Já quem está na sua lista e aceitou receber novidades você chama quando tiver algo útil: por WhatsApp, por e-mail, por ligação, sempre com um jeito fácil de sair. Se o Instagram sair do ar amanhã, a lista continua.
 
 ## Como montar a lista sem incomodar ninguém?
 
@@ -36,7 +37,7 @@ Com 50 contatos, uma planilha resolve. Passou de algumas centenas, o CRM guarda 
 
 ## O que fazer agora
 
-Junte hoje os contatos espalhados: agenda do celular, conversas do WhatsApp, pedidos do ano passado. Coloque tudo numa lista só, com nome, telefone e última compra. É o primeiro passo do ano. Quando a lista crescer, saiba quantas mensagens viram venda: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Junte hoje os contatos espalhados: agenda do celular, conversas do WhatsApp, pedidos antigos. Coloque tudo numa lista só, com nome, telefone, última compra e se aceitou receber novidades. Quem não aceitou fica na lista para atendimento, não para promoção. É o primeiro passo. Quando a lista crescer, saiba quantas mensagens viram venda: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

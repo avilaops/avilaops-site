@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Presença"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-01"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/checklist-de-presenca-digital-para-pequenas-empresas/", "/guias/site-ou-instagram-para-pequena-empresa/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -40,7 +41,7 @@ Acontece muito com clínica de estética que tem 4 mil seguidores e nenhum Perfi
 
 ## O que fazer agora
 
-Janeiro é o mês de arrumar a casa. Passe pelo checklist em https://avilaops.com/guias/checklist-de-presenca-digital-para-pequenas-empresas/ e marque o que falta. Se faltar mais da metade, a gente configura o Google, o domínio e o site para a sua empresa aparecer: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Comece arrumando a casa. Passe pelo checklist em https://avilaops.com/guias/checklist-de-presenca-digital-para-pequenas-empresas/ e marque o que falta. Se faltar mais da metade, a gente configura o Google, o domínio e o site para a sua empresa aparecer: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

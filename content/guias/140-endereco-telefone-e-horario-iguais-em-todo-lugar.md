@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Local"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-18"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/perfil-da-empresa-no-google-o-que-preencher-primeiro/", "/guias/como-trocar-o-numero-do-whatsapp-business-da-empresa/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -49,11 +50,11 @@ Troca de número de WhatsApp tem regras próprias, porque envolve migrar as conv
 
 Horário é o dado que mais muda e mais gera avaliação negativa. Cliente que vai até a loja no sábado às 13h porque o Google dizia "aberto" e encontra fechado, avalia com uma estrela e escreve "horário errado". Isso fica público por anos.
 
-Cadastre o horário real de cada dia da semana no Google e no WhatsApp Business. Em feriado, o Google pede confirmação: responda. Se em janeiro você tem horário reduzido ou férias coletivas, marque como horário especial com data de início e fim, e depois volte ao normal. Não deixe "temporariamente fechado" se a empresa está aberta.
+Cadastre o horário real de cada dia da semana no Google e no WhatsApp Business. Em feriado, o Google pede confirmação: responda. Se você tem horário reduzido de fim de ano ou férias coletivas, marque como horário especial com data de início e fim, e depois volte ao normal. Não deixe "temporariamente fechado" se a empresa está aberta.
 
 ## O que fazer agora
 
-Abra o cartão CNPJ e o Perfil da Empresa no Google lado a lado. Corrija o que não bate. Depois passe pela tabela acima, um por um, em uma tarde. Marque a data e repita a conferência em julho. Se preferir que a gente faça e mantenha o Google, o site e o WhatsApp alinhados, a Avila Ops configura a presença inteira: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Abra o cartão CNPJ e o Perfil da Empresa no Google lado a lado. Corrija o que não bate. Depois passe pela tabela acima, um por um, em uma tarde. Marque a data e repita a conferência daqui a seis meses. Se preferir que a gente faça e mantenha o Google, o site e o WhatsApp alinhados, a Avila Ops configura a presença inteira: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

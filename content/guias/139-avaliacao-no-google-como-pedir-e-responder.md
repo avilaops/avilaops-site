@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Local"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-17"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/perfil-da-empresa-no-google-o-que-preencher-primeiro/", "/guias/como-automatizar-whatsapp-da-empresa/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/perfil-da-empresa-no-google-o-que-preencher-primeiro/",
 
 Peça a avaliação no dia em que o cliente recebe o que comprou, pelo WhatsApp, com o link direto para a tela de avaliação e uma frase que caiba em uma linha. Responda todas as avaliações, boas e ruins, em até dois dias, com o nome da pessoa e uma referência ao que ela escreveu. Isso é o método inteiro. O resto é constância.
 
-O cliente novo lê as avaliações antes de chamar, e uma ficha com 4 avaliações de 2023 diz "parou". E o Google considera o número e a nota das avaliações para decidir o destaque da empresa na busca local. Quem tem o perfil preenchido e não pede avaliação está com o trabalho pela metade. Como preencher está em https://avilaops.com/guias/perfil-da-empresa-no-google-o-que-preencher-primeiro/.
+O cliente novo lê as avaliações antes de chamar, e uma ficha com 4 avaliações de três anos atrás diz "parou". E o Google considera o número e a nota das avaliações para decidir o destaque da empresa na busca local. Quem tem o perfil preenchido e não pede avaliação está com o trabalho pela metade. Como preencher está em https://avilaops.com/guias/perfil-da-empresa-no-google-o-que-preencher-primeiro/.
 
 ## Como pedir sem constranger?
 
@@ -30,7 +31,7 @@ Modelo de mensagem:
 
 Não ofereça desconto, brinde ou sorteio em troca de avaliação. As regras do Google proíbem, o cliente percebe e a avaliação sai artificial. Não peça só para quem você acha que vai dar cinco estrelas: peça para todos que receberam o serviço. E não peça para parente e amigo que não comprou.
 
-Se você atende muita gente, essa mensagem pode ir sozinha no dia da entrega, para quem aceitou receber mensagens da empresa, pela automação do WhatsApp: https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/.
+Se você atende muita gente, essa mensagem pode ir sozinha no dia da entrega, para quem aceitou receber mensagens da empresa, pela API oficial do WhatsApp com modelo de mensagem aprovado: https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/.
 
 ## Como responder as boas?
 

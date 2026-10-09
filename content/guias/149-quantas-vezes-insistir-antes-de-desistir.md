@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-27"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/proposta-que-fecha-sem-reuniao/", "/guias/como-automatizar-whatsapp-da-empresa/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -62,11 +63,11 @@ Pare na hora se o cliente disser não. "Não" respondido com "entendo, e se eu f
 
 Não pare se o cliente respondeu qualquer uma das retomadas, mesmo com "vou ver". Resposta reinicia o calendário: conte três dias a partir dela. E não pare no dia 21 com quem disse "em março eu retomo": anote a data e chame em março, uma vez.
 
-O calendário só funciona se existir em algum lugar que não seja a sua memória. Uma coluna "próximo contato" na planilha de propostas resolve para poucas. Com muitas propostas abertas, o CRM marca a data e avisa no dia; com a automação do WhatsApp, para quem aceitou receber mensagens, as retomadas 1 e 3 podem sair sozinhas, e você entra só quando o cliente responde. O caminho está em https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/.
+O calendário só funciona se existir em algum lugar que não seja a sua memória. Uma coluna "próximo contato" na planilha de propostas resolve para poucas. Com muitas propostas abertas, o CRM marca a data e avisa no dia; pela API oficial do WhatsApp, com modelo de mensagem aprovado e para quem aceitou receber mensagens, as retomadas 1 e 3 podem sair sozinhas, e você entra só quando o cliente responde. O caminho está em https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/.
 
 ## O que fazer agora
 
-Liste as propostas que você mandou em dezembro e não teve resposta. Para cada uma, veja em que dia do calendário ela está. As que passaram do dia 21 recebem o encerramento hoje. As outras, a retomada correspondente. Coloque a data na proposta, como manda o guia https://avilaops.com/guias/proposta-que-fecha-sem-reuniao/, para que a próxima já nasça com calendário. Quando as propostas abertas passarem de dez, saiba quantas viram venda e quais precisam de retorno hoje: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Liste as propostas que você mandou nas últimas semanas e não teve resposta. Para cada uma, veja em que dia do calendário ela está. As que passaram do dia 21 recebem o encerramento hoje. As outras, a retomada correspondente. Coloque a data na proposta, como manda o guia https://avilaops.com/guias/proposta-que-fecha-sem-reuniao/, para que a próxima já nasça com calendário. Quando as propostas abertas passarem de dez, saiba quantas viram venda e quais precisam de retorno hoje: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

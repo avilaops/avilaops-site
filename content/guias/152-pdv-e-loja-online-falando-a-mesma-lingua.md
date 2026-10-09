@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Sistema"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-30"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-erp-financeiro-estoque-e-vendas-juntos/", "/loja-virtual/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -45,7 +46,7 @@ O nível 1 é grátis e é uma tarde de trabalho: padronizar código, nome e pre
 
 ## Por onde começar em janeiro?
 
-Pelo cadastro. Muita loja conta o estoque físico na virada do ano. Aproveite essa contagem para dar a cada produto um código único, o mesmo que vai para a loja online, e apagar as duplicatas. Se o produto tem código de barras do fabricante, use-o. Se não tem, crie um padrão simples e não mude mais.
+Pelo cadastro. Muita loja conta o estoque físico na virada do ano. Aproveite essa contagem, ou faça uma antes se não quiser esperar, para dar a cada produto um código único, o mesmo que vai para a loja online, e apagar as duplicatas. Se o produto tem código de barras do fabricante, use-o. Se não tem, crie um padrão simples e não mude mais.
 
 Com o cadastro limpo, a pergunta seguinte é se o seu PDV consegue exportar ou sincronizar estoque. Se não consegue, a decisão é trocar um dos dois, não manter a conferência manual para sempre.
 
@@ -53,7 +54,7 @@ Uma loja online da Avila Ops entra no nível 1 no primeiro dia, com o cadastro d
 
 ## O que fazer agora
 
-Conte quantos produtos têm cadastro diferente no balcão e no site. Se passar de dez, o inventário de janeiro é a hora de unificar. Anote quanto tempo por dia alguém gasta conferindo estoque entre os dois canais: esse número é o que a integração devolve. Para ligar o PDV, a loja online e o estoque num registro só, sair da planilha sem perder o histórico: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Conte quantos produtos têm cadastro diferente no balcão e no site. Se passar de dez, o próximo inventário é a hora de unificar. Anote quanto tempo por dia alguém gasta conferindo estoque entre os dois canais: esse número é o que a integração devolve. Para ligar o PDV, a loja online e o estoque num registro só, sair da planilha sem perder o histórico: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

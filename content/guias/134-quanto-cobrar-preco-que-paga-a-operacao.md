@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/tres-faixas-de-preco-por-que-a-do-meio-vende/", "/guias/aumentar-preco-sem-perder-cliente-como-avisar/", "/jornada/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/tres-faixas-de-preco-por-que-a-do-meio-vende/", "/guias
 
 O preço mínimo de um serviço ou produto é a soma de quatro partes: o custo direto daquela venda, a fatia do custo fixo do mês que ela precisa carregar, o imposto que incide sobre ela e a margem que sobra para a empresa. Se o seu preço não cobre as três primeiras, você está pagando para trabalhar. A quarta é o que faz valer a pena.
 
-Janeiro é o mês certo para refazer essa conta, porque os custos mudaram: o salário mínimo mudou, o fornecedor mandou tabela nova, o aluguel pode ter reajustado. Preço de 2026 com custo de 2027 é a forma mais silenciosa de perder dinheiro.
+Refaça essa conta pelo menos uma vez por ano e sempre que um custo mudar. No começo do ano costuma mudar tudo junto: o salário mínimo, a tabela do fornecedor, o reajuste do aluguel. Preço do ano passado com custo deste ano é a forma mais silenciosa de perder dinheiro.
 
 ## Como fazer a conta em quatro passos?
 
@@ -26,7 +27,7 @@ Use o exemplo de uma marcenaria que faz um armário sob medida.
 
 1. Custo direto: material, ferragens, frete, ajudante contratado para o serviço. Digamos R$ 1.800.
 2. Custo fixo por hora: some tudo que você paga mesmo sem vender (aluguel, luz, internet, pró-labore, contador, ferramentas). Divida pelas horas produtivas do mês, não pelas horas totais. Se o fixo é R$ 9.000 e você produz 120 horas por mês, cada hora custa R$ 75. O armário leva 20 horas: R$ 1.500.
-3. Imposto: o percentual do seu regime sobre o preço de venda. Pergunte ao contador o número exato do seu enquadramento. Use-o sobre o preço final, não sobre o custo.
+3. Imposto: o percentual do seu regime sobre o preço de venda. Pergunte ao contador o número exato do seu enquadramento. Use-o sobre o preço final, não sobre o custo. No MEI, o imposto é um valor fixo mensal (DAS) e entra no custo fixo, não aqui.
 4. Margem: o que a empresa precisa guardar para crescer, cobrir mês fraco e remunerar o risco. Uma decisão sua, não uma conta.
 
 Custo direto mais fixo dá R$ 3.300. Sobre isso entram imposto e margem. Com imposto de, por hipótese, 6% e margem de 20%, o preço sai de R$ 3.300 dividido por (1 menos 0,26), cerca de R$ 4.460. Vender esse armário por R$ 3.500 parece lucro e é prejuízo.
@@ -45,7 +46,7 @@ Se dois dos três aparecem, o preço precisa subir. Como fazer isso sem perder c
 
 ## O que fazer agora
 
-Some o seu custo fixo de janeiro, com o seu salário dentro. Conte as horas que você de fato produz numa semana e multiplique por quatro. Divida um pelo outro. Esse número, o custo da sua hora, é o que você precisa saber antes de mandar o próximo orçamento. Se a operação está toda em planilha e o número não fecha, a gente ajuda a montar a conta na primeira conversa: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Some o seu custo fixo do último mês, com o seu salário dentro. Conte as horas que você de fato produz numa semana e multiplique por quatro. Divida um pelo outro. Esse número, o custo da sua hora, é o que você precisa saber antes de mandar o próximo orçamento. Se a operação está toda em planilha e o número não fecha, a gente ajuda a montar a conta na primeira conversa: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

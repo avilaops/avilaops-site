@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/processo-escrito-uma-pagina-evita-retrabalho/", "/guias/como-automatizar-minha-empresa/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/processo-escrito-uma-pagina-evita-retrabalho/", "/guias
 
 Quando a empresa passa de uma pessoa para duas, cada tarefa recorrente precisa de um dono, e um só. Não "os dois cuidam", não "quem estiver livre". Uma lista com todas as tarefas da semana, uma coluna com o nome de quem responde por cada uma, e um combinado do que acontece quando o dono não está. É isso que impede a tarefa de ficar entre os dois e não ser feita.
 
-A segunda pessoa costuma entrar sem esse desenho. Ela chega, ajuda no que aparece, e em dois meses ninguém sabe quem devia ter respondido o cliente que reclamou. O problema não é a pessoa. É a ausência de divisão. Escreva agora, com a operação de janeiro ainda calma.
+A segunda pessoa costuma entrar sem esse desenho. Ela chega, ajuda no que aparece, e em dois meses ninguém sabe quem devia ter respondido o cliente que reclamou. O problema não é a pessoa. É a ausência de divisão. Escreva a divisão antes de a segunda pessoa entrar, ou logo nos primeiros dias, de preferência num período mais calmo.
 
 ## Como listar o que existe para dividir?
 
@@ -53,11 +54,11 @@ Ficam com uma pessoa só, sem substituto de rotina:
 2. Preço e desconto. Uma pessoa decide a tabela e a política. A outra aplica. Duas pessoas dando desconto por critérios diferentes é o jeito mais rápido de o cliente aprender a pedir.
 3. A palavra final com o cliente em conflito. Um resolve. Se os dois respondem, o cliente joga um contra o outro.
 
-O resto, o que é repetitivo e tem regra clara, é candidato a não ser feito por pessoa nenhuma. Confirmação de pedido, lembrete de pagamento e pedido de avaliação podem ser automáticos. O guia https://avilaops.com/guias/como-automatizar-minha-empresa/ mostra por onde começar.
+O resto, o que é repetitivo e tem regra clara, é candidato a não ser feito por pessoa nenhuma. Confirmação de pedido, lembrete de pagamento e pedido de avaliação podem ser automáticos, por e-mail ou pela API oficial do WhatsApp com modelo aprovado e para quem aceitou receber. O guia https://avilaops.com/guias/como-automatizar-minha-empresa/ mostra por onde começar.
 
 ## O que fazer agora
 
-Faça a tabela acima com as suas tarefas nesta semana. Sente com a outra pessoa, preencham a coluna "dono" juntos e a coluna "substituto" em seguida. Imprima e deixe à vista. Em fevereiro, revisem. Cada linha da tabela vira uma página de processo, e o guia https://avilaops.com/guias/processo-escrito-uma-pagina-evita-retrabalho/ mostra o formato. Quando a tabela precisar virar tela, com tarefa, prazo e responsável visíveis para os dois, a gente monta o sistema a partir do que você já tem: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Faça a tabela acima com as suas tarefas nesta semana. Sente com a outra pessoa, preencham a coluna "dono" juntos e a coluna "substituto" em seguida. Imprima e deixe à vista. Daqui a um mês, revisem. Cada linha da tabela vira uma página de processo, e o guia https://avilaops.com/guias/processo-escrito-uma-pagina-evita-retrabalho/ mostra o formato. Quando a tabela precisar virar tela, com tarefa, prazo e responsável visíveis para os dois, a gente monta o sistema a partir do que você já tem: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

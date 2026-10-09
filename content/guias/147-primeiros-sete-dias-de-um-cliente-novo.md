@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-25"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-onboarding-primeiros-dias-do-cliente-novo/", "/portal-do-cliente/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -37,7 +38,7 @@ O marco entre os dias 3 e 5 é o mais importante. Não precisa ser a entrega. Pr
 
 Dia 1, confirmação:
 
-"Oi, Renata. Pagamento recebido, obrigado. Resumo do que combinamos: cardápio digital com QR code para 12 mesas, pronto em até 10 dias úteis a partir do envio do cardápio atual. Próximo passo é seu: me manda o cardápio com preços até quinta, 14/01. Pode ser foto. Eu respondo aqui de segunda a sexta, das 9h às 18h."
+"Oi, Renata. Pagamento recebido, obrigado. Resumo do que combinamos: cardápio digital com QR code para 12 mesas, pronto em até 10 dias úteis a partir do envio do cardápio atual. Próximo passo é seu: me manda o cardápio com preços até quinta-feira. Pode ser foto. Eu respondo aqui de segunda a sexta, das 9h às 18h."
 
 Dia 4, marco:
 
@@ -59,7 +60,7 @@ Se passar uma semana, um segundo lembrete e a pausa formal do projeto, por escri
 
 ## O que fazer agora
 
-Escreva as três mensagens acima com o seu serviço no lugar do cardápio. Salve como mensagens prontas no WhatsApp Business ou como modelo no CRM, com o dia em que cada uma sai. Defina qual é o marco do dia 4 do seu serviço, e faça dele uma etapa fixa da produção. Quando os clientes forem muitos ao mesmo tempo, o CRM dispara as mensagens nas datas certas e um [portal do cliente](https://avilaops.com/portal-do-cliente/) mostra a ele o que está pronto sem perguntar. Saiba quantas mensagens viram venda e quantas viram cliente satisfeito: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escreva as três mensagens acima com o seu serviço no lugar do cardápio. Salve como mensagens prontas no WhatsApp Business ou como modelo no CRM, com o dia em que cada uma sai. Defina qual é o marco do dia 4 do seu serviço, e faça dele uma etapa fixa da produção. Quando os clientes forem muitos ao mesmo tempo, o CRM dispara as mensagens nas datas certas, por e-mail ou pela API oficial do WhatsApp com modelo aprovado, e um [portal do cliente](https://avilaops.com/portal-do-cliente/) mostra a ele o que está pronto sem perguntar. Saiba quantas mensagens viram venda e quantas viram cliente satisfeito: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

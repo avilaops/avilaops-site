@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "E-mail"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-06"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/e-mail-profissional/", "/guias/lista-de-contatos-e-sua-nao-da-rede-social/", "/email-profissional/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/glossario/e-mail-profissional/", "/guias/lista-de-contatos-e-
 
 Boletim por e-mail (newsletter) é uma mensagem enviada com regularidade, toda semana ou todo mês, para uma lista de pessoas que autorizaram receber. O conteúdo é o que a empresa tem a dizer: novidade, dica, oferta, bastidor. Serve para manter contato com quem já conhece você, sem depender do algoritmo de rede social.
 
-A newsletter é a forma mais barata de lembrar ao cliente que você existe. Um e-mail mensal para 300 clientes custa quase nada e vai para o e-mail de cada um, sem algoritmo escolhendo quem vê, o que nenhuma publicação no Instagram garante.
+A newsletter é a forma mais barata de lembrar ao cliente que você existe. Um e-mail mensal para 300 clientes custa quase nada e vai para o e-mail de cada um, sem algoritmo de rede social escolhendo quem vê, o que nenhuma publicação no Instagram garante.
 
 ## Para quem a newsletter funciona?
 
@@ -34,7 +35,7 @@ A lista é o ativo. O guia https://avilaops.com/guias/lista-de-contatos-e-sua-na
 
 ## O que fazer agora
 
-Janeiro é bom mês para começar: você tem o ano inteiro para manter o ritmo. Antes de escrever, resolva o remetente: contato@suaempresa.com.br por R$ 10 por caixa, pronto hoje. https://avilaops.com/email-profissional/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Não precisa esperar a virada do ano: comece no mês em que você consegue manter o ritmo. Antes de escrever, resolva o remetente: contato@suaempresa.com.br por R$ 10 por caixa, pronto hoje. https://avilaops.com/email-profissional/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
@@ -42,7 +43,7 @@ Janeiro é bom mês para começar: você tem o ano inteiro para manter o ritmo. 
 Com a frequência que você consegue manter. Um e-mail por mês, todo mês, rende mais que quatro em janeiro e nenhum em março. Comece mensal e aumente só se sobrar assunto.
 
 **Posso mandar newsletter para quem comprou de mim sem pedir autorização?**
-A LGPD exige base legal para usar o dado. Cliente que comprou e deixou e-mail pode receber comunicação relacionada, mas o caminho seguro é pedir autorização e oferecer descadastro em todo envio.
+A LGPD exige base legal para usar o dado. Aviso sobre o próprio pedido, sim. Newsletter e oferta, o caminho seguro é mandar só para quem autorizou e oferecer descadastro fácil em todo envio.
 
 **Newsletter substitui o Instagram?**
 Não. São canais diferentes. O Instagram alcança quem não conhece você. A newsletter fala com quem já conhece. Os dois juntos funcionam melhor que qualquer um sozinho.
