@@ -37,6 +37,7 @@ jobs:
       - run: npm run links:validate
       - run: npm run headers:validate
       - run: npm run contraste:validate
+      - run: npm run tabelas:validate
 
   # Construcao e implantacao moram aqui, e nao em `uses: avilaops/infra/...`:
   # este repositorio e publico e o avilaops/infra e privado, e o GitHub nao
