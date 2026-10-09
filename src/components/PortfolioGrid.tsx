@@ -221,12 +221,11 @@ export default function PortfolioGrid() {
               className="portfolio-card"
               key={project.slug}
               onClick={() => setActive(project)}
-              aria-label={`Ver prévia do site de ${project.name}`}
             >
               <span className="portfolio-card-frame">
                 <Image
                   src={`/portfolio/${project.slug}.jpg`}
-                  alt={`Prévia do site de ${project.name}`}
+                  alt=""
                   width={PREVIEW_WIDTH}
                   height={PREVIEW_HEIGHT}
                   loading="lazy"
