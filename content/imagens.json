@@ -907,5 +907,50 @@
     "height": 800,
     "section": "Como calcular a sua sem se enganar?",
     "position": 2
+  },
+  {
+    "slug": "o-que-e-ticket-medio-valor-medio-do-pedido",
+    "src": "/editorial/guias/o-que-e-ticket-medio-valor-medio-do-pedido.webp",
+    "alt": "Lojista compara cestas com diferentes quantidades de roupas, ilustrando a variação do valor de cada pedido.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-ticket-medio-valor-medio-do-pedido",
+    "src": "/editorial/guias/o-que-e-ticket-medio-valor-medio-do-pedido-2.webp",
+    "alt": "As mesmas peças de roupa aparecem com fichas de receita menores após um desconto, mostrando a queda do valor recebido por pedido.",
+    "width": 1200,
+    "height": 800,
+    "section": "Por que o ticket médio cai em novembro?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-publico-frio-morno-e-quente",
+    "src": "/editorial/guias/o-que-e-publico-frio-morno-e-quente.webp",
+    "alt": "Três pessoas observam, avaliam e retornam a uma loja, representando diferentes graus de familiaridade com o negócio.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-publico-frio-morno-e-quente",
+    "src": "/editorial/guias/o-que-e-publico-frio-morno-e-quente-2.webp",
+    "alt": "Cartões com símbolos de visita, carrinho e compra organizam interações usadas para distinguir públicos de uma campanha.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como o anúncio sabe quem é frio, morno ou quente?",
+    "position": 2
+  },
+  {
+    "slug": "para-que-serve-um-relatorio-de-campanha",
+    "src": "/editorial/guias/para-que-serve-um-relatorio-de-campanha.webp",
+    "alt": "Relatório de papel reúne símbolos de divulgação, público, pedidos e dinheiro restante para avaliar o resultado de uma campanha.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
   }
 ]

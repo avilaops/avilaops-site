@@ -134,3 +134,18 @@ Para importar um próximo lote já revisado, usar
 O comando usa o sharp deste projeto, respeita os limites de peso e recusa
 sobrescrever arquivos ou cadastros. `npm run editorial:validate` confere
 também esses arquivos futuros e a existência da seção de inserção no Markdown.
+
+## Símbolo nas imagens — lote 063–065
+
+Em 09/10/2026 Nicolas pediu uma lembrança visual da marca e forneceu o
+símbolo colorido e o favicon. Os arquivos recebidos foram preservados em
+`resources/marca/`, sem substituir a identidade do cabeçalho do site.
+O lote `2026-10-09-063-065.json` aplica o símbolo por referência: avental,
+vitrine, etiqueta de bandeja e selos discretos. Os originais sem assinatura
+e os prompts de edição ficam registrados para revisão.
+
+O lote contém 063-1, 063-2, 064-1, 064-2 e 065-1, para os guias de 02 a
+04/11/2026. A produção das imagens não altera status nem datas dos textos.
+O próximo ID inédito é 065-2. Nas próximas artes, usar o símbolo fornecido
+como referência, manter as quatro partes reconhecíveis e conferir sua
+legibilidade na imagem final e no recorte quadrado das capas.
