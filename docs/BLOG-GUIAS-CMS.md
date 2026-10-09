@@ -188,3 +188,9 @@ interna já produzida. A checagem de fatos corrigiu dois pontos do 060: o
 exemplo de custo por venda (R$ 15, abaixo do teto de metade da margem) e o
 orçamento total da Meta, que limita o período inteiro, não um único dia.
 A biblioteca passa a ter 95 artigos, com novas páginas 11 no Blog e nos Guias.
+
+As imagens de compartilhamento das listagens deixaram de citar títulos de
+artigos: cada publicação muda os artigos de página, e o gerador não refaz um
+arquivo existente, então a prévia ficava desatualizada. Agora cada coleção usa
+um texto fixo, e os arquivos passaram para `-v2` para renovar o cache das
+redes sociais. Os 35 arquivos `-v1` de listagem foram removidos.

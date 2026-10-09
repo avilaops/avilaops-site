@@ -69,13 +69,17 @@ try {
   // Importação posterior: o adaptador já encontra as novas capas e seu manifesto.
   const { getPosts, getCategories } = await import("../src/lib/editorial/repository");
   const posts = getPosts();
-  const collections = [ { base: "/blog/", title: "Blog da Avila Ops", posts }, { base: "/guias/", title: "Guias para sua empresa", posts }, ...getCategories().map(category => ({ base: `/blog/categoria/${category.slug}/`, title: category.name, posts: posts.filter(post => post.category === category.name) })) ];
+  // Texto fixo por coleção: citar títulos de artigos deixaria a imagem desatualizada
+  // a cada publicação, porque os artigos mudam de página e o arquivo não é refeito.
+  const collections = [
+    { base: "/blog/", title: "Blog da Avila Ops", detail: "Artigos práticos para pequenas empresas: presença digital, vendas, atendimento e operação.", posts },
+    { base: "/guias/", title: "Guias para sua empresa", detail: "Guias práticos, com exemplos e passos, para decidir e operar melhor no digital.", posts },
+    ...getCategories().map(category => ({ base: `/blog/categoria/${category.slug}/`, title: category.name, detail: `Guias de ${category.name.toLowerCase()} para pequenas empresas, com exemplos e passos práticos.`, posts: posts.filter(post => post.category === category.name) })),
+  ];
   let index = 0;
   for (const collection of collections) {
     for (let number = 1; number <= Math.ceil(collection.posts.length / PAGE_SIZE); number++) {
-      const selected = collection.posts.slice((number - 1) * PAGE_SIZE, number * PAGE_SIZE);
-      const detail = selected.slice(0, 2).map(post => post.seoTitle).join(" · ");
-      await render(listingPreviewPath(collection.base, number), collection.title, `Biblioteca / Página ${number}`, detail.length > 155 ? detail.slice(0, 152) + "…" : detail, index++, "listagem");
+      await render(listingPreviewPath(collection.base, number), collection.title, `Biblioteca / Página ${number}`, collection.detail, index++, "listagem");
     }
   }
   const recordPath = "content/previews-editoriais.json";
