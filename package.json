@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && node scripts/copiar-favicons.ts",
+    "build": "next build && tsx scripts/copiar-favicons.ts",
     "start": "next start",
     "lint": "eslint",
     "og:defaults": "node scripts/generate-og-defaults.mjs",
