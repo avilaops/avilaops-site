@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://avilaops.com/#organization",
+      "name": "Avila Ops",
+      "alternateName": [
+        "Ávila Ops"
+      ],
+      "url": "https://avilaops.com",
+      "logo": "https://avilaops.com/logo.png",
+      "image": "https://avilaops.com/logo.png",
+      "email": "comercial@avilaops.com",
+      "telephone": "+5517997811471",
+      "sameAs": [
+        "https://instagram.com/avila.ops",
+        "https://www.tiktok.com/@avilaops",
+        "https://linkedin.com/company/avilaops"
+      ],
+      "knowsAbout": [
+        "criação de site profissional",
+        "presença digital para pequenas empresas",
+        "automação de WhatsApp",
+        "WhatsApp Business API",
+        "Instagram para empresas",
+        "Meta Ads",
+        "CRM para pequenas empresas",
+        "automação comercial",
+        "software sob medida",
+        "pagamentos digitais"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Avila Ops",
+          "item": "https://avilaops.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Guias",
+          "item": "https://avilaops.com/guias/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Como faço para minha empresa aparecer no Google?",
+          "item": "https://avilaops.com/guias/como-faco-para-minha-empresa-aparecer-no-google/"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://avilaops.com/guias/como-faco-para-minha-empresa-aparecer-no-google/#article",
+      "headline": "Como faço para minha empresa aparecer no Google?",
+      "description": "Passos práticos para uma pequena empresa aparecer no Google com site, perfil comercial, SEO local, conteúdo, dados estruturados e medição.",
+      "inLanguage": "pt-BR",
+      "mainEntityOfPage": "https://avilaops.com/guias/como-faco-para-minha-empresa-aparecer-no-google/",
+      "dateModified": "2026-07-25",
+      "author": {
+        "@type": "Organization",
+        "name": "Equipe Avila Ops",
+        "url": "https://avilaops.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://avilaops.com/#organization",
+        "name": "Avila Ops",
+        "url": "https://avilaops.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://avilaops.com/logo.png"
+        }
+      },
+      "image": [
+        {
+          "@type": "ImageObject",
+          "url": "https://avilaops.com/editorial/guias/como-faco-para-minha-empresa-aparecer-no-google.webp",
+          "contentUrl": "https://avilaops.com/editorial/guias/como-faco-para-minha-empresa-aparecer-no-google.webp",
+          "caption": "Pessoas consultam celulares perto de uma loja com marcador de localização, representando busca local.",
+          "width": 1200,
+          "height": 630
+        }
+      ]
+    }
+  ]
+}

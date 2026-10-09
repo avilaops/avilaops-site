@@ -6,6 +6,7 @@ const navigation = [
   ["Serviços", "/servicos/"],
   ["Comparativos", "/comparativos/"],
   ["Segmentos", "/segmentos/"],
+  ["Blog", "/blog/"],
   ["Guias", "/guias/"],
   ["Traduzindo", "/traduzindo/"],
   ["Contato", "/contato/"],

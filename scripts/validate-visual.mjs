@@ -7,6 +7,9 @@ const screenshotDir = process.env.SCREENSHOT_DIR || "artifacts/visual";
 const pages = [
   "/",
   "/guias/",
+  "/blog/",
+  "/blog/pagina/2/",
+  "/blog/categoria/presenca-digital/",
   "/comparativos/",
   "/glossario/",
   "/guias/como-faco-para-minha-empresa-aparecer-no-google/",

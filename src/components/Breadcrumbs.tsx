@@ -37,7 +37,7 @@ export default function Breadcrumbs({ items }: { items: Crumb[] }) {
       <script
         id={`schema-breadcrumbs-${trail[trail.length - 1].href.replaceAll("/", "-")}`}
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }}
       />
     </>
   );

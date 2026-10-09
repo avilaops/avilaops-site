@@ -33,6 +33,7 @@ jobs:
       - run: npm run lint
       - run: npm run build
       - run: npm run seo:validate:export
+      - run: npm run editorial:validate
       - run: npm run links:validate
       - run: npm run headers:validate
       - run: npm run contraste:validate

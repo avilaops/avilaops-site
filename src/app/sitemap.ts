@@ -1,4 +1,6 @@
 import type { MetadataRoute } from "next";
+import { getPosts, getCategories } from "@/lib/editorial/repository";
+import { PAGE_SIZE, postPath } from "@/lib/editorial/model";
 import { absoluteUrl } from "@/lib/site";
 
 export const dynamic = "force-static";
@@ -74,7 +76,7 @@ const routes = [
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date();
+  const posts = getPosts();
 
   // O site é exportado com `trailingSlash: true`: a URL sem barra responde 308
   // para a versão com barra. Sem a barra aqui o Search Console marca toda
@@ -82,11 +84,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const comBarra = (route: string) =>
     route === "" || /\.[a-z0-9]+$/i.test(route) ? route : `${route}/`;
 
-  return routes.map((route) => ({
+  const editorialRoutes = ["/blog/", ...["/blog/", "/guias/"].flatMap(base => Array.from({ length: Math.max(0, Math.ceil(posts.length / PAGE_SIZE) - 1) }, (_, i) => `${base}pagina/${i + 2}/`)), ...getCategories().flatMap(category => {
+    const base = `/blog/categoria/${category.slug}/`;
+    const pages = Math.ceil(posts.filter(post => post.category === category.name).length / PAGE_SIZE);
+    return [base, ...Array.from({ length: Math.max(0, pages - 1) }, (_, i) => `${base}pagina/${i + 2}/`)];
+  })];
+  const staticEntries: MetadataRoute.Sitemap = routes.filter(route => !posts.some(post => postPath(post) === comBarra(route))).map((route) => ({
     url: absoluteUrl(comBarra(route)),
-    lastModified: now,
     changeFrequency: route === "" ? "weekly" : "monthly",
     priority: route === "" ? 1 : route === "/llms.txt" ? 0.4 : route.includes("automatizar") ? 0.95 : 0.8,
     images: route === "" || route === "/logo" ? [absoluteUrl("/logo.png")] : undefined,
   }));
+  return [...staticEntries, ...editorialRoutes.map(route => ({ url: absoluteUrl(route) })), ...posts.map(post => ({ url: absoluteUrl(postPath(post)), lastModified: post.updatedAt || post.publishedAt, images: [post.cover, ...post.illustrations].map(image => absoluteUrl(image.src)) }))];
 }

@@ -58,7 +58,7 @@ const pages = [
       "/editorial/guias/como-faco-para-minha-empresa-aparecer-no-google.webp",
       "Google Search Console",
       "Perfil da Empresa no Google",
-      "Revisado",
+      "Atualizado",
     ],
   },
   {
@@ -71,7 +71,7 @@ const pages = [
       "schema-article-como-automatizar-whatsapp-da-empresa",
       "schema-guide-faq-como-automatizar-whatsapp-da-empresa",
       "schema-breadcrumbs",
-      "Revisado",
+      "Atualizado",
     ],
   },
   {
@@ -86,7 +86,7 @@ const pages = [
       "schema-breadcrumbs",
       "Mapeie antes de escolher ferramentas",
       "Conecte WhatsApp, Instagram, site e CRM",
-      "Revisado",
+      "Atualizado",
     ],
   },
   {
@@ -101,7 +101,7 @@ const pages = [
       "schema-breadcrumbs",
       "Integração com WhatsApp e CRM",
       "Cuidados com automação",
-      "Revisado",
+      "Atualizado",
     ],
   },
   {
@@ -116,7 +116,7 @@ const pages = [
       "schema-breadcrumbs",
       "WhatsApp precisa de processo",
       "Medição e remarketing",
-      "Revisado",
+      "Atualizado",
     ],
   },
   {
@@ -129,7 +129,7 @@ const pages = [
       "schema-article-como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias",
       "schema-guide-faq-como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias",
       "schema-breadcrumbs",
-      "Revisado em",
+      "Atualizado em",
       "2026-08-13",
     ],
   },
@@ -143,7 +143,7 @@ const pages = [
       "schema-article-agente-de-ia-no-whatsapp-vale-a-pena-para-pequena-empresa",
       "schema-guide-faq-agente-de-ia-no-whatsapp-vale-a-pena-para-pequena-empresa",
       "schema-breadcrumbs",
-      "Revisado em",
+      "Atualizado em",
       "2026-08-13",
     ],
   },

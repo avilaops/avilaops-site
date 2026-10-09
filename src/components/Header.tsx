@@ -11,6 +11,7 @@ const navLinks = [
   { label: "Serviços", href: "/servicos/" },
   { label: "Comparativos", href: "/comparativos/" },
   { label: "Segmentos", href: "/segmentos/" },
+  { label: "Blog", href: "/blog/" },
   { label: "Guias", href: "/guias/" },
   { label: "Traduzindo", href: "/traduzindo/" },
 ];

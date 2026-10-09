@@ -1,0 +1,713 @@
+[
+  {
+    "slug": "o-que-e-uma-loja-virtual",
+    "src": "/editorial/guias/o-que-e-uma-loja-virtual.webp",
+    "alt": "Catálogo com um tênis ao lado do mesmo produto embalado e de um cartão de confirmação, mostrando a diferença entre exibir e concluir uma venda.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-uma-loja-virtual",
+    "src": "/editorial/guias/o-que-e-uma-loja-virtual-2.webp",
+    "alt": "Lojista reúne uma caneca e uma camiseta em um pedido confirmado, representando o registro e a preparação da compra.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que a loja faz que o catálogo não faz?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-carrinho-de-compras",
+    "src": "/editorial/guias/o-que-e-carrinho-de-compras.webp",
+    "alt": "Camiseta, meias e boné reunidos numa cesta, mostrando como o carrinho agrupa os itens de uma compra.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-carrinho-de-compras",
+    "src": "/editorial/guias/o-que-e-carrinho-de-compras-2.webp",
+    "alt": "Cesta com camiseta e pares de meias, com outro par ao lado, ilustrando a alteração dos itens antes de concluir o pedido.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que o carrinho precisa mostrar?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-checkout-e-por-que-decide-a-venda",
+    "src": "/editorial/guias/o-que-e-checkout-e-por-que-decide-a-venda-2.webp",
+    "alt": "Pacote, envelope de entrega e cartão representam as informações necessárias para concluir a compra.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que um checkout bom precisa ter?",
+    "position": 2
+  },
+  {
+    "slug": "quem-e-quem-no-pagamento-online",
+    "src": "/editorial/guias/quem-e-quem-no-pagamento-online-2.webp",
+    "alt": "Loja aguarda a confirmação enviada pela cadeia de pagamento antes de liberar o pedido.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que cada um faz na hora da compra?",
+    "position": 2
+  },
+  {
+    "slug": "para-que-serve-o-pix-numa-loja",
+    "src": "/editorial/guias/para-que-serve-o-pix-numa-loja.webp",
+    "alt": "Lojista confere a confirmação do Pix e entrega o pedido ao cliente.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-gateway-de-pagamento-e-quanto-cobra",
+    "src": "/editorial/guias/o-que-e-gateway-de-pagamento-e-quanto-cobra.webp",
+    "alt": "Cartão, pedido embalado e comprovante simbolizam o serviço do intermediário e a cobrança pelo processamento.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-gateway-de-pagamento-e-quanto-cobra",
+    "src": "/editorial/guias/o-que-e-gateway-de-pagamento-e-quanto-cobra-2.webp",
+    "alt": "Parte do recebimento separada em um pequeno recipiente representa a taxa do intermediário.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que o intermediário faz por você?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-sku",
+    "src": "/editorial/guias/o-que-e-sku.webp",
+    "alt": "Variações de camisetas e suas etiquetas mostram a identificação individual dos produtos no estoque.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-sku",
+    "src": "/editorial/guias/o-que-e-sku-2.webp",
+    "alt": "Lojista compara a variação pedida com a peça no estoque para separar o produto correto.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como montar um padrão de SKU?",
+    "position": 2
+  },
+  {
+    "slug": "para-que-serve-categoria-numa-loja",
+    "src": "/editorial/guias/para-que-serve-categoria-numa-loja.webp",
+    "alt": "Prateleiras separadas por calçados, roupas e bolsas tornam os grupos de produtos fáceis de encontrar.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "para-que-serve-categoria-numa-loja",
+    "src": "/editorial/guias/para-que-serve-categoria-numa-loja-2.webp",
+    "alt": "Calçados organizados em grupos de sandálias e tênis ilustram categorias e subdivisões.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como organizar as categorias pela lógica de quem compra?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-ficha-de-produto",
+    "src": "/editorial/guias/o-que-e-ficha-de-produto.webp",
+    "alt": "Camisa, detalhe do tecido e referência de medida mostram informações que a ficha do produto precisa apresentar.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-ficha-de-produto",
+    "src": "/editorial/guias/o-que-e-ficha-de-produto-2.webp",
+    "alt": "Caneca vista de diferentes ângulos evidencia detalhes que ajudam o cliente a avaliar o produto.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que uma ficha de produto precisa ter?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-frete-e-quem-paga",
+    "src": "/editorial/guias/o-que-e-frete-e-quem-paga.webp",
+    "alt": "Entregador retira um pacote no comércio, mostrando o transporte que compõe o frete.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "quanto-custa-vender-online-somando-tudo",
+    "src": "/editorial/guias/quanto-custa-vender-online-somando-tudo.webp",
+    "alt": "Lojista reúne custos de plataforma, pagamento, embalagem, frete, impostos e tempo de trabalho ao planejar as vendas online.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "quanto-custa-vender-online-somando-tudo",
+    "src": "/editorial/guias/quanto-custa-vender-online-somando-tudo-2.webp",
+    "alt": "Desenho de loja virtual, servidor, envelope e cadeado representa os serviços que compõem a estrutura da venda online.",
+    "width": 1200,
+    "height": 800,
+    "section": "Quais são as linhas fixas?",
+    "position": 2
+  },
+  {
+    "slug": "prazo-de-recebimento-do-cartao",
+    "src": "/editorial/guias/prazo-de-recebimento-do-cartao.webp",
+    "alt": "Lojista aguarda o recebimento de uma venda no cartão enquanto um calendário indica o prazo de repasse.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "foto-de-produto-fundo-padronizado",
+    "src": "/editorial/guias/foto-de-produto-fundo-padronizado.webp",
+    "alt": "A mesma caneca aparece diante de um fundo cheio de objetos e de um fundo limpo, comparando a apresentação do produto.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "descricao-de-produto-que-vende",
+    "src": "/editorial/guias/descricao-de-produto-que-vende.webp",
+    "alt": "Tênis, embalagem, acessórios e símbolos de cuidado mostram informações úteis na descrição de um produto.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "descricao-de-produto-que-vende",
+    "src": "/editorial/guias/descricao-de-produto-que-vende-2.webp",
+    "alt": "Caneca acompanhada de símbolos de uso, embalagem, dimensão e cuidado organiza os elementos da descrição.",
+    "width": 1200,
+    "height": 800,
+    "section": "Qual é a estrutura que funciona?",
+    "position": 2
+  },
+  {
+    "slug": "titulo-de-produto-como-o-cliente-procura",
+    "src": "/editorial/guias/titulo-de-produto-como-o-cliente-procura-2.webp",
+    "alt": "Camiseta preta, algodão e símbolos de público e cor mostram atributos usados para formar um título de produto.",
+    "width": 1200,
+    "height": 800,
+    "section": "Qual é a fórmula do título?",
+    "position": 2
+  },
+  {
+    "slug": "cupom-de-desconto-regras",
+    "src": "/editorial/guias/cupom-de-desconto-regras.webp",
+    "alt": "Lojista cercada de pedidos e cupons compara o volume de vendas com uma lista de regras de desconto.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "cupom-de-desconto-regras",
+    "src": "/editorial/guias/cupom-de-desconto-regras-2.webp",
+    "alt": "Lojista confere regras de cupom em uma prancheta com símbolos de pedido, validade, público e entrega.",
+    "width": 1200,
+    "height": 800,
+    "section": "Quais são as sete regras?",
+    "position": 2
+  },
+  {
+    "slug": "frete-gratis-acima-de-quanto",
+    "src": "/editorial/guias/frete-gratis-acima-de-quanto.webp",
+    "alt": "Cliente acrescenta cosméticos ao pedido ao considerar a oferta de frete grátis.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "frete-gratis-acima-de-quanto",
+    "src": "/editorial/guias/frete-gratis-acima-de-quanto-2.webp",
+    "alt": "Lojista confere o custo da entrega junto às embalagens antes de oferecer frete grátis.",
+    "width": 1200,
+    "height": 800,
+    "section": "Quais três números você precisa?",
+    "position": 2
+  },
+  {
+    "slug": "retirada-na-loja",
+    "src": "/editorial/guias/retirada-na-loja.webp",
+    "alt": "Cliente recebe a sacola diretamente no balcão da loja.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "carrinho-abandonado-tres-motivos",
+    "src": "/editorial/guias/carrinho-abandonado-tres-motivos.webp",
+    "alt": "Carrinho e pictogramas de frete, cadastro e segurança apresentam obstáculos à conclusão da compra.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "carrinho-abandonado-tres-motivos",
+    "src": "/editorial/guias/carrinho-abandonado-tres-motivos-2.webp",
+    "alt": "Comprador se surpreende com a cobrança de frete ao conferir o pedido.",
+    "width": 1200,
+    "height": 800,
+    "section": "Motivo 1: frete ou taxa que aparece no fim",
+    "position": 2
+  },
+  {
+    "slug": "pedir-cadastro-antes-de-comprar",
+    "src": "/editorial/guias/pedir-cadastro-antes-de-comprar-2.webp",
+    "alt": "Formulário com identificação, contato, endereço e pagamento representa os dados necessários para concluir um pedido.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que a loja precisa saber para vender?",
+    "position": 2
+  },
+  {
+    "slug": "estoque-no-site-quando-acaba",
+    "src": "/editorial/guias/estoque-no-site-quando-acaba.webp",
+    "alt": "Variação indisponível de camiseta aparece com compra desativada e alternativa de aviso de reposição.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "estoque-no-site-quando-acaba",
+    "src": "/editorial/guias/estoque-no-site-quando-acaba-2.webp",
+    "alt": "Cliente encontra uma cor indisponível de calçado e a opção de receber aviso por e-mail.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que mostrar quando acaba?",
+    "position": 2
+  },
+  {
+    "slug": "busca-e-filtro-dentro-da-loja",
+    "src": "/editorial/guias/busca-e-filtro-dentro-da-loja.webp",
+    "alt": "Busca encontra um produto específico, enquanto filtros reduzem as opções por cor e categoria.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "busca-e-filtro-dentro-da-loja",
+    "src": "/editorial/guias/busca-e-filtro-dentro-da-loja-2.webp",
+    "alt": "Sugestões de camisetas aparecem durante a busca, relacionando a consulta às variações disponíveis.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que a busca precisa fazer?",
+    "position": 2
+  },
+  {
+    "slug": "loja-propria-ou-marketplace",
+    "src": "/editorial/guias/loja-propria-ou-marketplace.webp",
+    "alt": "Lojista compara catálogo de várias categorias e apresentação exclusiva de sua loja de camisetas.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "loja-propria-ou-marketplace",
+    "src": "/editorial/guias/loja-propria-ou-marketplace-2.webp",
+    "alt": "Mochila disputa espaço com concorrentes no marketplace e ganha apresentação própria na loja da marca.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que cada um dá e cobra?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-black-friday-mes-inteiro",
+    "src": "/editorial/guias/o-que-e-black-friday-mes-inteiro.webp",
+    "alt": "Preparação dos pedidos acompanha a passagem do Dia de Ação de Graças para a Black Friday.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-black-friday-mes-inteiro",
+    "src": "/editorial/guias/o-que-e-black-friday-mes-inteiro-2.webp",
+    "alt": "Calendário distribui ofertas ao longo do mês enquanto a lojista planeja sua campanha.",
+    "width": 1200,
+    "height": 800,
+    "section": "Por que a sexta-feira virou um mês?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-margem-de-lucro-desconto-sem-margem",
+    "src": "/editorial/guias/o-que-e-margem-de-lucro-desconto-sem-margem-2.webp",
+    "alt": "Cera, pavio, pote, embalagem, pagamento, imposto, frete e estrutura da loja entram no custo de uma vela.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como calcular a margem de um produto?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-o-cdc-exige-de-quem-vende-online",
+    "src": "/editorial/guias/o-que-o-cdc-exige-de-quem-vende-online.webp",
+    "alt": "Caneca quebrada e caixa de entrega apresentam uma situação de devolução.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-direito-de-arrependimento-sete-dias",
+    "src": "/editorial/guias/o-que-e-direito-de-arrependimento-sete-dias.webp",
+    "alt": "Cliente recoloca uma peça de roupa na embalagem para devolução.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-direito-de-arrependimento-sete-dias",
+    "src": "/editorial/guias/o-que-e-direito-de-arrependimento-sete-dias-2.webp",
+    "alt": "Cliente reembala um eletrodoméstico recebido para devolução, com proteção dentro da caixa.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como o prazo de sete dias funciona na prática?",
+    "position": 2
+  },
+  {
+    "slug": "para-que-serve-politica-de-troca-e-devolucao",
+    "src": "/editorial/guias/para-que-serve-politica-de-troca-e-devolucao-2.webp",
+    "alt": "Calçado é acomodado novamente na caixa para envio de volta.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que a política precisa dizer?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-antecipacao-de-recebivel",
+    "src": "/editorial/guias/o-que-e-antecipacao-de-recebivel.webp",
+    "alt": "Vendas no cartão previstas no calendário são associadas ao recebimento antecipado de dinheiro pela lojista.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "black-friday-checklist-de-30-dias-semana-a-semana",
+    "src": "/editorial/guias/black-friday-checklist-de-30-dias-semana-a-semana.webp",
+    "alt": "Calendário e lista de oferta, estoque, site e atendimento contrastam preparação antecipada e correria de última hora.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "black-friday-checklist-de-30-dias-semana-a-semana",
+    "src": "/editorial/guias/black-friday-checklist-de-30-dias-semana-a-semana-2.webp",
+    "alt": "Lista de produtos marca quais entram na campanha e quais ficam fora da oferta.",
+    "width": 1200,
+    "height": 800,
+    "section": "Semana 1 (até 31/10): oferta e margem",
+    "position": 2
+  },
+  {
+    "slug": "estoque-para-black-friday-o-que-garantir",
+    "src": "/editorial/guias/estoque-para-black-friday-o-que-garantir.webp",
+    "alt": "Estoque disponível de camisetas contrasta com uma caixa vazia para representar o que anunciar na campanha.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "estoque-para-black-friday-o-que-garantir",
+    "src": "/editorial/guias/estoque-para-black-friday-o-que-garantir-2.webp",
+    "alt": "Potes de suplemento são separados em caixa, com reserva na prateleira para atender à campanha.",
+    "width": 1200,
+    "height": 800,
+    "section": "Quanto comprar de cada produto?",
+    "position": 2
+  },
+  {
+    "slug": "preco-de-black-friday-sem-destruir-a-margem",
+    "src": "/editorial/guias/preco-de-black-friday-sem-destruir-a-margem.webp",
+    "alt": "Caixa com etiqueta de venda, cálculo e lista de custos representam o cuidado com a margem antes de definir descontos.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "preco-de-black-friday-sem-destruir-a-margem",
+    "src": "/editorial/guias/preco-de-black-friday-sem-destruir-a-margem-2.webp",
+    "alt": "Lista de custos de produto, pagamento, imposto, entrega e loja antecede o lucro disponível.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como calcular o desconto máximo por produto?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-a-loja-precisa-exibir-por-lei",
+    "src": "/editorial/guias/o-que-a-loja-precisa-exibir-por-lei.webp",
+    "alt": "Caixa apresenta pictogramas de empresa, produto, preço, entrega, troca, contato e privacidade.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-a-loja-precisa-exibir-por-lei",
+    "src": "/editorial/guias/o-que-a-loja-precisa-exibir-por-lei-2.webp",
+    "alt": "Rodapé esquemático da loja reúne identificação, endereço, contato, troca, privacidade e termos.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que precisa estar no rodapé de toda página?",
+    "position": 2
+  },
+  {
+    "slug": "prazo-de-entrega-como-prometer-o-que-se-cumpre",
+    "src": "/editorial/guias/prazo-de-entrega-como-prometer-o-que-se-cumpre-2.webp",
+    "alt": "Calendários relacionam preparação do pedido, transporte e chegada da encomenda.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como calcular o prazo real?",
+    "position": 2
+  },
+  {
+    "slug": "seu-site-aguenta-o-pico-como-testar",
+    "src": "/editorial/guias/seu-site-aguenta-o-pico-como-testar.webp",
+    "alt": "Fila de compradores encontra um servidor sobrecarregado, representando falha da loja no pico.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "seu-site-aguenta-o-pico-como-testar",
+    "src": "/editorial/guias/seu-site-aguenta-o-pico-como-testar-2.webp",
+    "alt": "Cronômetro acompanha as páginas inicial, de produto e de fechamento da compra no celular.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que medir antes de qualquer teste?",
+    "position": 2
+  },
+  {
+    "slug": "pagina-lenta-perde-venda-o-que-medir",
+    "src": "/editorial/guias/pagina-lenta-perde-venda-o-que-medir.webp",
+    "alt": "Comprador deixa o celular de lado junto a um carrinho vazio, representando abandono da compra.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "pagina-lenta-perde-venda-o-que-medir",
+    "src": "/editorial/guias/pagina-lenta-perde-venda-o-que-medir-2.webp",
+    "alt": "Cliente toca o botão de compra enquanto a página ainda carrega.",
+    "width": 1200,
+    "height": 800,
+    "section": "Quais números olhar e o que eles significam?",
+    "position": 2
+  },
+  {
+    "slug": "imagem-pesada-erro-que-derruba-loja-no-celular",
+    "src": "/editorial/guias/imagem-pesada-erro-que-derruba-loja-no-celular.webp",
+    "alt": "Pilha de fotografias e versão reduzida junto ao celular comparam excesso de imagem e otimização.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "imagem-pesada-erro-que-derruba-loja-no-celular",
+    "src": "/editorial/guias/imagem-pesada-erro-que-derruba-loja-no-celular-2.webp",
+    "alt": "A mesma caneca aparece em foto principal, detalhe ampliado e miniaturas para usos diferentes na loja.",
+    "width": 1200,
+    "height": 800,
+    "section": "Qual é o tamanho certo de uma foto de produto?",
+    "position": 2
+  },
+  {
+    "slug": "dia-das-criancas-sem-virar-liquidacao",
+    "src": "/editorial/guias/dia-das-criancas-sem-virar-liquidacao.webp",
+    "alt": "Kit de brinquedos preparado para presente fica junto da embalagem de envio.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "dia-das-criancas-sem-virar-liquidacao",
+    "src": "/editorial/guias/dia-das-criancas-sem-virar-liquidacao-2.webp",
+    "alt": "Quebra-cabeça de animais e argolas de empilhar formam um kit de presente com cartão e embalagem prontos.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que vender sem dar desconto?",
+    "position": 2
+  },
+  {
+    "slug": "combo-e-kit-aumentar-valor-do-pedido",
+    "src": "/editorial/guias/combo-e-kit-aumentar-valor-do-pedido.webp",
+    "alt": "Shampoo, condicionador e toalha reunidos em uma caixa mostram produtos complementares vendidos como kit.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "combo-e-kit-aumentar-valor-do-pedido",
+    "src": "/editorial/guias/combo-e-kit-aumentar-valor-do-pedido-2.webp",
+    "alt": "Vaso, substrato, adubo e pá de mão compõem um kit para começar a cuidar de plantas.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como escolher o que vai no kit?",
+    "position": 2
+  },
+  {
+    "slug": "como-escolher-transportadora-preco-prazo-problema",
+    "src": "/editorial/guias/como-escolher-transportadora-preco-prazo-problema.webp",
+    "alt": "Lojista compara dois veículos de entrega diante dos pacotes que precisa despachar.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "como-escolher-transportadora-preco-prazo-problema",
+    "src": "/editorial/guias/como-escolher-transportadora-preco-prazo-problema-2.webp",
+    "alt": "Encomendas de tamanhos diferentes acompanham duas rotas entre cidade e interior para comparar transportadoras.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como comparar preço e prazo de verdade?",
+    "position": 2
+  },
+  {
+    "slug": "atendimento-no-pico-fila-horario-resposta-automatica",
+    "src": "/editorial/guias/atendimento-no-pico-fila-horario-resposta-automatica.webp",
+    "alt": "Atendente organiza dúvidas de pedido, entrega e devolução em uma fila única de conversas.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "atendimento-no-pico-fila-horario-resposta-automatica",
+    "src": "/editorial/guias/atendimento-no-pico-fila-horario-resposta-automatica-2.webp",
+    "alt": "Conversas são separadas em novas mensagens, pagamento pendente, pedido enviado e problema.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como organizar a fila?",
+    "position": 2
+  },
+  {
+    "slug": "mensagem-automatica-que-nao-parece-robo",
+    "src": "/editorial/guias/mensagem-automatica-que-nao-parece-robo.webp",
+    "alt": "Pergunta sobre entrega recebe resposta sobre o mesmo pedido, com acesso ao atendimento humano.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "mensagem-automatica-que-nao-parece-robo",
+    "src": "/editorial/guias/mensagem-automatica-que-nao-parece-robo-2.webp",
+    "alt": "Cliente pergunta sobre entrega e recebe uma sequência de cumprimentos repetidos, sem resposta à dúvida.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que faz uma mensagem parecer robô?",
+    "position": 2
+  },
+  {
+    "slug": "quando-a-ia-responde-e-quando-chama-uma-pessoa",
+    "src": "/editorial/guias/quando-a-ia-responde-e-quando-chama-uma-pessoa.webp",
+    "alt": "Atendente assume uma reclamação sobre tigela quebrada, caso que exige decisão humana.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "quando-a-ia-responde-e-quando-chama-uma-pessoa",
+    "src": "/editorial/guias/quando-a-ia-responde-e-quando-chama-uma-pessoa-2.webp",
+    "alt": "Resposta sobre entrega é extraída de um manual com informações de frete, devolução e horário da loja.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que a IA pode responder sozinha?",
+    "position": 2
+  },
+  {
+    "slug": "time-pequeno-na-black-friday-quem-faz-o-que",
+    "src": "/editorial/guias/time-pequeno-na-black-friday-quem-faz-o-que.webp",
+    "alt": "Três pessoas dividem embalagem de pedidos, atendimento e conferência da operação.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "time-pequeno-na-black-friday-quem-faz-o-que",
+    "src": "/editorial/guias/time-pequeno-na-black-friday-quem-faz-o-que-2.webp",
+    "alt": "Bancadas separadas reúnem materiais de embalagem de um lado e ferramentas de atendimento do outro.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como dividir com duas pessoas?",
+    "position": 2
+  },
+  {
+    "slug": "separacao-de-pedido-processo-que-evita-erro",
+    "src": "/editorial/guias/separacao-de-pedido-processo-que-evita-erro.webp",
+    "alt": "Camiseta na caixa é conferida com o pedido antes de receber a etiqueta de envio.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "separacao-de-pedido-processo-que-evita-erro",
+    "src": "/editorial/guias/separacao-de-pedido-processo-que-evita-erro-2.webp",
+    "alt": "Frascos semelhantes de tamanhos diferentes mostram como uma variação errada pode entrar na caixa do pedido.",
+    "width": 1200,
+    "height": 800,
+    "section": "Por que o pedido sai errado?",
+    "position": 2
+  },
+  {
+    "slug": "etiqueta-e-rastreio-o-que-automatizar-antes-do-pico",
+    "src": "/editorial/guias/etiqueta-e-rastreio-o-que-automatizar-antes-do-pico.webp",
+    "alt": "Impressora de etiquetas e pacote acompanham uma sequência de envio e aviso de rastreio ao cliente.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "etiqueta-e-rastreio-o-que-automatizar-antes-do-pico",
+    "src": "/editorial/guias/etiqueta-e-rastreio-o-que-automatizar-antes-do-pico-2.webp",
+    "alt": "Mãos repetem o preenchimento de formulários na preparação de um pacote, mostrando o trabalho manual de expedição.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que acontece quando é feito à mão?",
+    "position": 2
+  },
+  {
+    "slug": "golpe-do-comprovante-falso-de-pix",
+    "src": "/editorial/guias/golpe-do-comprovante-falso-de-pix-2.webp",
+    "alt": "Cliente pressiona pela liberação do pacote enquanto a lojista pede que aguarde e mantém o pedido no balcão.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como o golpe funciona na prática?",
+    "position": 2
+  }
+]

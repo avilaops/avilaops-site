@@ -8,6 +8,7 @@
  */
 @import "../styles/01-paginas-seo.css"; /* Paginas de SEO, trilha de navegacao e paginas legais */
 @import "../styles/02-editorial.css"; /* Biblioteca editorial: guias e glossario */
+@import "../styles/02-editorial-cms.css";
 @import "../styles/03-contato-tema.css"; /* Contato: cores e ajustes por tema */
 @import "../styles/04-base.css"; /* Variaveis de tema, reset e blocos compartilhados */
 @import "../styles/05-briefing.css"; /* Assistente de briefing (/criar-meu-resumo/) */

@@ -11,6 +11,7 @@ const eslintConfig = defineConfig([
     ".next/**",
     ".wrangler/**",
     "artifacts/**",
+    "marketing/**", // Material de origem externo ao código do site.
     "out/**",
     "build/**",
     "next-env.d.ts",

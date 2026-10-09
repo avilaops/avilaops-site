@@ -43,6 +43,8 @@ const cacheHtml = regrasDeCache.find((r) => r.nome === "html");
 // Uma pagina de cada familia: home, landing, indice, guia, comparativo,
 // glossario, formulario longo, cartao de contato, juridica e erro.
 const paginas = [
+  "/blog/",
+  "/blog/pagina/2/",
   "/",
   "/servicos/",
   "/contato/",
