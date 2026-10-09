@@ -41,7 +41,9 @@
 .editorial-table { max-width: 100%; overflow-x: auto; margin-bottom: 28px; }
 .editorial-table table { width: 100%; border-collapse: collapse; }
 .editorial-table th, .editorial-table td { padding: 12px; border: 1px solid var(--border); text-align: left; overflow-wrap: normal; word-break: normal; }
-.editorial-table-hint { display: none; }
+/* A orientação aparece só quando a tabela transborda (EditorialTable mede e marca data-rola). */
+.editorial-table-hint { display: none; font-size: .85rem; color: var(--quiet-foreground); }
+.editorial-table-block[data-rola] .editorial-table-hint { display: block; }
 /* Mede a coluna do artigo, não a janela: com a barra lateral, um desktop de 900px
    deixa menos espaço para a tabela que um celular deitado. */
 .editorial-table-block { container-type: inline-size; }
@@ -50,7 +52,6 @@
 @container (max-width: 36rem) {
   .editorial-table th, .editorial-table td { min-width: 14rem; }
   .editorial-table th:first-child, .editorial-table td:first-child { min-width: 10rem; }
-  .editorial-table-hint { display: block; font-size: .85rem; color: var(--quiet-foreground); }
 }
 .editorial-prose pre { overflow-x: auto; padding: 20px; background: var(--surface); }
 .editorial-author { margin-top: 48px; padding: 28px; background: var(--surface); border-top: 3px solid var(--blue); }

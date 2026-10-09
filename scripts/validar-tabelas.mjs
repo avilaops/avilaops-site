@@ -11,9 +11,10 @@
  *
  *   node scripts/validar-tabelas.mjs
  *
- * Coluna estreita (ate 36rem): cada coluna respeita a largura minima e a
- * orientacao aparece. Coluna larga: a orientacao some, nenhuma celula tem
- * largura minima e a tabela so rola se nem as palavras inteiras couberem.
+ * Coluna estreita (ate 36rem): cada coluna respeita a largura minima. Coluna
+ * larga: nenhuma celula tem largura minima e a tabela so rola se nem as
+ * palavras inteiras couberem. Em qualquer largura, a orientacao para deslizar
+ * aparece se, e somente se, a tabela transborda.
  * Em qualquer largura, nenhuma celula parte palavras no meio.
  * PLAYWRIGHT_CHROMIUM_PATH aponta um Chromium ja instalado.
  */
@@ -94,6 +95,7 @@ function medir() {
     return {
       colunas: larguras.length,
       estreita: Boolean(bloco) && bloco.clientWidth <= 36 * rem,
+      rola: caixa.scrollWidth > caixa.clientWidth + 1,
       rolaSemPrecisar: caixa.scrollWidth > caixa.clientWidth && minimoConteudo <= caixa.clientWidth + 1,
       dicaVisivel: Boolean(dica && dica.offsetParent !== null),
       // `overflow-wrap: anywhere` herdado do artigo parte palavras no meio quando a coluna aperta.
@@ -129,6 +131,18 @@ try {
     const pagina = await contexto.newPage();
     for (const rota of paginas) {
       await pagina.goto(`${origem}${rota}`, { waitUntil: "load" });
+      // A orientacao depende da medicao feita depois da hidratacao: espera ela
+      // concordar com o transbordo; se nao concordar, a conferencia abaixo acusa.
+      await pagina
+        .waitForFunction(
+          () => [...document.querySelectorAll(".editorial-table-block")].every((bloco) => {
+            const caixa = bloco.querySelector(".editorial-table");
+            return (caixa.scrollWidth > caixa.clientWidth + 1) === bloco.hasAttribute("data-rola");
+          }),
+          null,
+          { timeout: 5000 },
+        )
+        .catch(() => {});
       const medidas = await pagina.evaluate(medir);
       medidas.forEach((tabela, i) => {
         const onde = `${rota} tabela ${i + 1} (${tabela.colunas} colunas) em ${largura}px`;
@@ -136,12 +150,12 @@ try {
           tabelas += 1;
           colunasVistas.add(tabela.colunas);
         }
+        if (tabela.rola && !tabela.dicaVisivel) problemas.push(`${onde}: tabela rola sem orientacao para deslizar`);
+        if (!tabela.rola && tabela.dicaVisivel) problemas.push(`${onde}: orientacao para deslizar sem rolagem`);
         if (tabela.partePalavra) problemas.push(`${onde}: celula pode partir palavras no meio`);
         if (tabela.estreita) {
           if (tabela.espremida) problemas.push(`${onde}: coluna abaixo da largura minima`);
-          if (!tabela.dicaVisivel) problemas.push(`${onde}: orientacao para deslizar ausente em coluna estreita`);
         } else {
-          if (tabela.dicaVisivel) problemas.push(`${onde}: orientacao para deslizar em coluna larga`);
           if (tabela.larguraMinima) problemas.push(`${onde}: largura minima de coluna em coluna larga`);
           if (tabela.rolaSemPrecisar) problemas.push(`${onde}: rolagem horizontal sem necessidade em coluna larga`);
         }
