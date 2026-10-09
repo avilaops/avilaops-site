@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Site"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-18"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/imagem-pesada-erro-que-derruba-loja-no-celular/", "/guias/seu-site-aguenta-o-pico-como-testar/", "/guias/meu-site-perdeu-trafego-com-as-respostas-de-ia-do-google/", "/criacao-de-site-profissional/"]
 ---
 

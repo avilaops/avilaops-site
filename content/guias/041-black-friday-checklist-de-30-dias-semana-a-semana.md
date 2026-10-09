@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-11"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/preco-de-black-friday-sem-destruir-a-margem/", "/guias/seu-site-aguenta-o-pico-como-testar/", "/guias/ultima-semana-antes-da-black-friday-o-que-congelar/", "/loja-virtual/"]
 ---
 

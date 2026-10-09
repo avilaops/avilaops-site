@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "IA"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-25"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/agente-de-ia-no-whatsapp-vale-a-pena-para-pequena-empresa/", "/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd/", "/guias/mensagem-automatica-que-nao-parece-robo/", "/automacao-de-atendimento/"]
 ---
 

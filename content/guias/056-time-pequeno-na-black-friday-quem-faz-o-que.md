@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-26"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/separacao-de-pedido-processo-que-evita-erro/", "/guias/atendimento-no-pico-fila-horario-resposta-automatica/", "/guias/como-automatizar-minha-empresa/", "/sistema-para-pequenas-empresas/"]
 ---
 

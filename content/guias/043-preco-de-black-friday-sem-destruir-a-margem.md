@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-13"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-margem-de-lucro-desconto-sem-margem/", "/guias/combo-e-kit-aumentar-valor-do-pedido/", "/guias/preco-de-referencia-regra-que-evita-multa-procon/", "/jornada/"]
 ---
 
@@ -40,7 +41,7 @@ Abaixo de 25% de margem, o desconto que sobra fica menor que 15%: não chama ate
 
 Kit. Junte um produto de margem alta com um de margem baixa e dê desconto sobre o conjunto. O cliente vê "leve dois e pague menos"; a sua margem média fica de pé. O guia sobre [combo e kit](https://avilaops.com/guias/combo-e-kit-aumentar-valor-do-pedido/) mostra como montar.
 
-Frete grátis acima de um valor, calculado para que o pedido médio cubra o frete. Brinde de custo baixo e percepção alta, como uma amostra ou um acessório. Desconto só no Pix, porque o Pix não tem taxa e cai na hora, então 5% no Pix custa menos do que 5% no cartão parcelado. Condição de pagamento, como parcelamento sem juros em mais vezes, quando o intermediário permite sem cobrar de você.
+Frete grátis acima de um valor, calculado para que o pedido médio cubra o frete. Brinde de custo baixo e percepção alta, como uma amostra ou um acessório. Desconto só no Pix, porque o Pix costuma ter taxa bem menor que a do cartão e cai na hora, então 5% no Pix custa menos do que 5% no cartão parcelado. Condição de pagamento, como parcelamento sem juros em mais vezes, quando o intermediário permite sem cobrar de você.
 
 ## Como limitar o prejuízo se a oferta der mais certo do que o esperado?
 

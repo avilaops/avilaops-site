@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-05"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/devolucao-em-massa-o-custo-escondido-do-desconto/", "/loja-virtual/", "/sistema-para-pequenas-empresas/"]
 ---
 

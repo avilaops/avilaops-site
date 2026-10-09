@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-automatizar-whatsapp-da-empresa/", "/guias/whatsapp-comum-ou-business-api/", "/guias/mensagem-automatica-que-nao-parece-robo/", "/automatizar-whatsapp/"]
 ---
 

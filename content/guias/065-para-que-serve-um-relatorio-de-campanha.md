@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-04"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/guias/o-que-e-taxa-de-conversao-e-como-calcular/", "/sistema-para-pequenas-empresas/"]
 ---
 

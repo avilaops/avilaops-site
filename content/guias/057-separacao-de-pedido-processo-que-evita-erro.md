@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-27"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/etiqueta-e-rastreio-o-que-automatizar-antes-do-pico/", "/guias/time-pequeno-na-black-friday-quem-faz-o-que/", "/guias/estoque-para-black-friday-o-que-garantir/", "/sistema-para-pequenas-empresas/"]
 ---
 

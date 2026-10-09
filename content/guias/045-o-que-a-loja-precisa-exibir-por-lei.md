@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-15"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-o-cdc-exige-de-quem-vende-online/", "/guias/para-que-serve-politica-de-troca-e-devolucao/", "/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd/", "/contato/"]
 ---
 

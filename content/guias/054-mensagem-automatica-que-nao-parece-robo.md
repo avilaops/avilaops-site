@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-24"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/atendimento-no-pico-fila-horario-resposta-automatica/", "/guias/como-automatizar-whatsapp-da-empresa/", "/glossario/automacao/", "/automatizar-whatsapp/"]
 ---
 

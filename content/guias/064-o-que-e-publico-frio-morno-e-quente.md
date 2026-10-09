@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Anúncios"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-03"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/pixel-da-meta/", "/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/", "/meta-ads-para-empresas/"]
 ---
 

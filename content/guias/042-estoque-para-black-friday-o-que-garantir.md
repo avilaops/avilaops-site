@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/black-friday-checklist-de-30-dias-semana-a-semana/", "/guias/prazo-de-entrega-como-prometer-o-que-se-cumpre/", "/sistema-para-pequenas-empresas/"]
 ---
 

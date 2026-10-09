@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-01"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/funil-de-vendas/", "/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/sistema-para-pequenas-empresas/"]
 ---
 

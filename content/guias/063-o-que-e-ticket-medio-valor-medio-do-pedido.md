@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Dados"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-02"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-taxa-de-conversao-e-como-calcular/", "/glossario/crm/", "/sistema-para-pequenas-empresas/"]
 ---
 

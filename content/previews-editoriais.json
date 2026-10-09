@@ -268,5 +268,35 @@
     "title": "Atendimento",
     "kind": "listagem",
     "bytes": 40316
+  },
+  {
+    "path": "/og/editorial/blog-pagina-9-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38120
+  },
+  {
+    "path": "/og/editorial/blog-pagina-10-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 42006
+  },
+  {
+    "path": "/og/editorial/guias-pagina-9-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 45693
+  },
+  {
+    "path": "/og/editorial/guias-pagina-10-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 45091
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-3-v1.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 34328
   }
 ]

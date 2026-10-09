@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-28"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/separacao-de-pedido-processo-que-evita-erro/", "/guias/como-escolher-transportadora-preco-prazo-problema/", "/guias/o-que-e-nota-fiscal-eletronica-e-quando-emitir/", "/automacao-para-pequenas-empresas/"]
 ---
 
