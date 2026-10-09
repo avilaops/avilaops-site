@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-20"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/o-que-e-integracao-entre-dois-sistemas/", "/guias/contar-estoque-sem-parar-a-operacao/", "/guias/o-que-e-estoque-minimo/"]
 ---
 

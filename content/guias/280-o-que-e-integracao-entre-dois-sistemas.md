@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-07"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/automatizar-whatsapp/", "/integrar-site-com-whatsapp/", "/guias/estoque-em-dois-lugares-loja-e-site/", "/guias/o-que-e-automacao-em-uma-frase/"]
 ---
 
@@ -22,7 +23,7 @@ O problema que a integração resolve tem nome: retrabalho. Você fecha a venda 
 
 ## O que a integração faz na prática
 
-Cada sistema guarda um pedaço da operação. Sem integração, você é a ponte entre eles. Com integração, o pedido pago no site aparece no estoque como baixa, no WhatsApp como mensagem de confirmação e no financeiro como entrada. Uma vez. Na hora.
+Cada sistema guarda um pedaço da operação. Sem integração, você é a ponte entre eles. Com integração, o pedido pago no site aparece no estoque como baixa, no WhatsApp como mensagem de confirmação e no financeiro como entrada. Uma vez. Na hora. A mensagem automática no WhatsApp, no caso, passa pela API oficial, com modelo aprovado e cliente que aceitou receber.
 
 Numa floricultura que vende arranjo de Dia dos Namorados no site e no balcão, com integração, a venda do balcão baixa o mesmo estoque que o site vê. Sem integração, o site continua vendendo o arranjo que acabou às 14h, e às 18h você liga para três clientes para cancelar.
 

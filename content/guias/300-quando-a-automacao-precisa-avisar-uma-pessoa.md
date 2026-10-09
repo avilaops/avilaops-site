@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-27"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/automacao-de-atendimento/", "/automatizar-whatsapp/", "/guias/automacao-que-quebra-em-silencio/", "/guias/agente-de-ia-no-whatsapp-vale-a-pena-para-pequena-empresa/"]
 ---
 

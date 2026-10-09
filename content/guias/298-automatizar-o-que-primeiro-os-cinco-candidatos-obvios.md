@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-25"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/automatizar-whatsapp/", "/guias/o-que-e-automacao-em-uma-frase/", "/guias/como-automatizar-minha-empresa/", "/guias/automacao-que-quebra-em-silencio/"]
 ---
 
@@ -41,6 +42,8 @@ As cinco abaixo passam nos quatro. É por isso que são as mesmas em quase toda 
 | 4 | Lembrete de conversa parada | Cliente sem responder há 2 dias com orçamento aberto | Uma mensagem, uma só, perguntando se ainda tem interesse | O orçamento esquecido |
 | 5 | Alerta de estoque | Saldo cruzou o mínimo | Aviso para quem compra | O produto que acabou sem ninguém ver |
 
+No WhatsApp, as mensagens das linhas 1, 2 e 4 saem sozinhas só pela API oficial, com modelo aprovado e para quem aceitou receber. A linha 3 o aplicativo WhatsApp Business resolve com a mensagem de ausência.
+
 A ordem importa. As duas primeiras cortam mensagens recebidas. A terceira segura cliente. A quarta recupera venda. A quinta protege a operação. Uma por semana, em cinco semanas você saiu do zero.
 
 Em junho, as duas primeiras sozinhas mudam a semana do Dia dos Namorados. O cliente que recebe confirmação com prazo e depois o rastreio não manda mensagem. Você atende só quem tem dúvida de verdade.
@@ -57,7 +60,7 @@ Qualquer coisa que dependa de decisão: desconto, aprovação de devolução, ne
 
 ## O que fazer agora
 
-Escolha a primeira da tabela e escreva a mensagem que ela vai mandar, com o seu tom, hoje. Amanhã ela pode estar rodando. Responder rápido sem ficar acordado: https://avilaops.com/automatizar-whatsapp/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escolha a primeira da tabela e escreva a mensagem que ela vai mandar, com o seu tom, hoje. Se a loja e o WhatsApp já estão ligados, amanhã ela pode estar rodando. Responder rápido sem ficar acordado: https://avilaops.com/automatizar-whatsapp/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Sistema"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-28"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/o-que-e-banco-de-dados-e-por-que-a-planilha-nao-e-um/", "/guias/importar-cadastro-antigo-o-que-limpar-antes/", "/comparativos/avila-ops-vs-ferramentas-saas/"]
 ---
 

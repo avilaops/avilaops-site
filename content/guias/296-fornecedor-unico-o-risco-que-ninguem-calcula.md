@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/prazo-do-fornecedor-x-prazo-prometido-ao-cliente/", "/guias/produto-sazonal-comprar-quanto-e-quando/", "/guias/o-que-e-estoque-minimo/"]
 ---
 

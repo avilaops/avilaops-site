@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-18"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/pedido-chegou-as-duas-primeiras-horas-decidem-a-recompra/", "/guias/o-que-e-separacao-de-pedido/", "/guias/endereco-incompleto-validar-antes-de-despachar/"]
 ---
 
@@ -33,7 +34,7 @@ Os três primeiros nascem na separação. O quarto nasce na tela de fechamento d
 
 ## O que fazer na primeira hora
 
-1. Confirmar o erro pelo sistema, não pela memória. Abrir o pedido, ver o que foi separado, comparar com o que o cliente diz que chegou. Foto do cliente ajuda, mas a solução não espera a foto.
+1. Confirmar o erro pelo sistema, não pela memória. Antes de falar de dados do pedido, conferir que a mensagem vem do contato cadastrado nele. Abrir o pedido, ver o que foi separado, comparar com o que o cliente diz que chegou. Foto do cliente ajuda, mas a solução não espera a foto.
 2. Mandar uma mensagem com três partes: "Foi erro nosso na separação. Mando o produto certo amanhã, sem custo. Chega até 21/06. O que veio, você pode devolver com a etiqueta que vou mandar, ou ficar, se preferir."
 3. Gerar a etiqueta de reenvio na hora e postar no próximo horário de coleta. O reenvio entra na frente da fila. Cliente que já foi prejudicado não espera de novo.
 4. Se o item era presente com data que já passou, oferecer uma escolha: reenvio, ou reembolso integral com o cliente ficando com o que veio. Deixar ele decidir devolve o controle que o erro tirou.

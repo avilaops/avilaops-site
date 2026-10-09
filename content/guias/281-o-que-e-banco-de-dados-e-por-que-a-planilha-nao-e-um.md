@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Sistema"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-08"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/migrar-de-planilha-para-sistema-sem-perder-historico/", "/guias/importar-cadastro-antigo-o-que-limpar-antes/"]
 ---
 

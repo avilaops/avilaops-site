@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Dados"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-09"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/relatorio-que-ninguem-le-por-que-ele-existe/", "/guias/para-que-serve-um-alerta-automatico/"]
 ---
 
