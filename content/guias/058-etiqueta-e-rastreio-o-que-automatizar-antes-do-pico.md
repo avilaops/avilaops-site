@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-28"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/separacao-de-pedido-processo-que-evita-erro/", "/guias/como-escolher-transportadora-preco-prazo-problema/", "/guias/o-que-e-nota-fiscal-eletronica-e-quando-emitir/", "/automacao-para-pequenas-empresas/"]
 ---
 
@@ -39,7 +40,7 @@ Comece pela etiqueta, porque é onde o tempo e o erro estão. Para funcionar, ca
 
 O rastreio vem em seguida: quando o pedido muda para "enviado", a loja manda a mensagem com o código e o link. O cliente para de perguntar, e quando pergunta, a resposta automática já tem o dado. O guia sobre [separação de pedido](https://avilaops.com/guias/separacao-de-pedido-processo-que-evita-erro/) mostra onde esse passo entra no processo.
 
-A nota fiscal ligada à loja é o terceiro passo; o guia sobre [nota fiscal eletrônica](https://avilaops.com/guias/o-que-e-nota-fiscal-eletronica-e-quando-emitir/) explica o que confirmar com o contador antes. A ordem é a da automação, não a do envio: o pacote só sai com a nota emitida, mesmo que ela ainda seja feita à mão.
+A nota fiscal ligada à loja é o terceiro passo; o guia sobre [nota fiscal eletrônica](https://avilaops.com/guias/o-que-e-nota-fiscal-eletronica-e-quando-emitir/) explica o que confirmar com o contador antes. A ordem é a da automação, não a do envio: o pacote só sai com a nota emitida, mesmo que ela ainda seja feita à mão. A declaração de conteúdo, inclusive a eletrônica (DC-e), serve para remessa eventual de quem não é contribuinte de ICMS; venda frequente é atividade comercial e não pode ser enviada com ela. Confirme com o contador qual documento vale para o seu caso.
 
 ## Como testar em outubro?
 
@@ -59,7 +60,7 @@ Cadastre peso e dimensões de todos os produtos da campanha esta semana. Ligue a
 Ligando a loja ao serviço de integração dos Correios com contrato, ou a uma plataforma de frete que faz isso. O pedido pago gera a etiqueta com os dados do cliente e o peso cadastrado no produto.
 
 **O rastreio precisa ser enviado por WhatsApp?**
-Não precisa, mas é onde o cliente vê. E-mail serve como registro; WhatsApp reduz a pergunta. O ideal é os dois, disparados pela mudança de status do pedido.
+Não precisa, mas é onde o cliente vê. E-mail serve como registro; WhatsApp reduz a pergunta. O ideal é os dois, disparados pela mudança de status do pedido. No WhatsApp, o envio automático exige a API oficial, com modelo de mensagem aprovado e cliente que aceitou receber mensagens; pelo aplicativo WhatsApp Business, o aviso sai à mão.
 
 **Vale automatizar com menos de 10 pedidos por dia?**
 Vale pela redução de erro, mesmo que o ganho de tempo seja pequeno. E o volume de novembro não é o de outubro: quem automatiza com 10 chega em 60 sem mudar nada.

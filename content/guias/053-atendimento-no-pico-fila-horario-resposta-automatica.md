@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-automatizar-whatsapp-da-empresa/", "/guias/whatsapp-comum-ou-business-api/", "/guias/mensagem-automatica-que-nao-parece-robo/", "/automatizar-whatsapp/"]
 ---
 
@@ -22,7 +23,7 @@ Monte isso em outubro: resposta automática precisa ser escrita e testada com ca
 
 ## Como organizar a fila?
 
-Um número só para a empresa, no WhatsApp Business, e não o celular pessoal de quem atende. Se duas ou três pessoas respondem, o próprio app Business aceita até quatro aparelhos vinculados, pelo WhatsApp Web ou Desktop, no mesmo número. Quando é preciso distribuir as conversas entre atendentes, com cada uma atribuída a alguém, entra o WhatsApp Business API, ou uma ferramenta em cima dele. O guia sobre [WhatsApp comum ou Business API](https://avilaops.com/guias/whatsapp-comum-ou-business-api/) mostra quando cada um serve.
+Um número só para a empresa, no WhatsApp Business, e não o celular pessoal de quem atende. Se duas ou três pessoas respondem, o próprio app Business aceita até quatro aparelhos vinculados, pelo WhatsApp Web ou Desktop, no mesmo número. Para distribuir as conversas entre atendentes, com cada uma atribuída a alguém, há dois caminhos: a assinatura Meta Verified do próprio app Business, que em alguns planos amplia os aparelhos e permite atribuir conversas (confirme se ela está disponível para a sua empresa e se o plano oferecido inclui atribuição antes de contar com ela), ou o WhatsApp Business API, ou uma ferramenta em cima dele, quando também é preciso integrar com a loja. O guia sobre [WhatsApp comum ou Business API](https://avilaops.com/guias/whatsapp-comum-ou-business-api/) mostra quando cada um serve.
 
 Etiquetas por estado da conversa: "novo", "aguardando pagamento", "pedido enviado", "problema". Toda manhã e todo fim de tarde, alguém percorre a fila do mais antigo ao mais novo, não do mais barulhento ao mais quieto. Conversa sem resposta há mais de duas horas no horário comercial é o primeiro número a olhar.
 
@@ -38,22 +39,22 @@ As cinco perguntas que mais chegam numa campanha, com resposta pronta e um camin
 
 1. Prazo e frete: "O prazo aparece na página do produto ao digitar o CEP. Na Black Friday, é de X dias úteis após o pagamento."
 2. Cupom que não funcionou: "Confira se o cupom foi digitado sem espaço e se o pedido atinge o valor mínimo. Se ainda não funcionar, me mande o print que eu resolvo."
-3. Pedido pago e sem confirmação: "Pix confirma na hora; boleto em até 3 dias úteis. Me mande o número do pedido que eu confiro."
-4. Onde está o meu pedido: "O código de rastreio foi enviado por e-mail e por aqui. Se não recebeu, me mande o número do pedido."
+3. Pedido pago e sem confirmação: "Pix confirma na hora; boleto em até 3 dias úteis. Me mande o número do pedido: confiro se ele está no cadastro deste WhatsApp e te respondo."
+4. Onde está o meu pedido: "O código de rastreio foi enviado por e-mail e por aqui. Se não recebeu, me mande o número do pedido: confiro se ele está no cadastro deste WhatsApp e reenvio."
 5. Troca e devolução: "Você tem 7 dias, a contar do recebimento, para desistir da compra. Produto com defeito tem prazo maior. O passo a passo está em [link]."
 
 A resposta automática responde a pergunta, não desvia dela. E cada uma termina com o que fazer se não resolveu. O guia sobre [mensagem automática que não parece robô](https://avilaops.com/guias/mensagem-automatica-que-nao-parece-robo/) mostra o tom, e o guia sobre [automatizar o WhatsApp](https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/) mostra como ligar isso ao pedido.
 
 | Situação | Quem responde |
 | --- | --- |
-| Prazo, frete, rastreio, cupom, troca | Automático, com saída para pessoa |
+| Prazo, frete, rastreio, cupom, troca | Resposta pronta, com saída para pessoa |
 | Fora do horário | Automático: horário e o que fazer enquanto isso |
 | Pedido errado, produto quebrado, reclamação | Pessoa, em até duas horas |
 | Cliente irritado ou ameaçando reclamação pública | Dono, no mesmo dia |
 
 ## O que fazer agora
 
-Escreva as cinco respostas com os seus prazos e links, cadastre como resposta rápida no WhatsApp Business e teste com alguém de fora por uma semana. Defina o horário e publique. Se uma pessoa não dá conta e a API faz sentido, a gente configura para responder rápido sem ficar acordado: https://avilaops.com/automatizar-whatsapp/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escreva as cinco respostas com os seus prazos e links, cadastre como resposta rápida no WhatsApp Business e teste com alguém de fora por uma semana. No aplicativo, a resposta rápida é um atalho que a pessoa envia; sozinha, só sai a mensagem de ausência. Defina o horário e publique. Se uma pessoa não dá conta e a API faz sentido, a gente configura para responder rápido sem ficar acordado: https://avilaops.com/automatizar-whatsapp/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
@@ -64,4 +65,4 @@ Afasta quando não responde nada e só diz "em breve retornaremos". Quando respo
 Depende do tipo. Com as cinco perguntas comuns automatizadas, uma pessoa organizada resolve algumas dezenas de conversas que exigem gente por dia. Sem automação, o mesmo tempo vai em repetir prazo e frete.
 
 **Preciso da API do WhatsApp para a Black Friday?**
-Se uma pessoa atende de um celular, o WhatsApp Business com respostas rápidas e mensagem de ausência resolve. Se duas ou três pessoas atendem do mesmo número, o app Business com aparelhos vinculados também resolve. Se você precisa distribuir conversas entre atendentes ou quer mensagem automática ligada ao pedido, a API é o caminho.
+Se uma pessoa atende de um celular, o WhatsApp Business com respostas rápidas e mensagem de ausência resolve. Se duas ou três pessoas atendem do mesmo número, o app Business com aparelhos vinculados também resolve. Para distribuir conversas entre atendentes, a assinatura Meta Verified do app Business pode atender, se o plano disponível para você incluir atribuição de conversas. Se você quer mensagem automática ligada ao pedido, a API é o caminho.

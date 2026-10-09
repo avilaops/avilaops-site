@@ -102,171 +102,243 @@
     "bytes": 33034
   },
   {
-    "path": "/og/editorial/blog-pagina-1-v1.jpg",
+    "path": "/editorial/guias/o-que-e-remarketing-anuncio-para-quem-ja-visitou.webp",
+    "title": "O que é remarketing, o anúncio para quem já visitou",
+    "kind": "capa tipográfica",
+    "bytes": 36082
+  },
+  {
+    "path": "/editorial/guias/preco-de-referencia-regra-que-evita-multa-procon.webp",
+    "title": "Preço de referência: a regra que evita multa do Procon",
+    "kind": "capa tipográfica",
+    "bytes": 33776
+  },
+  {
+    "path": "/editorial/guias/prazo-de-entrega-como-prometer-o-que-se-cumpre.webp",
+    "title": "Prazo de entrega: como prometer o que se cumpre",
+    "kind": "capa tipográfica",
+    "bytes": 34930
+  },
+  {
+    "path": "/editorial/guias/golpe-do-comprovante-falso-de-pix.webp",
+    "title": "Golpe do comprovante falso de Pix: como se proteger",
+    "kind": "capa tipográfica",
+    "bytes": 34332
+  },
+  {
+    "path": "/editorial/guias/orcamento-de-anuncio-quanto-colocar-sem-quebrar.webp",
+    "title": "Orçamento de anúncio: quanto colocar sem quebrar",
+    "kind": "capa tipográfica",
+    "bytes": 38070
+  },
+  {
+    "path": "/og/editorial/blog-pagina-1-v2.jpg",
     "title": "Blog da Avila Ops",
     "kind": "listagem",
-    "bytes": 43555
+    "bytes": 38783
   },
   {
-    "path": "/og/editorial/blog-pagina-2-v1.jpg",
+    "path": "/og/editorial/blog-pagina-2-v2.jpg",
     "title": "Blog da Avila Ops",
     "kind": "listagem",
-    "bytes": 42065
+    "bytes": 37609
   },
   {
-    "path": "/og/editorial/blog-pagina-3-v1.jpg",
+    "path": "/og/editorial/blog-pagina-3-v2.jpg",
     "title": "Blog da Avila Ops",
     "kind": "listagem",
-    "bytes": 40203
+    "bytes": 36054
   },
   {
-    "path": "/og/editorial/blog-pagina-4-v1.jpg",
+    "path": "/og/editorial/blog-pagina-4-v2.jpg",
     "title": "Blog da Avila Ops",
     "kind": "listagem",
-    "bytes": 42003
+    "bytes": 38800
   },
   {
-    "path": "/og/editorial/blog-pagina-5-v1.jpg",
+    "path": "/og/editorial/blog-pagina-5-v2.jpg",
     "title": "Blog da Avila Ops",
     "kind": "listagem",
-    "bytes": 41680
+    "bytes": 37589
   },
   {
-    "path": "/og/editorial/blog-pagina-6-v1.jpg",
+    "path": "/og/editorial/blog-pagina-6-v2.jpg",
     "title": "Blog da Avila Ops",
     "kind": "listagem",
-    "bytes": 43159
+    "bytes": 36067
   },
   {
-    "path": "/og/editorial/blog-pagina-7-v1.jpg",
+    "path": "/og/editorial/blog-pagina-7-v2.jpg",
     "title": "Blog da Avila Ops",
     "kind": "listagem",
-    "bytes": 39907
+    "bytes": 38763
   },
   {
-    "path": "/og/editorial/blog-pagina-8-v1.jpg",
+    "path": "/og/editorial/blog-pagina-8-v2.jpg",
     "title": "Blog da Avila Ops",
     "kind": "listagem",
-    "bytes": 42685
+    "bytes": 37594
   },
   {
-    "path": "/og/editorial/guias-pagina-1-v1.jpg",
+    "path": "/og/editorial/blog-pagina-9-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36063
+  },
+  {
+    "path": "/og/editorial/blog-pagina-10-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38920
+  },
+  {
+    "path": "/og/editorial/blog-pagina-11-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37677
+  },
+  {
+    "path": "/og/editorial/guias-pagina-1-v2.jpg",
     "title": "Guias para sua empresa",
     "kind": "listagem",
-    "bytes": 46728
+    "bytes": 38564
   },
   {
-    "path": "/og/editorial/guias-pagina-2-v1.jpg",
+    "path": "/og/editorial/guias-pagina-2-v2.jpg",
     "title": "Guias para sua empresa",
     "kind": "listagem",
-    "bytes": 48270
+    "bytes": 41961
   },
   {
-    "path": "/og/editorial/guias-pagina-3-v1.jpg",
+    "path": "/og/editorial/guias-pagina-3-v2.jpg",
     "title": "Guias para sua empresa",
     "kind": "listagem",
-    "bytes": 46264
+    "bytes": 40577
   },
   {
-    "path": "/og/editorial/guias-pagina-4-v1.jpg",
+    "path": "/og/editorial/guias-pagina-4-v2.jpg",
     "title": "Guias para sua empresa",
     "kind": "listagem",
-    "bytes": 45170
+    "bytes": 38604
   },
   {
-    "path": "/og/editorial/guias-pagina-5-v1.jpg",
+    "path": "/og/editorial/guias-pagina-5-v2.jpg",
     "title": "Guias para sua empresa",
     "kind": "listagem",
-    "bytes": 47866
+    "bytes": 41960
   },
   {
-    "path": "/og/editorial/guias-pagina-6-v1.jpg",
+    "path": "/og/editorial/guias-pagina-6-v2.jpg",
     "title": "Guias para sua empresa",
     "kind": "listagem",
-    "bytes": 49802
+    "bytes": 40593
   },
   {
-    "path": "/og/editorial/guias-pagina-7-v1.jpg",
+    "path": "/og/editorial/guias-pagina-7-v2.jpg",
     "title": "Guias para sua empresa",
     "kind": "listagem",
-    "bytes": 42941
+    "bytes": 38549
   },
   {
-    "path": "/og/editorial/guias-pagina-8-v1.jpg",
+    "path": "/og/editorial/guias-pagina-8-v2.jpg",
     "title": "Guias para sua empresa",
     "kind": "listagem",
-    "bytes": 49142
+    "bytes": 41967
   },
   {
-    "path": "/og/editorial/blog-categoria-vendas-pagina-1-v1.jpg",
+    "path": "/og/editorial/guias-pagina-9-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40582
+  },
+  {
+    "path": "/og/editorial/guias-pagina-10-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38714
+  },
+  {
+    "path": "/og/editorial/guias-pagina-11-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42045
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-1-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 31628
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-2-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 30622
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-3-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 32676
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-1-v2.jpg",
     "title": "Vendas",
     "kind": "listagem",
-    "bytes": 36494
+    "bytes": 29639
   },
   {
-    "path": "/og/editorial/blog-categoria-vendas-pagina-2-v1.jpg",
+    "path": "/og/editorial/blog-categoria-vendas-pagina-2-v2.jpg",
     "title": "Vendas",
     "kind": "listagem",
-    "bytes": 34243
+    "bytes": 28794
   },
   {
-    "path": "/og/editorial/blog-categoria-vendas-pagina-3-v1.jpg",
+    "path": "/og/editorial/blog-categoria-vendas-pagina-3-v2.jpg",
     "title": "Vendas",
     "kind": "listagem",
-    "bytes": 35498
+    "bytes": 30546
   },
   {
-    "path": "/og/editorial/blog-categoria-presenca-pagina-1-v1.jpg",
+    "path": "/og/editorial/blog-categoria-presenca-pagina-1-v2.jpg",
     "title": "Presença",
     "kind": "listagem",
-    "bytes": 37008
+    "bytes": 31022
   },
   {
-    "path": "/og/editorial/blog-categoria-operacao-pagina-1-v1.jpg",
-    "title": "Operação",
-    "kind": "listagem",
-    "bytes": 37805
-  },
-  {
-    "path": "/og/editorial/blog-categoria-operacao-pagina-2-v1.jpg",
-    "title": "Operação",
-    "kind": "listagem",
-    "bytes": 38371
-  },
-  {
-    "path": "/og/editorial/blog-categoria-crescimento-pagina-1-v1.jpg",
+    "path": "/og/editorial/blog-categoria-crescimento-pagina-1-v2.jpg",
     "title": "Crescimento",
     "kind": "listagem",
-    "bytes": 38089
+    "bytes": 32122
   },
   {
-    "path": "/og/editorial/blog-categoria-presenca-digital-pagina-1-v1.jpg",
+    "path": "/og/editorial/blog-categoria-presenca-digital-pagina-1-v2.jpg",
     "title": "Presença digital",
     "kind": "listagem",
-    "bytes": 42387
+    "bytes": 37643
   },
   {
-    "path": "/og/editorial/blog-categoria-presenca-digital-pagina-2-v1.jpg",
+    "path": "/og/editorial/blog-categoria-presenca-digital-pagina-2-v2.jpg",
     "title": "Presença digital",
     "kind": "listagem",
-    "bytes": 42413
+    "bytes": 36550
   },
   {
-    "path": "/og/editorial/blog-categoria-marketing-pagina-1-v1.jpg",
+    "path": "/og/editorial/blog-categoria-marketing-pagina-1-v2.jpg",
     "title": "Marketing",
     "kind": "listagem",
-    "bytes": 37830
+    "bytes": 30488
   },
   {
-    "path": "/og/editorial/blog-categoria-inteligencia-artificial-pagina-1-v1.jpg",
+    "path": "/og/editorial/blog-categoria-inteligencia-artificial-pagina-1-v2.jpg",
     "title": "Inteligência artificial",
     "kind": "listagem",
-    "bytes": 44888
+    "bytes": 40890
   },
   {
-    "path": "/og/editorial/blog-categoria-atendimento-pagina-1-v1.jpg",
+    "path": "/og/editorial/blog-categoria-atendimento-pagina-1-v2.jpg",
     "title": "Atendimento",
     "kind": "listagem",
-    "bytes": 40316
+    "bytes": 33262
   }
 ]

@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Anúncios"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/pixel-da-meta/", "/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/meta-ads-para-empresas/"]
 ---
 
@@ -28,7 +29,7 @@ O detalhe que muita gente descobre tarde: a lista só começa a ser montada depo
 
 ## Quando vale e quando não vale?
 
-Vale quando o site já tem visita. Com 300 visitantes por mês, a lista é pequena, mas é a mais quente que você tem; R$ 10 por dia costuma cobrir. Com 3 mil visitantes, o remarketing pode ser a campanha principal do mês.
+Vale quando o site já tem visita. Com 300 visitantes por mês, a lista é pequena, mas é a mais quente que você tem; R$ 10 por dia costuma cobrir. No Google, a lista precisa de pelo menos 100 usuários ativos nos últimos 30 dias para começar a exibir anúncios. Com 3 mil visitantes, o remarketing pode ser a campanha principal do mês.
 
 Não vale quando o site não tem visita nenhuma: não há quem lembrar. E não vale mostrar o mesmo anúncio 20 vezes para a mesma pessoa; limite a frequência.
 
@@ -47,4 +48,4 @@ Na prática, sim. Os dois nomes descrevem anúncio dirigido a quem já teve cont
 De forma limitada: dá para anunciar para quem interagiu com o perfil. Mas sem pixel no site não há "viu o produto e não comprou", que é o público mais valioso.
 
 **Remarketing respeita a LGPD?**
-Pode respeitar, desde que o site informe o uso de cookies e do pixel na política de privacidade e permita recusar. A lista não identifica pessoas para você e fica na plataforma, mas a loja continua responsável pelos dados que o pixel envia a ela.
+Pode respeitar, desde que o site informe o uso de cookies e do pixel na política de privacidade e só carregue o pixel de anúncio depois que o visitante aceitar, no aviso de cookies. Oferecer recusar depois não basta: até lá, o pixel já enviou os dados. A lista não identifica pessoas para você e fica na plataforma, mas a loja continua responsável pelos dados que o pixel envia a ela.

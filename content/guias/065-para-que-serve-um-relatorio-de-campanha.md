@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-04"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/guias/o-que-e-taxa-de-conversao-e-como-calcular/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -18,11 +19,11 @@ links_internos: ["/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/g
 
 Relatório de campanha serve para responder uma pergunta: valeu a pena? Ele junta quanto você gastou, quantas pessoas alcançou, quantas compraram e quanto sobrou depois de tirar custo de produto, frete e taxa. Sem ele, a campanha termina com uma sensação. Com ele, termina com uma decisão: repetir, ajustar ou não fazer de novo.
 
-A Black Friday consome caixa antes de devolver. Você compra estoque em outubro, paga anúncio em novembro e recebe o cartão a partir de dezembro, parcela por parcela.
+A Black Friday consome caixa antes de devolver. Você compra estoque em outubro, paga anúncio em novembro e recebe o cartão conforme o contrato com o intermediário: de uma vez, parcela por parcela ou com antecipação. Use o calendário de recebimento do seu contrato para prever o caixa.
 
 ## O que precisa estar no relatório?
 
-Cinco números. Investimento total: anúncio, cupom, frete absorvido e desconto dado. Visitantes e conversas por canal. Pedidos pagos e ticket médio, que juntos dão o faturamento. Custo por pedido: investimento dividido por pedidos. E a margem que sobrou: faturamento menos custo dos produtos e taxas, menos anúncio e frete absorvido. Desconto e cupom não entram de novo aqui, porque já saíram do faturamento.
+Cinco números. Investimento total: anúncio, cupom, frete absorvido e desconto dado. Visitantes e conversas por canal. Pedidos pagos e ticket médio, que juntos dão o faturamento. Custo por pedido: investimento dividido por pedidos. Ele é diferente do custo por venda do anúncio, que divide só o gasto com anúncio pelas compras atribuídas à campanha. E a margem que sobrou: faturamento menos custo dos produtos e taxas, menos anúncio e frete absorvido. Desconto e cupom não entram de novo aqui, porque já saíram do faturamento.
 
 Esse último é o único que diz se valeu. Uma loja de artigos de festa gastou R$ 1.800 em anúncio, deu R$ 2.400 em desconto e faturou R$ 11.600 em 95 pedidos, já com o desconto. O custo dos produtos, com as taxas, foi R$ 7.000. Sobra: R$ 2.800. Num mês comum ela tira R$ 3.500. A campanha trouxe cliente novo, mas custou lucro.
 
@@ -30,7 +31,7 @@ Esse último é o único que diz se valeu. Uma loja de artigos de festa gastou R
 
 Durante e depois. Durante, o relatório é diário e curto: gasto do dia, pedidos do dia, ticket, custo por pedido. Serve para cortar um anúncio que não converte. O guia sobre [taxa de conversão](https://avilaops.com/guias/o-que-e-taxa-de-conversao-e-como-calcular/) mostra como ler o número principal.
 
-Depois, em dezembro, quando vence o prazo de desistência dos últimos pedidos entregues, vem o relatório fechado, com devoluções, estornos e estoque que sobrou. Para os números de anúncio e de venda baterem, o [pixel precisa registrar compra](https://avilaops.com/guias/como-configurar-pixel-da-meta-e-medir-conversoes/), não só visita.
+Depois, em dezembro, quando vence o prazo de desistência dos últimos pedidos entregues, vem o relatório fechado, com devoluções, estornos e estoque que sobrou. Mesmo fechado, ele recebe ajustes: troca por defeito tem 30 dias para produto não durável e 90 para durável, contados do recebimento ou, no defeito oculto, de quando ele aparece (CDC, art. 26), e contestações de cartão ainda podem chegar até março. Reserve uma linha para esses ajustes e atualize o lucro da campanha quando eles chegarem. Para os números de anúncio e de venda baterem, o [pixel precisa registrar compra](https://avilaops.com/guias/como-configurar-pixel-da-meta-e-medir-conversoes/), não só visita.
 
 ## O que fazer agora
 

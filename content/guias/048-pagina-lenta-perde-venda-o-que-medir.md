@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Site"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-18"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/imagem-pesada-erro-que-derruba-loja-no-celular/", "/guias/seu-site-aguenta-o-pico-como-testar/", "/guias/meu-site-perdeu-trafego-com-as-respostas-de-ia-do-google/", "/criacao-de-site-profissional/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/imagem-pesada-erro-que-derruba-loja-no-celular/", "/gui
 
 Página lenta perde venda porque o cliente que veio de anúncio, no celular, em rede móvel, não espera. Se a página de produto leva mais de 2,5 segundos para mostrar o que importa, parte das pessoas volta para o Instagram antes de ver o preço. Você pagou pelo clique e não teve a chance de vender.
 
-O que medir são três números do PageSpeed Insights, do Google: o tempo até o maior elemento aparecer (LCP), a demora para responder aos toques durante a visita (INP) e o quanto a página pula enquanto carrega (CLS). O que cortar, na maioria das lojas pequenas, são imagens sem compressão, aplicativos instalados e esquecidos, e fontes e scripts que carregam antes do conteúdo.
+O que medir são três números do PageSpeed Insights, do Google: o tempo até o maior elemento aparecer (LCP), a demora para responder aos toques durante a visita (INP) e o quanto a página pula enquanto carrega (CLS). O INP vem de dados de visitantes reais do Chrome e só aparece quando a página tem acessos suficientes; em loja pequena, e em especial no fechamento do pedido, ele costuma faltar. Nesse caso, meça com uma ferramenta instalada no próprio site que registra os toques dos visitantes, ou teste você mesmo tocando nos botões com o painel de desempenho do Chrome aberto. O que cortar, na maioria das lojas pequenas, são imagens sem compressão, aplicativos instalados e esquecidos, e fontes e scripts que carregam antes do conteúdo.
 
 ## Quais números olhar e o que eles significam?
 
@@ -44,7 +45,7 @@ Scripts de rastreamento duplicados, em terceiro: pixel da Meta instalado duas ve
 ## O que cortar e em que ordem?
 
 1. Comprima e redimensione todas as imagens dos produtos da campanha. É o corte de maior efeito e menor risco.
-2. Remova todo aplicativo que você não sabe dizer para que serve. Anote o que removeu, para poder voltar.
+2. Desative, um de cada vez, os aplicativos que você não sabe dizer para que servem, e confira a loja depois de cada um. Não mexa nos de pagamento, frete, nota fiscal, antifraude e aviso de cookies. Anote o que desativou, para poder voltar.
 3. Confira se cada pixel e tag está instalado uma vez só.
 4. Reduza as fontes personalizadas a duas: uma para título, uma para texto.
 5. Elimine o vídeo que carrega sozinho na página inicial, ou troque por uma imagem com botão de play.

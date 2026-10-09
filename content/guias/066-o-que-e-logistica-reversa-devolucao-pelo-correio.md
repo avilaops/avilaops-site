@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-05"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/devolucao-em-massa-o-custo-escondido-do-desconto/", "/loja-virtual/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -24,13 +25,13 @@ Em novembro isso deixa de ser detalhe. Quem vende na Black Friday recebe pedidos
 
 Depende do motivo. Se o cliente desistiu da compra dentro dos sete dias do direito de arrependimento (CDC, art. 49), contados do recebimento, ou se o produto veio com defeito ou errado, o custo do retorno é seu. Troca por outro tamanho, sem defeito, não é obrigação da lei: a política da loja decide quem paga, e ela precisa estar publicada antes da venda.
 
-O erro comum é pedir para o cliente pagar o frete e "descontar depois". Gere o código de postagem reversa e mande por mensagem. Correios e transportadoras oferecem isso por contrato; sem contrato, dá para gerar etiqueta paga por plataformas de frete e enviar o arquivo.
+O erro comum é pedir para o cliente pagar o frete e "descontar depois". Gere o código de postagem reversa e mande por mensagem, só para o contato cadastrado no pedido. Correios e transportadoras oferecem isso por contrato; sem contrato, dá para gerar etiqueta paga por plataformas de frete e enviar o arquivo.
 
 ## Como montar o processo antes de precisar?
 
 Escreva a política: prazo, condições do produto, quem paga em cada caso. Defina um canal único de pedido de devolução, um formulário no site ou uma palavra-chave no WhatsApp. E registre cada devolução com número do pedido, motivo e status.
 
-Esse registro mostra, em dezembro, se o problema foi tamanho, foto ou embalagem. O guia sobre [devolução em massa](https://avilaops.com/guias/devolucao-em-massa-o-custo-escondido-do-desconto/) trata do que fazer quando o volume cresce.
+Esse registro mostra, em dezembro, se o problema foi tamanho, foto ou embalagem.
 
 ## O que fazer agora
 

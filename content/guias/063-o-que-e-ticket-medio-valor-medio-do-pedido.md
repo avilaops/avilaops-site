@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Dados"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-02"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-taxa-de-conversao-e-como-calcular/", "/glossario/crm/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/o-que-e-taxa-de-conversao-e-como-calcular/", "/glossari
 
 Ticket médio é quanto cada pedido vale, em média. A conta é o faturamento do período dividido pelo número de pedidos. Se você vendeu R$ 9.000 em 60 pedidos, o ticket médio é R$ 150. Ele mostra se cada cliente está levando mais ou menos por compra.
 
-Faturamento é visitantes vezes taxa de conversão vezes ticket médio. Dá para crescer atraindo mais gente, convencendo mais gente ou fazendo cada pessoa levar mais. As duas primeiras custam anúncio e tempo. A terceira custa quase nada, e pouca gente olha para ela.
+Faturamento é visitantes vezes pedidos por visitante vezes ticket médio. Na maioria das lojas pequenas, quase todo cliente faz um pedido só no período, e pedidos por visitante fica perto da taxa de conversão. Dá para crescer atraindo mais gente, convencendo mais gente ou fazendo cada pessoa levar mais. As duas primeiras custam anúncio e tempo. A terceira custa quase nada, e pouca gente olha para ela.
 
 ## Por que o ticket médio cai em novembro?
 
@@ -28,7 +29,7 @@ Uma loja de roupa infantil com ticket normal de R$ 178, duas peças por pedido, 
 
 ## Como subir o ticket sem dar desconto?
 
-Comece pelo frete grátis a partir de um valor um pouco acima do ticket atual: se o ticket é R$ 150, frete grátis acima de R$ 199 leva parte dos clientes a adicionar um item. Depois, o kit: dois produtos que fazem sentido juntos, com preço de conjunto. E a sugestão na tela de fechamento do pedido (checkout): item barato e complementar ao que está no carrinho.
+Comece pelo frete grátis a partir de um valor um pouco acima do ticket atual: se o ticket é R$ 150, frete grátis acima de R$ 199 leva parte dos clientes a adicionar um item. Antes, confira se o frete médio cabe na margem dos pedidos acima desse valor. Depois, o kit: dois produtos que fazem sentido juntos, com preço de conjunto. E a sugestão na tela de fechamento do pedido (checkout): item barato e complementar ao que está no carrinho.
 
 Quem tem um [cadastro de clientes](https://avilaops.com/glossario/crm/) que registra o que cada um comprou sugere com base em compra anterior, e aí a sugestão vira serviço.
 

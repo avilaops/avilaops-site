@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-14"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-o-cdc-exige-de-quem-vende-online/", "/guias/preco-de-black-friday-sem-destruir-a-margem/", "/contato/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/o-que-o-cdc-exige-de-quem-vende-online/", "/guias/preco
 
 Preço de referência é o preço que aparece riscado no anúncio, o "de R$ 200 por R$ 140". A regra é uma só: ele precisa ser um preço que a loja praticou de verdade, por um período razoável, imediatamente antes da promoção. Subir o preço em outubro para "baixar" em novembro é publicidade enganosa pelo artigo 37 do Código de Defesa do Consumidor, e é um dos alvos mais frequentes da fiscalização na Black Friday.
 
-Não existe na lei federal um número exato de dias que o preço "de" precisa ter sido praticado. O que existe é a exigência de que a informação seja verdadeira, e a prática dos Procons de pedir o histórico de preço quando há denúncia. Alguns estados têm lei própria que exige mostrar o histórico de preço; se você vende para outros estados, confira a regra local. Quem tem o histórico registrado tem como se defender. Quem não tem, fica exposto à multa.
+Não existe na lei federal um número exato de dias que o preço "de" precisa ter sido praticado. O que existe é a exigência de que a informação seja verdadeira, e a prática dos Procons de pedir o histórico de preço quando há denúncia. Alguns estados têm lei própria sobre como anunciar promoção, como mostrar o preço anterior ao lado do promocional; se você vende para outros estados, confira a regra local. Quem tem o histórico registrado tem como se defender. Quem não tem, fica exposto à multa.
 
 ## O que o Procon considera desconto falso?
 
@@ -33,7 +34,7 @@ Com uma tabela por produto, data e preço, guardada fora da plataforma da loja. 
 Faça assim em outubro:
 
 1. Exporte a lista de produtos com o preço atual e a data de hoje.
-2. Não altere preço dos produtos da campanha até a Black Friday. Se precisar reajustar por custo, faça agora e documente o motivo.
+2. Não altere preço dos produtos da campanha até a Black Friday. Se precisar reajustar por custo, faça agora e documente o motivo. Em novembro, calcule o desconto sobre o preço praticado antes do reajuste, e não sobre o valor recém-aumentado.
 3. Guarde prints da página de produto com o preço visível e a data, em uma pasta com o nome do produto.
 4. Na campanha, use como preço "de" exatamente o preço registrado. Nem um real a mais.
 5. Depois da campanha, volte ao preço registrado, ou a um novo preço que você passa a praticar de verdade.

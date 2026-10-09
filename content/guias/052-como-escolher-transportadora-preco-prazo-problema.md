@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-22"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/prazo-de-entrega-como-prometer-o-que-se-cumpre/", "/guias/etiqueta-e-rastreio-o-que-automatizar-antes-do-pico/", "/sistema-para-pequenas-empresas/"]
 ---
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-20"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/combo-e-kit-aumentar-valor-do-pedido/", "/guias/preco-de-referencia-regra-que-evita-multa-procon/", "/guias/o-que-e-margem-de-lucro-desconto-sem-margem/", "/jornada/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/combo-e-kit-aumentar-valor-do-pedido/", "/guias/preco-d
 
 O Dia das Crianças, 12/10, é uma data de presente, não de desconto. Quem compra presente quer acertar, quer receber a tempo e quer resolver rápido. Preço é o terceiro critério. Se você dá 30% de desconto em outubro, chega em novembro sem margem para a Black Friday e ainda ensina o cliente a esperar promoção. A venda de outubro se faz com seleção, kit, prazo confirmado e atendimento, e a margem fica guardada para o mês que vem.
 
-A data cai numa segunda-feira em 2026, e é feriado nacional, o que empurra a compra online para a primeira semana do mês. Quem vende produto físico com entrega precisa ter a data de corte definida e visível, contando o feriado: o último dia em que o pedido chega antes do dia 12.
+A data cai numa segunda-feira em 2026, e é feriado nacional, o que empurra a compra online para a primeira semana do mês. Quem vende produto físico com entrega precisa ter a data de corte definida e visível, contando o feriado: o último dia em que o pedido chega antes do dia 12. Se você lê isto perto da data e o corte do correio já passou, o caminho é retirada na loja e entrega local, como mostra o "O que fazer agora".
 
 ## O que vender sem dar desconto?
 
@@ -32,14 +33,14 @@ Uma loja de brinquedos educativos monta a seleção "para quem tem 3 a 5 anos, a
 
 Não use preço riscado em outubro. Um "de R$ 100 por R$ 80" no Dia das Crianças, seguido de outro preço riscado em novembro, cria um histórico confuso de preço praticado, que o Procon pode questionar. O guia sobre [preço de referência](https://avilaops.com/guias/preco-de-referencia-regra-que-evita-multa-procon/) explica o que conta como preço praticado.
 
-Não gaste em outubro o estoque planejado para novembro. Os produtos da Black Friday são escolhidos agora e a compra deles é feita agora; o Dia das Crianças usa o estoque normal. E não canse a base: quem recebeu três mensagens de oferta em outubro ignora a de novembro. Uma mensagem para a data, com a seleção, é o suficiente.
+Não gaste em outubro o estoque planejado para novembro. Os produtos da Black Friday são escolhidos agora e a compra deles é feita agora; o Dia das Crianças usa o estoque normal. E não canse a base: quem recebeu três mensagens de oferta em outubro ignora a de novembro. Uma mensagem para a data, com a seleção, é o suficiente, enviada só para quem aceitou receber novidades.
 
 | Dia das Crianças | Black Friday |
 | --- | --- |
 | Seleção e kit | Desconto real com limite |
 | Preço cheio | Preço riscado com histórico |
 | Estoque normal | Estoque comprado com folga |
-| Uma mensagem para a base | Aviso prévio e campanha |
+| Uma mensagem para quem aceitou receber | Aviso prévio e campanha |
 | Prazo de entrega confirmado | Prazo estendido |
 
 ## O que a data precisa ter no atendimento?
@@ -48,11 +49,11 @@ Resposta pronta para "chega até o dia 12?", com a data de corte por região. Re
 
 Retirada na loja, se você tem ponto físico, resolve o cliente de última hora: pedido até sexta, retirada no sábado, sem frete. Escreva isso na página da seleção.
 
-Depois da data, guarde quem comprou. O cliente do Dia das Crianças compra de novo no Natal, e a mensagem de dezembro para ele é a mais barata que existe. O guia sobre [margem de lucro](https://avilaops.com/guias/o-que-e-margem-de-lucro-desconto-sem-margem/) mostra por que essa recompra vale mais do que o desconto que você não deu.
+Depois da data, guarde quem comprou e, na própria compra, pergunte se a pessoa aceita receber novidades. O cliente do Dia das Crianças compra de novo no Natal, e a mensagem de dezembro para quem aceitou, sempre com um jeito fácil de sair da lista, é a mais barata que existe. O guia sobre [margem de lucro](https://avilaops.com/guias/o-que-e-margem-de-lucro-desconto-sem-margem/) mostra por que essa recompra vale mais do que o desconto que você não deu.
 
 ## O que fazer agora
 
-Monte as três seleções e um kit ainda esta semana, defina a data de corte e escreva as duas respostas prontas. Se você não tem como separar quem comprou em outubro para falar com eles em dezembro, esse é o próximo passo da operação. Descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Monte as três seleções e um kit, defina a data de corte e escreva as duas respostas prontas. Se a data de corte da entrega pelo correio já passou, divulgue a seleção com retirada na loja ou entrega local, que ainda chegam antes do dia 12. Se você não tem como separar quem comprou em outubro e aceitou receber novidades para falar com eles em dezembro, esse é o próximo passo da operação. Descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

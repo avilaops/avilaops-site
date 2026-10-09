@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/black-friday-checklist-de-30-dias-semana-a-semana/", "/guias/prazo-de-entrega-como-prometer-o-que-se-cumpre/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -26,7 +27,7 @@ Comece pela venda real. Pegue os últimos 90 dias e liste as unidades vendidas p
 
 Para produtos que você nunca promoveu, o histórico não serve. Compre pouco e trate como teste. Para produtos de reposição lenta, com fornecedor que leva mais de 15 dias, compre agora ou tire da oferta.
 
-Uma loja de suplementos vende 40 potes de um produto por semana e, com 20% de desconto e anúncio, estima 120 na semana da Black Friday. O fornecedor entrega em 10 dias. Ela pede 150 na segunda quinzena de outubro, com folga de 30 para a semana seguinte, e recebe no começo de novembro.
+Uma loja de suplementos vende 40 potes de um produto por semana e, com 20% de desconto e anúncio, estima 120 na semana da Black Friday. O fornecedor entrega em 10 dias. Ela pede 150 na segunda quinzena de outubro, com folga de 30 para a semana seguinte, além da reposição normal das outras semanas de novembro, e recebe no começo de novembro.
 
 ## O que o fornecedor precisa garantir por escrito?
 
@@ -50,7 +51,7 @@ Esses produtos podem continuar à venda a preço normal. Só não são a cara da
 
 ## Como não vender o que não tem?
 
-Com o estoque da loja ligado ao estoque real. Se a loja online e a loja física puxam do mesmo lugar sem atualização automática, a venda dupla acontece no primeiro dia de pico. O sistema precisa baixar o estoque no momento do pedido, não da separação, e esconder o produto quando chegar a zero.
+Com o estoque da loja ligado ao estoque real. Se a loja online e a loja física puxam do mesmo lugar sem atualização automática, a venda dupla acontece no primeiro dia de pico. O sistema precisa reservar o estoque no momento do pedido, não da separação, e esconder o produto quando chegar a zero. Pedido de boleto ou Pix que não for pago no prazo precisa ser cancelado sozinho, devolvendo as unidades à venda; senão, pedidos abandonados escondem produto que ninguém comprou.
 
 Defina também um estoque de segurança para os produtos principais, por exemplo cinco unidades, que a loja trata como zero. Ele cobre o pedido que chegou ao mesmo tempo, o item que veio com defeito e a contagem que estava errada. O guia sobre [prazo de entrega](https://avilaops.com/guias/prazo-de-entrega-como-prometer-o-que-se-cumpre/) mostra como esse estoque afeta o prazo prometido.
 

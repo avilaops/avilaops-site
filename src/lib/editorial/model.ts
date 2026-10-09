@@ -12,7 +12,7 @@ export type Post = {
   faq?: { question: string; answer: string }[];
 };
 export const PAGE_SIZE = 9;
-export const listingPreviewPath = (base: string, page = 1) => `/og/editorial/${base.replace(/^\/+|\/+$/g, "").replaceAll("/", "-")}-pagina-${page}-v1.jpg`;
+export const listingPreviewPath = (base: string, page = 1) => `/og/editorial/${base.replace(/^\/+|\/+$/g, "").replaceAll("/", "-")}-pagina-${page}-v2.jpg`;
 export const slugify = (text: string) => text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 export const postPath = (post: Pick<Post, "slug">) => `/guias/${post.slug}/`;
 export const readingMinutes = (post: Post) => Math.max(1, Math.ceil(post.markdown.trim().split(/\s+/).length / 190));

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-24"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/atendimento-no-pico-fila-horario-resposta-automatica/", "/guias/como-automatizar-whatsapp-da-empresa/", "/glossario/automacao/", "/automatizar-whatsapp/"]
 ---
 
@@ -32,14 +33,14 @@ Curta, na linguagem que você usa na loja, com o dado que a pessoa quer. Comece 
 
 Ruim: "Olá, Seja bem-vindo à nossa loja. Recebemos sua mensagem e em breve um de nossos atendentes entrará em contato. Agradecemos a preferência."
 
-Melhor: "Oi, Ana. Aqui é a mensagem automática da Loja Tal. Agora estamos fora do horário (seg a sex, 9h às 18h). Se for sobre prazo ou rastreio, o número do pedido resolve: me manda que respondo com o status assim que abrir, às 9h. Se for urgente, escreve 'urgente' que a Carla vê no celular dela."
+Melhor: "Oi, Ana. Aqui é a mensagem automática da Loja Tal. Agora estamos fora do horário (seg a sex, 9h às 18h). Se for sobre prazo ou rastreio, me manda o número do pedido: confiro se ele está no cadastro deste WhatsApp e respondo com o status assim que abrir, às 9h. Se for urgente, escreve 'urgente' que a Carla vê no celular dela."
 
 A segunda versão diz que é automática, diz o horário, responde parte do problema, dá nome à pessoa que vai atender e oferece uma saída. Não finge nada.
 
 Modelos para a campanha:
 
-1. Fora do horário: "Oi, [nome]. Já anotei sua mensagem. Respondemos das 9h às 20h durante a Black Friday. Prazo e frete estão na página do produto, com o CEP. Amanhã cedo eu te respondo por aqui."
-2. Pedido confirmado: "[Nome], pagamento confirmado no pedido [número]. Separo hoje e o rastreio chega por aqui assim que o pacote sair. Qualquer dúvida, é só responder esta mensagem."
+1. Fora do horário: "Oi! Já anotei sua mensagem. Respondemos das 9h às 20h durante a Black Friday. Prazo e frete estão na página do produto, com o CEP. Amanhã cedo eu te respondo por aqui."
+2. Pedido confirmado: "[Nome], pagamento confirmado no pedido [número]. Separo hoje e o rastreio chega por aqui assim que o pacote sair. Qualquer dúvida, é só responder esta mensagem." No aplicativo WhatsApp Business, a mensagem de ausência não preenche o nome, por isso o modelo 1 vai sem ele; o modelo 2, enviado sozinho quando o pagamento confirma, exige a API oficial, com modelo de mensagem aprovado e cliente que aceitou receber mensagens.
 3. Pergunta comum durante o horário: "[Nome], sobre devolução: você tem 7 dias depois de receber para desistir da compra, e troca por defeito tem prazo maior. O passo a passo está em [link]. Se preferir falar com alguém, escreve 'pessoa' que eu chamo."
 
 ## Quando a automação precisa parar e chamar alguém?

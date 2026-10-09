@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-21"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-margem-de-lucro-desconto-sem-margem/", "/guias/preco-de-black-friday-sem-destruir-a-margem/", "/guias/estoque-para-black-friday-o-que-garantir/", "/loja-virtual/"]
 ---
 

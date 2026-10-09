@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-16"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-escolher-transportadora-preco-prazo-problema/", "/guias/separacao-de-pedido-processo-que-evita-erro/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -26,7 +27,7 @@ Comece pelo despacho: quanto tempo passa entre o pagamento aprovado e o pacote s
 
 Depois, o transporte: o prazo que a transportadora ou os Correios informam para cada faixa de CEP. Ele já vem em dias úteis e varia por região. Por fim, a folga: um dia útil no mês normal, dois ou três na campanha. A folga cobre o pedido que chegou no fim do dia, a coleta que não veio e o CEP que a transportadora atende só uma vez por semana.
 
-Uma loja de São José do Rio Preto despacha em um dia útil, e os Correios prometem três dias úteis para a capital paulista. Com um dia de folga, o prazo publicado é "5 dias úteis após a aprovação do pagamento". Na Black Friday, o despacho vai a dois dias e a folga a três: o prazo vira "8 dias úteis". Ninguém deixa de comprar por causa de três dias a mais; muita gente deixa de comprar de novo por causa de um atraso.
+Uma loja de São José do Rio Preto despacha em um dia útil, e os Correios prometem três dias úteis para a capital paulista. Com um dia de folga, o prazo publicado é "5 dias úteis após a aprovação do pagamento". Na Black Friday, o despacho vai a dois dias e a folga a três: o prazo vira "8 dias úteis". Para outra região, o prazo muda com o CEP: a loja soma despacho e folga ao prazo da transportadora para cada destino e mostra o resultado no cálculo de frete. Ninguém deixa de comprar por causa de três dias a mais; muita gente deixa de comprar de novo por causa de um atraso.
 
 ## Como escrever o prazo na loja?
 
@@ -36,8 +37,8 @@ Se houver produto sob encomenda ou com prazo diferente, o prazo é por produto, 
 
 | Situação | Como escrever |
 | --- | --- |
-| Estoque próprio, mês normal | 5 dias úteis após aprovação do pagamento |
-| Estoque próprio, Black Friday | 8 dias úteis após aprovação do pagamento |
+| Estoque próprio, mês normal | X dias úteis após aprovação do pagamento, com X calculado pelo CEP |
+| Estoque próprio, Black Friday | X + 3 dias úteis após aprovação do pagamento |
 | Sob encomenda | 15 dias úteis, produzido após o pagamento |
 | Retirada na loja | Pronto em 1 dia útil, aviso por WhatsApp |
 

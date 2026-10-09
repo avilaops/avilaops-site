@@ -161,3 +161,36 @@ Não são fotografias de operações ou clientes reais da empresa.
 WebP finais, textos alternativos, seções e recorte quadrado da capa foram
 conferidos. Os guias mantêm status `revisado` e datas previstas de 04 e
 05/11/2026. O próximo ID inédito da sequência é 067-1.
+
+## Publicação antecipada — 09/10/2026
+
+Nicolas pediu nesta data a publicação imediata dos guias que já tinham capa
+e imagem interna revisadas. Foram aprovados 22 textos (041–043, 045, 047–058
+e 061–066), antes previstos para 11/10 a 05/11/2026. No frontmatter,
+`status` passou a `aprovado`, `data_publicacao` registra 09/10/2026 e
+`data_prevista` foi trazida para a mesma data, porque o export só libera
+datas iguais ou anteriores ao build. As datas originais ficam no histórico.
+
+Uma checagem de fatos antes da publicação corrigiu uma frase no guia 043:
+o Pix não é isento de tarifa para quem recebe como pessoa jurídica. No 058,
+a exigência de nota fiscal no envio ganhou a exceção da declaração de
+conteúdo. O guia 050 (Dia das Crianças) também foi aprovado, com o "O que
+fazer agora" ajustado para quem lê depois da data de corte da entrega.
+Os guias 046, 059 e 060 continuam sem capa; 040 e 044 ainda não têm imagens.
+
+A biblioteca passa a ter 90 artigos. Foram gerados os previews das novas
+páginas de listagem (Blog e Guias 9 e 10, Operação página 3).
+
+Na sequência, os guias 040, 044, 046, 059 e 060 também foram aprovados para
+09/10/2026, com capa tipográfica gerada por `npm run editorial:previews`
+(mesmo padrão das 17 capas anteriores); 046, 059 e 060 mantêm a imagem
+interna já produzida. A checagem de fatos corrigiu dois pontos do 060: o
+exemplo de custo por venda (R$ 15, abaixo do teto de metade da margem) e o
+orçamento total da Meta, que limita o período inteiro, não um único dia.
+A biblioteca passa a ter 95 artigos, com novas páginas 11 no Blog e nos Guias.
+
+As imagens de compartilhamento das listagens deixaram de citar títulos de
+artigos: cada publicação muda os artigos de página, e o gerador não refaz um
+arquivo existente, então a prévia ficava desatualizada. Agora cada coleção usa
+um texto fixo, e os arquivos passaram para `-v2` para renovar o cache das
+redes sociais. Os 35 arquivos `-v1` de listagem foram removidos.

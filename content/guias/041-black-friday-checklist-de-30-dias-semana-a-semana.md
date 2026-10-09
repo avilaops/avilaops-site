@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-11"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/preco-de-black-friday-sem-destruir-a-margem/", "/guias/seu-site-aguenta-o-pico-como-testar/", "/guias/ultima-semana-antes-da-black-friday-o-que-congelar/", "/loja-virtual/"]
 ---
 
@@ -26,7 +27,7 @@ Liste os 20 produtos que mais venderam nos últimos três meses. Para cada um, a
 
 Decida a oferta: quais produtos, qual desconto ou qual kit, e por quantos dias. Decida também o que fica de fora, e aceite que "tudo com 10%" é a pior oferta possível: dilui a margem e não chama atenção. Prefira poucos produtos com desconto real e o resto com frete grátis ou brinde.
 
-Anote o preço praticado de cada produto neste momento. Ele é o seu preço de referência, e vai provar que o desconto de novembro é verdadeiro.
+Anote o preço praticado de cada produto neste momento. Ele é o seu preço de referência, e vai provar que o desconto de novembro é verdadeiro. Se algum preço subiu nas últimas semanas, a referência é o valor anterior ao aumento, não o novo.
 
 ## Semana 2 (até 07/11): estoque e entrega
 
@@ -48,7 +49,7 @@ Confira se a nota fiscal sai automaticamente do pedido e se a etiqueta imprime s
 
 Escreva as respostas para as cinco perguntas que mais vão chegar: prazo, frete, troca, cupom que não funcionou e pedido que não chegou. Coloque como resposta rápida no WhatsApp Business ou na automação. Defina quem responde em cada horário e o que acontece fora do horário.
 
-Avise a base: e-mail ou mensagem para quem já comprou, dizendo o dia da oferta e o que vai estar nela. Quem já comprou é o cliente mais barato de trazer de volta.
+Avise a base: e-mail ou mensagem para quem já comprou e aceitou receber novidades, dizendo o dia da oferta e o que vai estar nela, com um jeito fácil de sair da lista. No WhatsApp, ter comprado não basta: a política exige que a pessoa tenha aceitado receber mensagens. Quem já comprou é o cliente mais barato de trazer de volta.
 
 Congele. A última semana vai de 20/11, feriado da Consciência Negra, a 26/11. A partir de 20/11, nada muda na loja além de ligar a oferta: nem tema, nem aplicativo, nem plataforma de pagamento. O guia sobre [a última semana](https://avilaops.com/guias/ultima-semana-antes-da-black-friday-o-que-congelar/) detalha o que não mexer.
 
@@ -65,4 +66,4 @@ Trinta dias antes é o mínimo para uma loja pequena com fornecedor confiável. 
 Não. Escolha um dia ou um fim de semana, avise antes e concentre a oferta. Um mês de desconto cansa o cliente e a margem.
 
 **O que fazer se o estoque acabar antes do previsto?**
-Tirar o produto do ar na hora, não deixar vender sem estoque. Avisar quem pediu e não vai receber no mesmo dia, com opção de trocar ou estornar.
+Tirar o produto do ar na hora, não deixar vender sem estoque. Avisar no mesmo dia quem pediu e não vai receber, e deixar o cliente escolher entre esperar a reposição, trocar por outro produto equivalente ou receber o valor de volta.

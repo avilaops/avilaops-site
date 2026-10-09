@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-13"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-margem-de-lucro-desconto-sem-margem/", "/guias/combo-e-kit-aumentar-valor-do-pedido/", "/guias/preco-de-referencia-regra-que-evita-multa-procon/", "/jornada/"]
 ---
 
@@ -40,15 +41,15 @@ Abaixo de 25% de margem, o desconto que sobra fica menor que 15%: não chama ate
 
 Kit. Junte um produto de margem alta com um de margem baixa e dê desconto sobre o conjunto. O cliente vê "leve dois e pague menos"; a sua margem média fica de pé. O guia sobre [combo e kit](https://avilaops.com/guias/combo-e-kit-aumentar-valor-do-pedido/) mostra como montar.
 
-Frete grátis acima de um valor, calculado para que o pedido médio cubra o frete. Brinde de custo baixo e percepção alta, como uma amostra ou um acessório. Desconto só no Pix, porque o Pix não tem taxa e cai na hora, então 5% no Pix custa menos do que 5% no cartão parcelado. Condição de pagamento, como parcelamento sem juros em mais vezes, quando o intermediário permite sem cobrar de você.
+Frete grátis acima de um valor, calculado para que o pedido médio cubra o frete. Brinde de custo baixo e percepção alta, como uma amostra ou um acessório. Desconto só no Pix, porque o Pix costuma ter taxa bem menor que a do cartão e cai na hora, então 5% no Pix custa menos do que 5% no cartão parcelado. Condição de pagamento, como parcelamento sem juros em mais vezes, quando o intermediário permite sem cobrar de você.
 
 ## Como limitar o prejuízo se a oferta der mais certo do que o esperado?
 
-Limite a quantidade por produto: quando acabar, acabou, e a loja precisa esconder o produto sozinha. Limite as unidades por cliente, para o desconto não virar revenda. E use prazo curto e visível: "até 27/11 ou enquanto durar o estoque".
+Limite a quantidade por produto: quando acabar, acabou, e a loja precisa esconder o produto sozinha. Limite as unidades por cliente, e mostre esse limite na página do produto antes da compra, para o desconto não virar revenda. E use prazo curto e visível: "até 27/11 ou enquanto durar o estoque".
 
 Um exemplo. Uma loja de produtos para pets tem uma ração com margem de 22%. Não aguenta desconto. Ela monta um kit com a ração de R$ 80, um petisco de R$ 40 com margem de 60% e um brinquedo de R$ 40 com margem de 55%, e dá 15% sobre o kit de R$ 160. O kit sai por R$ 136, o lucro fica perto de R$ 40 e a margem do kit, em torno de 30%. O pedido médio sobe e a ração, que é o que traz o cliente, aparece na campanha sem perder dinheiro.
 
-Anote o preço praticado hoje de cada produto da oferta. Ele é a prova de que o desconto de novembro é real; o guia sobre [preço de referência](https://avilaops.com/guias/preco-de-referencia-regra-que-evita-multa-procon/) explica por que isso evita multa.
+Anote o preço praticado hoje de cada produto da oferta. Se algum preço subiu nas últimas semanas, a referência é o valor anterior ao aumento. Ele é a prova de que o desconto de novembro é real; o guia sobre [preço de referência](https://avilaops.com/guias/preco-de-referencia-regra-que-evita-multa-procon/) explica por que isso evita multa.
 
 ## O que fazer agora
 
@@ -60,7 +61,7 @@ Monte uma planilha com produto, custo, margem, lucro mínimo e desconto máximo.
 O que a margem do produto permite, menos o lucro mínimo que você quer manter. Para a maioria dos produtos de pequena loja, isso fica entre 15% e 30%. Acima disso, só com limite de quantidade e objetivo de limpar estoque.
 
 **Vale vender com prejuízo na Black Friday para ganhar cliente?**
-Só se você tiver um plano de recompra medido: cadastro do cliente, mensagem depois da compra e produto de margem boa para oferecer em dezembro. Sem isso, é prejuízo sem retorno.
+Só se você tiver um plano de recompra medido: cadastro do cliente com aceite para receber ofertas, mensagem depois da compra para quem aceitou e produto de margem boa para oferecer em dezembro. Sem isso, é prejuízo sem retorno.
 
 **Desconto no Pix é permitido?**
 Sim. Desde 2017, a lei permite preço diferente por meio de pagamento, desde que informado ao cliente antes da compra.
