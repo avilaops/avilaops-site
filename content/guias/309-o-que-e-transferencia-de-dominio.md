@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Domínio"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-06"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/dominio-no-nome-de-quem-erro-que-custa-caro/", "/guias/trocar-de-fornecedor-sem-perder-dominio-email-site/", "/dominio-e-hospedagem/"]
 ---
 
@@ -24,7 +25,7 @@ A transferência costuma aparecer em três momentos: quando o domínio foi regis
 
 Domínios .com.br são administrados pelo Registro.br e não saem de lá. O que se transfere é a titularidade: o domínio muda do CPF ou CNPJ atual para o seu. O titular atual precisa autorizar, pelo procedimento de transferência de titularidade do Registro.br. Sem essa autorização, não existe caminho rápido.
 
-Domínios .com, .net e similares podem mudar de registrador. O dono atual gera um código de autorização, destrava o domínio e você inicia a transferência no registrador novo. O processo costuma levar até cinco dias. Domínio registrado ou transferido há pouco tempo fica travado para nova transferência, por um prazo que a ICANN aprovou reduzir de 60 para 30 dias.
+Domínios .com, .net e similares podem mudar de registrador. O dono atual gera um código de autorização, destrava o domínio e você inicia a transferência no registrador novo. O processo costuma levar até cinco dias. Domínio registrado ou transferido há pouco tempo fica travado para nova transferência por um período definido pelas regras da ICANN. Confira o prazo com o registrador antes de começar.
 
 ## O que conferir antes de pedir a transferência?
 

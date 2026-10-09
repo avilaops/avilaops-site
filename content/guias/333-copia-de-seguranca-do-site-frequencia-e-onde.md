@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-30"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/hospedagem-barata-o-que-voce-paga/", "/guias/o-que-e-monitoramento-de-site/", "/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd/", "/contato/"]
 ---
 

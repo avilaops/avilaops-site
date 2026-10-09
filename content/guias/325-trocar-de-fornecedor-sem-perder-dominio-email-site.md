@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Domínio"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-22"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-transferencia-de-dominio/", "/guias/o-que-exigir-na-saida-de-um-fornecedor/", "/guias/o-que-e-dns-sem-termo-tecnico/", "/dominio-e-hospedagem/"]
 ---
 

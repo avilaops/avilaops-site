@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-13"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/revisao-de-seis-meses-em-uma-hora/", "/guias/o-que-uma-pequena-empresa-precisa-para-vender-melhor-no-digital/", "/jornada/"]
 ---
 
@@ -18,13 +19,13 @@ links_internos: ["/guias/revisao-de-seis-meses-em-uma-hora/", "/guias/o-que-uma-
 
 Meta não batida no semestre tem três causas possíveis, e a resposta depende de qual foi a sua: a meta estava errada (ajuste a meta), o plano estava errado (mantenha a meta e troque o plano), ou o plano era bom e não foi executado (mantenha os dois e execute). Insistir só faz sentido no terceiro caso. Ajustar só faz sentido no primeiro. A maioria das empresas está no segundo e trata como se fosse o terceiro.
 
-Em julho ainda há seis meses pela frente. Em setembro, a decisão vira torcida.
+No meio do ano ainda há seis meses pela frente. Deixada para os últimos meses, a decisão vira torcida.
 
 ## Como saber se a meta estava errada?
 
 Meta errada é meta que não tinha base. Ela veio de "quero crescer 40%" sem que nenhum número do ano anterior sustentasse isso. Teste simples: a meta exigia quantos clientes novos por mês? Você já teve algum mês, em qualquer ano, com esse número? Se nunca teve e nada estrutural mudou (canal novo, produto novo, equipe nova), a meta era desejo.
 
-Uma clínica odontológica fixou R$ 80 mil/mês para 2027. O melhor mês da história dela foi R$ 52 mil. Nada mudou na estrutura. Em junho, a média está em R$ 48 mil. A meta não foi batida porque não era alcançável com aquela operação. Ajustar aqui não é desistir; é parar de medir a equipe por um número inventado.
+Uma clínica odontológica fixou R$ 80 mil/mês para o ano. O melhor mês da história dela foi R$ 52 mil. Nada mudou na estrutura. No fim do primeiro semestre, a média estava em R$ 48 mil. A meta não foi batida porque não era alcançável com aquela operação. Ajustar aqui não é desistir; é parar de medir a equipe por um número inventado.
 
 Se a meta era ajustada e mesmo assim não fechou, a causa está no plano ou na execução.
 
@@ -50,7 +51,7 @@ Aqui a pergunta honesta é por quê. Quase nunca é preguiça. É o dono fazendo
 
 ## O que fazer agora
 
-Pegue a meta, o plano e o que de fato foi feito de janeiro a junho. Marque em qual linha da tabela você está. Se estiver em mais de uma, comece pela execução: ela contamina a leitura das outras duas. Se ainda não tem os números, o guia de revisão em uma hora vem antes: https://avilaops.com/guias/revisao-de-seis-meses-em-uma-hora/. Descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Pegue a meta, o plano e o que de fato foi feito no período. Marque em qual linha da tabela você está. Se estiver em mais de uma, comece pela execução: ela contamina a leitura das outras duas. Se ainda não tem os números, o guia de revisão em uma hora vem antes: https://avilaops.com/guias/revisao-de-seis-meses-em-uma-hora/. Descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

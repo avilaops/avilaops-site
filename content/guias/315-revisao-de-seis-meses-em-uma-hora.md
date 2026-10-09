@@ -9,20 +9,21 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/metade-do-ano-o-que-os-numeros-dizem/", "/guias/o-que-e-retorno-sobre-investimento-em-anuncio/", "/sistema-para-pequenas-empresas/"]
 ---
 
 # Revisão de seis meses em uma hora
 
-Uma revisão de semestre cabe em uma hora se você abrir só quatro fontes (extrato, vendas, gerenciador de anúncios e WhatsApp ou CRM), anotar 10 números e sair com três decisões. Não é auditoria. É olhar para o que aconteceu de janeiro a junho com honestidade suficiente para escolher o que muda em julho.
+Uma revisão de semestre cabe em uma hora se você abrir só quatro fontes (extrato, vendas, gerenciador de anúncios e WhatsApp ou CRM), anotar 10 números e sair com três decisões. Não é auditoria. É olhar para os últimos seis meses com honestidade suficiente para escolher o que muda nos próximos.
 
 O roteiro abaixo é o que a gente usa com clientes da Avila Ops na virada do semestre. Ele funciona com planilha e caderno. Funciona melhor com um sistema que já tem os números prontos, mas isso é o passo seguinte, não o primeiro.
 
 ## Minutos 0 a 15: o que entrou e o que saiu
 
-Abra o extrato ou o relatório de vendas. Anote o faturamento de cada mês, de janeiro a junho. Some. Divida por seis: essa é a sua média mensal. Agora anote os três maiores custos fixos do semestre e o total gasto para atrair cliente (anúncio, agência, ferramentas, comissão).
+Abra o extrato ou o relatório de vendas. Anote o faturamento de cada um dos últimos seis meses. Some. Divida por seis: essa é a sua média mensal. Agora anote os três maiores custos fixos do semestre e o total gasto para atrair cliente (anúncio, agência, ferramentas, comissão).
 
 Você já tem quatro números: faturamento total, média mensal, custo fixo e custo de atração. Se a média mensal vezes 12 está abaixo da meta do ano, anote isso em letra grande. É o primeiro fato do dia.
 
@@ -36,7 +37,7 @@ Você tem mais três números: clientes novos, custo por cliente, ticket médio.
 
 ## Minutos 35 a 50: o que você pagou para anunciar valeu?
 
-Abra o gerenciador de anúncios. Anote o gasto total de janeiro a junho e o número de resultados que a plataforma mostra (conversas iniciadas, formulários, compras). Cruze com a lista do passo anterior: quantos clientes de anúncio de fato fecharam?
+Abra o gerenciador de anúncios. Anote o gasto total dos mesmos seis meses e o número de resultados que a plataforma mostra (conversas iniciadas, formulários, compras). Cruze com a lista do passo anterior: quantos clientes de anúncio de fato fecharam?
 
 Se o gasto em anúncio dividido pelos clientes que fecharam é maior que a margem que o ticket médio deixa, o anúncio está trazendo prejuízo por venda. Se você não consegue cruzar, o rastreio está quebrado. O guia sobre retorno em anúncio explica a conta: https://avilaops.com/guias/o-que-e-retorno-sobre-investimento-em-anuncio/.
 
@@ -47,10 +48,10 @@ Se o gasto em anúncio dividido pelos clientes que fecharam é maior que a marge
 Com os 10 números na frente, responda três perguntas por escrito. Uma frase cada.
 
 1. Meta: mantenho, reduzo ou mudo o plano para alcançar? Escreva o número novo, se mudar.
-2. Canal: qual canal recebe mais tempo e dinheiro no segundo semestre? Qual perde?
-3. Registro: qual número eu não consegui achar em uma hora? O que faço para tê-lo em dezembro?
+2. Canal: qual canal recebe mais tempo e dinheiro nos próximos seis meses? Qual perde?
+3. Registro: qual número eu não consegui achar em uma hora? O que faço para tê-lo na próxima revisão?
 
-A terceira decisão é a que mais gente pula e a que mais importa. Se você não sabe a origem de metade dos clientes, nenhuma outra decisão é confiável. O guia sobre o que os números dizem em julho mostra os recados mais comuns: https://avilaops.com/guias/metade-do-ano-o-que-os-numeros-dizem/.
+A terceira decisão é a que mais gente pula e a que mais importa. Se você não sabe a origem de metade dos clientes, nenhuma outra decisão é confiável. O guia sobre o que os números dizem no meio do ano mostra os recados mais comuns: https://avilaops.com/guias/metade-do-ano-o-que-os-numeros-dizem/.
 
 | Minuto | Fonte | O que anotar |
 |---|---|---|

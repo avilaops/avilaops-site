@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-07"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/migrar-de-plataforma-sem-perder-o-google/", "/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -36,7 +37,7 @@ A regra: toda página que deixou de existir precisa de um 301 para a página mai
 
 ## O que fazer agora
 
-Se você vai trocar de site ou de plataforma neste semestre, faça a lista de todas as páginas atuais antes de tirar o site antigo do ar. Cada uma precisa de um destino. Site que o Google entende, com Search Console configurado: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Se você vai trocar de site ou de plataforma, faça a lista de todas as páginas atuais antes de tirar o site antigo do ar. Cada uma precisa de um destino. Site que o Google entende, com Search Console configurado: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

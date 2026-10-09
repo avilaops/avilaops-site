@@ -9,14 +9,15 @@ bloco: "basico"
 puxa: "Segurança"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-08"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-monitoramento-de-site/", "/guias/o-que-e-hospedagem-e-o-que-ela-inclui/", "/contato/"]
 ---
 
 # Por que o certificado de segurança vence
 
-O certificado de segurança, que mostra o cadeado ao lado do endereço do site (HTTPS), vence porque tem prazo de validade curto de propósito. Um certificado é uma prova de que aquele site é quem diz ser. Quanto menor o prazo, menor o estrago se a chave vazar. Os certificados gratuitos mais usados valiam 90 dias; o Let's Encrypt passou para 64 dias em fevereiro de 2027 e vai a 45 em 2028. Por isso a renovação precisa ser automática.
+O certificado de segurança, que mostra o cadeado ao lado do endereço do site (HTTPS), vence porque tem prazo de validade curto de propósito. Um certificado é uma prova de que aquele site é quem diz ser. Quanto menor o prazo, menor o estrago se a chave vazar. Os certificados gratuitos mais usados valem 90 dias, e o Let's Encrypt já anunciou a redução para 64 dias em fevereiro de 2027 e para 45 dias em 2028. Por isso a renovação precisa ser automática.
 
 Certificado vencido é um dos problemas mais visíveis e mais evitáveis de um site. O navegador abre uma tela vermelha dizendo que o site não é seguro. O cliente fecha a aba. E o motivo, quase sempre, é uma renovação automática que parou de funcionar sem ninguém perceber.
 

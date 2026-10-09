@@ -3,20 +3,21 @@ num: 314
 titulo: "Metade do ano: o que os números dizem que você não quer ouvir"
 slug: "metade-do-ano-o-que-os-numeros-dizem"
 title_seo: "Metade do ano: o que os números dizem"
-meta_description: "Seis meses de dados já mostram o que a sensação esconde. Os cinco recados que uma pequena empresa precisa encarar em julho e o que fazer com cada um."
+meta_description: "Seis meses de dados já mostram o que a sensação esconde. Os cinco recados que uma pequena empresa precisa encarar no meio do ano e o que fazer com cada um."
 mes: "2027-07"
 bloco: "pratica"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-11"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/revisao-de-seis-meses-em-uma-hora/", "/guias/o-que-e-custo-de-aquisicao-de-cliente/", "/guias/canal-que-mais-traz-cliente-x-mais-trabalho/", "/guias/crm-para-pequenas-empresas-com-whatsapp/", "/sistema-para-pequenas-empresas/"]
 ---
 
 # Metade do ano: o que os números dizem que você não quer ouvir
 
-Com seis meses de dados, a sua empresa já sabe o que vai acontecer no segundo semestre se nada mudar. O faturamento mensal médio, o número de clientes novos, o custo para atrair cada um, o quanto cada cliente deixa e o canal que de fato vende: esses cinco números contam a história que a sensação de "julho está fraco" esconde. A parte difícil não é calcular. É aceitar o que a conta mostra.
+Com seis meses de dados, a sua empresa já sabe o que vai acontecer no segundo semestre se nada mudar. O faturamento mensal médio, o número de clientes novos, o custo para atrair cada um, o quanto cada cliente deixa e o canal que de fato vende: esses cinco números contam a história que a sensação de "o mês está fraco" esconde. A parte difícil não é calcular. É aceitar o que a conta mostra.
 
 Se você ainda não tem os números na mão, comece pela revisão em uma hora: https://avilaops.com/guias/revisao-de-seis-meses-em-uma-hora/.
 
@@ -52,7 +53,7 @@ Um CRM simples, onde cada contato tem origem, data e valor, resolve a maior part
 
 ## O que fazer agora
 
-Escolha o recado que mais doeu e aja nele neste mês. Um só. Meta, cliente, canal, retorno ou registro. Os outros esperam agosto. Cinco números que cabem numa tela, atualizados sozinhos: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escolha o recado que mais doeu e aja nele neste mês. Um só. Meta, cliente, canal, retorno ou registro. Os outros esperam o mês seguinte. Cinco números que cabem numa tela, atualizados sozinhos: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

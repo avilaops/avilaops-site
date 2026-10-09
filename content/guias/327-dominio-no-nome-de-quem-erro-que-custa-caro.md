@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Domínio"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-24"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/dominio/", "/guias/o-que-e-transferencia-de-dominio/", "/guias/paguei-o-dominio-e-nunca-fiz-o-site/", "/dominio-e-hospedagem/"]
 ---
 
@@ -18,11 +19,11 @@ links_internos: ["/glossario/dominio/", "/guias/o-que-e-transferencia-de-dominio
 
 O domínio da sua empresa deve estar registrado no CNPJ da empresa, com um e-mail de contato que a empresa controla. Quando está no nome do fornecedor de site, de um sócio que saiu, de um ex-funcionário ou no CPF de alguém que não responde mais, você não é dono do seu endereço na internet. Quem é dono pode mudar para onde ele aponta, deixar vencer ou vender. E você descobre no pior dia.
 
-Esse é o erro de infraestrutura mais caro que a gente vê em empresa pequena, porque a correção depende de outra pessoa querer colaborar. Julho, mês de revisar contratos, é a hora de conferir.
+Esse é o erro de infraestrutura mais caro que a gente vê em empresa pequena, porque a correção depende de outra pessoa querer colaborar. Toda revisão de contratos é hora de conferir.
 
 ## Como conferir em nome de quem está o domínio?
 
-Para domínio .br, entre no site do Registro.br e use a consulta pública de domínios. Ela mostra o titular (nome e documento: o CNPJ aparece inteiro, o CPF parcialmente oculto), o responsável, o e-mail de contato e a data de vencimento. Para .com e similares, use um serviço de consulta de registro (whois); muitos registradores escondem o nome, mas mostram o registrador e a data.
+Para domínio .br, entre no site do Registro.br e use a consulta pública de domínios. Ela mostra o titular (para empresa, nome e CNPJ; para pessoa física, parte dos dados pode aparecer oculta), o responsável, o e-mail de contato e a data de vencimento. Para .com e similares, use um serviço de consulta de registro (whois); muitos registradores escondem o nome, mas mostram o registrador e a data.
 
 Com o resultado na tela, responda:
 
@@ -48,7 +49,7 @@ Em todos, o custo não é o valor da anuidade. É semanas sem site e sem e-mail,
 
 ## Como corrigir e como evitar?
 
-Corrigir: pedir ao titular atual a transferência de titularidade no Registro.br (ou o código de autorização, no caso de .com), enquanto a relação ainda existe. O guia sobre transferência de domínio explica o processo: https://avilaops.com/guias/o-que-e-transferencia-de-dominio/. Se o titular não coopera, existe o SACI-Adm, procedimento de disputa de domínio .br, que exige provar direito sobre o nome (marca no INPI, nome empresarial) e má-fé de quem registrou. É lento e nem sempre dá certo. Vale tentar o acordo antes.
+Corrigir: pedir ao titular atual a transferência de titularidade no Registro.br (ou o código de autorização, no caso de .com), enquanto a relação ainda existe. O guia sobre transferência de domínio explica o processo: https://avilaops.com/guias/o-que-e-transferencia-de-dominio/. Se o titular não coopera, existe o SACI-Adm, procedimento de disputa de domínio .br, que exige provar direito sobre o nome (marca no INPI, nome empresarial) e má-fé de quem registrou. Não é imediato e nem sempre dá certo. Vale tentar o acordo antes.
 
 Evitar, daqui em diante:
 
@@ -72,7 +73,7 @@ Faça a consulta pública hoje. Leva dois minutos. Se o titular não é o CNPJ d
 No CNPJ. Se a empresa muda de dono, ganha sócio ou é vendida, o domínio acompanha a empresa. No CPF, ele acompanha a pessoa. Empresa sem CNPJ ainda pode registrar no CPF, mas deve transferir assim que abrir.
 
 **Como recuperar domínio registrado por outra pessoa?**
-Primeiro, pedindo a transferência de titularidade a quem consta como titular. Se não houver resposta, existe o SACI-Adm, procedimento de disputa de domínio .br, que pede prova de direito sobre o nome, como registro de marca no INPI, e de má-fé do titular. É demorado; tente o acordo antes.
+Primeiro, pedindo a transferência de titularidade a quem consta como titular. Se não houver resposta, existe o SACI-Adm, procedimento de disputa de domínio .br, que pede prova de direito sobre o nome, como registro de marca no INPI, e de má-fé do titular. Não é imediato; tente o acordo antes.
 
 **Fornecedor pode registrar domínio no nome dele para o cliente?**
 Pode, tecnicamente, e muitos fazem por conveniência. Não é boa prática. Exija que o registro seja feito no CNPJ da sua empresa desde o início, com o fornecedor apenas como contato técnico, se for o caso.

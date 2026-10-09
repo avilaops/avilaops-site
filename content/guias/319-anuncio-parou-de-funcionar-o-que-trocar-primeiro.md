@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Anúncios"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-16"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/criativo-de-anuncio-e-por-que-ele-cansa/", "/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/glossario/landing-page/", "/meta-ads-para-empresas/"]
 ---
 
@@ -42,7 +43,7 @@ Página de destino (landing page, explicada em https://avilaops.com/glossario/la
 
 Público. Só depois de descartar os dois anteriores. Se o público era um raio pequeno ou uma lista de interesses, ele pode ter se esgotado. Amplie um pouco: mais 5 km, um interesse a mais. Não troque o público inteiro; você perde o aprendizado da campanha.
 
-Oferta. É a última porque é a mais cara de mudar e a que menos costuma ser o problema em anúncio que já funcionou. Mas se conversa entra e venda não sai, e o atendimento está igual, a oferta perdeu força. Julho é um mês em que oferta de inverno cansa e o cliente já pensa em férias.
+Oferta. É a última porque é a mais cara de mudar e a que menos costuma ser o problema em anúncio que já funcionou. Mas se conversa entra e venda não sai, e o atendimento está igual, a oferta perdeu força. Oferta sazonal cansa no fim da estação: liquidação de inverno em julho, por exemplo, quando o cliente já pensa em férias.
 
 ## O que não fazer quando o anúncio piora?
 

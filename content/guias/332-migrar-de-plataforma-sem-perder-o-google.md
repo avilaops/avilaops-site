@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-29"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-redirecionamento-e-por-que-salva-trafego/", "/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/guias/meu-site-perdeu-trafego-com-as-respostas-de-ia-do-google/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -62,7 +63,7 @@ Se depois da migração o tráfego caiu e os redirecionamentos estão certos, a 
 
 ## O que fazer agora
 
-Se a migração está planejada para este semestre, faça o inventário esta semana, antes de contratar qualquer coisa. A planilha de endereços é o documento mais importante do projeto e o que ninguém pede. Site que o Google entende, com Search Console configurado: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Se há uma migração planejada, faça o inventário esta semana, antes de contratar qualquer coisa. A planilha de endereços é o documento mais importante do projeto e o que ninguém pede. Site que o Google entende, com Search Console configurado: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

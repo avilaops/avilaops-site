@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Site"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-27"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/paguei-o-dominio-e-nunca-fiz-o-site/", "/guias/refazer-ou-reformar-o-site-atual/", "/guias/dominio-no-nome-de-quem-erro-que-custa-caro/", "/criacao-de-site-profissional/"]
 ---
 
@@ -56,7 +57,7 @@ A decisão entre reformar e refazer tem guia próprio: https://avilaops.com/guia
 
 ## O que fazer agora
 
-Responda as quatro perguntas hoje, com o site aberto. Se deu quatro "sim", marque um dia para atualizar antes de agosto. Se deu um ou nenhum, pare de pagar pelo que não serve e faça novo no mesmo domínio; com dois, compare o custo das duas saídas. Em 48h você vê o protótipo do seu site, grátis: https://avilaops.com/criacao-de-site-profissional/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Responda as quatro perguntas hoje, com o site aberto. Se deu quatro "sim", marque um dia para atualizar ainda este mês. Se deu um ou nenhum, pare de pagar pelo que não serve e faça novo no mesmo domínio; com dois, compare o custo das duas saídas. Em 48h você vê o protótipo do seu site, grátis: https://avilaops.com/criacao-de-site-profissional/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

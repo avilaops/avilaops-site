@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Site"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-26"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-hospedagem-e-o-que-ela-inclui/", "/guias/copia-de-seguranca-do-site-frequencia-e-onde/", "/guias/quanto-custa-criar-uma-presenca-digital-profissional/", "/criacao-de-site-profissional/"]
 ---
 

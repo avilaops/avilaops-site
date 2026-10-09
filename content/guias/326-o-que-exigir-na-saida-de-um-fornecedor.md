@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Domínio"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/trocar-de-fornecedor-sem-perder-dominio-email-site/", "/guias/dominio-no-nome-de-quem-erro-que-custa-caro/", "/comparativos/avila-ops-vs-agencia-tradicional/", "/dominio-e-hospedagem/"]
 ---
 
@@ -69,7 +70,7 @@ Use a tabela como lista de conferência antes de comunicar a saída. Cada linha 
 Se o contrato diz que o site é seu, sim. Se o contrato é omisso, fica na disputa. Por isso o contrato deve dizer, desde o início, que domínio, site, e-mail e contas pertencem à sua empresa e serão entregues no encerramento.
 
 **O que fazer se o fornecedor sumiu e não entrega nada?**
-Comece pelo domínio: se está no seu CNPJ, você recupera o controle mudando o DNS. Se está no nome dele, existe o SACI-Adm, procedimento de disputa de domínio .br, mas ele exige provar direito sobre o nome e má-fé de quem registrou, e é lento. Em paralelo, refaça o site e o e-mail no fornecedor novo com o que tiver.
+Comece pelo domínio: se está no seu CNPJ, você recupera o controle mudando o DNS. Se está no nome dele, existe o SACI-Adm, procedimento de disputa de domínio .br, mas ele exige provar direito sobre o nome e má-fé de quem registrou, e não resolve da noite para o dia. Em paralelo, refaça o site e o e-mail no fornecedor novo com o que tiver.
 
 **Devo pagar a última fatura antes de receber os acessos?**
 Pague o que é devido e exija a entrega no mesmo ato. O ideal é combinar por escrito: acessos e cópias entregues, fatura final paga, contas encerradas. Quem se recusa a entregar antes do pagamento costuma aceitar entrega simultânea.

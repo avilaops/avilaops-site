@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Anúncios"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-17"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/", "/guias/anuncio-que-leva-ao-whatsapp-x-ao-site/", "/guias/o-que-e-retorno-sobre-investimento-em-anuncio/", "/meta-ads-para-empresas/"]
 ---
 

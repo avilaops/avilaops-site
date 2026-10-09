@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Site"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-05"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/hospedagem-barata-o-que-voce-paga/", "/glossario/dominio/", "/criacao-de-site-profissional/"]
 ---
 
