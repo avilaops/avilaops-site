@@ -709,5 +709,158 @@
     "height": 800,
     "section": "Como o golpe funciona na prática?",
     "position": 2
+  },
+  {
+    "slug": "o-que-e-checkout-e-por-que-decide-a-venda",
+    "src": "/editorial/guias/o-que-e-checkout-e-por-que-decide-a-venda.webp",
+    "alt": "Cartaz editorial com o título “O último passo da compra” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "quem-e-quem-no-pagamento-online",
+    "src": "/editorial/guias/quem-e-quem-no-pagamento-online.webp",
+    "alt": "Cartaz editorial com o título “Quem participa do pagamento?” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "pix-cartao-ou-boleto-o-que-custa",
+    "src": "/editorial/guias/pix-cartao-ou-boleto-o-que-custa.webp",
+    "alt": "Cartaz editorial com o título “Pix, cartão ou boleto?” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "como-fotografar-produto-com-celular",
+    "src": "/editorial/guias/como-fotografar-produto-com-celular.webp",
+    "alt": "Cartaz editorial com o título “Produto, celular e luz natural” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "titulo-de-produto-como-o-cliente-procura",
+    "src": "/editorial/guias/titulo-de-produto-como-o-cliente-procura.webp",
+    "alt": "Cartaz editorial com o título “O nome que o cliente procura” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "como-escolher-nome-da-loja",
+    "src": "/editorial/guias/como-escolher-nome-da-loja.webp",
+    "alt": "Cartaz editorial com o título “Um nome para sua loja” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "preco-de-e-por-quando-vira-mentira",
+    "src": "/editorial/guias/preco-de-e-por-quando-vira-mentira.webp",
+    "alt": "Cartaz editorial com o título “Desconto de verdade” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "calculo-de-frete-por-cep",
+    "src": "/editorial/guias/calculo-de-frete-por-cep.webp",
+    "alt": "Cartaz editorial com o título “O frete começa no CEP” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "embalagem-medida-custo-do-frete",
+    "src": "/editorial/guias/embalagem-medida-custo-do-frete.webp",
+    "alt": "Cartaz editorial com o título “Caixa grande, frete maior” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "pedir-cadastro-antes-de-comprar",
+    "src": "/editorial/guias/pedir-cadastro-antes-de-comprar.webp",
+    "alt": "Cartaz editorial com o título “Cadastro antes da compra?” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "vender-no-instagram-e-entregar-pela-loja",
+    "src": "/editorial/guias/vender-no-instagram-e-entregar-pela-loja.webp",
+    "alt": "Cartaz editorial com o título “Da conversa ao pedido” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "o-que-e-margem-de-lucro-desconto-sem-margem",
+    "src": "/editorial/guias/o-que-e-margem-de-lucro-desconto-sem-margem.webp",
+    "alt": "Cartaz editorial com o título “Desconto precisa caber na margem” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "para-que-serve-politica-de-troca-e-devolucao",
+    "src": "/editorial/guias/para-que-serve-politica-de-troca-e-devolucao.webp",
+    "alt": "Cartaz editorial com o título “Troca com regras claras” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "o-que-e-nota-fiscal-eletronica-e-quando-emitir",
+    "src": "/editorial/guias/o-que-e-nota-fiscal-eletronica-e-quando-emitir.webp",
+    "alt": "Cartaz editorial com o título “Nota fiscal na rotina” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "o-que-e-chargeback-estorno-forcado-pelo-banco",
+    "src": "/editorial/guias/o-que-e-chargeback-estorno-forcado-pelo-banco.webp",
+    "alt": "Cartaz editorial com o título “Quando o banco estorna a compra” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "o-que-e-landing-page-e-quando-usar",
+    "src": "/editorial/guias/o-que-e-landing-page-e-quando-usar.webp",
+    "alt": "Cartaz editorial com o título “Uma página. Um objetivo.” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "paguei-o-dominio-e-nunca-fiz-o-site",
+    "src": "/editorial/guias/paguei-o-dominio-e-nunca-fiz-o-site.webp",
+    "alt": "Cartaz editorial com o título “Seu domínio ainda tem futuro” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
   }
 ]

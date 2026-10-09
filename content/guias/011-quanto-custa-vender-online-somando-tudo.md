@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-11"
 links_internos: ["/guias/quanto-custa-criar-uma-presenca-digital-profissional/", "/guias/o-que-e-gateway-de-pagamento-e-quanto-cobra/", "/guias/o-que-e-frete-e-quem-paga/", "/loja-virtual/"]
 ---

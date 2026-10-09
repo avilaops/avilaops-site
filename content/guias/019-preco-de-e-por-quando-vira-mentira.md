@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-19"
 links_internos: ["/guias/cupom-de-desconto-regras/", "/guias/quanto-custa-vender-online-somando-tudo/", "/contato/"]
 ---

@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-14"
 links_internos: ["/guias/como-fotografar-produto-com-celular/", "/guias/o-que-e-ficha-de-produto/", "/identidade-visual/"]
 ---

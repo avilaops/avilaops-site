@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Domínio"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-18"
 links_internos: ["/guias/o-que-e-um-dominio-e-o-que-acontece-se-ele-vencer/", "/guias/dominio-no-nome-de-quem-erro-que-custa-caro/", "/guias/site-feito-e-abandonado-quanto-custa-retomar/", "/criacao-de-site-profissional/"]
 ---

@@ -78,3 +78,23 @@ não um requisito de indexação nem garantia de citação por assistentes.
 
 Fontes: https://developers.google.com/search/docs/appearance/google-images
 e https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+
+## Publicação autorizada em 09/10/2026
+
+Nicolas autorizou a publicação e a inclusão dos previews nesta conversa.
+Foram aprovados os 40 textos revisados com data prevista até 09/10/2026.
+Somente o frontmatter da cópia do site mudou: status e data_publicacao.
+Os corpos dos artigos e os arquivos originais de marketing foram preservados.
+A data_publicacao registra a publicação efetiva, sem retroagir ao calendário.
+Textos futuros e rascunhos continuam fora do export.
+
+A biblioteca passa a ter 68 artigos. As 17 capas que faltavam receberam
+composição tipográfica própria, sem reutilizar as artes marcadas para refazer.
+Foram gerados 28 previews exclusivos de listagens (Blog, Guias, categorias e
+paginação), em JPEG 1200 x 630. OG e Twitter usam a mesma imagem de cada URL.
+
+`npm run editorial:previews` cria os arquivos que faltam; os resultados e o
+manifesto `content/previews-editoriais.json` são versionados. Ao alterar conteúdo
+de uma imagem já publicada, criar nova versão de arquivo para evitar cache de
+compartilhamento. Os 17 cards são composições tipográficas, não novas fotografias
+nem substituição do projeto completo de ilustrações internas.

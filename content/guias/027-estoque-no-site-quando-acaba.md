@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-27"
 links_internos: ["/guias/o-que-e-sku/", "/guias/retirada-na-loja/", "/guias/como-automatizar-minha-empresa/", "/sistema-para-pequenas-empresas/"]
 ---

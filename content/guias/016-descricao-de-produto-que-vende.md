@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-16"
 links_internos: ["/guias/o-que-e-ficha-de-produto/", "/guias/titulo-de-produto-como-o-cliente-procura/", "/guias/ia/prompts-para-ia/", "/loja-virtual/"]
 ---

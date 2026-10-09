@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-10-06"
 links_internos: ["/guias/reforma-tributaria-o-que-muda-na-operacao-digital-da-empresa/", "/guias/etiqueta-e-rastreio-o-que-automatizar-antes-do-pico/", "/contato/"]
 ---

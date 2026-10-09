@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-10"
 links_internos: ["/guias/frete-gratis-acima-de-quanto/", "/guias/calculo-de-frete-por-cep/", "/sistema-para-pequenas-empresas/"]
 ---

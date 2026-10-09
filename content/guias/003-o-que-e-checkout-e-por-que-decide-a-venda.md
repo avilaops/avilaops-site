@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-03"
 links_internos: ["/guias/o-que-e-carrinho-de-compras/", "/guias/pedir-cadastro-antes-de-comprar/", "/loja-virtual/"]
 ---

@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Instagram"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-30"
 links_internos: ["/guias/instagram-meta-ads-whatsapp-funil/", "/guias/como-automatizar-instagram-da-empresa/", "/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/guias/loja-propria-ou-marketplace/", "/instagram-meta-ads/"]
 ---

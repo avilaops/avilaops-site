@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Site"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-10-09"
 links_internos: ["/glossario/landing-page/", "/guias/site-institucional-landing-page-ou-loja-virtual/", "/criacao-de-site-profissional/"]
 ---

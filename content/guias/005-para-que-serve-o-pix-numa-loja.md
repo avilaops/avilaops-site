@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Pagamento"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-05"
 links_internos: ["/guias/pix-cartao-ou-boleto-o-que-custa/", "/guias/como-usar-pix-automatico-para-cobranca-recorrente/", "/loja-virtual/"]
 ---

@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-20"
 links_internos: ["/guias/preco-de-e-por-quando-vira-mentira/", "/guias/frete-gratis-acima-de-quanto/", "/guias/carrinho-abandonado-tres-motivos/", "/loja-virtual/"]
 ---

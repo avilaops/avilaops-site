@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-25"
 links_internos: ["/guias/o-que-e-checkout-e-por-que-decide-a-venda/", "/guias/pedir-cadastro-antes-de-comprar/", "/guias/calculo-de-frete-por-cep/", "/guias/como-automatizar-whatsapp-da-empresa/", "/loja-virtual/"]
 ---

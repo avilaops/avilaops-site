@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-18"
 links_internos: ["/glossario/dominio/", "/guias/paguei-o-dominio-e-nunca-fiz-o-site/", "/dominio-e-hospedagem/", "/identidade-visual/"]
 ---

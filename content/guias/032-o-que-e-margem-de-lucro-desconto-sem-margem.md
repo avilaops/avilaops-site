@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-10-02"
 links_internos: ["/guias/combo-e-kit-aumentar-valor-do-pedido/", "/guias/preco-de-black-friday-sem-destruir-a-margem/", "/jornada/"]
 ---

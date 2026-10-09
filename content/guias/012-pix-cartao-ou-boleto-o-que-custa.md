@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Pagamento"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-12"
 links_internos: ["/guias/para-que-serve-o-pix-numa-loja/", "/guias/prazo-de-recebimento-do-cartao/", "/guias/como-usar-pix-automatico-para-cobranca-recorrente/", "/loja-virtual/"]
 ---

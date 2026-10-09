@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-08"
 links_internos: ["/guias/busca-e-filtro-dentro-da-loja/", "/guias/titulo-de-produto-como-o-cliente-procura/", "/loja-virtual/"]
 ---

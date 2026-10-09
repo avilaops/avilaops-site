@@ -27,7 +27,8 @@
     "contraste:validate": "node scripts/validar-contraste.mjs",
     "verificar": "npm run lint && npm run build && npm run seo:validate:export && npm run editorial:validate && npm run links:validate && npm run headers:validate && npm run contraste:validate",
     "deploy:linux": "npm run verificar && bash scripts/deploy-avilaops-com.sh && npm run headers:validate:public && npm run leads:validate && npm run seo:validate",
-    "editorial:validate": "node scripts/validar-editorial.mjs"
+    "editorial:validate": "node scripts/validar-editorial.mjs",
+    "editorial:previews": "tsx scripts/gerar-previews-editoriais.mts"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
@@ -48,6 +49,7 @@
     "playwright": "^1.62.0",
     "sharp": "^0.34.5",
     "tailwindcss": "^4",
+    "tsx": "^4.23.15",
     "typescript": "^5",
     "wrangler": "^3"
   }

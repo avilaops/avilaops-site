@@ -49,11 +49,12 @@ export function getPosts(): Post[] {
     return [{
       slug: data.slug, title: data.titulo, seoTitle: data.title_seo, description: data.meta_description,
       category: data.pilar, tags: [data.puxa, data.bloco].filter(Boolean),
-      publishedAt: data.data_prevista, updatedAt: data.data_atualizacao || data.data_prevista,
+      publishedAt: data.data_publicacao || data.data_prevista, updatedAt: data.data_atualizacao || data.data_publicacao || data.data_prevista,
       author: data.autor === "Nicolas Avila" ? { name: "Nicolas Avila", type: "Person" as const, url: "/nicolas/", bio: "Fundador da Avila Ops Tecnologia, engenheiro civil de formação e desenvolvedor. Atua em produto, tecnologia e operação, criando sites, integrações e automações para pequenas empresas." } : team,
       markdown: content.replace(/^# .+\r?\n/m, "").trim(),
       cover: cover as EditorialImage, illustrations: images.filter(image => image.position === 2),
       related: data.links_internos || [],
+      faq: [...(content.split(/^## Perguntas frequentes\s*$/m)[1] || "").matchAll(/\*\*([^\n]+?)\*\*\s*\n([\s\S]*?)(?=\n\s*\*\*|$)/g)].map(match => ({ question: match[1], answer: match[2].trim() })),
     }];
   });
   const merged = new Map(existing.map(post => [post.slug, post]));

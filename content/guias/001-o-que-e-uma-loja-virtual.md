@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-01"
 links_internos: ["/guias/site-institucional-landing-page-ou-loja-virtual/", "/guias/o-que-uma-pequena-empresa-precisa-para-vender-melhor-no-digital/", "/loja-virtual/"]
 ---

@@ -5,15 +5,17 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import { getPosts, getCategories } from "@/lib/editorial/repository";
-import { type Post, PAGE_SIZE, postPath, readingMinutes, slugify } from "@/lib/editorial/model";
+import { type Post, PAGE_SIZE, postPath, readingMinutes, slugify, listingPreviewPath } from "@/lib/editorial/model";
 import { absoluteUrl } from "@/lib/site";
 
 export function rollMetadata(base: string, page = 1, category?: string): Metadata {
   const path = page === 1 ? base : `${base}pagina/${page}/`;
   const title = `${category || (base === "/blog/" ? "Blog" : "Guias")}${page > 1 ? ` — página ${page}` : ""} | Avila Ops`;
   const description = "Guias para decidir melhor sobre sites, atendimento, marketing e automação. Explicações práticas para a rotina da sua pequena empresa.";
-  return { title: { absolute: title }, description, alternates: { canonical: absoluteUrl(path) }, openGraph: { title, description, url: absoluteUrl(path), type: "website", images: [absoluteUrl("/og/paginas/guias-v1.jpg")] }, twitter: { card: "summary_large_image", title, description, images: [absoluteUrl("/og/paginas/guias-v1.jpg")] } };
+  const image = { url: absoluteUrl(listingPreviewPath(base, page)), width: 1200, height: 630, alt: `${labelFor(base, category)} — página ${page}: guias da Avila Ops` };
+  return { title: { absolute: title }, description, alternates: { canonical: absoluteUrl(path) }, openGraph: { title, description, url: absoluteUrl(path), type: "website", images: [image] }, twitter: { card: "summary_large_image", title, description, images: [image] } };
 }
+const labelFor = (base: string, category?: string) => category || (base === "/blog/" ? "Blog" : "Guias");
 export function PostCard({ post }: { post: Post }) {
   return <article className="editorial-roll-card"><Link href={postPath(post)} prefetch={false} tabIndex={-1} aria-hidden="true"><Image src={post.cover.src} alt={post.cover.alt} width={post.cover.width} height={post.cover.height} loading="lazy" sizes="(max-width: 600px) 100vw, (max-width: 1100px) 45vw, 360px" /></Link><div className="editorial-card-meta"><span>{post.category}</span><span>{readingMinutes(post)} min</span></div><h3><Link href={postPath(post)} prefetch={false}>{post.title}</Link></h3><p>{post.description}</p></article>;
 }

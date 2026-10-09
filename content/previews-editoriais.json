@@ -1,0 +1,272 @@
+[
+  {
+    "path": "/editorial/guias/o-que-e-checkout-e-por-que-decide-a-venda.webp",
+    "title": "O último passo da compra",
+    "kind": "capa tipográfica",
+    "bytes": 32454
+  },
+  {
+    "path": "/editorial/guias/quem-e-quem-no-pagamento-online.webp",
+    "title": "Quem participa do pagamento?",
+    "kind": "capa tipográfica",
+    "bytes": 34138
+  },
+  {
+    "path": "/editorial/guias/pix-cartao-ou-boleto-o-que-custa.webp",
+    "title": "Pix, cartão ou boleto?",
+    "kind": "capa tipográfica",
+    "bytes": 30926
+  },
+  {
+    "path": "/editorial/guias/como-fotografar-produto-com-celular.webp",
+    "title": "Produto, celular e luz natural",
+    "kind": "capa tipográfica",
+    "bytes": 32216
+  },
+  {
+    "path": "/editorial/guias/titulo-de-produto-como-o-cliente-procura.webp",
+    "title": "O nome que o cliente procura",
+    "kind": "capa tipográfica",
+    "bytes": 30720
+  },
+  {
+    "path": "/editorial/guias/como-escolher-nome-da-loja.webp",
+    "title": "Um nome para sua loja",
+    "kind": "capa tipográfica",
+    "bytes": 30756
+  },
+  {
+    "path": "/editorial/guias/preco-de-e-por-quando-vira-mentira.webp",
+    "title": "Desconto de verdade",
+    "kind": "capa tipográfica",
+    "bytes": 30842
+  },
+  {
+    "path": "/editorial/guias/calculo-de-frete-por-cep.webp",
+    "title": "O frete começa no CEP",
+    "kind": "capa tipográfica",
+    "bytes": 30532
+  },
+  {
+    "path": "/editorial/guias/embalagem-medida-custo-do-frete.webp",
+    "title": "Caixa grande, frete maior",
+    "kind": "capa tipográfica",
+    "bytes": 30664
+  },
+  {
+    "path": "/editorial/guias/pedir-cadastro-antes-de-comprar.webp",
+    "title": "Cadastro antes da compra?",
+    "kind": "capa tipográfica",
+    "bytes": 31648
+  },
+  {
+    "path": "/editorial/guias/vender-no-instagram-e-entregar-pela-loja.webp",
+    "title": "Da conversa ao pedido",
+    "kind": "capa tipográfica",
+    "bytes": 32416
+  },
+  {
+    "path": "/editorial/guias/o-que-e-margem-de-lucro-desconto-sem-margem.webp",
+    "title": "Desconto precisa caber na margem",
+    "kind": "capa tipográfica",
+    "bytes": 33598
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-politica-de-troca-e-devolucao.webp",
+    "title": "Troca com regras claras",
+    "kind": "capa tipográfica",
+    "bytes": 30376
+  },
+  {
+    "path": "/editorial/guias/o-que-e-nota-fiscal-eletronica-e-quando-emitir.webp",
+    "title": "Nota fiscal na rotina",
+    "kind": "capa tipográfica",
+    "bytes": 30328
+  },
+  {
+    "path": "/editorial/guias/o-que-e-chargeback-estorno-forcado-pelo-banco.webp",
+    "title": "Quando o banco estorna a compra",
+    "kind": "capa tipográfica",
+    "bytes": 34752
+  },
+  {
+    "path": "/editorial/guias/o-que-e-landing-page-e-quando-usar.webp",
+    "title": "Uma página. Um objetivo.",
+    "kind": "capa tipográfica",
+    "bytes": 32188
+  },
+  {
+    "path": "/editorial/guias/paguei-o-dominio-e-nunca-fiz-o-site.webp",
+    "title": "Seu domínio ainda tem futuro",
+    "kind": "capa tipográfica",
+    "bytes": 33034
+  },
+  {
+    "path": "/og/editorial/blog-pagina-1-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 43555
+  },
+  {
+    "path": "/og/editorial/blog-pagina-2-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 42065
+  },
+  {
+    "path": "/og/editorial/blog-pagina-3-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 40203
+  },
+  {
+    "path": "/og/editorial/blog-pagina-4-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 42003
+  },
+  {
+    "path": "/og/editorial/blog-pagina-5-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 41680
+  },
+  {
+    "path": "/og/editorial/blog-pagina-6-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 43159
+  },
+  {
+    "path": "/og/editorial/blog-pagina-7-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 39907
+  },
+  {
+    "path": "/og/editorial/blog-pagina-8-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 42685
+  },
+  {
+    "path": "/og/editorial/guias-pagina-1-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 46728
+  },
+  {
+    "path": "/og/editorial/guias-pagina-2-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 48270
+  },
+  {
+    "path": "/og/editorial/guias-pagina-3-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 46264
+  },
+  {
+    "path": "/og/editorial/guias-pagina-4-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 45170
+  },
+  {
+    "path": "/og/editorial/guias-pagina-5-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 47866
+  },
+  {
+    "path": "/og/editorial/guias-pagina-6-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 49802
+  },
+  {
+    "path": "/og/editorial/guias-pagina-7-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42941
+  },
+  {
+    "path": "/og/editorial/guias-pagina-8-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 49142
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-1-v1.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 36494
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-2-v1.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 34243
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-3-v1.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 35498
+  },
+  {
+    "path": "/og/editorial/blog-categoria-presenca-pagina-1-v1.jpg",
+    "title": "Presença",
+    "kind": "listagem",
+    "bytes": 37008
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-1-v1.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 37805
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-2-v1.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 38371
+  },
+  {
+    "path": "/og/editorial/blog-categoria-crescimento-pagina-1-v1.jpg",
+    "title": "Crescimento",
+    "kind": "listagem",
+    "bytes": 38089
+  },
+  {
+    "path": "/og/editorial/blog-categoria-presenca-digital-pagina-1-v1.jpg",
+    "title": "Presença digital",
+    "kind": "listagem",
+    "bytes": 42387
+  },
+  {
+    "path": "/og/editorial/blog-categoria-presenca-digital-pagina-2-v1.jpg",
+    "title": "Presença digital",
+    "kind": "listagem",
+    "bytes": 42413
+  },
+  {
+    "path": "/og/editorial/blog-categoria-marketing-pagina-1-v1.jpg",
+    "title": "Marketing",
+    "kind": "listagem",
+    "bytes": 37830
+  },
+  {
+    "path": "/og/editorial/blog-categoria-inteligencia-artificial-pagina-1-v1.jpg",
+    "title": "Inteligência artificial",
+    "kind": "listagem",
+    "bytes": 44888
+  },
+  {
+    "path": "/og/editorial/blog-categoria-atendimento-pagina-1-v1.jpg",
+    "title": "Atendimento",
+    "kind": "listagem",
+    "bytes": 40316
+  }
+]

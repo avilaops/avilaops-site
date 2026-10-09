@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Pagamento"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-13"
 links_internos: ["/guias/quem-e-quem-no-pagamento-online/", "/guias/pix-cartao-ou-boleto-o-que-custa/", "/guias/para-que-serve-o-pix-numa-loja/", "/loja-virtual/"]
 ---

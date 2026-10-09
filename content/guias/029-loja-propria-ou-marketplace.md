@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-29"
 links_internos: ["/guias/quanto-custa-vender-online-somando-tudo/", "/guias/site-ou-instagram-para-pequena-empresa/", "/guias/o-que-e-uma-loja-virtual/", "/jornada/"]
 ---

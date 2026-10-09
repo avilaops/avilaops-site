@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Pagamento"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-06"
 links_internos: ["/guias/quem-e-quem-no-pagamento-online/", "/guias/quanto-custa-vender-online-somando-tudo/", "/loja-virtual/"]
 ---

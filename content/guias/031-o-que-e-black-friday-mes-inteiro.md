@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-10-01"
 links_internos: ["/guias/black-friday-checklist-de-30-dias-semana-a-semana/", "/guias/preco-de-referencia-regra-que-evita-multa-procon/", "/jornada/"]
 ---

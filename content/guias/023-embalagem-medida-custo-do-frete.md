@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-23"
 links_internos: ["/guias/calculo-de-frete-por-cep/", "/guias/o-que-e-frete-e-quem-paga/", "/guias/o-que-e-sku/", "/sistema-para-pequenas-empresas/"]
 ---

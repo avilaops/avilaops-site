@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-28"
 links_internos: ["/guias/para-que-serve-categoria-numa-loja/", "/guias/titulo-de-produto-como-o-cliente-procura/", "/guias/estoque-no-site-quando-acaba/", "/loja-virtual/"]
 ---

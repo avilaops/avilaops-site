@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-26"
 links_internos: ["/guias/o-que-e-checkout-e-por-que-decide-a-venda/", "/guias/carrinho-abandonado-tres-motivos/", "/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd/", "/loja-virtual/"]
 ---

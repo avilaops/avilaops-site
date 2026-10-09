@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-07"
 links_internos: ["/guias/estoque-no-site-quando-acaba/", "/guias/o-que-e-ficha-de-produto/", "/sistema-para-pequenas-empresas/"]
 ---

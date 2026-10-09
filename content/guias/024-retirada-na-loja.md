@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-24"
 links_internos: ["/guias/frete-gratis-acima-de-quanto/", "/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/guias/estoque-no-site-quando-acaba/", "/sistema-para-pequenas-empresas/"]
 ---

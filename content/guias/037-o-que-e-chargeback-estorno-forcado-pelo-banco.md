@@ -9,7 +9,8 @@ bloco: "basico"
 puxa: "Pagamento"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-10-07"
 links_internos: ["/guias/golpe-do-comprovante-falso-de-pix/", "/guias/etiqueta-e-rastreio-o-que-automatizar-antes-do-pico/", "/loja-virtual/"]
 ---

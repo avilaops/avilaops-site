@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-17"
 links_internos: ["/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/guias/para-que-serve-categoria-numa-loja/", "/guias/descricao-de-produto-que-vende/", "/presenca-digital-para-pequenas-empresas/"]
 ---

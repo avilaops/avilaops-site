@@ -9,7 +9,8 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
+status: "aprovado"
+data_publicacao: "2026-10-09"
 data_prevista: "2026-09-21"
 links_internos: ["/guias/o-que-e-frete-e-quem-paga/", "/guias/calculo-de-frete-por-cep/", "/guias/retirada-na-loja/", "/loja-virtual/"]
 ---
