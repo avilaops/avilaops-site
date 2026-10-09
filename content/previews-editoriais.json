@@ -2020,5 +2020,545 @@
     "title": "Operação",
     "kind": "listagem",
     "bytes": 32800
+  },
+  {
+    "path": "/editorial/guias/o-que-e-rastreio-e-como-reduz-mensagem-no-atendimento.webp",
+    "title": "O que é rastreio e como ele reduz mensagem no atendimento",
+    "kind": "capa tipográfica",
+    "bytes": 38816
+  },
+  {
+    "path": "/editorial/guias/o-que-e-recompra-e-por-que-ela-e-mais-barata.webp",
+    "title": "O que é recompra e por que ela é mais barata",
+    "kind": "capa tipográfica",
+    "bytes": 31786
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-separar-a-base-de-clientes-em-grupos.webp",
+    "title": "Para que serve separar a base de clientes em grupos",
+    "kind": "capa tipográfica",
+    "bytes": 38758
+  },
+  {
+    "path": "/editorial/guias/o-que-e-vale-presente-e-como-funciona.webp",
+    "title": "O que é vale-presente e como funciona na loja",
+    "kind": "capa tipográfica",
+    "bytes": 33374
+  },
+  {
+    "path": "/editorial/guias/o-que-e-cyber-monday-e-se-faz-sentido-aqui.webp",
+    "title": "O que é Cyber Monday e se faz sentido no Brasil",
+    "kind": "capa tipográfica",
+    "bytes": 32164
+  },
+  {
+    "path": "/editorial/guias/o-que-e-margem-por-produto.webp",
+    "title": "Margem por produto: quando o mais vendido dá prejuízo",
+    "kind": "capa tipográfica",
+    "bytes": 38852
+  },
+  {
+    "path": "/editorial/guias/desconto-de-mentira-da-multa-e-mata-a-marca.webp",
+    "title": "Desconto de mentira dá multa e mata a marca",
+    "kind": "capa tipográfica",
+    "bytes": 33246
+  },
+  {
+    "path": "/editorial/guias/cronograma-da-semana-da-black-friday-hora-a-hora.webp",
+    "title": "Cronograma da semana da Black Friday, hora a hora",
+    "kind": "capa tipográfica",
+    "bytes": 33456
+  },
+  {
+    "path": "/editorial/guias/pedido-entrou-e-estoque-nao-bate-e-agora.webp",
+    "title": "O pedido entrou e o estoque não bate: e agora",
+    "kind": "capa tipográfica",
+    "bytes": 36374
+  },
+  {
+    "path": "/editorial/guias/pedido-duplicado-como-identificar-e-resolver.webp",
+    "title": "Pedido duplicado: como identificar e resolver",
+    "kind": "capa tipográfica",
+    "bytes": 33874
+  },
+  {
+    "path": "/editorial/guias/pagamento-pendente-quanto-tempo-segurar-o-produto.webp",
+    "title": "Pagamento pendente: quanto tempo segurar o produto",
+    "kind": "capa tipográfica",
+    "bytes": 34022
+  },
+  {
+    "path": "/editorial/guias/pix-que-nao-cai-o-que-checar-antes-de-cancelar.webp",
+    "title": "Pix que não cai: o que checar antes de cancelar",
+    "kind": "capa tipográfica",
+    "bytes": 35710
+  },
+  {
+    "path": "/editorial/guias/mensagem-de-carrinho-abandonado-que-nao-irrita.webp",
+    "title": "Mensagem de carrinho abandonado que não irrita",
+    "kind": "capa tipográfica",
+    "bytes": 35202
+  },
+  {
+    "path": "/editorial/guias/frete-atrasado-avisar-antes-de-o-cliente-perguntar.webp",
+    "title": "Frete atrasado: avisar antes de o cliente perguntar",
+    "kind": "capa tipográfica",
+    "bytes": 33184
+  },
+  {
+    "path": "/editorial/guias/transportadora-falhou-quem-responde-e-voce.webp",
+    "title": "Transportadora falhou: quem responde é você",
+    "kind": "capa tipográfica",
+    "bytes": 35918
+  },
+  {
+    "path": "/editorial/guias/atendimento-em-pico-erros-que-viram-reclamacao-publica.webp",
+    "title": "Atendimento em pico: os erros que viram reclamação pública",
+    "kind": "capa tipográfica",
+    "bytes": 38610
+  },
+  {
+    "path": "/editorial/guias/trocar-em-vez-de-estornar-como-oferecer-sem-forcar.webp",
+    "title": "Trocar em vez de estornar: como oferecer sem forçar",
+    "kind": "capa tipográfica",
+    "bytes": 32978
+  },
+  {
+    "path": "/editorial/guias/depois-da-black-friday-o-que-fazer-na-segunda-feira.webp",
+    "title": "Depois da Black Friday: o que fazer na segunda-feira",
+    "kind": "capa tipográfica",
+    "bytes": 38236
+  },
+  {
+    "path": "/editorial/guias/transformar-comprador-de-oferta-em-cliente.webp",
+    "title": "Transformar comprador de oferta em cliente",
+    "kind": "capa tipográfica",
+    "bytes": 33564
+  },
+  {
+    "path": "/editorial/guias/medir-a-campanha-os-numeros-que-importam.webp",
+    "title": "Medir a campanha: os números que importam de verdade",
+    "kind": "capa tipográfica",
+    "bytes": 35096
+  },
+  {
+    "path": "/editorial/guias/devolucao-em-massa-o-custo-escondido-do-desconto.webp",
+    "title": "Devolução em massa: o custo escondido do desconto",
+    "kind": "capa tipográfica",
+    "bytes": 39478
+  },
+  {
+    "path": "/editorial/guias/estoque-parado-depois-da-campanha-o-que-fazer.webp",
+    "title": "Estoque parado depois da campanha: o que fazer",
+    "kind": "capa tipográfica",
+    "bytes": 35462
+  },
+  {
+    "path": "/editorial/guias/fotos-e-textos-da-campanha-o-que-reaproveitar.webp",
+    "title": "Fotos e textos da campanha: o que reaproveitar",
+    "kind": "capa tipográfica",
+    "bytes": 32456
+  },
+  {
+    "path": "/editorial/guias/data-de-corte-do-natal-como-calcular-a-sua.webp",
+    "title": "Data de corte do Natal: como calcular a sua",
+    "kind": "capa tipográfica",
+    "bytes": 34508
+  },
+  {
+    "path": "/editorial/guias/teste-ab-por-que-seu-volume-ainda-nao-permite.webp",
+    "title": "Teste A/B: por que o seu volume ainda não permite",
+    "kind": "capa tipográfica",
+    "bytes": 35606
+  },
+  {
+    "path": "/editorial/guias/o-que-e-fluxo-de-caixa-faturamento-nao-e-lucro.webp",
+    "title": "O que é fluxo de caixa e por que faturamento não é lucro",
+    "kind": "capa tipográfica",
+    "bytes": 34278
+  },
+  {
+    "path": "/editorial/guias/o-que-e-inadimplencia-e-como-medir-a-sua.webp",
+    "title": "O que é inadimplência e como medir a sua",
+    "kind": "capa tipográfica",
+    "bytes": 33820
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-uma-regua-de-cobranca.webp",
+    "title": "Para que serve uma régua de cobrança",
+    "kind": "capa tipográfica",
+    "bytes": 34860
+  },
+  {
+    "path": "/editorial/guias/o-que-e-copia-de-seguranca-backup-e-o-que-ela-salva.webp",
+    "title": "O que é cópia de segurança (backup) e o que ela salva",
+    "kind": "capa tipográfica",
+    "bytes": 35080
+  },
+  {
+    "path": "/editorial/guias/o-que-e-gerenciador-de-senhas.webp",
+    "title": "O que é gerenciador de senhas e por que a empresa precisa",
+    "kind": "capa tipográfica",
+    "bytes": 41246
+  },
+  {
+    "path": "/editorial/guias/o-que-e-verificacao-em-duas-etapas.webp",
+    "title": "O que é verificação em duas etapas e onde ativar",
+    "kind": "capa tipográfica",
+    "bytes": 36100
+  },
+  {
+    "path": "/editorial/guias/o-que-e-um-dominio-e-o-que-acontece-se-ele-vencer.webp",
+    "title": "O que é um domínio e o que acontece se ele vencer",
+    "kind": "capa tipográfica",
+    "bytes": 32560
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-a-renovacao-automatica.webp",
+    "title": "Para que serve a renovação automática do domínio",
+    "kind": "capa tipográfica",
+    "bytes": 38170
+  },
+  {
+    "path": "/editorial/guias/o-que-e-inventario-e-por-que-contar-o-estoque.webp",
+    "title": "O que é inventário e por que contar o estoque",
+    "kind": "capa tipográfica",
+    "bytes": 33786
+  },
+  {
+    "path": "/editorial/guias/o-que-e-um-indicador-e-como-escolher-os-seus.webp",
+    "title": "O que é um indicador e como escolher os seus",
+    "kind": "capa tipográfica",
+    "bytes": 31916
+  },
+  {
+    "path": "/editorial/guias/natal-prazo-de-entrega-e-promessa-que-nao-se-quebra.webp",
+    "title": "Natal: prazo de entrega é promessa que não se quebra",
+    "kind": "capa tipográfica",
+    "bytes": 39188
+  },
+  {
+    "path": "/editorial/guias/presente-de-ultima-hora-retirada-digital-e-vale.webp",
+    "title": "Presente de última hora: retirada, digital e vale-presente",
+    "kind": "capa tipográfica",
+    "bytes": 36778
+  },
+  {
+    "path": "/editorial/guias/horario-de-fim-de-ano-no-google-no-site-e-no-whatsapp.webp",
+    "title": "Horário de fim de ano no Google, no site e no WhatsApp",
+    "kind": "capa tipográfica",
+    "bytes": 34188
+  },
+  {
+    "path": "/editorial/guias/recesso-o-que-pausar-e-o-que-manter-no-ar.webp",
+    "title": "Recesso: o que pausar e o que manter no ar",
+    "kind": "capa tipográfica",
+    "bytes": 34468
+  },
+  {
+    "path": "/editorial/guias/plantao-de-fim-de-ano-com-equipe-reduzida.webp",
+    "title": "Plantão de fim de ano com equipe reduzida",
+    "kind": "capa tipográfica",
+    "bytes": 32582
+  },
+  {
+    "path": "/editorial/guias/como-cobrar-quem-ficou-devendo-sem-perder-o-cliente.webp",
+    "title": "Como cobrar quem ficou devendo sem perder o cliente",
+    "kind": "capa tipográfica",
+    "bytes": 33488
+  },
+  {
+    "path": "/editorial/guias/quantas-mensagens-de-cobranca-e-quando-parar.webp",
+    "title": "Quantas mensagens de cobrança e quando parar",
+    "kind": "capa tipográfica",
+    "bytes": 37876
+  },
+  {
+    "path": "/editorial/guias/negociar-divida-de-cliente-pequeno-o-que-aceitar.webp",
+    "title": "Negociar dívida de cliente pequeno: o que aceitar",
+    "kind": "capa tipográfica",
+    "bytes": 34936
+  },
+  {
+    "path": "/editorial/guias/prevenir-calote-na-hora-da-venda-nao-depois.webp",
+    "title": "Prevenir calote na hora da venda, não depois",
+    "kind": "capa tipográfica",
+    "bytes": 31018
+  },
+  {
+    "path": "/editorial/guias/o-13-do-cliente-o-mes-em-que-o-dinheiro-existe.webp",
+    "title": "O 13º do cliente: o mês em que o dinheiro existe",
+    "kind": "capa tipográfica",
+    "bytes": 35450
+  },
+  {
+    "path": "/editorial/guias/fechar-o-ano-cinco-numeros-que-cabem-numa-tela.webp",
+    "title": "Fechar o ano: cinco números que cabem numa tela",
+    "kind": "capa tipográfica",
+    "bytes": 34878
+  },
+  {
+    "path": "/editorial/guias/produto-que-vende-muito-e-da-pouco-lucro.webp",
+    "title": "Produto que vende muito e dá pouco lucro: o que fazer",
+    "kind": "capa tipográfica",
+    "bytes": 32682
+  },
+  {
+    "path": "/editorial/guias/cliente-que-da-trabalho-e-nao-da-lucro.webp",
+    "title": "Cliente que dá trabalho e não dá lucro: o que fazer",
+    "kind": "capa tipográfica",
+    "bytes": 36194
+  },
+  {
+    "path": "/editorial/guias/cancelar-o-que-nao-usa-assinaturas-esquecidas.webp",
+    "title": "Cancelar o que não usa: assinaturas esquecidas",
+    "kind": "capa tipográfica",
+    "bytes": 35888
+  },
+  {
+    "path": "/editorial/guias/inventario-de-fim-de-ano-sem-parar-a-operacao.webp",
+    "title": "Inventário de fim de ano sem parar a operação",
+    "kind": "capa tipográfica",
+    "bytes": 32166
+  },
+  {
+    "path": "/editorial/guias/quem-tem-acesso-ao-que-revisao-de-fim-de-ano.webp",
+    "title": "Quem tem acesso ao quê: revisão de fim de ano",
+    "kind": "capa tipográfica",
+    "bytes": 36654
+  },
+  {
+    "path": "/editorial/guias/contrato-com-fornecedor-o-que-revisar-antes-de-renovar.webp",
+    "title": "Contrato com fornecedor: o que revisar antes de renovar",
+    "kind": "capa tipográfica",
+    "bytes": 37586
+  },
+  {
+    "path": "/editorial/guias/balanco-de-conteudo-o-que-deu-audiencia-e-o-que-nao.webp",
+    "title": "Balanço de conteúdo: o que deu audiência e o que não",
+    "kind": "capa tipográfica",
+    "bytes": 34530
+  },
+  {
+    "path": "/editorial/guias/mensagem-de-fim-de-ano-que-nao-e-corrente-de-whatsapp.webp",
+    "title": "Mensagem de fim de ano que não é corrente de WhatsApp",
+    "kind": "capa tipográfica",
+    "bytes": 40040
+  },
+  {
+    "path": "/editorial/guias/metas-do-ano-que-vem-em-uma-pagina.webp",
+    "title": "Metas do ano que vem em uma página",
+    "kind": "capa tipográfica",
+    "bytes": 34238
+  },
+  {
+    "path": "/editorial/guias/o-que-cortar-em-janeiro-para-poder-investir.webp",
+    "title": "O que cortar em janeiro para poder investir",
+    "kind": "capa tipográfica",
+    "bytes": 30876
+  },
+  {
+    "path": "/editorial/guias/o-que-e-presenca-digital-sem-enrolacao.webp",
+    "title": "O que é presença digital, sem enrolação",
+    "kind": "capa tipográfica",
+    "bytes": 34606
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-o-perfil-da-empresa-no-google.webp",
+    "title": "Para que serve o Perfil da Empresa no Google",
+    "kind": "capa tipográfica",
+    "bytes": 33524
+  },
+  {
+    "path": "/editorial/guias/o-que-e-crm-cadastro-de-clientes-que-trabalha.webp",
+    "title": "O que é um CRM, o cadastro de clientes que trabalha",
+    "kind": "capa tipográfica",
+    "bytes": 33178
+  },
+  {
+    "path": "/editorial/guias/o-que-e-funil-de-vendas-em-uma-frase.webp",
+    "title": "O que é funil de vendas, em uma frase",
+    "kind": "capa tipográfica",
+    "bytes": 34260
+  },
+  {
+    "path": "/editorial/guias/o-que-e-erp-financeiro-estoque-e-vendas-juntos.webp",
+    "title": "O que é ERP: financeiro, estoque e vendas juntos",
+    "kind": "capa tipográfica",
+    "bytes": 34642
+  },
+  {
+    "path": "/editorial/guias/o-que-e-newsletter-e-para-quem-serve.webp",
+    "title": "O que é newsletter e para quem serve",
+    "kind": "capa tipográfica",
+    "bytes": 31874
+  },
+  {
+    "path": "/editorial/guias/lista-de-contatos-e-sua-nao-da-rede-social.webp",
+    "title": "Lista de contatos: por que ela é sua, não da rede social",
+    "kind": "capa tipográfica",
+    "bytes": 38258
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-contrato-de-prestacao-de-servico.webp",
+    "title": "Para que serve um contrato de prestação de serviço",
+    "kind": "capa tipográfica",
+    "bytes": 36888
+  },
+  {
+    "path": "/editorial/guias/o-que-e-proposta-comercial-e-o-que-precisa-ter.webp",
+    "title": "O que é proposta comercial e o que ela precisa ter",
+    "kind": "capa tipográfica",
+    "bytes": 32514
+  },
+  {
+    "path": "/editorial/guias/o-que-e-onboarding-primeiros-dias-do-cliente-novo.webp",
+    "title": "Os primeiros dias do cliente novo: o que é onboarding",
+    "kind": "capa tipográfica",
+    "bytes": 37904
+  },
+  {
+    "path": "/editorial/guias/plano-digital-de-um-ano-em-uma-pagina.webp",
+    "title": "O plano digital de um ano que cabe numa página",
+    "kind": "capa tipográfica",
+    "bytes": 34936
+  },
+  {
+    "path": "/editorial/guias/quanto-cobrar-preco-que-paga-a-operacao.webp",
+    "title": "Quanto cobrar: preço que paga a operação e sobra",
+    "kind": "capa tipográfica",
+    "bytes": 34218
+  },
+  {
+    "path": "/editorial/guias/aumentar-preco-sem-perder-cliente-como-avisar.webp",
+    "title": "Aumentar preço sem perder cliente: como avisar",
+    "kind": "capa tipográfica",
+    "bytes": 34542
+  },
+  {
+    "path": "/editorial/guias/sua-empresa-some-quando-pesquisam-o-nome.webp",
+    "title": "Sua empresa some quando pesquisam o nome dela?",
+    "kind": "capa tipográfica",
+    "bytes": 33924
+  },
+  {
+    "path": "/editorial/guias/perfil-da-empresa-no-google-o-que-preencher-primeiro.webp",
+    "title": "Perfil da Empresa no Google: o que preencher primeiro",
+    "kind": "capa tipográfica",
+    "bytes": 37912
+  },
+  {
+    "path": "/editorial/guias/avaliacao-no-google-como-pedir-e-responder.webp",
+    "title": "Avaliação no Google: como pedir e como responder",
+    "kind": "capa tipográfica",
+    "bytes": 36896
+  },
+  {
+    "path": "/editorial/guias/endereco-telefone-e-horario-iguais-em-todo-lugar.webp",
+    "title": "Endereço, telefone e horário iguais em todo lugar",
+    "kind": "capa tipográfica",
+    "bytes": 32362
+  },
+  {
+    "path": "/editorial/guias/aparecer-no-mapa-perto-de-mim.webp",
+    "title": "Aparecer no mapa quando alguém procura perto de mim",
+    "kind": "capa tipográfica",
+    "bytes": 38918
+  },
+  {
+    "path": "/editorial/guias/planilha-sistema-ou-caderno-quando-trocar.webp",
+    "title": "Planilha, sistema ou caderno: quando trocar",
+    "kind": "capa tipográfica",
+    "bytes": 33284
+  },
+  {
+    "path": "/editorial/guias/cadastro-de-cliente-campos-que-importam.webp",
+    "title": "Cadastro de cliente: os campos que realmente importam",
+    "kind": "capa tipográfica",
+    "bytes": 34394
+  },
+  {
+    "path": "/editorial/guias/historico-de-atendimento-por-que-anotar-compensa.webp",
+    "title": "Histórico de atendimento: por que anotar tudo compensa",
+    "kind": "capa tipográfica",
+    "bytes": 38724
+  },
+  {
+    "path": "/editorial/guias/quem-faz-o-que-dividir-operacao-entre-duas-pessoas.webp",
+    "title": "Quem faz o quê: dividir a operação entre duas pessoas",
+    "kind": "capa tipográfica",
+    "bytes": 38068
+  },
+  {
+    "path": "/editorial/guias/processo-escrito-uma-pagina-evita-retrabalho.webp",
+    "title": "Processo escrito: uma página que evita retrabalho",
+    "kind": "capa tipográfica",
+    "bytes": 33296
+  },
+  {
+    "path": "/editorial/guias/primeiros-sete-dias-de-um-cliente-novo.webp",
+    "title": "Os primeiros sete dias de um cliente novo",
+    "kind": "capa tipográfica",
+    "bytes": 33482
+  },
+  {
+    "path": "/editorial/guias/proposta-que-fecha-sem-reuniao.webp",
+    "title": "Proposta que fecha sem reunião",
+    "kind": "capa tipográfica",
+    "bytes": 31668
+  },
+  {
+    "path": "/editorial/guias/quantas-vezes-insistir-antes-de-desistir.webp",
+    "title": "Quantas vezes insistir antes de desistir de um contato",
+    "kind": "capa tipográfica",
+    "bytes": 33916
+  },
+  {
+    "path": "/editorial/guias/perdeu-a-venda-a-pergunta-que-ensina.webp",
+    "title": "Perdeu a venda: a pergunta que ensina mais que o sim",
+    "kind": "capa tipográfica",
+    "bytes": 37438
+  },
+  {
+    "path": "/editorial/guias/volta-as-aulas-para-quem-nao-vende-material-escolar.webp",
+    "title": "Volta às aulas para quem não vende material escolar",
+    "kind": "capa tipográfica",
+    "bytes": 36250
+  },
+  {
+    "path": "/editorial/guias/pdv-e-loja-online-falando-a-mesma-lingua.webp",
+    "title": "Frente de caixa (PDV) e loja online falando a mesma língua",
+    "kind": "capa tipográfica",
+    "bytes": 34806
+  },
+  {
+    "path": "/editorial/guias/limpar-a-base-contato-morto-custa-dinheiro.webp",
+    "title": "Limpar a base: contato morto custa dinheiro",
+    "kind": "capa tipográfica",
+    "bytes": 34172
+  },
+  {
+    "path": "/editorial/guias/o-que-e-caixa-de-spam.webp",
+    "title": "O que é caixa de spam e por que seu e-mail cai lá",
+    "kind": "capa tipográfica",
+    "bytes": 34624
+  },
+  {
+    "path": "/editorial/guias/spf-dkim-dmarc-sem-termo-tecnico.webp",
+    "title": "SPF, DKIM e DMARC explicados sem termo técnico",
+    "kind": "capa tipográfica",
+    "bytes": 32932
+  },
+  {
+    "path": "/editorial/guias/o-que-e-reputacao-de-remetente.webp",
+    "title": "O que é reputação de remetente de e-mail",
+    "kind": "capa tipográfica",
+    "bytes": 34366
+  },
+  {
+    "path": "/editorial/guias/taxa-de-abertura-o-que-ela-nao-diz.webp",
+    "title": "O que é taxa de abertura de e-mail e o que ela não diz",
+    "kind": "capa tipográfica",
+    "bytes": 36218
   }
 ]

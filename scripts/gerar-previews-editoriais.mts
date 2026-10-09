@@ -35,9 +35,16 @@ const logo = `data:image/png;base64,${fs.readFileSync("public/logo.png").toStrin
 const browser = await chromium.launch();
 const page = await browser.newPage({ viewport: { width: 1200, height: 630 }, deviceScaleFactor: 1 });
 const manifest: { path: string; title: string; kind: string; bytes: number }[] = [];
+const recordPath = "content/previews-editoriais.json";
+const existing: typeof manifest = fs.existsSync(recordPath) ? JSON.parse(fs.readFileSync(recordPath, "utf8")) : [];
+const recorded = new Set(existing.map(item => item.path));
 async function render(src: string, title: string, label: string, detail: string, variant: number, kind: string) {
   const dest = path.join("public", src);
-  if (fs.existsSync(dest)) return;
+  if (fs.existsSync(dest)) {
+    // Arquivo gerado numa execução interrompida antes de gravar o manifesto: registra sem refazer.
+    if (!recorded.has(src)) manifest.push({ path: src, title, kind, bytes: fs.statSync(dest).size });
+    return;
+  }
   const themes = [ ["#f5f0e5", "#101827", "#0054fe"], ["#101827", "#ffffff", "#fdc401"], ["#eef3ff", "#101827", "#0054fe"] ];
   const [background, foreground, accent] = themes[variant % themes.length];
   // Começa no tamanho pela contagem de caracteres e reduz até o título caber.
@@ -86,8 +93,6 @@ try {
       await render(listingPreviewPath(collection.base, number), collection.title, `Biblioteca / Página ${number}`, collection.detail, index++, "listagem");
     }
   }
-  const recordPath = "content/previews-editoriais.json";
-  const existing = fs.existsSync(recordPath) ? JSON.parse(fs.readFileSync(recordPath, "utf8")) : [];
   fs.writeFileSync(recordPath, JSON.stringify([...existing, ...manifest], null, 2) + "\n");
   console.log(JSON.stringify({ artigos: posts.length, previewsGerados: manifest.length }));
 } finally { await browser.close(); }
