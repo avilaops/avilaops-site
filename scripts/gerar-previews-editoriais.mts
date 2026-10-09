@@ -40,7 +40,9 @@ async function render(src: string, title: string, label: string, detail: string,
   if (fs.existsSync(dest)) return;
   const themes = [ ["#f5f0e5", "#101827", "#0054fe"], ["#101827", "#ffffff", "#fdc401"], ["#eef3ff", "#101827", "#0054fe"] ];
   const [background, foreground, accent] = themes[variant % themes.length];
-  const size = title.length > 60 ? 60 : title.length > 38 ? 72 : 84;
+  // Começa no tamanho pela contagem de caracteres e reduz até o título caber.
+  const start = title.length > 60 ? 60 : title.length > 38 ? 72 : 84;
+  for (const size of [84, 72, 60, 52].filter(value => value <= start)) {
   await page.setContent(`<!doctype html><html lang="pt-BR"><meta charset="utf-8"><style>
     *{box-sizing:border-box;margin:0}body{width:1200px;height:630px;overflow:hidden;background:${background};color:${foreground};font-family:Arial,sans-serif;padding:58px 66px;position:relative}
     header{display:flex;align-items:center;gap:14px;font-size:26px;font-weight:700}header img{width:44px;height:44px;object-fit:contain}.label{font-size:18px;letter-spacing:2px;text-transform:uppercase;margin-top:40px;color:${accent};font-weight:700}
@@ -48,7 +50,9 @@ async function render(src: string, title: string, label: string, detail: string,
     .shapes{position:absolute;right:30px;top:130px;width:185px;height:350px}.triangle{width:0;height:0;border-left:70px solid transparent;border-right:70px solid transparent;border-bottom:125px solid #0054fe;transform:rotate(${variant % 2 ? 12 : -12}deg)}.pill{width:58px;height:150px;background:#f62a26;border-radius:40px;transform:rotate(35deg);margin:20px 0 0 70px}.arc{position:absolute;width:105px;height:105px;border:22px solid #fdc401;border-bottom-color:transparent;border-radius:50%;right:4px;bottom:0}
   </style><body><header><img src="${logo}" alt="">Avila Ops</header><div class="label">${escape(label)}</div><h1>${escape(title)}</h1><p>${escape(detail)}</p><div class="shapes"><div class="triangle"></div><div class="pill"></div><div class="arc"></div></div><footer>avilaops.com · Conhecimento aplicado</footer></body></html>`);
   const overflow = await page.locator("h1").evaluate(el => el.getBoundingClientRect().bottom > 440);
-  if (overflow) throw new Error(`Título não cabe no preview: ${title}`);
+  if (!overflow) break;
+  if (size === 52) throw new Error(`Título não cabe no preview: ${title}`);
+  }
   const png = await page.screenshot();
   fs.mkdirSync(path.dirname(dest), { recursive: true });
   const output = src.endsWith(".webp") ? await sharp(png).webp({ quality: 88 }).toBuffer() : await sharp(png).jpeg({ quality: 88, mozjpeg: true }).toBuffer();
