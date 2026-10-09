@@ -1,0 +1,59 @@
+{
+  "data": "2026-10-09",
+  "modelo": "image_gen integrada; identificador e seed não fornecidos",
+  "origem_planejamento": "marketing/conteudo/guias/imagens-planejamento.json",
+  "status": "concluido; WebP finais e recorte da capa conferidos",
+  "imagens": [
+    {
+      "id": "065-2",
+      "slug": "para-que-serve-um-relatorio-de-campanha",
+      "position": 2,
+      "section": "O que precisa estar no relatório?",
+      "familia": "colagem",
+      "alt": "Colagem compara muitas encomendas com uma pequena sobra de moedas, destacando que faturamento e lucro são diferentes.",
+      "prompt": "Create a finished 3:2 landscape editorial kraft-paper collage with realistic cut paper shadows, cream background. Clear still life contrasting a cluster of small shipment boxes on left with only a small stack of realistic blank coin discs on right, a plain receipt between them. Meaning: many campaign orders do not automatically mean high profit. No numbers, text, symbols of currency, charts or claims. Blue red yellow restrained palette. Include the supplied Avila Ops symbol faithfully as one small printed seal on lower center of receipt, preserve its blue rounded triangle, diagonal red capsule, yellow arc and yellow dot. No other branding. Airy simple composition, few props, no people, no decorative office objects.",
+      "revisada": true,
+      "original": "C:/Users/nicol/.codex/generated_images/01a11e7d-2d05-7961-abb1-9b061a490ff3/exec-64d7f4e5-3787-4721-b5eb-a0e62d7845e4.png",
+      "referencia_marca": "resources/marca/simbolo-colorido.png",
+      "src": "/editorial/guias/para-que-serve-um-relatorio-de-campanha-2.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 104746,
+      "quality": 88
+    },
+    {
+      "id": "066-1",
+      "slug": "o-que-e-logistica-reversa-devolucao-pelo-correio",
+      "position": 1,
+      "section": "Abertura do guia",
+      "familia": "foto-de-balcao",
+      "alt": "Mãos recebem uma caixa devolvida sobre o balcão de uma pequena loja, ilustrando o retorno do produto ao vendedor.",
+      "prompt": "Create one natural editorial photograph, wide landscape 1.91:1. Close view of a small Brazilian shop's wooden receiving counter: a customer hand gently slides a closed reused kraft parcel toward a shop worker's two receiving hands. Only hands and partial torsos, anatomically natural. Single parcel central, visible old plain torn tape and fresh blue tape, no labels or writing. A small faithful supplied Avila Ops colorful symbol printed on worker's navy apron near parcel, blue triangle red diagonal capsule yellow arc and dot, no redesign. Soft window light, modest plain beige interior. Entire meaningful handoff and branded apron area concentrated in CENTER 48 percent width for square crop, large empty quiet margins. No postal company logos, no text, numbers, barcode, screens, plants or mug. Photorealistic, not illustration.",
+      "revisada": true,
+      "original": "C:/Users/nicol/.codex/generated_images/01a11e7d-2d05-7961-abb1-9b061a490ff3/exec-6c7e9bf1-96f1-4c62-be9b-04f986f39139.png",
+      "referencia_marca": "resources/marca/simbolo-colorido.png",
+      "src": "/editorial/guias/o-que-e-logistica-reversa-devolucao-pelo-correio.webp",
+      "width": 1200,
+      "height": 630,
+      "bytes": 78382,
+      "quality": 88
+    },
+    {
+      "id": "066-2",
+      "slug": "o-que-e-logistica-reversa-devolucao-pelo-correio",
+      "position": 2,
+      "section": "Quem paga a devolução?",
+      "familia": "foto-de-balcao",
+      "alt": "Mãos fixam uma etiqueta de envio em uma caixa de devolução, preparando o pacote para postagem.",
+      "prompt": "Create a natural photorealistic editorial image landscape 3:2, overhead close view of real hands carefully attaching a completely blank shipping label to a reused kraft return parcel, on small Brazilian shop packing table. One hand holds label edge, other smooths it, correct anatomy. Blue tape dispenser and small red scissors are only additional tools. A small faithful supplied Avila Ops symbol is printed discreetly on the lower center front side of box, preserve blue rounded triangle red diagonal capsule yellow arc and separate dot. Label MUST remain entirely blank, no text digits barcode QR or carrier logos. Warm natural window light, simple untextured cream background, generous margins. No money exchange, no computer or fake UI, no extraneous props. Distinct overhead packing scene, not parcel handoff.",
+      "revisada": true,
+      "original": "C:/Users/nicol/.codex/generated_images/01a11e7d-2d05-7961-abb1-9b061a490ff3/exec-ad766708-a509-4b71-b531-d5a35f913526.png",
+      "referencia_marca": "resources/marca/simbolo-colorido.png",
+      "src": "/editorial/guias/o-que-e-logistica-reversa-devolucao-pelo-correio-2.webp",
+      "width": 1200,
+      "height": 800,
+      "bytes": 92550,
+      "quality": 88
+    }
+  ]
+}

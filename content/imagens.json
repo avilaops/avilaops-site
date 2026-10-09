@@ -952,5 +952,32 @@
     "height": 630,
     "section": "Abertura do guia",
     "position": 1
+  },
+  {
+    "slug": "para-que-serve-um-relatorio-de-campanha",
+    "src": "/editorial/guias/para-que-serve-um-relatorio-de-campanha-2.webp",
+    "alt": "Colagem compara muitas encomendas com uma pequena sobra de moedas, destacando que faturamento e lucro são diferentes.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que precisa estar no relatório?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-logistica-reversa-devolucao-pelo-correio",
+    "src": "/editorial/guias/o-que-e-logistica-reversa-devolucao-pelo-correio.webp",
+    "alt": "Mãos recebem uma caixa devolvida sobre o balcão de uma pequena loja, ilustrando o retorno do produto ao vendedor.",
+    "width": 1200,
+    "height": 630,
+    "section": "Abertura do guia",
+    "position": 1
+  },
+  {
+    "slug": "o-que-e-logistica-reversa-devolucao-pelo-correio",
+    "src": "/editorial/guias/o-que-e-logistica-reversa-devolucao-pelo-correio-2.webp",
+    "alt": "Mãos fixam uma etiqueta de envio em uma caixa de devolução, preparando o pacote para postagem.",
+    "width": 1200,
+    "height": 800,
+    "section": "Quem paga a devolução?",
+    "position": 2
   }
 ]

@@ -149,3 +149,15 @@ O lote contém 063-1, 063-2, 064-1, 064-2 e 065-1, para os guias de 02 a
 O próximo ID inédito é 065-2. Nas próximas artes, usar o símbolo fornecido
 como referência, manter as quatro partes reconhecíveis e conferir sua
 legibilidade na imagem final e no recorte quadrado das capas.
+
+## Continuação — lote 065–066
+
+O lote `2026-10-09-065-066.json` completa a imagem interna do relatório de
+campanha (065-2) e a capa e imagem interna de logística reversa (066-1 e
+066-2). As três artes usam o símbolo colorido por referência, com colagem
+no relatório e cenas fotográficas geradas para recebimento e embalagem.
+Não são fotografias de operações ou clientes reais da empresa.
+
+WebP finais, textos alternativos, seções e recorte quadrado da capa foram
+conferidos. Os guias mantêm status `revisado` e datas previstas de 04 e
+05/11/2026. O próximo ID inédito da sequência é 067-1.
