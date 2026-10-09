@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-14"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/trocar-em-vez-de-estornar-como-oferecer-sem-forcar/", "/guias/pix-que-nao-cai-o-que-checar-antes-de-cancelar/", "/sistema-para-pequenas-empresas/"]
 ---
 

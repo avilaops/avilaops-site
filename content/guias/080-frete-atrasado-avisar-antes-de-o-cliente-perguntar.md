@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-19"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-rastreio-e-como-reduz-mensagem-no-atendimento/", "/guias/transportadora-falhou-quem-responde-e-voce/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -52,7 +53,7 @@ Reenviar um pedido de R$ 120 custa outra unidade e mais um frete de R$ 25, e par
 
 ## O que fazer agora
 
-Liste hoje os pedidos enviados há mais de cinco dias e abra o rastreio de cada um. Quem está parado recebe a mensagem ainda hoje, com nova previsão. Para essa lista aparecer sozinha toda manhã e a mensagem sair a partir dela, a Avila Ops liga rastreio, pedido e WhatsApp num sistema só: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Liste hoje os pedidos enviados há mais de cinco dias e abra o rastreio de cada um. Quem está parado recebe a mensagem ainda hoje, com nova previsão. Para essa lista aparecer sozinha toda manhã e a mensagem sair a partir dela, pela API oficial do WhatsApp com modelo aprovado, a Avila Ops liga rastreio, pedido e WhatsApp num sistema só: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

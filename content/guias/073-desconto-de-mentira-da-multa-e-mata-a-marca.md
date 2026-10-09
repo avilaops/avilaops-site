@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Legal"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/medir-a-campanha-os-numeros-que-importam/", "/guias/transformar-comprador-de-oferta-em-cliente/", "/contato/"]
 ---
 
@@ -37,7 +38,7 @@ A lei federal não fixa um número de dias; o preço "de" precisa ter sido prati
 | Preço subiu de R$ 120 para R$ 200 em outubro e voltou a R$ 120 | Não. É o preço normal |
 | Produto a R$ 200 no site e R$ 150 na loja física | Use o menor como referência |
 
-Guarde prova. Uma captura de tela da página do produto por semana, desde setembro, com data visível, é o que você mostra se alguém questionar. Quem tem histórico de preço no sistema já tem a prova pronta.
+Guarde prova. Uma captura de tela da página do produto por semana, desde pelo menos 30 dias antes da campanha, com data visível, é o que você mostra se alguém questionar. Quem tem histórico de preço no sistema já tem a prova pronta.
 
 ## Já anunciei errado. E agora?
 
@@ -53,7 +54,7 @@ Desconto honesto vende menos no dia e mais no ano. O guia sobre [medir a campanh
 
 ## O que fazer agora
 
-Abra os cinco produtos com maior desconto da sua campanha e compare o preço "de" com o preço de setembro. Se algum não bate, corrija antes de fechar o dia. Se você não sabe o que mais está exposto na loja, do preço à política de troca, a Avila Ops faz o diagnóstico numa conversa: https://avilaops.com/contato/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Abra os cinco produtos com maior desconto da sua campanha e compare o preço "de" com o preço praticado nos 30 dias antes da campanha. Se algum não bate, corrija antes de fechar o dia. Se você não sabe o que mais está exposto na loja, do preço à política de troca, a Avila Ops faz o diagnóstico numa conversa: https://avilaops.com/contato/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

@@ -3,20 +3,21 @@ num: 84
 titulo: "Depois da Black Friday: o que fazer na segunda-feira"
 slug: "depois-da-black-friday-o-que-fazer-na-segunda-feira"
 title_seo: "Depois da Black Friday: o que fazer na segunda-feira"
-meta_description: "Segunda 30/11: postar tudo, fechar pagamentos pendentes, marcar quem comprou na campanha e mandar uma mensagem que não vende nada. A lista, em ordem."
+meta_description: "Na segunda após a Black Friday: postar tudo, fechar pendentes, marcar quem comprou na campanha e mandar uma mensagem que não vende nada. A lista."
 mes: "2026-11"
 bloco: "pratica"
 puxa: "CRM"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/transformar-comprador-de-oferta-em-cliente/", "/guias/pagamento-pendente-quanto-tempo-segurar-o-produto/", "/crm-para-pequenas-empresas/"]
 ---
 
 # Depois da Black Friday: o que fazer na segunda-feira
 
-Segunda-feira, 30/11, tem quatro tarefas em ordem: postar tudo o que foi pago até domingo, fechar os pagamentos pendentes, marcar no cadastro quem comprou na campanha, e mandar para essas pessoas uma mensagem que não vende nada. Nada de oferta nova antes disso. A segunda-feira é o dia em que a campanha vira cliente ou vira só faturamento de novembro.
+Segunda-feira, 30/11, tem quatro tarefas em ordem: postar tudo o que foi pago até domingo, fechar os pagamentos pendentes, marcar no cadastro quem comprou na campanha, e mandar para essas pessoas uma mensagem que não vende nada. Nada de oferta nova antes disso. A segunda-feira é o dia em que a campanha vira cliente ou vira só faturamento de novembro. As datas aqui são as de 2026; em outro ano, vale para a segunda-feira seguinte à Black Friday.
 
 Um erro comum é tratar a segunda como continuação da sexta. A equipe está cansada, os pedidos estão na fila, e uma promoção de "Cyber Monday" em cima disso atrasa o envio e irrita quem está esperando o pacote.
 
@@ -53,7 +54,7 @@ Oferta nova, mudança de preço, post de "obrigado, foi um sucesso", análise de
 
 ## O que fazer agora
 
-Se hoje é segunda, siga a lista da manhã antes de abrir o Instagram. Se ainda é sexta ou sábado, prepare a etiqueta "Black Friday 2026" no seu cadastro para não precisar criar no meio da correria. Para a marcação acontecer sozinha a cada pedido pago, e a mensagem de segunda sair com o rastreio junto, a Avila Ops monta o CRM ligado à loja: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Se hoje é segunda, siga a lista da manhã antes de abrir o Instagram. Se a segunda ainda não chegou, prepare a etiqueta da campanha, como "Black Friday 2026", no seu cadastro para não precisar criar no meio da correria. Para a marcação acontecer sozinha a cada pedido pago, e a mensagem de segunda sair com o rastreio junto, a Avila Ops monta o CRM ligado à loja: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

@@ -9,14 +9,15 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/depois-da-black-friday-o-que-fazer-na-segunda-feira/", "/guias/site-institucional-landing-page-ou-loja-virtual/", "/jornada/"]
 ---
 
 # O que é Cyber Monday e se faz sentido aqui
 
-Cyber Monday é a segunda-feira seguinte à Black Friday. Em 2026 cai em 30/11. O nome surgiu nos Estados Unidos, em 2005, para o dia de compras online que vinha depois do feriado de Ação de Graças. No Brasil, onde a Black Friday já é online e dura o mês inteiro, ela virou mais uma etiqueta para estender a campanha.
+Cyber Monday é a segunda-feira seguinte à Black Friday. Em 2026 cai em 30/11; nos outros anos, é sempre três dias depois da Black Friday. O nome surgiu nos Estados Unidos, em 2005, para o dia de compras online que vinha depois do feriado de Ação de Graças. No Brasil, onde a Black Friday já é online e dura o mês inteiro, ela virou mais uma etiqueta para estender a campanha.
 
 Para quem vende produto físico, só vale se sobrou estoque e margem depois da sexta-feira. Se a campanha já vendeu o que tinha para vender, a segunda-feira serve para entregar, não para descontar de novo.
 
@@ -34,7 +35,7 @@ Se nenhum dos três casos é o seu, use a segunda-feira para o que o guia sobre 
 
 ## O que fazer agora
 
-Decida hoje, antes do dia 27, se vai ter Cyber Monday e com qual produto. Se você ainda não sabe se a sua operação aguenta uma campanha, o diagnóstico é o começo: descreva o seu negócio e a gente responde por onde ir: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Decida antes da Black Friday se vai ter Cyber Monday e com qual produto. Se você ainda não sabe se a sua operação aguenta uma campanha, o diagnóstico é o começo: descreva o seu negócio e a gente responde por onde ir: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

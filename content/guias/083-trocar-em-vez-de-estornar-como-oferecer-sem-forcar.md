@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-22"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-logistica-reversa-devolucao-pelo-correio/", "/guias/o-que-e-vale-presente-e-como-funciona/", "/jornada/"]
 ---
 
@@ -22,7 +23,7 @@ Depois da Black Friday chega a onda de "quero devolver". Cada estorno é venda d
 
 ## Quando o estorno é a única resposta?
 
-Quando o cliente desistiu dentro dos sete dias do direito de arrependimento (CDC, art. 49) e pede o dinheiro, ele recebe o dinheiro. A loja pode oferecer a troca, mas não pode condicionar, atrasar ou dificultar o estorno para empurrar a troca. Produto com defeito segue outra regra: a loja tem até 30 dias para resolver e, se não resolver, o cliente escolhe entre produto novo, dinheiro de volta ou abatimento no preço (CDC, art. 18). Em compra online, dentro dos sete dias, ele também pode simplesmente desistir.
+Quando o cliente desistiu dentro dos sete dias do direito de arrependimento, contados do recebimento (CDC, art. 49), e pede o dinheiro, ele recebe o dinheiro. A loja pode oferecer a troca, mas não pode condicionar, atrasar ou dificultar o estorno para empurrar a troca. Produto com defeito segue outra regra: a loja tem até 30 dias para resolver e, se não resolver, o cliente escolhe entre produto novo, dinheiro de volta ou abatimento no preço (CDC, art. 18). Em compra online, dentro dos sete dias do recebimento, ele também pode simplesmente desistir.
 
 Também é estorno quando a loja errou o produto e não tem o certo em estoque, quando o pacote extraviou e não há reposição, e quando o cliente já pediu troca uma vez e o problema se repetiu.
 

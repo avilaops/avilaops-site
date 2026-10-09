@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-25"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/para-que-serve-um-relatorio-de-campanha/", "/guias/o-que-e-margem-por-produto/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/para-que-serve-um-relatorio-de-campanha/", "/guias/o-qu
 
 Seis números dizem se a campanha valeu: margem que sobrou depois de tudo, custo por pedido pago, número de pedidos pagos, ticket médio, taxa de devolução e quantos clientes novos entraram. Alcance, impressão, curtida e visita ao site são caminho, não resultado. Se a margem final ficou abaixo de um mês comum, a campanha custou dinheiro, por mais bonito que o gráfico de alcance esteja.
 
-A conta que vale é a do relatório fechado, feito duas semanas depois do dia 27, quando estornos e devoluções já entraram. O guia sobre [relatório de campanha](https://avilaops.com/guias/para-que-serve-um-relatorio-de-campanha/) cobre a versão diária; a fechada é a que decide o que fazer em 2027.
+A conta que vale é a do relatório fechado, feito duas semanas depois da Black Friday, quando estornos e devoluções já entraram. O guia sobre [relatório de campanha](https://avilaops.com/guias/para-que-serve-um-relatorio-de-campanha/) cobre a versão diária; a fechada é a que decide o que fazer no ano seguinte.
 
 ## Quais números enganam?
 
@@ -34,7 +35,7 @@ Uma loja de decoração fechou a Black Friday com faturamento 180% acima de outu
 | Custo por pedido pago | Anúncio mais desconto dado, dividido por pedidos pagos | Quanto custou cada venda? |
 | Pedidos pagos | Contagem, excluindo cancelados e estornados | Quantas vendas reais? |
 | Ticket médio | Faturamento líquido dividido por pedidos pagos | Cada cliente levou mais ou menos? |
-| Taxa de devolução | Pedidos devolvidos ou estornados dividido por pedidos pagos | O desconto atraiu quem não queria o produto? |
+| Taxa de devolução | Pedidos devolvidos ou estornados dividido por todos os pedidos que chegaram a ser pagos, incluindo esses | O desconto atraiu quem não queria o produto? |
 | Clientes novos | Compradores que nunca tinham comprado antes | A campanha trouxe gente ou só antecipou compra? |
 
 Faturamento líquido é depois do desconto e antes das taxas. Custo dos produtos é o que você pagou pelo que saiu, não pelo que comprou; o que sobrou no estoque é outro número, tratado no guia sobre [margem por produto](https://avilaops.com/guias/o-que-e-margem-por-produto/).
@@ -45,17 +46,17 @@ Compare cada linha com outubro. Não com "a média do mercado", que mistura loja
 
 Margem final acima de outubro e clientes novos altos: a campanha funcionou, repita. Margem abaixo e clientes novos altos: você comprou clientes; vale se existe plano de recompra. Margem abaixo e clientes novos baixos: você deu desconto para quem já ia comprar; no ano que vem, ofereça só para público frio ou não faça. Taxa de devolução bem acima da de um mês comum: o desconto ou a foto atraíram quem não queria o produto.
 
-Custo por pedido acima da margem de cada pedido (num ticket de R$ 150 com margem de 30%, acima de R$ 45): cada pedido custou mais do que rendeu. Esse é o número que mais loja pequena descobre tarde demais, porque o gerenciador de anúncios mostra "custo por compra" sem incluir o desconto.
+Custo por pedido acima da margem de cada pedido, calculada a preço cheio e já com a parte do custo fixo que cabe a cada pedido (num pedido de R$ 150 a preço cheio com margem de 30%, acima de R$ 45): cada pedido custou mais do que rendeu. Esse é o número que mais loja pequena descobre tarde demais, porque o gerenciador de anúncios mostra "custo por compra" sem incluir o desconto.
 
 ## O que fazer com o resultado?
 
-Escrever meia página, com os seis números, a comparação com outubro e uma decisão para 2027: repetir igual, mudar o produto da oferta, cortar o desconto, cortar o anúncio, ou não fazer. Guardar essa página onde você vai achar em setembro do ano que vem.
+Escrever meia página, com os seis números, a comparação com outubro e uma decisão para o ano seguinte: repetir igual, mudar o produto da oferta, cortar o desconto, cortar o anúncio, ou não fazer. Guardar essa página onde você vai achar em setembro do ano que vem.
 
 Muita decisão errada de Black Friday vem de memória: "ano passado vendeu muito". Vendeu muito é faturamento. A meia página lembra o que sobrou.
 
 ## O que fazer agora
 
-Marque no calendário o dia 11/12 para fechar os seis números. Até lá, registre cada devolução e estorno com o número do pedido, para o cálculo não depender de memória. Para os seis aparecerem prontos numa tela, com dado da loja, do pagamento e do anúncio juntos, a Avila Ops monta o painel: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Marque no calendário a data duas semanas depois da Black Friday para fechar os seis números. Até lá, registre cada devolução e estorno com o número do pedido, para o cálculo não depender de memória. Para os seis aparecerem prontos numa tela, com dado da loja, do pagamento e do anúncio juntos, a Avila Ops monta o painel: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

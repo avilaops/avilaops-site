@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "CRM"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-08"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-recompra-e-por-que-ela-e-mais-barata/", "/glossario/crm/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -28,7 +29,7 @@ Cada grupo tem uma pergunta diferente na cabeça. O recente quer saber se o prod
 
 ## Como usar os grupos na semana da Black Friday?
 
-Para o frequente, a oferta antes de todo mundo, na quinta-feira à noite, dia 26. Para o interessado, a resposta à dúvida mais comum junto com o preço da campanha. Para o antigo, uma mensagem curta de retorno, sem desconto agressivo. Para o recente, nada de oferta do que ele já comprou; ofereça o que combina.
+Antes de tudo, filtre só quem aceitou receber ofertas, e dê em toda mensagem um jeito fácil de parar, como responder "sair". Para o frequente, a oferta antes de todo mundo, na quinta-feira à noite, véspera da Black Friday. Para o interessado, a resposta à dúvida mais comum junto com o preço da campanha. Para o antigo, uma mensagem curta de retorno, sem desconto agressivo. Para o recente, nada de oferta do que ele já comprou; ofereça o que combina.
 
 Isso só funciona com um [cadastro que registra data e produto de cada compra](https://avilaops.com/glossario/crm/). Numa planilha dá para começar com um filtro por data da última compra. O guia sobre [recompra](https://avilaops.com/guias/o-que-e-recompra-e-por-que-ela-e-mais-barata/) explica o que fazer com cada grupo depois da campanha.
 

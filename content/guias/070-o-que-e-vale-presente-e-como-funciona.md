@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-09"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/data-de-corte-do-natal-como-calcular-a-sua/", "/loja-virtual/", "/faq/"]
 ---
 
@@ -22,7 +23,7 @@ Entre a Black Friday e o Natal ele resolve dois problemas. Quem não sabe o tama
 
 ## Como funciona na prática?
 
-O cliente escolhe o valor, R$ 50, R$ 100 ou R$ 200, paga e recebe o código por e-mail ou WhatsApp, junto com uma mensagem para quem vai ganhar. Quem recebe entra na loja, monta o pedido e digita o código como forma de pagamento. Pedido maior que o vale, paga a diferença; menor, o saldo fica no código para a próxima compra, dentro da validade. A loja não pode ficar com a sobra.
+O cliente escolhe o valor, R$ 50, R$ 100 ou R$ 200, paga e recebe o código por e-mail ou WhatsApp, junto com uma mensagem para quem vai ganhar. Quem recebe entra na loja, monta o pedido e digita o código como forma de pagamento. Pedido maior que o vale, paga a diferença; menor, o saldo fica no código para a próxima compra, dentro da validade. Ficar com a sobra tende a ser visto como prática abusiva.
 
 O que precisa estar definido antes de vender: validade, como o saldo é usado, se pode somar com cupom e o que acontece se a loja fechar. Deixe escrito na página do vale.
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-18"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-automatizar-whatsapp-da-empresa/", "/guias/whatsapp-comum-ou-business-api/", "/automatizar-whatsapp/"]
 ---
 
@@ -53,13 +54,13 @@ A exceção é frete. Se o motivo do abandono foi o frete e o valor do carrinho 
 
 ## Como automatizar sem parecer robô?
 
-A [automação](https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/) precisa saber três coisas: quem abandonou, o que ficou no carrinho e o WhatsApp da pessoa. Isso exige que o número tenha sido informado antes do fechamento, com o cliente concordando em receber mensagem da loja pelo WhatsApp. O próprio WhatsApp exige essa permissão. Sem ela, a mensagem é invasão, não atendimento.
+A [automação](https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/) precisa saber três coisas: quem abandonou, o que ficou no carrinho e o WhatsApp da pessoa. Isso exige que o número tenha sido informado antes do fechamento, com o cliente concordando em receber mensagem da loja pelo WhatsApp. O próprio WhatsApp exige essa permissão. Sem ela, a mensagem é invasão, não atendimento. E toda mensagem precisa de um jeito fácil de parar, como responder "sair"; quem pede para sair não recebe mais.
 
 O envio pelo WhatsApp Business comum, à mão, funciona até uns 20 carrinhos por dia. Acima disso, ou quando você quer que a mensagem saia às 2h da manhã sem ninguém acordado, precisa da [API](https://avilaops.com/guias/whatsapp-comum-ou-business-api/), que dispara sozinha a partir de um modelo de mensagem aprovado. A Meta classifica lembrete de carrinho como modelo de marketing. A resposta do cliente cai para uma pessoa, não para o robô.
 
 ## O que fazer agora
 
-Escreva as duas mensagens com o nome de quem atende e o motivo de abandono mais comum da sua loja. Mande à mão para os carrinhos de hoje e veja quem responde. Para o envio sair sozinho, no horário certo, com a resposta caindo no seu WhatsApp, a Avila Ops configura a automação: https://avilaops.com/automatizar-whatsapp/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escreva as duas mensagens com o nome de quem atende e o motivo de abandono mais comum da sua loja. Mande à mão para os carrinhos de hoje, só de quem aceitou receber mensagem, e veja quem responde. Para o envio sair sozinho, no horário certo, com a resposta caindo no seu WhatsApp, a Avila Ops configura a automação: https://avilaops.com/automatizar-whatsapp/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

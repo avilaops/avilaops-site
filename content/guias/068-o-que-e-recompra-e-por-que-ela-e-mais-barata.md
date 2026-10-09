@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "CRM"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-07"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/crm/", "/guias/crm-para-pequenas-empresas-com-whatsapp/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -22,19 +23,19 @@ A Black Friday enche a base de clientes novos, e muitos deles não voltam se nin
 
 ## Por que cliente novo custa tanto?
 
-Porque para cada um que compra, muitos clicaram e não compraram, e você pagou por todos. Se o anúncio custou R$ 900 e trouxe 30 pedidos, cada cliente novo custou R$ 30 antes de qualquer produto. Na recompra esse número cai perto de zero: uma mensagem no WhatsApp para quem já confia.
+Porque para cada um que compra, muitos clicaram e não compraram, e você pagou por todos. Se o anúncio custou R$ 900 e trouxe 30 pedidos, cada cliente novo custou R$ 30 antes de qualquer produto. Na recompra esse número cai perto de zero: uma mensagem no WhatsApp para quem já confia e aceitou receber contato da loja.
 
-Uma loja de café que vende pacote de 500 g sabe que o cliente acaba o café em três semanas. Uma mensagem no dia 20 perguntando se quer repor vende sem anúncio. Isso só funciona se a loja sabe quem comprou, o quê e quando, que é o papel do [cadastro de clientes](https://avilaops.com/glossario/crm/).
+Uma loja de café que vende pacote de 500 g sabe que o cliente acaba o café em três semanas. Uma mensagem no dia 20, para quem aceitou receber, perguntando se quer repor vende sem anúncio. Isso só funciona se a loja sabe quem comprou, o quê e quando, que é o papel do [cadastro de clientes](https://avilaops.com/glossario/crm/).
 
 ## Como preparar a recompra durante a Black Friday?
 
-Garanta que todo pedido entre no cadastro com nome, WhatsApp, produto e data. Na caixa, coloque um motivo para voltar: um cartão com o cuidado do produto e o contato da loja, não um cupom genérico. E marque quem comprou na campanha como grupo separado.
+Garanta que todo pedido entre no cadastro com nome, WhatsApp, produto, data e se a pessoa aceitou receber ofertas. Na caixa, coloque um motivo para voltar: um cartão com o cuidado do produto e o contato da loja, não um cupom genérico. E marque quem comprou na campanha como grupo separado.
 
-Em dezembro esse grupo recebe uma mensagem diferente da base antiga: "você levou X na Black Friday, chegou o complemento". O guia sobre [CRM com WhatsApp](https://avilaops.com/guias/crm-para-pequenas-empresas-com-whatsapp/) mostra como fazer isso sem planilha.
+Em dezembro, quem aceitou receber ofertas nesse grupo recebe uma mensagem diferente da base antiga: "você levou X na Black Friday, chegou o complemento". O guia sobre [CRM com WhatsApp](https://avilaops.com/guias/crm-para-pequenas-empresas-com-whatsapp/) mostra como fazer isso sem planilha.
 
 ## O que fazer agora
 
-Veja se você consegue listar, hoje, quem comprou em outubro e o que levou. A Avila Ops monta o CRM ligado à loja e ao WhatsApp para você saber quantas mensagens viram venda: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Veja se você consegue listar, hoje, quem comprou no último mês e o que levou. A Avila Ops monta o CRM ligado à loja e ao WhatsApp para você saber quantas mensagens viram venda: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
@@ -45,4 +46,4 @@ Clientes que compraram duas vezes ou mais divididos pelo total de clientes, num 
 Vale mais ainda. Salão, oficina e consultório vivem de retorno: saber quando o cliente vai precisar de novo e chamar antes.
 
 **Mandar mensagem para quem já comprou não incomoda?**
-Incomoda quando é genérica e frequente. Uma mensagem no momento certo, sobre o produto que a pessoa comprou, é serviço.
+Incomoda quando é genérica e frequente. Uma mensagem no momento certo, sobre o produto que a pessoa comprou, é serviço. Oferta só para quem aceitou receber, sempre com um jeito fácil de parar, como responder "sair".

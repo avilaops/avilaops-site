@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-06"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-automatizar-whatsapp-da-empresa/", "/guias/frete-atrasado-avisar-antes-de-o-cliente-perguntar/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -28,13 +29,13 @@ Uma loja de calçados manda três mensagens por pedido: "pagamento confirmado, s
 
 ## Como enviar o rastreio sem digitar?
 
-A loja precisa gravar o código no pedido quando a etiqueta é gerada, e uma [automação](https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/) precisa disparar a mensagem quando esse campo é preenchido. Quem gera etiqueta por plataforma de frete costuma ter o código de volta no pedido sozinho. Quem posta no balcão precisa digitar o código no painel, e a mensagem sai a partir daí.
+A loja precisa gravar o código no pedido quando a etiqueta é gerada, e uma [automação](https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/) precisa disparar a mensagem quando esse campo é preenchido. Envio automático no WhatsApp só pela API oficial, com modelo de mensagem aprovado pela Meta e com o cliente tendo aceitado receber. O aplicativo WhatsApp Business não dispara sozinho a partir do pedido. Quem gera etiqueta por plataforma de frete costuma ter o código de volta no pedido sozinho. Quem posta no balcão precisa digitar o código no painel, e a mensagem sai a partir daí.
 
 O segundo passo é consultar o status da transportadora de tempos em tempos e avisar quando muda, principalmente quando atrasa. O guia sobre [frete atrasado](https://avilaops.com/guias/frete-atrasado-avisar-antes-de-o-cliente-perguntar/) mostra como avisar antes de o cliente perguntar.
 
 ## O que fazer agora
 
-Conte quantas mensagens de "cadê meu pedido" você recebeu ontem. Se passou de cinco, o rastreio automático se paga na primeira semana. A Avila Ops liga loja, etiqueta e WhatsApp para o código sair sozinho, e o histórico fica no pedido: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Conte quantas mensagens de "cadê meu pedido" você recebeu ontem. Se passou de cinco, o rastreio automático tende a se pagar rápido. A Avila Ops liga loja, etiqueta e WhatsApp para o código sair sozinho, e o histórico fica no pedido: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-24"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-recompra-e-por-que-ela-e-mais-barata/", "/guias/depois-da-black-friday-o-que-fazer-na-segunda-feira/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -47,7 +48,7 @@ A exceção é o frete. Frete grátis na segunda compra não mexe no valor do pr
 
 ## Como fazer isso com 300 compradores novos?
 
-À mão não dá. A primeira mensagem sai da loja com o rastreio; a segunda precisa saber a data de entrega de cada pedido; a terceira e a quarta dependem de qual produto a pessoa comprou. Isso pede um cadastro que registra produto, data de entrega e etiqueta "Black Friday 2026", e uma automação que dispara cada mensagem na hora certa, com a resposta caindo para uma pessoa. O guia sobre a [segunda-feira depois da Black Friday](https://avilaops.com/guias/depois-da-black-friday-o-que-fazer-na-segunda-feira/) explica a marcação inicial.
+À mão não dá. A primeira mensagem sai da loja com o rastreio; a segunda precisa saber a data de entrega de cada pedido; a terceira e a quarta dependem de qual produto a pessoa comprou. Isso pede um cadastro que registra produto, data de entrega e etiqueta "Black Friday 2026", e uma automação que dispara cada mensagem na hora certa, com a resposta caindo para uma pessoa. No WhatsApp, envio automático só pela API oficial, com modelo aprovado. A terceira e a quarta mensagem já são divulgação: vão só para quem aceitou receber, com um jeito fácil de parar, como responder "sair". O guia sobre a [segunda-feira depois da Black Friday](https://avilaops.com/guias/depois-da-black-friday-o-que-fazer-na-segunda-feira/) explica a marcação inicial.
 
 Numa loja de 300 pedidos, se 20% dos compradores fazem a segunda compra em 60 dias, são 60 pedidos sem custo de anúncio.
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-21"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/frete-atrasado-avisar-antes-de-o-cliente-perguntar/", "/guias/agente-de-ia-no-whatsapp-vale-a-pena-para-pequena-empresa/", "/jornada/"]
 ---
 
@@ -44,7 +45,7 @@ O segundo motivo é a fila sem ordem. Quem grita mais é atendido primeiro, e qu
 
 Que a mensagem chegou, em quanto tempo alguém responde e onde o cliente resolve sozinho o que dá. "Recebemos sua mensagem. Nesta semana respondemos em até 4 horas, das 8h às 20h. Se é sobre o prazo do seu pedido, o rastreio está no link que mandamos após a postagem."
 
-A automação pode ir além: responder a pergunta sobre rastreio com o status atual, sem pessoa, e chamar alguém só quando o assunto é reclamação. O guia sobre [agente de inteligência artificial no WhatsApp](https://avilaops.com/guias/agente-de-ia-no-whatsapp-vale-a-pena-para-pequena-empresa/) mostra onde isso vale a pena e onde ainda não.
+A automação pode ir além: responder a pergunta sobre rastreio com o status atual, sem pessoa, e chamar alguém só quando o assunto é reclamação. Dado de pedido só sai se o número que pergunta é o do pedido ou se a pessoa confirma um código; fora isso, a conversa vai para alguém da equipe. O guia sobre [agente de inteligência artificial no WhatsApp](https://avilaops.com/guias/agente-de-ia-no-whatsapp-vale-a-pena-para-pequena-empresa/) mostra onde isso vale a pena e onde ainda não.
 
 ## Se a reclamação pública já aconteceu?
 

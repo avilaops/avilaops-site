@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Pagamento"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-16"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/pix-que-nao-cai-o-que-checar-antes-de-cancelar/", "/guias/pedido-entrou-e-estoque-nao-bate-e-agora/", "/loja-virtual/"]
 ---
 
@@ -41,7 +42,7 @@ A maioria das plataformas permite definir o tempo de expiração do Pix e o venc
 
 ## O que dizer ao cliente enquanto está pendente?
 
-Uma mensagem automática no momento do pedido, com o que ele precisa fazer e até quando. "Recebemos seu pedido 1234. O Pix vence em 30 minutos; depois disso o pedido é cancelado e você pode fazer outro." Para boleto: "Seu boleto vence em 27/11. O produto fica reservado até lá. Assim que compensar, avisamos e enviamos."
+Uma mensagem automática no momento do pedido, com o que ele precisa fazer e até quando. Pelo WhatsApp, envio automático só pela API oficial, com modelo aprovado e para quem aceitou receber; o e-mail do pedido cobre o resto. "Recebemos seu pedido 1234. O Pix vence em 30 minutos; depois disso o pedido é cancelado e você pode fazer outro." Para boleto: "Seu boleto vence em 27/11. O produto fica reservado até lá. Assim que compensar, avisamos e enviamos."
 
 Dez minutos antes do Pix expirar, um lembrete. Uma parte dos clientes que ia perder o pedido paga com esse lembrete. Depois de expirar, uma última mensagem: "seu pedido expirou; se ainda quiser, o link para refazer é este". Sem cobrança, sem pressão. O que não fazer é mandar "seu pedido está pendente" sem dizer o prazo nem o que acontece.
 
@@ -51,7 +52,7 @@ Nunca envie com pagamento pendente, mesmo com comprovante por mensagem. O que va
 
 A unidade precisa estar reservada, não descontada. Reservada significa que o site mostra uma a menos, mas ela volta sozinha se o pedido expirar. Descontada de vez, sem retorno, é o que gera "estoque zerado" no site com produto na prateleira. O guia sobre [estoque que não bate](https://avilaops.com/guias/pedido-entrou-e-estoque-nao-bate-e-agora/) trata do erro oposto, quando a reserva não existe e o mesmo produto é vendido duas vezes.
 
-Uma loja de bijuterias percebeu na segunda-feira que 40 unidades do brinco mais vendido estavam "esgotadas" no site enquanto 30 pedidos de Pix nunca pagos seguravam a reserva desde sexta. Foram três dias de venda perdida por falta de expiração automática.
+Uma loja de bijuterias percebeu na segunda-feira que 30 unidades do brinco mais vendido estavam "esgotadas" no site enquanto 30 pedidos de Pix nunca pagos seguravam a reserva desde sexta. Foram três dias de venda perdida por falta de expiração automática.
 
 ## O que fazer agora
 
@@ -60,7 +61,7 @@ Abra a configuração de pagamento da sua loja e veja o tempo de expiração do 
 ## Perguntas frequentes
 
 **O cliente pagou o Pix depois que o pedido expirou. E agora?**
-Isso só acontece quando o código Pix vale mais tempo que o pedido; deixe os dois com o mesmo prazo. Se o dinheiro chegou e tem estoque, reative o pedido ou crie outro e envie. Se não tem, devolva na hora e avise. Nunca deixe o valor parado.
+Isso só acontece quando o código Pix vale mais tempo que o pedido; deixe os dois com o mesmo prazo. Se o dinheiro chegou e tem estoque, reative o pedido ou crie outro e envie. Se não tem, devolva na hora, pela própria transação no painel, e avise. Nunca deixe o valor parado.
 
 **Posso cancelar boleto antes do vencimento para liberar estoque?**
 Não sem avisar. O cliente tem até o vencimento para pagar. Se precisa do estoque, encurte o vencimento nos próximos pedidos, não nos que já existem.
