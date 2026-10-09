@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-24"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/comparativos/avila-ops-vs-ferramentas-saas/", "/guias/o-que-cortar-em-janeiro-para-poder-investir/", "/jornada/"]
 ---
 
@@ -71,5 +72,5 @@ Do mês corrente, raramente. De renovação anual recente, alguns serviços devo
 **Vale manter uma ferramenta que uso uma vez por mês?**
 Se ela faz algo que nada mais faz e o valor é pequeno, sim. Se existe outro jeito de fazer aquilo dentro do que você já paga, não. A pergunta é o que ela faz, não quantas vezes.
 
-**Como evitar que a lista cresça de novo em 2027?**
+**Como evitar que a lista cresça de novo no ano que vem?**
 Uma regra: toda assinatura nova entra na tabela no dia da contratação, com nome de quem usa. E o cartão da empresa, não o pessoal. Em junho, revise a tabela. Duas revisões por ano bastam.

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/natal-prazo-de-entrega-e-promessa-que-nao-se-quebra/", "/guias/site-institucional-landing-page-ou-loja-virtual/", "/loja-virtual/"]
 ---
 
@@ -25,7 +26,7 @@ A semana entre 18 e 24 de dezembro concentra quem deixou para a última hora. Es
 Retirada é a opção mais simples e a mais esquecida em loja virtual. O cliente compra e paga pelo site, com Pix na hora, e busca no balcão. Você elimina frete, prazo e extravio. O que precisa existir:
 
 1. Opção "retirar na loja" na tela de fechamento do pedido (checkout), com endereço e horário visíveis.
-2. Uma mensagem automática quando o pedido fica pronto: "seu pedido 1042 está separado, retire até 24/12 às 13h".
+2. Uma mensagem automática quando o pedido fica pronto: "seu pedido 1042 está separado, retire até 24/12 às 13h". Por e-mail, ou pelo WhatsApp só via API oficial, com modelo aprovado e para quem aceitou receber.
 3. Um lugar físico separado para pedidos pagos, com o número do pedido na sacola. Cliente que espera 15 minutos enquanto alguém procura o pacote não volta.
 4. Regra para pedido não retirado: quantos dias guarda, e o que acontece depois. Diga antes.
 
@@ -68,4 +69,4 @@ A venda do vale é um adiantamento; a nota do produto sai quando o vale é usado
 Pode. O cliente paga por Pix, você envia um PDF com código único e anota na planilha. Funciona para poucos vales. Acima de 20 por semana, o controle manual começa a falhar.
 
 **O cliente pode pedir o dinheiro de volta do vale-presente?**
-Se comprou pela internet, tem 7 dias de arrependimento pelo CDC (art. 49). Depois disso, vale a regra que você publicou. Publique a regra antes de vender.
+Se comprou pela internet, tem 7 dias de arrependimento pelo CDC (art. 49), contados do recebimento do vale. Depois disso, vale a regra que você publicou. Publique a regra antes de vender.

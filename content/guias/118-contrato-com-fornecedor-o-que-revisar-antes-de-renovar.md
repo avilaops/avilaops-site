@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-27"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/cancelar-o-que-nao-usa-assinaturas-esquecidas/", "/comparativos/avila-ops-vs-agencia-tradicional/", "/jornada/"]
 ---
 

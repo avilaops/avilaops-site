@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Domínio"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-08"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-um-dominio-e-o-que-acontece-se-ele-vencer/", "/guias/paguei-o-dominio-e-nunca-fiz-o-site/", "/dominio-e-hospedagem/"]
 ---
 

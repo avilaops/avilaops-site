@@ -9,14 +9,15 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-29"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/crm-para-pequenas-empresas-com-whatsapp/", "/guias/o-13-do-cliente-o-mes-em-que-o-dinheiro-existe/", "/crm-para-pequenas-empresas/"]
 ---
 
 # Mensagem de fim de ano que não é corrente de WhatsApp
 
-Mensagem de fim de ano que o cliente lê é a que tem o nome dele, cita uma coisa real que aconteceu entre vocês em 2026 e não pede nada. Três frases, sem imagem genérica, sem "que 2027 seja repleto de realizações". A que ele apaga sem ler é a lista de transmissão com a arte do Canva e o texto que serve para qualquer empresa. A diferença não é criatividade; é saber quem é o cliente.
+Mensagem de fim de ano que o cliente lê é a que tem o nome dele, cita uma coisa real que aconteceu entre vocês no ano e não pede nada. Três frases, sem imagem genérica, sem "que o ano novo seja repleto de realizações". A que ele apaga sem ler é a lista de transmissão com a arte do Canva e o texto que serve para qualquer empresa. A diferença não é criatividade; é saber quem é o cliente.
 
 Entre 26/12 e 31/12 o WhatsApp de todo mundo enche de mensagens iguais. A sua só se destaca pelo conteúdo, e o único conteúdo que a concorrência não copia é a relação que você tem com aquele cliente.
 
@@ -34,9 +35,9 @@ Os modelos abaixo são estrutura, não texto pronto. O que vai entre colchetes �
 
 | Tipo de cliente | Estrutura da mensagem |
 | --- | --- |
-| Cliente recorrente, em dia | "Oi, [nome]. Passando para agradecer por [o que ele fez em 2026: renovou, indicou, esteve toda semana]. Bom descanso e a gente se vê em [data de retomada]." |
+| Cliente recorrente, em dia | "Oi, [nome]. Passando para agradecer por [o que ele fez no ano: renovou, indicou, esteve toda semana]. Bom descanso e a gente se vê em [data de retomada]." |
 | Cliente que comprou uma vez | "Oi, [nome]. Lembrei de você por causa do [produto ou serviço] de [mês]. Espero que tenha [servido, ficado bom, agradado]. Boas festas." |
-| Cliente que teve problema no ano | "Oi, [nome]. Sei que [o que deu errado] não foi como devia. Obrigado por ter tido paciência. Em 2027 a gente [o que mudou]. Boas festas." |
+| Cliente que teve problema no ano | "Oi, [nome]. Sei que [o que deu errado] não foi como devia. Obrigado por ter tido paciência. No ano que vem a gente [o que mudou]. Boas festas." |
 | Cliente que indicou alguém | "Oi, [nome]. [Nome do indicado] chegou aqui por sua causa. Obrigado de verdade. Boas festas." |
 | Cliente que deve | Não manda mensagem de fim de ano. A conversa com ele é outra, e está em [O 13º do cliente](https://avilaops.com/guias/o-13-do-cliente-o-mes-em-que-o-dinheiro-existe/). |
 
@@ -46,7 +47,7 @@ Sobre imagem: se for mandar, que seja uma foto real da equipe ou da loja, deste 
 
 ## Como mandar sem passar o réveillon no celular?
 
-Escolha quem recebe. Não são todos os contatos; são os clientes com quem houve relação em 2026. Para uma empresa pequena, entre 20 e 80 pessoas. Divida em dois ou três dias entre 26 e 30/12, fora do horário de pico, para conseguir responder quem responder.
+Escolha quem recebe. Não são todos os contatos; são os clientes com quem houve relação no ano. Para uma empresa pequena, entre 20 e 80 pessoas. Divida em dois ou três dias entre 26 e 30/12, fora do horário de pico, para conseguir responder quem responder.
 
 Mande de conversa em conversa, no WhatsApp Business, com o histórico aberto ao lado. Se usa CRM, ele abre a conversa já com a última compra e as anotações na tela, e a mensagem sai em um minuto por cliente.
 
@@ -56,7 +57,7 @@ Para clientes pessoa jurídica, o e-mail com o mesmo conteúdo funciona melhor, 
 
 ## O que fazer agora
 
-Liste hoje os clientes que merecem a mensagem e escreva ao lado de cada nome a frase específica. Se a frase não vem, tire da lista. Mande até 30/12, uma por vez. Se você não conseguiu lembrar o que aconteceu com metade deles, é sinal de que o histórico está na cabeça e não no registro, e em 2027 você quer saber quantas mensagens viram venda: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Liste hoje os clientes que merecem a mensagem e escreva ao lado de cada nome a frase específica. Se a frase não vem, tire da lista. Mande até 30/12, uma por vez. Se você não conseguiu lembrar o que aconteceu com metade deles, é sinal de que o histórico está na cabeça e não no registro, e no ano que vem você quer saber quantas mensagens viram venda: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

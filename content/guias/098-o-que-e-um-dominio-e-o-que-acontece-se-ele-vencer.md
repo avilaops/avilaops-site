@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Domínio"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-07"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/dominio/", "/guias/para-que-serve-a-renovacao-automatica/", "/dominio-e-hospedagem/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/glossario/dominio/", "/guias/para-que-serve-a-renovacao-autom
 
 Domínio é o endereço da sua empresa na internet, como suaempresa.com.br. Você não compra um domínio: registra por um período, de um a dez anos, e renova antes de vencer. Se ele vence e não é renovado, o site sai do ar, o e-mail para de chegar e, passado o prazo de carência, qualquer pessoa pode registrar o mesmo nome.
 
-O domínio é a base de tudo que leva o nome dela na internet: site, e-mail, link do cardápio, link da loja. Quem registrou em dezembro de algum ano vence agora, no mês em que ninguém olha e-mail de cobrança.
+O domínio é a base de tudo que leva o nome dela na internet: site, e-mail, link do cardápio, link da loja. Quem registrou em dezembro de algum ano renova em dezembro, no mês em que ninguém olha e-mail de cobrança.
 
 ## O que acontece, dia a dia, quando o domínio vence?
 

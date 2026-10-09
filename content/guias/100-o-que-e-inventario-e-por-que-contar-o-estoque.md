@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-09"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/inventario-de-fim-de-ano-sem-parar-a-operacao/", "/guias/produto-que-vende-muito-e-da-pouco-lucro/", "/sistema-para-pequenas-empresas/"]
 ---
 

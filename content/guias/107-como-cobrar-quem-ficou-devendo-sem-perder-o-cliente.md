@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-16"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/para-que-serve-uma-regua-de-cobranca/", "/guias/negociar-divida-de-cliente-pequeno-o-que-aceitar/", "/jornada/"]
 ---
 
@@ -59,7 +60,7 @@ Guarde o registro de cada contato. Se o caso virar disputa, a sequência de mens
 
 ## O que fazer agora
 
-Liste tudo que venceu desde outubro e ainda não entrou. Mande hoje a primeira mensagem, neutra e com o Pix, para cada um. Marque na agenda o segundo contato para daqui a cinco dias. Se a lista é longa e você não sabe por onde começar, descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Liste tudo que venceu nos últimos três meses e ainda não entrou. Mande hoje a primeira mensagem, neutra e com o Pix, para cada um. Marque na agenda o segundo contato para daqui a cinco dias. Se a lista é longa e você não sabe por onde começar, descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

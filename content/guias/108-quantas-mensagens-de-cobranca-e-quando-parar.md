@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-17"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/para-que-serve-uma-regua-de-cobranca/", "/guias/como-cobrar-quem-ficou-devendo-sem-perder-o-cliente/", "/automatizar-whatsapp/"]
 ---
 
@@ -38,6 +39,8 @@ A sequência com os textos de cada passo está em [Como cobrar quem ficou devend
 | 4 | 7 dias depois | Pergunta se houve problema, oferece ajuste | Sim, com resposta humana |
 | 5 | 15 a 20 dias depois | Prazo final e consequência | Sim, revisado por pessoa |
 | Fim | 30 dias | Ligação ou negociação, ou perda | Não |
+
+No WhatsApp, os passos automáticos só saem pela API oficial, com modelo de mensagem aprovado e para clientes que aceitaram receber lembretes; o aplicativo WhatsApp Business não envia sozinho.
 
 Para a sequência não virar assédio:
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Local"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-13"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/guias/recesso-o-que-pausar-e-o-que-manter-no-ar/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -28,7 +29,7 @@ O que acontece se você não cadastrar: o Google costuma perguntar aos usuários
 
 Aproveite para conferir o restante do perfil, que em dezembro recebe mais visita do que o site: telefone, link do WhatsApp, fotos recentes, e se a categoria principal está certa. O guia [Como faço para minha empresa aparecer no Google](https://avilaops.com/guias/como-faco-para-minha-empresa-aparecer-no-google/) cobre a configuração inteira.
 
-Se você não vai abrir por vários dias, o Google também permite marcar "temporariamente fechado", e você reabre o perfil na volta. O próprio Google indica essa opção só para fechamento de mais de sete dias; até sete, use os horários especiais.
+Se você não vai abrir por vários dias, o Google também permite marcar "temporariamente fechado", e você reabre o perfil na volta. Para feriados e fechamentos de poucos dias, prefira os horários especiais.
 
 ## WhatsApp Business: o que a mensagem automática precisa dizer?
 

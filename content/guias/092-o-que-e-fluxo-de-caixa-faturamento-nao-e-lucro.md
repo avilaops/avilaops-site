@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Dados"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-01"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/fechar-o-ano-cinco-numeros-que-cabem-numa-tela/", "/guias/o-que-e-inadimplencia-e-como-medir-a-sua/", "/sistema-para-pequenas-empresas/"]
 ---
 

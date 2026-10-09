@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-04"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/quem-tem-acesso-ao-que-revisao-de-fim-de-ano/", "/guias/o-que-e-gerenciador-de-senhas/", "/contato/"]
 ---
 
@@ -36,7 +37,7 @@ A regra conhecida como 3-2-1: três cópias, em dois tipos de armazenamento, uma
 
 ## O que fazer agora
 
-Liste o que perderia se o computador principal sumisse hoje. Configure a cópia automática para a nuvem e teste a restauração antes de 24/12. Se não sabe por onde começar, a gente faz o diagnóstico do que está exposto em uma conversa: https://avilaops.com/contato/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Liste o que perderia se o computador principal sumisse hoje. Configure a cópia automática para a nuvem e teste a restauração antes do recesso de fim de ano. Se não sabe por onde começar, a gente faz o diagnóstico do que está exposto em uma conversa: https://avilaops.com/contato/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

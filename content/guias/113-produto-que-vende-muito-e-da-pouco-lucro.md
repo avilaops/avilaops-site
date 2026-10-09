@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-22"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-inventario-e-por-que-contar-o-estoque/", "/guias/fechar-o-ano-cinco-numeros-que-cabem-numa-tela/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -49,14 +50,14 @@ Do mais fácil ao mais difícil:
 
 1. Subir o preço em 5% a 10% e medir. Produto de entrada com demanda alta costuma aguentar mais do que o dono imagina. Se o ganho total do produto (margem por unidade vezes unidades vendidas) subir, ficou melhor.
 2. Vender em combo. A caneca sozinha some do site; entra "caneca + kit" a R$ 79. Quem quer só a caneca ainda compra na loja física, com preço cheio.
-3. Trocar de fornecedor ou negociar lote. Se o produto vende muito, você tem volume para pedir preço. Leve isso para a conversa sobre o contrato de 2027.
+3. Trocar de fornecedor ou negociar lote. Se o produto vende muito, você tem volume para pedir preço. Leve isso para a conversa sobre a renovação do contrato.
 4. Tirar de linha. Só se ele for peso puro: margem baixa, cliente não leva mais nada, não volta, e ocupa estoque. Nesse caso, liquidar em janeiro é lucro, mesmo que pareça prejuízo.
 
 Nada disso é decisão de dezembro. É decisão de janeiro, com o número na mão. Dezembro é o mês de calcular.
 
 ## O que fazer agora
 
-Liste os 20 produtos que mais venderam em 2026 e calcule a margem por unidade de cada um, com a conta de uma linha. Marque os que ficaram abaixo da sua margem média. Para esses, veja o que o cliente leva junto. Se os dados estão espalhados entre maquininha, loja e caderno, sair da planilha sem perder o histórico é o que resolve para 2027: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Liste os 20 produtos que mais venderam no ano e calcule a margem por unidade de cada um, com a conta de uma linha. Marque os que ficaram abaixo da sua margem média. Para esses, veja o que o cliente leva junto. Se os dados estão espalhados entre maquininha, loja e caderno, sair da planilha sem perder o histórico é o que resolve para o ano que vem: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

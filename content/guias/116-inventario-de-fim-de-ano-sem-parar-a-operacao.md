@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-25"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-inventario-e-por-que-contar-o-estoque/", "/guias/produto-que-vende-muito-e-da-pouco-lucro/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -33,6 +34,8 @@ Divida por dois critérios, nesta ordem: valor e giro. Os produtos que somam mai
 | 30/12 | Giro baixo, ponta de estoque, mostruário | Sobra | Qualquer hora |
 | 31/12 | Recontagem das divergências | Conferência | Manhã |
 
+Os dias da semana da tabela são os de 2026; em outro ano, ajuste ao calendário.
+
 Cada grupo precisa caber em duas horas com duas pessoas. Se não cabe, divida de novo. Contagem longa erra por cansaço, e aí você corrige o sistema com um número falso.
 
 Como congelar só o grupo do dia: nada entra nem sai daquele grupo durante a contagem. Se um cliente compra um item do grupo, o vendedor anota em uma folha à parte, e a anotação entra na conta no fim. O resto da loja funciona normal.
@@ -49,7 +52,7 @@ Depois de contar, compare com o controle e marque a divergência por item, em un
 
 O básico sobre por que a diferença importa está em [O que é inventário e por que contar o estoque](https://avilaops.com/guias/o-que-e-inventario-e-por-que-contar-o-estoque/).
 
-## O que fazer com o resultado antes de comprar para 2027?
+## O que fazer com o resultado antes de comprar para o próximo ano?
 
 O resultado puxa três decisões:
 

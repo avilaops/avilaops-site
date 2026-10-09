@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/prevenir-calote-na-hora-da-venda-nao-depois/", "/guias/crm-para-pequenas-empresas-com-whatsapp/", "/jornada/"]
 ---
 
@@ -18,11 +19,11 @@ links_internos: ["/guias/prevenir-calote-na-hora-da-venda-nao-depois/", "/guias/
 
 Cliente que dá trabalho e não dá lucro é o que consome mais atendimento, mais exceção e mais cobrança do que a margem dele paga. Ele não é o cliente exigente; cliente exigente que paga é bom cliente. É o que pede desconto em toda compra, atrasa, pede troca fora da regra e ocupa duas horas de WhatsApp para uma venda de R$ 120. A solução não é demiti-lo no impulso: é mudar a regra para todos, e deixar que a regra faça a seleção.
 
-Identifique agora, com o ano inteiro de histórico na mão, e aplique em janeiro, quando regra nova cabe na virada.
+Identifique no fim do ano, com o ano inteiro de histórico na mão, e aplique em janeiro, quando regra nova cabe na virada.
 
 ## Como identificar pelos números e não pela irritação?
 
-A sensação engana. O cliente que reclama alto fica na memória; o que silenciosamente atrasa toda parcela e pede desconto toda vez, não. Pegue os 30 clientes que mais compraram em 2026 e, para cada um, três colunas:
+A sensação engana. O cliente que reclama alto fica na memória; o que silenciosamente atrasa toda parcela e pede desconto toda vez, não. Pegue os 30 clientes que mais compraram no ano e, para cada um, três colunas:
 
 | Coluna | De onde sai | Sinal de alerta |
 | --- | --- | --- |

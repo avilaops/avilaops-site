@@ -9,14 +9,15 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-15"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/recesso-o-que-pausar-e-o-que-manter-no-ar/", "/guias/como-automatizar-whatsapp-da-empresa/", "/automatizar-whatsapp/"]
 ---
 
 # Plantão de fim de ano com equipe reduzida
 
-Plantão de fim de ano não é alguém atendendo o dia inteiro. É uma pessoa por dia, em um horário fixo de uma hora, fazendo só o que a automação não faz: confirmar pedido pago com dúvida, resolver reclamação urgente e decidir exceção. Todo o resto (saudação, horário, link de pagamento, status de pedido) o WhatsApp Business e a loja resolvem sozinhos.
+Plantão de fim de ano não é alguém atendendo o dia inteiro. É uma pessoa por dia, em um horário fixo de uma hora, fazendo só o que a automação não faz: confirmar pedido pago com dúvida, resolver reclamação urgente e decidir exceção. Todo o resto (saudação, horário, link de pagamento, status de pedido) as mensagens automáticas do WhatsApp Business e a loja resolvem sozinhas.
 
 Empresa pequena costuma errar para os dois lados. Ou o dono fica de plantão 24 horas e chega em janeiro esgotado, ou ninguém olha nada e o cliente que pagou no dia 26 fica sem resposta até o dia 5. O plantão de uma hora resolve os dois: tem alguém, e esse alguém tem vida.
 
@@ -25,7 +26,7 @@ Empresa pequena costuma errar para os dois lados. Ou o dono fica de plantão 24 
 A lista precisa estar escrita, porque quem está de plantão no dia 28 pode não ser quem está no dia 30. Uma hora por dia, sempre no mesmo horário, por exemplo das 10h às 11h:
 
 1. Abrir o WhatsApp Business e separar as conversas em três: pedido ou pagamento, reclamação, resto. As etiquetas do próprio app servem.
-2. Responder pedido e pagamento primeiro. "Recebemos seu Pix, pedido sai em 05/01" leva um minuto e evita um estorno.
+2. Responder pedido e pagamento primeiro. "Recebemos seu Pix, pedido sai em 05/01" leva um minuto e evita um estorno. Confirme o Pix no extrato, não no comprovante, e só passe dados do pedido se o número for o do cadastro do pedido ou se a pessoa confirmar o código do pedido.
 3. Responder reclamação com uma solução ou uma data. Nunca com "vou verificar" sem prazo.
 4. Deixar o resto para a volta, sem culpa. A mensagem de ausência já disse quando a resposta chega.
 5. Conferir se a loja vendeu e se algum pedido ficou com pagamento pendente por mais de um dia.
@@ -35,7 +36,7 @@ O que o plantonista não faz: negociar dívida, prometer entrega antes da retoma
 
 ## O que o robô faz enquanto ninguém olha?
 
-O WhatsApp Business gratuito já resolve a primeira camada: mensagem de saudação, mensagem de ausência com as datas e respostas rápidas para as perguntas que se repetem (horário, endereço, "vocês entregam?"). Configure e teste enviando uma mensagem de outro número.
+O WhatsApp Business gratuito já resolve a primeira camada: mensagem de saudação e mensagem de ausência com as datas, que saem sozinhas. As respostas rápidas para as perguntas que se repetem (horário, endereço, "vocês entregam?") são atalhos que o plantonista dispara à mão, e encurtam a hora dele. Configure e teste enviando uma mensagem de outro número.
 
 A segunda camada é a automação de verdade, que funciona sem ninguém no plantão:
 

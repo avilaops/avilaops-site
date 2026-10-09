@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-26"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-gerenciador-de-senhas/", "/guias/o-que-e-verificacao-em-duas-etapas/", "/contato/"]
 ---
 
@@ -58,7 +59,7 @@ A lista feita em dezembro vira o documento de entrada e saída de pessoas. Entro
 
 Guarde a lista no gerenciador de senhas ou em um documento que só o dono e mais uma pessoa de confiança acessam. A lista de acessos é, por definição, o mapa do que proteger. Não vai para o grupo.
 
-Uma revisão de dez minutos a cada trimestre, só conferindo se a coluna "quem entra" ainda está certa, evita que a tarde de dezembro de 2027 comece do zero.
+Uma revisão de dez minutos a cada trimestre, só conferindo se a coluna "quem entra" ainda está certa, evita que a tarde do próximo dezembro comece do zero.
 
 ## O que fazer agora
 
