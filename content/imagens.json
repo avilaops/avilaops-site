@@ -1069,5 +1069,50 @@
     "height": 800,
     "section": "O que é peso cúbico e por que ele manda?",
     "position": 2
+  },
+  {
+    "slug": "o-que-e-remarketing-anuncio-para-quem-ja-visitou",
+    "src": "/editorial/guias/o-que-e-remarketing-anuncio-para-quem-ja-visitou.webp",
+    "alt": "Cartaz editorial com o título “O que é remarketing, o anúncio para quem já visitou” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "preco-de-referencia-regra-que-evita-multa-procon",
+    "src": "/editorial/guias/preco-de-referencia-regra-que-evita-multa-procon.webp",
+    "alt": "Cartaz editorial com o título “Preço de referência: a regra que evita multa do Procon” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "prazo-de-entrega-como-prometer-o-que-se-cumpre",
+    "src": "/editorial/guias/prazo-de-entrega-como-prometer-o-que-se-cumpre.webp",
+    "alt": "Cartaz editorial com o título “Prazo de entrega: como prometer o que se cumpre” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "golpe-do-comprovante-falso-de-pix",
+    "src": "/editorial/guias/golpe-do-comprovante-falso-de-pix.webp",
+    "alt": "Cartaz editorial com o título “Golpe do comprovante falso de Pix: como se proteger” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
+  },
+  {
+    "slug": "orcamento-de-anuncio-quanto-colocar-sem-quebrar",
+    "src": "/editorial/guias/orcamento-de-anuncio-quanto-colocar-sem-quebrar.webp",
+    "alt": "Cartaz editorial com o título “Orçamento de anúncio: quanto colocar sem quebrar” e formas azul, vermelha e amarela da Avila Ops.",
+    "width": 1200,
+    "height": 630,
+    "position": 1,
+    "section": "Abertura do guia"
   }
 ]

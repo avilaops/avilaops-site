@@ -9,14 +9,15 @@ bloco: "pratica"
 puxa: "Anúncios"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-30"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/", "/guias/o-que-e-remarketing-anuncio-para-quem-ja-visitou/", "/meta-ads-para-empresas/"]
 ---
 
 # Orçamento de anúncio: quanto colocar sem quebrar
 
-O orçamento de anúncio que não quebra sai de duas contas: quanto você ganha por venda, depois de todos os custos, e quanto custa uma venda vinda de anúncio, medido nas suas campanhas anteriores. Se cada venda deixa R$ 40 de margem e cada venda por anúncio custa R$ 25, o anúncio se paga e o orçamento pode subir enquanto essa relação se mantiver. Se custa R$ 50, o anúncio está comprando prejuízo, e mais orçamento é mais prejuízo.
+O orçamento de anúncio que não quebra sai de duas contas: quanto você ganha por venda, depois de todos os custos, e quanto custa uma venda vinda de anúncio, medido nas suas campanhas anteriores. Se cada venda deixa R$ 40 de margem e cada venda por anúncio custa R$ 15, abaixo do teto de metade da margem, o anúncio se paga e o orçamento pode subir enquanto essa relação se mantiver. Se custa R$ 50, o anúncio está comprando prejuízo, e mais orçamento é mais prejuízo.
 
 Quem nunca mediu não tem a segunda conta. Rode um anúncio pequeno em outubro, com o pixel instalado, e chegue em novembro sabendo quanto custa uma venda. Definir orçamento de Black Friday no chute é a forma mais rápida de gastar R$ 3 mil para vender R$ 2 mil.
 
@@ -45,7 +46,7 @@ Se você vende por WhatsApp e não pela loja, a medida é o custo por conversa i
 
 ## O que fazer com o orçamento na campanha?
 
-Dividir em três: para quem já visitou ou comprou, o público mais barato por venda, conforme o guia sobre [remarketing](https://avilaops.com/guias/o-que-e-remarketing-anuncio-para-quem-ja-visitou/), vai a maior parte que esse público comportar sem repetir demais o anúncio para as mesmas pessoas; uma parte para público novo parecido com quem já comprou; e uma parte pequena para teste de criativo. Lembre que o orçamento diário da Meta é uma média: num dia, ela pode gastar até 75% a mais. Para um teto rígido num dia de muitos cliques e poucas vendas, use o orçamento total da campanha ou o limite de gastos da conta.
+Dividir em três: para quem já visitou ou comprou, o público mais barato por venda, conforme o guia sobre [remarketing](https://avilaops.com/guias/o-que-e-remarketing-anuncio-para-quem-ja-visitou/), vai a maior parte que esse público comportar sem repetir demais o anúncio para as mesmas pessoas; uma parte para público novo parecido com quem já comprou; e uma parte pequena para teste de criativo. Lembre que o orçamento diário da Meta é uma média: num dia, ela pode gastar até 75% a mais. Para um teto rígido no total, use o orçamento total da campanha ou o limite de gastos da conta; nenhum deles trava o gasto de um único dia, então acompanhe o custo por venda diariamente no pico.
 
 Uma loja de acessórios roda R$ 20 por dia em outubro, por 12 dias: gasta R$ 240, faz 11 vendas, custo por venda de R$ 22. A margem por pedido é R$ 55, o teto é R$ 27. Em novembro, ela começa com R$ 60 por dia, sobe para R$ 100 quando o custo por venda fica em R$ 24, e para de subir quando ele bate R$ 28.
 

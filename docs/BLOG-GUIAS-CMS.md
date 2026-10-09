@@ -180,3 +180,11 @@ Os guias 046, 059 e 060 continuam sem capa; 040 e 044 ainda não têm imagens.
 
 A biblioteca passa a ter 90 artigos. Foram gerados os previews das novas
 páginas de listagem (Blog e Guias 9 e 10, Operação página 3).
+
+Na sequência, os guias 040, 044, 046, 059 e 060 também foram aprovados para
+09/10/2026, com capa tipográfica gerada por `npm run editorial:previews`
+(mesmo padrão das 17 capas anteriores); 046, 059 e 060 mantêm a imagem
+interna já produzida. A checagem de fatos corrigiu dois pontos do 060: o
+exemplo de custo por venda (R$ 15, abaixo do teto de metade da margem) e o
+orçamento total da Meta, que limita o período inteiro, não um único dia.
+A biblioteca passa a ter 95 artigos, com novas páginas 11 no Blog e nos Guias.

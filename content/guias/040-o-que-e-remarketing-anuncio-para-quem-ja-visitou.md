@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Anúncios"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/pixel-da-meta/", "/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/meta-ads-para-empresas/"]
 ---
 

@@ -298,5 +298,47 @@
     "title": "Operação",
     "kind": "listagem",
     "bytes": 34328
+  },
+  {
+    "path": "/editorial/guias/o-que-e-remarketing-anuncio-para-quem-ja-visitou.webp",
+    "title": "O que é remarketing, o anúncio para quem já visitou",
+    "kind": "capa tipográfica",
+    "bytes": 36082
+  },
+  {
+    "path": "/editorial/guias/preco-de-referencia-regra-que-evita-multa-procon.webp",
+    "title": "Preço de referência: a regra que evita multa do Procon",
+    "kind": "capa tipográfica",
+    "bytes": 33776
+  },
+  {
+    "path": "/editorial/guias/prazo-de-entrega-como-prometer-o-que-se-cumpre.webp",
+    "title": "Prazo de entrega: como prometer o que se cumpre",
+    "kind": "capa tipográfica",
+    "bytes": 34930
+  },
+  {
+    "path": "/editorial/guias/golpe-do-comprovante-falso-de-pix.webp",
+    "title": "Golpe do comprovante falso de Pix: como se proteger",
+    "kind": "capa tipográfica",
+    "bytes": 34332
+  },
+  {
+    "path": "/editorial/guias/orcamento-de-anuncio-quanto-colocar-sem-quebrar.webp",
+    "title": "Orçamento de anúncio: quanto colocar sem quebrar",
+    "kind": "capa tipográfica",
+    "bytes": 38070
+  },
+  {
+    "path": "/og/editorial/blog-pagina-11-v1.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 39426
+  },
+  {
+    "path": "/og/editorial/guias-pagina-11-v1.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 45308
   }
 ]

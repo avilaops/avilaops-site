@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-10-16"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-escolher-transportadora-preco-prazo-problema/", "/guias/separacao-de-pedido-processo-que-evita-erro/", "/sistema-para-pequenas-empresas/"]
 ---
 
