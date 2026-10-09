@@ -4,6 +4,7 @@ import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { getPosts } from "@/lib/editorial/repository";
 import { type Post, headings } from "@/lib/editorial/model";
+import EditorialTable from "./EditorialTable";
 
 export default function MarkdownBody({ post }: { post: Post }) {
   const published = new Set(getPosts().map(item => `/guias/${item.slug}/`));
@@ -34,7 +35,7 @@ export default function MarkdownBody({ post }: { post: Post }) {
             }
             return <a href={url} rel="noopener noreferrer">{children}</a>;
           },
-          table: ({ children }) => <div className="editorial-table" tabIndex={0} role="region" aria-label="Tabela do artigo"><table>{children}</table></div>,
+          table: ({ children }) => <EditorialTable>{children}</EditorialTable>,
           img: () => null, // Imagens vêm do contrato validado, com alt e dimensões.
         }}>{block}</Markdown>
         {illustration && <figure><Image src={illustration.src} alt={illustration.alt} width={illustration.width} height={illustration.height} loading="lazy" sizes="(max-width: 800px) 100vw, 760px" /><figcaption>{illustration.alt}</figcaption></figure>}
