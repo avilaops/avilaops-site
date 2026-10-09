@@ -340,5 +340,1685 @@
     "title": "Atendimento",
     "kind": "listagem",
     "bytes": 33262
+  },
+  {
+    "path": "/editorial/guias/o-que-e-lead-e-quando-vira-cliente.webp",
+    "title": "O que é lead e quando ele vira cliente",
+    "kind": "capa tipográfica",
+    "bytes": 28300
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-qualificar-antes-de-atender.webp",
+    "title": "Para que serve qualificar o lead antes de atender",
+    "kind": "capa tipográfica",
+    "bytes": 36166
+  },
+  {
+    "path": "/editorial/guias/atendimento-automatizado-onde-ele-para.webp",
+    "title": "O que é atendimento automatizado e onde ele para",
+    "kind": "capa tipográfica",
+    "bytes": 35780
+  },
+  {
+    "path": "/editorial/guias/o-que-e-cobranca-recorrente.webp",
+    "title": "O que é cobrança recorrente (assinatura mensal)",
+    "kind": "capa tipográfica",
+    "bytes": 32842
+  },
+  {
+    "path": "/editorial/guias/email-caindo-no-spam-sem-saber.webp",
+    "title": "Seu e-mail está caindo no spam e você não sabe",
+    "kind": "capa tipográfica",
+    "bytes": 37274
+  },
+  {
+    "path": "/editorial/guias/dominio-novo-aquecer-antes-de-disparar.webp",
+    "title": "Domínio novo: aquecer antes de disparar e-mail",
+    "kind": "capa tipográfica",
+    "bytes": 34484
+  },
+  {
+    "path": "/editorial/guias/lista-comprada-destroi-a-entrega.webp",
+    "title": "Lista de e-mail comprada: por que destrói a entrega",
+    "kind": "capa tipográfica",
+    "bytes": 33470
+  },
+  {
+    "path": "/editorial/guias/abertura-caiu-o-que-investigar.webp",
+    "title": "Abertura de e-mail caiu: o que investigar primeiro",
+    "kind": "capa tipográfica",
+    "bytes": 36490
+  },
+  {
+    "path": "/editorial/guias/frequencia-de-envio-pouco-ou-demais.webp",
+    "title": "Frequência de envio de e-mail: pouco e demais",
+    "kind": "capa tipográfica",
+    "bytes": 34290
+  },
+  {
+    "path": "/editorial/guias/assunto-de-email-que-faz-abrir.webp",
+    "title": "Assunto de e-mail que faz abrir: regras e exemplos",
+    "kind": "capa tipográfica",
+    "bytes": 33386
+  },
+  {
+    "path": "/editorial/guias/descadastro-protege-a-entrega.webp",
+    "title": "Descadastro fácil protege a entrega do seu e-mail",
+    "kind": "capa tipográfica",
+    "bytes": 38106
+  },
+  {
+    "path": "/editorial/guias/assinatura-de-email-que-trabalha.webp",
+    "title": "Assinatura de e-mail que trabalha por você",
+    "kind": "capa tipográfica",
+    "bytes": 32920
+  },
+  {
+    "path": "/editorial/guias/quantas-mensagens-ate-a-venda.webp",
+    "title": "Quantas mensagens até a venda: a conta que muda tudo",
+    "kind": "capa tipográfica",
+    "bytes": 38076
+  },
+  {
+    "path": "/editorial/guias/onde-o-cliente-trava-achar-o-gargalo.webp",
+    "title": "Onde o cliente trava: achar o gargalo do funil",
+    "kind": "capa tipográfica",
+    "bytes": 31252
+  },
+  {
+    "path": "/editorial/guias/contato-que-nao-responde-quando-encerrar.webp",
+    "title": "Contato que não responde: quando encerrar",
+    "kind": "capa tipográfica",
+    "bytes": 35108
+  },
+  {
+    "path": "/editorial/guias/perguntas-antes-de-mandar-orcamento.webp",
+    "title": "Perguntas que poupam tempo antes do orçamento",
+    "kind": "capa tipográfica",
+    "bytes": 35392
+  },
+  {
+    "path": "/editorial/guias/tempo-de-resposta-numero-que-afeta-a-venda.webp",
+    "title": "Tempo de resposta: o número que mais afeta a venda",
+    "kind": "capa tipográfica",
+    "bytes": 33636
+  },
+  {
+    "path": "/editorial/guias/fora-do-horario-o-que-responder-as-23h.webp",
+    "title": "Fora do horário: o que responder no WhatsApp às 23h",
+    "kind": "capa tipográfica",
+    "bytes": 38934
+  },
+  {
+    "path": "/editorial/guias/roteiro-de-atendimento-que-nao-engessa.webp",
+    "title": "Roteiro de atendimento que não engessa a conversa",
+    "kind": "capa tipográfica",
+    "bytes": 36466
+  },
+  {
+    "path": "/editorial/guias/objecao-de-preco-tres-respostas.webp",
+    "title": "Objeção de preço: as três respostas que funcionam",
+    "kind": "capa tipográfica",
+    "bytes": 34072
+  },
+  {
+    "path": "/editorial/guias/orcamento-por-whatsapp-sem-virar-leilao.webp",
+    "title": "Orçamento por WhatsApp sem virar leilão de preço",
+    "kind": "capa tipográfica",
+    "bytes": 37890
+  },
+  {
+    "path": "/editorial/guias/link-de-pagamento-no-whatsapp-com-seguranca.webp",
+    "title": "Link de pagamento no WhatsApp com segurança",
+    "kind": "capa tipográfica",
+    "bytes": 35056
+  },
+  {
+    "path": "/editorial/guias/o-que-e-lgpd-a-quem-se-aplica.webp",
+    "title": "O que é a LGPD e a quem ela se aplica",
+    "kind": "capa tipográfica",
+    "bytes": 31032
+  },
+  {
+    "path": "/editorial/guias/o-que-e-dado-pessoal-na-pratica.webp",
+    "title": "O que é dado pessoal, na prática",
+    "kind": "capa tipográfica",
+    "bytes": 34360
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-politica-de-privacidade.webp",
+    "title": "Para que serve uma política de privacidade",
+    "kind": "capa tipográfica",
+    "bytes": 33314
+  },
+  {
+    "path": "/editorial/guias/o-que-e-consentimento-e-como-registrar.webp",
+    "title": "O que é consentimento na LGPD e como registrar",
+    "kind": "capa tipográfica",
+    "bytes": 32496
+  },
+  {
+    "path": "/editorial/guias/titular-dos-dados-quem-e-e-direitos.webp",
+    "title": "Titular dos dados: quem é e quais direitos tem",
+    "kind": "capa tipográfica",
+    "bytes": 35200
+  },
+  {
+    "path": "/editorial/guias/o-que-e-vazamento-de-dados.webp",
+    "title": "O que é vazamento de dados e como acontece",
+    "kind": "capa tipográfica",
+    "bytes": 34716
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-o-aviso-de-cookies.webp",
+    "title": "Para que serve o aviso de cookies no site",
+    "kind": "capa tipográfica",
+    "bytes": 30600
+  },
+  {
+    "path": "/editorial/guias/o-que-sao-termos-de-servico.webp",
+    "title": "O que são termos de serviço e o que colocar neles",
+    "kind": "capa tipográfica",
+    "bytes": 37526
+  },
+  {
+    "path": "/editorial/guias/o-que-e-cadeado-do-navegador-certificado-ssl.webp",
+    "title": "O que é o cadeado do navegador (certificado SSL)",
+    "kind": "capa tipográfica",
+    "bytes": 36696
+  },
+  {
+    "path": "/editorial/guias/o-que-e-registro-de-marca-no-inpi.webp",
+    "title": "O que é registro de marca no INPI",
+    "kind": "capa tipográfica",
+    "bytes": 29286
+  },
+  {
+    "path": "/editorial/guias/dia-do-consumidor-como-nao-virar-exemplo-ruim.webp",
+    "title": "Dia do Consumidor: como não virar o exemplo ruim",
+    "kind": "capa tipográfica",
+    "bytes": 36828
+  },
+  {
+    "path": "/editorial/guias/lgpd-para-quem-tem-tres-funcionarios.webp",
+    "title": "LGPD para quem tem três funcionários",
+    "kind": "capa tipográfica",
+    "bytes": 33588
+  },
+  {
+    "path": "/editorial/guias/dado-de-cliente-no-whatsapp-pessoal-do-funcionario.webp",
+    "title": "Dado de cliente no WhatsApp pessoal do funcionário",
+    "kind": "capa tipográfica",
+    "bytes": 34302
+  },
+  {
+    "path": "/editorial/guias/vazamento-o-que-fazer-nas-primeiras-24-horas.webp",
+    "title": "Vazamento de dados: o que fazer nas primeiras 24 horas",
+    "kind": "capa tipográfica",
+    "bytes": 39270
+  },
+  {
+    "path": "/editorial/guias/reclamacao-publica-responder-apagar-ou-ignorar.webp",
+    "title": "Reclamação pública: responder, apagar ou ignorar",
+    "kind": "capa tipográfica",
+    "bytes": 36304
+  },
+  {
+    "path": "/editorial/guias/nota-1-no-google-roteiro-de-resposta.webp",
+    "title": "Nota 1 no Google: o roteiro de resposta",
+    "kind": "capa tipográfica",
+    "bytes": 29872
+  },
+  {
+    "path": "/editorial/guias/avaliacao-falsa-como-denunciar.webp",
+    "title": "Avaliação falsa no Google: como denunciar",
+    "kind": "capa tipográfica",
+    "bytes": 35554
+  },
+  {
+    "path": "/editorial/guias/pedir-avaliacao-sem-constranger.webp",
+    "title": "Pedir avaliação no Google sem constranger",
+    "kind": "capa tipográfica",
+    "bytes": 34030
+  },
+  {
+    "path": "/editorial/guias/historia-de-cliente-como-escrever-com-autorizacao.webp",
+    "title": "História de cliente: como escrever com autorização",
+    "kind": "capa tipográfica",
+    "bytes": 37724
+  },
+  {
+    "path": "/editorial/guias/selo-certificado-e-premio-valem-alguma-coisa.webp",
+    "title": "Selo, certificado e prêmio valem alguma coisa?",
+    "kind": "capa tipográfica",
+    "bytes": 35008
+  },
+  {
+    "path": "/editorial/guias/pagina-de-contato-que-gera-confianca.webp",
+    "title": "Página de contato que gera confiança",
+    "kind": "capa tipográfica",
+    "bytes": 32120
+  },
+  {
+    "path": "/editorial/guias/sobre-nos-a-pagina-mais-lida-e-malfeita.webp",
+    "title": "Sobre nós: a página mais lida e mais malfeita",
+    "kind": "capa tipográfica",
+    "bytes": 35786
+  },
+  {
+    "path": "/editorial/guias/foto-de-gente-real-x-banco-de-imagem.webp",
+    "title": "Foto de gente real x foto de banco de imagem",
+    "kind": "capa tipográfica",
+    "bytes": 33874
+  },
+  {
+    "path": "/editorial/guias/endereco-comercial-em-casa-como-parecer-profissional.webp",
+    "title": "Endereço comercial em casa: como parecer profissional",
+    "kind": "capa tipográfica",
+    "bytes": 34810
+  },
+  {
+    "path": "/editorial/guias/cnpj-no-rodape-por-que-faz-diferenca.webp",
+    "title": "CNPJ no rodapé do site: por que faz diferença",
+    "kind": "capa tipográfica",
+    "bytes": 35410
+  },
+  {
+    "path": "/editorial/guias/atendimento-que-resolve-na-primeira-mensagem.webp",
+    "title": "Atendimento que resolve na primeira mensagem",
+    "kind": "capa tipográfica",
+    "bytes": 34372
+  },
+  {
+    "path": "/editorial/guias/o-contato-depois-da-venda-que-ninguem-faz.webp",
+    "title": "O contato depois da venda que ninguém faz",
+    "kind": "capa tipográfica",
+    "bytes": 30788
+  },
+  {
+    "path": "/editorial/guias/garantia-como-oferecer-sem-se-expor.webp",
+    "title": "Garantia: como oferecer sem se expor",
+    "kind": "capa tipográfica",
+    "bytes": 36348
+  },
+  {
+    "path": "/editorial/guias/recusar-trabalho-com-elegancia.webp",
+    "title": "Recusar trabalho com elegância",
+    "kind": "capa tipográfica",
+    "bytes": 32004
+  },
+  {
+    "path": "/editorial/guias/preco-publico-no-site-mostrar-ou-nao.webp",
+    "title": "Preço público no site: mostrar ou não",
+    "kind": "capa tipográfica",
+    "bytes": 30638
+  },
+  {
+    "path": "/editorial/guias/o-que-e-seo-dito-em-portugues.webp",
+    "title": "O que é SEO, dito em português",
+    "kind": "capa tipográfica",
+    "bytes": 33212
+  },
+  {
+    "path": "/editorial/guias/o-que-e-indexacao-pagina-nao-existe-google.webp",
+    "title": "O que é indexação e por que sua página some do Google",
+    "kind": "capa tipográfica",
+    "bytes": 38786
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-o-sitemap.webp",
+    "title": "Para que serve o mapa do site (sitemap)",
+    "kind": "capa tipográfica",
+    "bytes": 30374
+  },
+  {
+    "path": "/editorial/guias/o-que-e-robots-txt.webp",
+    "title": "O que é o arquivo robots.txt",
+    "kind": "capa tipográfica",
+    "bytes": 31578
+  },
+  {
+    "path": "/editorial/guias/o-que-e-palavra-chave-como-descobrir.webp",
+    "title": "O que é palavra-chave e como descobrir a sua",
+    "kind": "capa tipográfica",
+    "bytes": 34512
+  },
+  {
+    "path": "/editorial/guias/o-que-e-intencao-de-busca.webp",
+    "title": "O que é intenção de busca",
+    "kind": "capa tipográfica",
+    "bytes": 28068
+  },
+  {
+    "path": "/editorial/guias/o-que-e-link-interno-por-que-importa.webp",
+    "title": "O que é link interno e por que ele importa",
+    "kind": "capa tipográfica",
+    "bytes": 32744
+  },
+  {
+    "path": "/editorial/guias/titulo-e-descricao-que-aparecem-no-google.webp",
+    "title": "Título e descrição que aparecem no Google: o que são",
+    "kind": "capa tipográfica",
+    "bytes": 37414
+  },
+  {
+    "path": "/editorial/guias/o-que-e-search-console.webp",
+    "title": "O que é o Search Console, o painel do Google para sites",
+    "kind": "capa tipográfica",
+    "bytes": 35168
+  },
+  {
+    "path": "/editorial/guias/o-que-e-llms-txt.webp",
+    "title": "O que é o arquivo llms.txt e para que serve",
+    "kind": "capa tipográfica",
+    "bytes": 34004
+  },
+  {
+    "path": "/editorial/guias/search-console-relatorio-o-que-consertar.webp",
+    "title": "Search Console: o relatório que diz o que consertar",
+    "kind": "capa tipográfica",
+    "bytes": 35922
+  },
+  {
+    "path": "/editorial/guias/impressao-clique-posicao-numeros-que-importam.webp",
+    "title": "Impressão, clique e posição: os números que importam",
+    "kind": "capa tipográfica",
+    "bytes": 34638
+  },
+  {
+    "path": "/editorial/guias/pagina-nao-indexa-cinco-causas.webp",
+    "title": "Sua página não indexa: as cinco causas comuns",
+    "kind": "capa tipográfica",
+    "bytes": 37518
+  },
+  {
+    "path": "/editorial/guias/uma-pagina-por-pergunta-do-cliente.webp",
+    "title": "Uma página por pergunta que o cliente faz",
+    "kind": "capa tipográfica",
+    "bytes": 32870
+  },
+  {
+    "path": "/editorial/guias/palavra-chave-longa-negocio-de-bairro.webp",
+    "title": "Palavra-chave longa para negócio de bairro",
+    "kind": "capa tipográfica",
+    "bytes": 31474
+  },
+  {
+    "path": "/editorial/guias/conteudo-raso-300-palavras-nao-rendem.webp",
+    "title": "Conteúdo raso: por que 300 palavras não rendem",
+    "kind": "capa tipográfica",
+    "bytes": 37920
+  },
+  {
+    "path": "/editorial/guias/atualizar-texto-antigo-rende-mais.webp",
+    "title": "Atualizar texto antigo rende mais que escrever novo",
+    "kind": "capa tipográfica",
+    "bytes": 36528
+  },
+  {
+    "path": "/editorial/guias/duas-paginas-brigando-pela-mesma-busca.webp",
+    "title": "Duas páginas brigando pela mesma busca",
+    "kind": "capa tipográfica",
+    "bytes": 31870
+  },
+  {
+    "path": "/editorial/guias/escrever-para-pessoa-e-ia-ao-mesmo-tempo.webp",
+    "title": "Escrever para pessoa e para IA ao mesmo tempo",
+    "kind": "capa tipográfica",
+    "bytes": 37526
+  },
+  {
+    "path": "/editorial/guias/o-que-faz-ia-citar-sua-empresa.webp",
+    "title": "O que faz uma inteligência artificial citar a sua empresa",
+    "kind": "capa tipográfica",
+    "bytes": 37002
+  },
+  {
+    "path": "/editorial/guias/perguntas-frequentes-que-respondem-busca-real.webp",
+    "title": "Perguntas frequentes que respondem busca real",
+    "kind": "capa tipográfica",
+    "bytes": 33190
+  },
+  {
+    "path": "/editorial/guias/glossario-no-site-por-que-traz-gente.webp",
+    "title": "Glossário no site: por que ele traz gente",
+    "kind": "capa tipográfica",
+    "bytes": 33930
+  },
+  {
+    "path": "/editorial/guias/pagina-de-comparacao-quem-ja-esta-decidindo.webp",
+    "title": "Página de comparação: capturar quem já está decidindo",
+    "kind": "capa tipográfica",
+    "bytes": 38210
+  },
+  {
+    "path": "/editorial/guias/site-de-pagina-unica-quando-limita-alcance.webp",
+    "title": "Site de página única: quando limita o alcance",
+    "kind": "capa tipográfica",
+    "bytes": 31458
+  },
+  {
+    "path": "/editorial/guias/blog-no-dominio-proprio-nao-em-plataforma-alugada.webp",
+    "title": "Blog no domínio próprio, não em plataforma alugada",
+    "kind": "capa tipográfica",
+    "bytes": 38552
+  },
+  {
+    "path": "/editorial/guias/velocidade-no-celular-o-que-google-mede.webp",
+    "title": "Velocidade no celular: o que o Google mede",
+    "kind": "capa tipográfica",
+    "bytes": 33352
+  },
+  {
+    "path": "/editorial/guias/pascoa-e-datas-curtas-campanha-duas-semanas.webp",
+    "title": "Páscoa e datas curtas: campanha de duas semanas",
+    "kind": "capa tipográfica",
+    "bytes": 33962
+  },
+  {
+    "path": "/editorial/guias/calendario-de-conteudo-que-sobrevive-a-correria.webp",
+    "title": "Calendário de conteúdo que sobrevive à correria",
+    "kind": "capa tipográfica",
+    "bytes": 37602
+  },
+  {
+    "path": "/editorial/guias/pagina-de-categoria-mais-visitada-menos-cuidada.webp",
+    "title": "Página de categoria: a mais visitada e a menos cuidada",
+    "kind": "capa tipográfica",
+    "bytes": 37542
+  },
+  {
+    "path": "/editorial/guias/revisar-texto-de-ia-vicios-que-entregam.webp",
+    "title": "Revisar texto de IA: os vícios que entregam",
+    "kind": "capa tipográfica",
+    "bytes": 31426
+  },
+  {
+    "path": "/editorial/guias/o-que-e-fidelizacao-sem-programa-de-pontos.webp",
+    "title": "O que é fidelização, sem programa de pontos",
+    "kind": "capa tipográfica",
+    "bytes": 35846
+  },
+  {
+    "path": "/editorial/guias/o-que-e-indicacao-por-que-custa-menos.webp",
+    "title": "O que é indicação e por que ela custa menos",
+    "kind": "capa tipográfica",
+    "bytes": 34324
+  },
+  {
+    "path": "/editorial/guias/o-que-e-ciclo-de-vida-do-cliente.webp",
+    "title": "O que é ciclo de vida do cliente",
+    "kind": "capa tipográfica",
+    "bytes": 28494
+  },
+  {
+    "path": "/editorial/guias/o-que-e-identidade-visual-o-que-entra.webp",
+    "title": "O que é identidade visual e o que entra nela",
+    "kind": "capa tipográfica",
+    "bytes": 34300
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-um-manual-de-marca.webp",
+    "title": "Para que serve um manual de marca",
+    "kind": "capa tipográfica",
+    "bytes": 32408
+  },
+  {
+    "path": "/editorial/guias/o-que-e-tom-de-voz-da-empresa.webp",
+    "title": "O que é tom de voz da empresa",
+    "kind": "capa tipográfica",
+    "bytes": 29336
+  },
+  {
+    "path": "/editorial/guias/o-que-e-favicon-icone-da-aba.webp",
+    "title": "O que é favicon, o ícone da aba do navegador",
+    "kind": "capa tipográfica",
+    "bytes": 36136
+  },
+  {
+    "path": "/editorial/guias/o-que-e-assinatura-eletronica-e-quando-vale.webp",
+    "title": "O que é assinatura eletrônica e quando ela vale",
+    "kind": "capa tipográfica",
+    "bytes": 34858
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-uma-agenda-online.webp",
+    "title": "Para que serve uma agenda online",
+    "kind": "capa tipográfica",
+    "bytes": 30090
+  },
+  {
+    "path": "/editorial/guias/o-que-e-no-show-e-quanto-custa.webp",
+    "title": "O que é falta sem aviso (no-show) e quanto custa",
+    "kind": "capa tipográfica",
+    "bytes": 36862
+  },
+  {
+    "path": "/editorial/guias/dia-das-maes-data-que-mais-vende.webp",
+    "title": "Dia das Mães: a data que mais vende para pequeno negócio",
+    "kind": "capa tipográfica",
+    "bytes": 39060
+  },
+  {
+    "path": "/editorial/guias/presente-por-faixa-de-preco-facilitar-escolha.webp",
+    "title": "Presente por faixa de preço: facilitar a escolha",
+    "kind": "capa tipográfica",
+    "bytes": 31664
+  },
+  {
+    "path": "/editorial/guias/entrega-marcada-prometer-data-e-cumprir.webp",
+    "title": "Entrega marcada: prometer data e cumprir",
+    "kind": "capa tipográfica",
+    "bytes": 34242
+  },
+  {
+    "path": "/editorial/guias/cartao-e-mensagem-detalhe-que-vira-indicacao.webp",
+    "title": "Cartão e mensagem: o detalhe que vira indicação",
+    "kind": "capa tipográfica",
+    "bytes": 35934
+  },
+  {
+    "path": "/editorial/guias/campanha-que-comeca-em-abril-cronograma-real.webp",
+    "title": "Campanha que começa em abril: cronograma real",
+    "kind": "capa tipográfica",
+    "bytes": 32408
+  },
+  {
+    "path": "/editorial/guias/depois-do-dia-das-maes-quem-comprou-presente.webp",
+    "title": "Depois da data: o que fazer com quem comprou presente",
+    "kind": "capa tipográfica",
+    "bytes": 38828
+  },
+  {
+    "path": "/editorial/guias/programa-de-indicacao-sem-aplicativo-nem-cupom.webp",
+    "title": "Programa de indicação sem aplicativo nem cupom",
+    "kind": "capa tipográfica",
+    "bytes": 36186
+  },
+  {
+    "path": "/editorial/guias/quanto-vale-um-cliente-indicado.webp",
+    "title": "Quanto vale um cliente indicado",
+    "kind": "capa tipográfica",
+    "bytes": 29460
+  },
+  {
+    "path": "/editorial/guias/pedir-indicacao-na-entrega-nao-na-cobranca.webp",
+    "title": "Pedir indicação na entrega, não na cobrança",
+    "kind": "capa tipográfica",
+    "bytes": 36388
+  },
+  {
+    "path": "/editorial/guias/cliente-que-some-sinais-antes-de-perder.webp",
+    "title": "Cliente que some: sinais antes de perder",
+    "kind": "capa tipográfica",
+    "bytes": 31988
+  },
+  {
+    "path": "/editorial/guias/mensagem-de-reativacao-que-nao-implora.webp",
+    "title": "Mensagem de reativação que não implora",
+    "kind": "capa tipográfica",
+    "bytes": 30976
+  },
+  {
+    "path": "/editorial/guias/aniversario-do-cliente-usar-sem-ser-piegas.webp",
+    "title": "Aniversário do cliente: usar sem ser piegas",
+    "kind": "capa tipográfica",
+    "bytes": 34650
+  },
+  {
+    "path": "/editorial/guias/cliente-fiel-merece-o-que-alem-de-desconto.webp",
+    "title": "Cliente fiel merece o quê, além de desconto",
+    "kind": "capa tipográfica",
+    "bytes": 33034
+  },
+  {
+    "path": "/editorial/guias/pacote-fechado-ou-hora-avulsa.webp",
+    "title": "Pacote fechado x hora avulsa: como decidir",
+    "kind": "capa tipográfica",
+    "bytes": 30762
+  },
+  {
+    "path": "/editorial/guias/sua-marca-parece-a-mesma-instagram-site-nota.webp",
+    "title": "Sua marca é a mesma no Instagram, no site e na nota?",
+    "kind": "capa tipográfica",
+    "bytes": 38202
+  },
+  {
+    "path": "/editorial/guias/cor-fonte-e-logo-num-arquivo-so.webp",
+    "title": "Cor, fonte e logo num arquivo só",
+    "kind": "capa tipográfica",
+    "bytes": 31362
+  },
+  {
+    "path": "/editorial/guias/logo-em-fundo-escuro-e-icone-de-aplicativo.webp",
+    "title": "Logo em fundo escuro e ícone de aplicativo",
+    "kind": "capa tipográfica",
+    "bytes": 30728
+  },
+  {
+    "path": "/editorial/guias/clube-de-assinatura-vender-mesmo-produto-todo-mes.webp",
+    "title": "Clube de assinatura: vender o mesmo produto todo mês",
+    "kind": "capa tipográfica",
+    "bytes": 38910
+  },
+  {
+    "path": "/editorial/guias/uniforme-veiculo-e-fachada-como-midia.webp",
+    "title": "Uniforme, veículo e fachada como mídia",
+    "kind": "capa tipográfica",
+    "bytes": 34214
+  },
+  {
+    "path": "/editorial/guias/confirmacao-de-agendamento-que-reduz-falta.webp",
+    "title": "Confirmação de agendamento que reduz falta",
+    "kind": "capa tipográfica",
+    "bytes": 32086
+  },
+  {
+    "path": "/editorial/guias/lista-de-espera-para-agenda-cheia.webp",
+    "title": "Lista de espera para agenda cheia",
+    "kind": "capa tipográfica",
+    "bytes": 34896
+  },
+  {
+    "path": "/editorial/guias/o-que-e-comanda-digital-e-o-que-muda-no-salao.webp",
+    "title": "O que é comanda digital e o que muda no salão",
+    "kind": "capa tipográfica",
+    "bytes": 34460
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-o-cardapio-por-qr.webp",
+    "title": "Para que serve o cardápio por QR na mesa",
+    "kind": "capa tipográfica",
+    "bytes": 30904
+  },
+  {
+    "path": "/editorial/guias/o-que-e-separacao-de-pedido.webp",
+    "title": "O que é separação de pedido na loja virtual",
+    "kind": "capa tipográfica",
+    "bytes": 35322
+  },
+  {
+    "path": "/editorial/guias/o-que-e-prazo-de-despacho-e-por-que-nao-e-prazo-de-entrega.webp",
+    "title": "Prazo de despacho não é prazo de entrega: entenda",
+    "kind": "capa tipográfica",
+    "bytes": 36664
+  },
+  {
+    "path": "/editorial/guias/o-que-e-estoque-minimo.webp",
+    "title": "O que é estoque mínimo e como calcular o seu",
+    "kind": "capa tipográfica",
+    "bytes": 31528
+  },
+  {
+    "path": "/editorial/guias/o-que-e-automacao-em-uma-frase.webp",
+    "title": "O que é automação, em uma frase",
+    "kind": "capa tipográfica",
+    "bytes": 34348
+  },
+  {
+    "path": "/editorial/guias/o-que-e-integracao-entre-dois-sistemas.webp",
+    "title": "O que é integração entre dois sistemas",
+    "kind": "capa tipográfica",
+    "bytes": 35510
+  },
+  {
+    "path": "/editorial/guias/o-que-e-banco-de-dados-e-por-que-a-planilha-nao-e-um.webp",
+    "title": "O que é banco de dados e por que a planilha não é um",
+    "kind": "capa tipográfica",
+    "bytes": 33490
+  },
+  {
+    "path": "/editorial/guias/o-que-e-painel-de-indicadores.webp",
+    "title": "O que é painel de indicadores para pequena empresa",
+    "kind": "capa tipográfica",
+    "bytes": 38912
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-um-alerta-automatico.webp",
+    "title": "Para que serve um alerta automático na empresa",
+    "kind": "capa tipográfica",
+    "bytes": 34924
+  },
+  {
+    "path": "/editorial/guias/dia-dos-namorados-presente-sem-guerra-de-preco.webp",
+    "title": "Dia dos Namorados: vender presente sem guerra de preço",
+    "kind": "capa tipográfica",
+    "bytes": 35238
+  },
+  {
+    "path": "/editorial/guias/kit-e-experiencia-vender-mais-que-o-produto.webp",
+    "title": "Kit e experiência: como vender mais que o produto",
+    "kind": "capa tipográfica",
+    "bytes": 36810
+  },
+  {
+    "path": "/editorial/guias/festa-junina-o-digital-que-serve-ao-presencial.webp",
+    "title": "Festa junina: o digital que serve ao presencial",
+    "kind": "capa tipográfica",
+    "bytes": 33796
+  },
+  {
+    "path": "/editorial/guias/pedido-antecipado-e-retirada-acabar-com-a-fila.webp",
+    "title": "Pedido antecipado e retirada: como acabar com a fila",
+    "kind": "capa tipográfica",
+    "bytes": 34020
+  },
+  {
+    "path": "/editorial/guias/fila-e-senha-digital-para-pequeno-comercio.webp",
+    "title": "Fila e senha digital para pequeno comércio",
+    "kind": "capa tipográfica",
+    "bytes": 34658
+  },
+  {
+    "path": "/editorial/guias/pedido-chegou-as-duas-primeiras-horas-decidem-a-recompra.webp",
+    "title": "Pedido chegou: as duas primeiras horas decidem a recompra",
+    "kind": "capa tipográfica",
+    "bytes": 39434
+  },
+  {
+    "path": "/editorial/guias/confirmar-separar-avisar-o-processo-minimo.webp",
+    "title": "Confirmar, separar, avisar: o processo mínimo do pedido",
+    "kind": "capa tipográfica",
+    "bytes": 34856
+  },
+  {
+    "path": "/editorial/guias/erro-de-envio-como-nao-perder-o-cliente-junto.webp",
+    "title": "Erro de envio: como não perder o cliente junto",
+    "kind": "capa tipográfica",
+    "bytes": 34794
+  },
+  {
+    "path": "/editorial/guias/endereco-incompleto-validar-antes-de-despachar.webp",
+    "title": "Endereço incompleto: validar antes de despachar",
+    "kind": "capa tipográfica",
+    "bytes": 35580
+  },
+  {
+    "path": "/editorial/guias/estoque-em-dois-lugares-loja-e-site.webp",
+    "title": "Estoque em dois lugares: loja física e site",
+    "kind": "capa tipográfica",
+    "bytes": 30374
+  },
+  {
+    "path": "/editorial/guias/contar-estoque-sem-parar-a-operacao.webp",
+    "title": "Contar estoque sem parar a operação",
+    "kind": "capa tipográfica",
+    "bytes": 36928
+  },
+  {
+    "path": "/editorial/guias/produto-sazonal-comprar-quanto-e-quando.webp",
+    "title": "Produto sazonal: comprar quanto e quando",
+    "kind": "capa tipográfica",
+    "bytes": 32716
+  },
+  {
+    "path": "/editorial/guias/fornecedor-unico-o-risco-que-ninguem-calcula.webp",
+    "title": "Fornecedor único: o risco que ninguém calcula",
+    "kind": "capa tipográfica",
+    "bytes": 31202
+  },
+  {
+    "path": "/editorial/guias/prazo-do-fornecedor-x-prazo-prometido-ao-cliente.webp",
+    "title": "Prazo do fornecedor x prazo prometido ao cliente",
+    "kind": "capa tipográfica",
+    "bytes": 36704
+  },
+  {
+    "path": "/editorial/guias/automatizar-o-que-primeiro-os-cinco-candidatos-obvios.webp",
+    "title": "Automatizar o quê primeiro: os cinco candidatos óbvios",
+    "kind": "capa tipográfica",
+    "bytes": 37724
+  },
+  {
+    "path": "/editorial/guias/automacao-que-quebra-em-silencio.webp",
+    "title": "Automação que quebra em silêncio: como perceber",
+    "kind": "capa tipográfica",
+    "bytes": 33800
+  },
+  {
+    "path": "/editorial/guias/quando-a-automacao-precisa-avisar-uma-pessoa.webp",
+    "title": "Quando a automação precisa avisar uma pessoa",
+    "kind": "capa tipográfica",
+    "bytes": 38132
+  },
+  {
+    "path": "/editorial/guias/migrar-de-planilha-para-sistema-sem-perder-historico.webp",
+    "title": "Migrar de planilha para sistema sem perder histórico",
+    "kind": "capa tipográfica",
+    "bytes": 36526
+  },
+  {
+    "path": "/editorial/guias/importar-cadastro-antigo-o-que-limpar-antes.webp",
+    "title": "Importar cadastro antigo: o que limpar antes",
+    "kind": "capa tipográfica",
+    "bytes": 31268
+  },
+  {
+    "path": "/editorial/guias/relatorio-que-ninguem-le-por-que-ele-existe.webp",
+    "title": "Relatório que ninguém lê: por que ele existe",
+    "kind": "capa tipográfica",
+    "bytes": 34648
+  },
+  {
+    "path": "/editorial/guias/o-que-e-custo-de-aquisicao-de-cliente.webp",
+    "title": "O que é custo de aquisição de cliente (CAC)",
+    "kind": "capa tipográfica",
+    "bytes": 34758
+  },
+  {
+    "path": "/editorial/guias/o-que-e-retorno-sobre-investimento-em-anuncio.webp",
+    "title": "O que é retorno sobre investimento em anúncio",
+    "kind": "capa tipográfica",
+    "bytes": 32276
+  },
+  {
+    "path": "/editorial/guias/criativo-de-anuncio-e-por-que-ele-cansa.webp",
+    "title": "O que é criativo de anúncio e por que ele cansa",
+    "kind": "capa tipográfica",
+    "bytes": 35344
+  },
+  {
+    "path": "/editorial/guias/o-que-e-dns-sem-termo-tecnico.webp",
+    "title": "O que é DNS, explicado sem termo técnico",
+    "kind": "capa tipográfica",
+    "bytes": 33164
+  },
+  {
+    "path": "/editorial/guias/o-que-e-hospedagem-e-o-que-ela-inclui.webp",
+    "title": "O que é hospedagem de site e o que ela inclui",
+    "kind": "capa tipográfica",
+    "bytes": 31364
+  },
+  {
+    "path": "/editorial/guias/o-que-e-transferencia-de-dominio.webp",
+    "title": "O que é transferência de domínio e como fazer",
+    "kind": "capa tipográfica",
+    "bytes": 35864
+  },
+  {
+    "path": "/editorial/guias/o-que-e-redirecionamento-e-por-que-salva-trafego.webp",
+    "title": "O que é redirecionamento e por que ele salva tráfego",
+    "kind": "capa tipográfica",
+    "bytes": 36532
+  },
+  {
+    "path": "/editorial/guias/por-que-o-certificado-de-seguranca-vence.webp",
+    "title": "Por que o certificado de segurança do site vence",
+    "kind": "capa tipográfica",
+    "bytes": 32814
+  },
+  {
+    "path": "/editorial/guias/o-que-e-monitoramento-de-site.webp",
+    "title": "O que é monitoramento de site e por que ter",
+    "kind": "capa tipográfica",
+    "bytes": 34274
+  },
+  {
+    "path": "/editorial/guias/vender-para-fora-do-brasil-imposto-frete-moeda.webp",
+    "title": "Vender para fora do Brasil: imposto, frete e moeda",
+    "kind": "capa tipográfica",
+    "bytes": 34856
+  },
+  {
+    "path": "/editorial/guias/metade-do-ano-o-que-os-numeros-dizem.webp",
+    "title": "Metade do ano: o que os números dizem",
+    "kind": "capa tipográfica",
+    "bytes": 32478
+  },
+  {
+    "path": "/editorial/guias/revisao-de-seis-meses-em-uma-hora.webp",
+    "title": "Revisão de seis meses da empresa em uma hora",
+    "kind": "capa tipográfica",
+    "bytes": 37340
+  },
+  {
+    "path": "/editorial/guias/meta-nao-batida-ajustar-ou-insistir.webp",
+    "title": "Meta não batida: ajustar ou insistir no segundo semestre",
+    "kind": "capa tipográfica",
+    "bytes": 38454
+  },
+  {
+    "path": "/editorial/guias/quanto-custa-um-cliente-novo.webp",
+    "title": "Quanto custa um cliente novo e por que saber",
+    "kind": "capa tipográfica",
+    "bytes": 31718
+  },
+  {
+    "path": "/editorial/guias/canal-que-mais-traz-cliente-x-mais-trabalho.webp",
+    "title": "Canal que mais traz cliente x o que dá mais trabalho",
+    "kind": "capa tipográfica",
+    "bytes": 37592
+  },
+  {
+    "path": "/editorial/guias/anuncio-parou-de-funcionar-o-que-trocar-primeiro.webp",
+    "title": "Anúncio parou de funcionar: o que trocar primeiro",
+    "kind": "capa tipográfica",
+    "bytes": 33918
+  },
+  {
+    "path": "/editorial/guias/testar-anuncio-com-orcamento-pequeno.webp",
+    "title": "Como testar anúncio com orçamento pequeno",
+    "kind": "capa tipográfica",
+    "bytes": 31564
+  },
+  {
+    "path": "/editorial/guias/publico-frio-morno-e-quente-o-que-dizer.webp",
+    "title": "Público frio, morno e quente: o que dizer a cada um",
+    "kind": "capa tipográfica",
+    "bytes": 35614
+  },
+  {
+    "path": "/editorial/guias/anuncio-que-leva-ao-whatsapp-x-ao-site.webp",
+    "title": "Anúncio que leva ao WhatsApp ou ao site: qual usar",
+    "kind": "capa tipográfica",
+    "bytes": 35494
+  },
+  {
+    "path": "/editorial/guias/pausar-campanha-nas-ferias-quando-faz-sentido.webp",
+    "title": "Pausar campanha de anúncio nas férias: quando faz sentido",
+    "kind": "capa tipográfica",
+    "bytes": 35252
+  },
+  {
+    "path": "/editorial/guias/ferias-manter-vendendo-com-equipe-reduzida.webp",
+    "title": "Férias: como manter vendendo com equipe reduzida",
+    "kind": "capa tipográfica",
+    "bytes": 37670
+  },
+  {
+    "path": "/editorial/guias/trocar-de-fornecedor-sem-perder-dominio-email-site.webp",
+    "title": "Trocar de fornecedor sem perder domínio, e-mail e site",
+    "kind": "capa tipográfica",
+    "bytes": 36222
+  },
+  {
+    "path": "/editorial/guias/o-que-exigir-na-saida-de-um-fornecedor.webp",
+    "title": "O que exigir na saída de um fornecedor de site",
+    "kind": "capa tipográfica",
+    "bytes": 31738
+  },
+  {
+    "path": "/editorial/guias/dominio-no-nome-de-quem-erro-que-custa-caro.webp",
+    "title": "Domínio no nome de quem: o erro que custa caro",
+    "kind": "capa tipográfica",
+    "bytes": 35736
+  },
+  {
+    "path": "/editorial/guias/dns-o-que-quebra-quando-alguem-mexe-errado.webp",
+    "title": "DNS: o que quebra quando alguém mexe errado",
+    "kind": "capa tipográfica",
+    "bytes": 34604
+  },
+  {
+    "path": "/editorial/guias/hospedagem-barata-o-que-voce-paga.webp",
+    "title": "Hospedagem barata: o que você paga com o que economiza",
+    "kind": "capa tipográfica",
+    "bytes": 36400
+  },
+  {
+    "path": "/editorial/guias/site-feito-e-abandonado-quanto-custa-retomar.webp",
+    "title": "Site feito e abandonado: quanto custa retomar",
+    "kind": "capa tipográfica",
+    "bytes": 36026
+  },
+  {
+    "path": "/editorial/guias/refazer-ou-reformar-o-site-atual.webp",
+    "title": "Refazer ou reformar o site atual: como decidir",
+    "kind": "capa tipográfica",
+    "bytes": 33248
+  },
+  {
+    "path": "/editorial/guias/migrar-de-plataforma-sem-perder-o-google.webp",
+    "title": "Migrar de plataforma sem perder o Google",
+    "kind": "capa tipográfica",
+    "bytes": 31044
+  },
+  {
+    "path": "/editorial/guias/copia-de-seguranca-do-site-frequencia-e-onde.webp",
+    "title": "Cópia de segurança do site: frequência e onde guardar",
+    "kind": "capa tipográfica",
+    "bytes": 39880
+  },
+  {
+    "path": "/editorial/guias/quanto-tempo-seu-negocio-aguenta-sem-internet.webp",
+    "title": "Quanto tempo seu negócio aguenta sem internet",
+    "kind": "capa tipográfica",
+    "bytes": 35602
+  },
+  {
+    "path": "/editorial/guias/o-que-e-phishing-golpe-de-email-falso.webp",
+    "title": "O que é phishing: o golpe do e-mail falso",
+    "kind": "capa tipográfica",
+    "bytes": 29842
+  },
+  {
+    "path": "/editorial/guias/o-que-e-clonagem-de-whatsapp.webp",
+    "title": "O que é clonagem de WhatsApp e como acontece",
+    "kind": "capa tipográfica",
+    "bytes": 37858
+  },
+  {
+    "path": "/editorial/guias/o-que-e-engenharia-social.webp",
+    "title": "O que é engenharia social: o golpe sem técnica",
+    "kind": "capa tipográfica",
+    "bytes": 34874
+  },
+  {
+    "path": "/editorial/guias/o-que-e-senha-forte-de-verdade.webp",
+    "title": "O que é senha forte de verdade (e o que não é)",
+    "kind": "capa tipográfica",
+    "bytes": 32264
+  },
+  {
+    "path": "/editorial/guias/para-que-serve-separar-a-rede-do-visitante.webp",
+    "title": "Para que serve separar a rede Wi-Fi do visitante",
+    "kind": "capa tipográfica",
+    "bytes": 35972
+  },
+  {
+    "path": "/editorial/guias/o-que-e-reserva-de-caixa.webp",
+    "title": "O que é reserva de caixa e quanto guardar",
+    "kind": "capa tipográfica",
+    "bytes": 33624
+  },
+  {
+    "path": "/editorial/guias/o-que-e-reajuste-anual-e-como-calcular.webp",
+    "title": "O que é reajuste anual e como calcular o seu",
+    "kind": "capa tipográfica",
+    "bytes": 30478
+  },
+  {
+    "path": "/editorial/guias/o-que-e-terceirizacao-e-o-que-ela-nao-resolve.webp",
+    "title": "O que é terceirização e o que ela não resolve",
+    "kind": "capa tipográfica",
+    "bytes": 35626
+  },
+  {
+    "path": "/editorial/guias/o-que-da-e-o-que-nao-da-para-delegar.webp",
+    "title": "O que dá e o que não dá para delegar na empresa",
+    "kind": "capa tipográfica",
+    "bytes": 35992
+  },
+  {
+    "path": "/editorial/guias/o-que-e-nota-fiscal-de-servico.webp",
+    "title": "O que é nota fiscal de serviço (NFS-e) e quando emitir",
+    "kind": "capa tipográfica",
+    "bytes": 33826
+  },
+  {
+    "path": "/editorial/guias/ultima-semana-antes-da-data-o-que-da-tempo.webp",
+    "title": "Última semana antes da data comemorativa: o que dá tempo",
+    "kind": "capa tipográfica",
+    "bytes": 38538
+  },
+  {
+    "path": "/editorial/guias/whatsapp-clonado-como-evitar-e-o-que-fazer.webp",
+    "title": "WhatsApp clonado: como evitar e o que fazer na hora",
+    "kind": "capa tipográfica",
+    "bytes": 33748
+  },
+  {
+    "path": "/og/editorial/blog-pagina-12-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36172
+  },
+  {
+    "path": "/og/editorial/blog-pagina-13-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38889
+  },
+  {
+    "path": "/og/editorial/blog-pagina-14-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37710
+  },
+  {
+    "path": "/og/editorial/blog-pagina-15-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36170
+  },
+  {
+    "path": "/og/editorial/blog-pagina-16-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38905
+  },
+  {
+    "path": "/og/editorial/blog-pagina-17-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37709
+  },
+  {
+    "path": "/og/editorial/blog-pagina-18-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36171
+  },
+  {
+    "path": "/og/editorial/blog-pagina-19-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38928
+  },
+  {
+    "path": "/og/editorial/blog-pagina-20-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37700
+  },
+  {
+    "path": "/og/editorial/blog-pagina-21-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36160
+  },
+  {
+    "path": "/og/editorial/blog-pagina-22-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38904
+  },
+  {
+    "path": "/og/editorial/blog-pagina-23-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37689
+  },
+  {
+    "path": "/og/editorial/blog-pagina-24-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36173
+  },
+  {
+    "path": "/og/editorial/blog-pagina-25-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38904
+  },
+  {
+    "path": "/og/editorial/blog-pagina-26-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37720
+  },
+  {
+    "path": "/og/editorial/blog-pagina-27-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36172
+  },
+  {
+    "path": "/og/editorial/blog-pagina-28-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38904
+  },
+  {
+    "path": "/og/editorial/blog-pagina-29-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37700
+  },
+  {
+    "path": "/og/editorial/blog-pagina-30-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36160
+  },
+  {
+    "path": "/og/editorial/blog-pagina-31-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38907
+  },
+  {
+    "path": "/og/editorial/blog-pagina-32-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37709
+  },
+  {
+    "path": "/og/editorial/blog-pagina-33-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36173
+  },
+  {
+    "path": "/og/editorial/blog-pagina-34-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38910
+  },
+  {
+    "path": "/og/editorial/blog-pagina-35-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37706
+  },
+  {
+    "path": "/og/editorial/blog-pagina-36-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36186
+  },
+  {
+    "path": "/og/editorial/blog-pagina-37-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38906
+  },
+  {
+    "path": "/og/editorial/blog-pagina-38-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37705
+  },
+  {
+    "path": "/og/editorial/blog-pagina-39-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36166
+  },
+  {
+    "path": "/og/editorial/blog-pagina-40-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 38916
+  },
+  {
+    "path": "/og/editorial/blog-pagina-41-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 37699
+  },
+  {
+    "path": "/og/editorial/blog-pagina-42-v2.jpg",
+    "title": "Blog da Avila Ops",
+    "kind": "listagem",
+    "bytes": 36171
+  },
+  {
+    "path": "/og/editorial/guias-pagina-12-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38704
+  },
+  {
+    "path": "/og/editorial/guias-pagina-13-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42053
+  },
+  {
+    "path": "/og/editorial/guias-pagina-14-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40670
+  },
+  {
+    "path": "/og/editorial/guias-pagina-15-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38692
+  },
+  {
+    "path": "/og/editorial/guias-pagina-16-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42065
+  },
+  {
+    "path": "/og/editorial/guias-pagina-17-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40698
+  },
+  {
+    "path": "/og/editorial/guias-pagina-18-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38691
+  },
+  {
+    "path": "/og/editorial/guias-pagina-19-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42068
+  },
+  {
+    "path": "/og/editorial/guias-pagina-20-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40695
+  },
+  {
+    "path": "/og/editorial/guias-pagina-21-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38711
+  },
+  {
+    "path": "/og/editorial/guias-pagina-22-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42081
+  },
+  {
+    "path": "/og/editorial/guias-pagina-23-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40690
+  },
+  {
+    "path": "/og/editorial/guias-pagina-24-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38714
+  },
+  {
+    "path": "/og/editorial/guias-pagina-25-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42067
+  },
+  {
+    "path": "/og/editorial/guias-pagina-26-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40678
+  },
+  {
+    "path": "/og/editorial/guias-pagina-27-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38698
+  },
+  {
+    "path": "/og/editorial/guias-pagina-28-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42061
+  },
+  {
+    "path": "/og/editorial/guias-pagina-29-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40683
+  },
+  {
+    "path": "/og/editorial/guias-pagina-30-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38704
+  },
+  {
+    "path": "/og/editorial/guias-pagina-31-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42056
+  },
+  {
+    "path": "/og/editorial/guias-pagina-32-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40701
+  },
+  {
+    "path": "/og/editorial/guias-pagina-33-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38708
+  },
+  {
+    "path": "/og/editorial/guias-pagina-34-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42077
+  },
+  {
+    "path": "/og/editorial/guias-pagina-35-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40677
+  },
+  {
+    "path": "/og/editorial/guias-pagina-36-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38697
+  },
+  {
+    "path": "/og/editorial/guias-pagina-37-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42076
+  },
+  {
+    "path": "/og/editorial/guias-pagina-38-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40693
+  },
+  {
+    "path": "/og/editorial/guias-pagina-39-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38726
+  },
+  {
+    "path": "/og/editorial/guias-pagina-40-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 42069
+  },
+  {
+    "path": "/og/editorial/guias-pagina-41-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 40675
+  },
+  {
+    "path": "/og/editorial/guias-pagina-42-v2.jpg",
+    "title": "Guias para sua empresa",
+    "kind": "listagem",
+    "bytes": 38704
+  },
+  {
+    "path": "/og/editorial/blog-categoria-crescimento-pagina-2-v2.jpg",
+    "title": "Crescimento",
+    "kind": "listagem",
+    "bytes": 33330
+  },
+  {
+    "path": "/og/editorial/blog-categoria-crescimento-pagina-3-v2.jpg",
+    "title": "Crescimento",
+    "kind": "listagem",
+    "bytes": 32147
+  },
+  {
+    "path": "/og/editorial/blog-categoria-crescimento-pagina-4-v2.jpg",
+    "title": "Crescimento",
+    "kind": "listagem",
+    "bytes": 34353
+  },
+  {
+    "path": "/og/editorial/blog-categoria-crescimento-pagina-5-v2.jpg",
+    "title": "Crescimento",
+    "kind": "listagem",
+    "bytes": 33335
+  },
+  {
+    "path": "/og/editorial/blog-categoria-crescimento-pagina-6-v2.jpg",
+    "title": "Crescimento",
+    "kind": "listagem",
+    "bytes": 32148
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-4-v2.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 30536
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-5-v2.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 29661
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-6-v2.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 28828
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-7-v2.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 30508
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-8-v2.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 29671
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-9-v2.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 28801
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-10-v2.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 30659
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-11-v2.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 29777
+  },
+  {
+    "path": "/og/editorial/blog-categoria-vendas-pagina-12-v2.jpg",
+    "title": "Vendas",
+    "kind": "listagem",
+    "bytes": 28914
+  },
+  {
+    "path": "/og/editorial/blog-categoria-presenca-pagina-2-v2.jpg",
+    "title": "Presença",
+    "kind": "listagem",
+    "bytes": 31047
+  },
+  {
+    "path": "/og/editorial/blog-categoria-presenca-pagina-3-v2.jpg",
+    "title": "Presença",
+    "kind": "listagem",
+    "bytes": 30048
+  },
+  {
+    "path": "/og/editorial/blog-categoria-presenca-pagina-4-v2.jpg",
+    "title": "Presença",
+    "kind": "listagem",
+    "bytes": 31983
+  },
+  {
+    "path": "/og/editorial/blog-categoria-presenca-pagina-5-v2.jpg",
+    "title": "Presença",
+    "kind": "listagem",
+    "bytes": 31058
+  },
+  {
+    "path": "/og/editorial/blog-categoria-presenca-pagina-6-v2.jpg",
+    "title": "Presença",
+    "kind": "listagem",
+    "bytes": 30047
+  },
+  {
+    "path": "/og/editorial/blog-categoria-presenca-pagina-7-v2.jpg",
+    "title": "Presença",
+    "kind": "listagem",
+    "bytes": 31938
+  },
+  {
+    "path": "/og/editorial/blog-categoria-presenca-pagina-8-v2.jpg",
+    "title": "Presença",
+    "kind": "listagem",
+    "bytes": 31063
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-4-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 30637
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-5-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 32685
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-6-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 31651
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-7-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 30608
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-8-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 32650
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-9-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 31649
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-10-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 30756
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-11-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 32794
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-12-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 31739
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-13-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 30729
+  },
+  {
+    "path": "/og/editorial/blog-categoria-operacao-pagina-14-v2.jpg",
+    "title": "Operação",
+    "kind": "listagem",
+    "bytes": 32800
   }
 ]

@@ -194,3 +194,25 @@ artigos: cada publicação muda os artigos de página, e o gerador não refaz um
 arquivo existente, então a prévia ficava desatualizada. Agora cada coleção usa
 um texto fixo, e os arquivos passaram para `-v2` para renovar o cache das
 redes sociais. Os 35 arquivos `-v1` de listagem foram removidos.
+
+## Publicação do calendário inteiro — 09/10/2026
+
+Nicolas pediu, nesta data, a publicação de todos os guias revisados restantes,
+de novembro/2026 a agosto/2027. Foram aprovados 276 textos (067–347, exceto
+os rascunhos). No frontmatter, `status` passou a `aprovado` e `data_publicacao`
+e `data_prevista` foram para 09/10/2026; o campo `mes` mantém o calendário
+original. Os 23 rascunhos continuam fora do export.
+
+Antes da aprovação, cada mês passou por uma revisão de fatos, coerência e
+datas. Textos escritos para um mês específico passaram a valer para quem lê
+em qualquer época: "este mês", "esta semana" e anos fixos foram trocados por
+referências relativas à data comemorativa, e exemplos com calendário de um ano
+dizem isso. Também foram aplicadas as regras já firmadas nos guias anteriores:
+mensagem promocional só para quem aceitou, com saída fácil; aviso automático no
+WhatsApp só pela API oficial, com modelo aprovado; dado de pedido só para o
+contato cadastrado; lista de clientes na Meta com base legal e respeito a quem
+saiu; pixel só após consentimento; arrependimento contado do recebimento.
+
+Os guias sem capa revisada receberam capa tipográfica. O gerador agora reduz o
+tamanho da fonte até o título caber, em vez de falhar. A biblioteca passa a ter
+371 artigos e 129 listagens com imagem de compartilhamento própria.
