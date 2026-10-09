@@ -49,7 +49,7 @@ Confira se a nota fiscal sai automaticamente do pedido e se a etiqueta imprime s
 
 Escreva as respostas para as cinco perguntas que mais vão chegar: prazo, frete, troca, cupom que não funcionou e pedido que não chegou. Coloque como resposta rápida no WhatsApp Business ou na automação. Defina quem responde em cada horário e o que acontece fora do horário.
 
-Avise a base: e-mail ou mensagem para quem já comprou, dizendo o dia da oferta e o que vai estar nela. Quem já comprou é o cliente mais barato de trazer de volta.
+Avise a base: e-mail ou mensagem para quem já comprou e aceitou receber novidades, dizendo o dia da oferta e o que vai estar nela, com um jeito fácil de sair da lista. No WhatsApp, ter comprado não basta: a política exige que a pessoa tenha aceitado receber mensagens. Quem já comprou é o cliente mais barato de trazer de volta.
 
 Congele. A última semana vai de 20/11, feriado da Consciência Negra, a 26/11. A partir de 20/11, nada muda na loja além de ligar a oferta: nem tema, nem aplicativo, nem plataforma de pagamento. O guia sobre [a última semana](https://avilaops.com/guias/ultima-semana-antes-da-black-friday-o-que-congelar/) detalha o que não mexer.
 

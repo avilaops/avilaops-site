@@ -33,7 +33,7 @@ Curta, na linguagem que você usa na loja, com o dado que a pessoa quer. Comece 
 
 Ruim: "Olá, Seja bem-vindo à nossa loja. Recebemos sua mensagem e em breve um de nossos atendentes entrará em contato. Agradecemos a preferência."
 
-Melhor: "Oi, Ana. Aqui é a mensagem automática da Loja Tal. Agora estamos fora do horário (seg a sex, 9h às 18h). Se for sobre prazo ou rastreio, o número do pedido resolve: me manda que respondo com o status assim que abrir, às 9h. Se for urgente, escreve 'urgente' que a Carla vê no celular dela."
+Melhor: "Oi, Ana. Aqui é a mensagem automática da Loja Tal. Agora estamos fora do horário (seg a sex, 9h às 18h). Se for sobre prazo ou rastreio, me manda o número do pedido: confiro se ele está no cadastro deste WhatsApp e respondo com o status assim que abrir, às 9h. Se for urgente, escreve 'urgente' que a Carla vê no celular dela."
 
 A segunda versão diz que é automática, diz o horário, responde parte do problema, dá nome à pessoa que vai atender e oferece uma saída. Não finge nada.
 

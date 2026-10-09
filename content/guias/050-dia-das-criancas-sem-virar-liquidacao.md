@@ -33,14 +33,14 @@ Uma loja de brinquedos educativos monta a seleção "para quem tem 3 a 5 anos, a
 
 Não use preço riscado em outubro. Um "de R$ 100 por R$ 80" no Dia das Crianças, seguido de outro preço riscado em novembro, cria um histórico confuso de preço praticado, que o Procon pode questionar. O guia sobre [preço de referência](https://avilaops.com/guias/preco-de-referencia-regra-que-evita-multa-procon/) explica o que conta como preço praticado.
 
-Não gaste em outubro o estoque planejado para novembro. Os produtos da Black Friday são escolhidos agora e a compra deles é feita agora; o Dia das Crianças usa o estoque normal. E não canse a base: quem recebeu três mensagens de oferta em outubro ignora a de novembro. Uma mensagem para a data, com a seleção, é o suficiente.
+Não gaste em outubro o estoque planejado para novembro. Os produtos da Black Friday são escolhidos agora e a compra deles é feita agora; o Dia das Crianças usa o estoque normal. E não canse a base: quem recebeu três mensagens de oferta em outubro ignora a de novembro. Uma mensagem para a data, com a seleção, é o suficiente, enviada só para quem aceitou receber novidades.
 
 | Dia das Crianças | Black Friday |
 | --- | --- |
 | Seleção e kit | Desconto real com limite |
 | Preço cheio | Preço riscado com histórico |
 | Estoque normal | Estoque comprado com folga |
-| Uma mensagem para a base | Aviso prévio e campanha |
+| Uma mensagem para quem aceitou receber | Aviso prévio e campanha |
 | Prazo de entrega confirmado | Prazo estendido |
 
 ## O que a data precisa ter no atendimento?

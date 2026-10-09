@@ -29,7 +29,7 @@ Sem pixel, quem visitou o site volta a ser frio para o anúncio; sobram só as i
 
 ## O que dizer para cada um durante a Black Friday?
 
-Para o quente, a oferta direta: produto, preço de antes, preço de agora, prazo. Ele já confia e é o mais barato de converter. Uma loja de suplementos que manda "seu whey está com 25% até domingo" para quem comprou em setembro vende com pouco esforço.
+Para o quente, a oferta direta: produto, preço de antes, preço de agora, prazo. Ele já confia e é o mais barato de converter. Uma loja de suplementos que manda "seu whey está com 25% até domingo" para quem comprou em setembro e aceitou receber ofertas vende com pouco esforço. Mensagem direta, no WhatsApp ou por e-mail, só vai para quem aceitou e sempre com opção de sair; para o resto do público quente, use o anúncio.
 
 Para o morno, lembrar e reforçar: o produto que ele viu e um motivo para voltar agora. É o anúncio para quem já visitou (remarketing). Para o frio, apresentar antes de vender. Orçamento curto vai para quente e morno; o frio fica para janeiro.
 
