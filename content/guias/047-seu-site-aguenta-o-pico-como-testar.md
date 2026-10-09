@@ -38,7 +38,7 @@ Se você quiser testar de verdade, existem ferramentas gratuitas de teste de car
 1. Meça o tempo das três páginas principais no celular.
 2. Descubra o pico de uma hora nos últimos três meses e multiplique por cinco.
 3. Pergunte à hospedagem o limite do plano por escrito.
-4. Converta em acessos simultâneos pelo pico curto, não pela média da hora: estime quantos visitantes chegam nos cinco minutos depois de um disparo de mensagem ou de anúncio e calcule visitantes nesses cinco minutos × minutos médios de visita ÷ 5. Quinhentas visitas em cinco minutos, com três minutos cada, são 300 acessos ao mesmo tempo; pela média da hora, a mesma conta daria 25. Se o resultado passa do limite do passo 3, mude o plano ou a hospedagem agora.
+4. Converta em acessos simultâneos pelo pico, não pela média: conte quantos visitantes chegam no intervalo mais cheio com a duração de uma visita média, em geral os primeiros minutos depois de um disparo de mensagem ou de anúncio. Esse número é o de acessos ao mesmo tempo: se a visita dura três minutos e 500 pessoas chegam no primeiro minuto, são cerca de 500 juntas, enquanto a média da hora daria 25. Some uma folga de 50% e compare com o limite do passo 3; se passar, mude o plano ou a hospedagem agora.
 5. Teste a compra completa depois de qualquer mudança.
 
 ## O que ter pronto se o site cair mesmo assim?

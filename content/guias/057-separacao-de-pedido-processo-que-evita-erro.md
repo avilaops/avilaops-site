@@ -31,9 +31,9 @@ Há ainda o estoque que não bate: o sistema diz que tem, a prateleira diz que n
 
 1. Horário fixo. Separação acontece em blocos, por exemplo às 9h e às 14h, e o despacho às 16h30. Pedido que entra depois do bloco vai para o próximo. Quem separa não atende WhatsApp durante o bloco.
 2. Lista do lote. Imprima ou abra na tela a lista de todos os pedidos pagos do bloco, com produto, variação e quantidade. Se o sistema agrupa por produto, melhor: você pega 12 unidades da vela de lavanda de uma vez e distribui, em vez de ir 12 vezes à prateleira.
-3. Um pedido, uma bancada. Separe os produtos de um pedido em uma bandeja ou caixa aberta, com o número do pedido escrito num papel dentro. Só depois passe para o próximo.
+3. Um pedido, uma bancada. Separe os produtos de um pedido em uma bandeja ou caixa aberta, com o número do pedido escrito num papel dentro e também do lado de fora, numa fita ou etiqueta adesiva simples. Só depois passe para o próximo.
 4. Conferência antes de fechar. Outra pessoa, ou a mesma depois de terminar o lote, confere cada bandeja contra a lista: item, variação, quantidade. Marca na lista. Só então a caixa fecha.
-5. Etiqueta por último. Emita e cole a etiqueta na caixa fechada e conferida, lendo o número do pedido no papel de dentro antes de colar.
+5. Etiqueta por último. Emita e cole a etiqueta na caixa fechada e conferida, depois de confirmar que o número do pedido na etiqueta é o mesmo escrito do lado de fora da caixa.
 6. Baixa e aviso. Marque os pedidos como enviados no sistema, o que dispara o rastreio para o cliente. O guia sobre [etiqueta e rastreio](https://avilaops.com/guias/etiqueta-e-rastreio-o-que-automatizar-antes-do-pico/) mostra como esse passo sai sozinho.
 
 ## O que muda no pico?

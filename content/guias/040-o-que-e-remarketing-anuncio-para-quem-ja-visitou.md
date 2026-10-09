@@ -48,4 +48,4 @@ Na prática, sim. Os dois nomes descrevem anúncio dirigido a quem já teve cont
 De forma limitada: dá para anunciar para quem interagiu com o perfil. Mas sem pixel no site não há "viu o produto e não comprou", que é o público mais valioso.
 
 **Remarketing respeita a LGPD?**
-Pode respeitar, desde que o site informe o uso de cookies e do pixel na política de privacidade e permita recusar. A lista não identifica pessoas para você e fica na plataforma, mas a loja continua responsável pelos dados que o pixel envia a ela.
+Pode respeitar, desde que o site informe o uso de cookies e do pixel na política de privacidade e só carregue o pixel de anúncio depois que o visitante aceitar, no aviso de cookies. Oferecer recusar depois não basta: até lá, o pixel já enviou os dados. A lista não identifica pessoas para você e fica na plataforma, mas a loja continua responsável pelos dados que o pixel envia a ela.

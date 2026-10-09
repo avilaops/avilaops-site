@@ -19,7 +19,7 @@ links_internos: ["/guias/imagem-pesada-erro-que-derruba-loja-no-celular/", "/gui
 
 Página lenta perde venda porque o cliente que veio de anúncio, no celular, em rede móvel, não espera. Se a página de produto leva mais de 2,5 segundos para mostrar o que importa, parte das pessoas volta para o Instagram antes de ver o preço. Você pagou pelo clique e não teve a chance de vender.
 
-O que medir são três números do PageSpeed Insights, do Google: o tempo até o maior elemento aparecer (LCP), a demora para responder aos toques durante a visita (INP) e o quanto a página pula enquanto carrega (CLS). O que cortar, na maioria das lojas pequenas, são imagens sem compressão, aplicativos instalados e esquecidos, e fontes e scripts que carregam antes do conteúdo.
+O que medir são três números do PageSpeed Insights, do Google: o tempo até o maior elemento aparecer (LCP), a demora para responder aos toques durante a visita (INP) e o quanto a página pula enquanto carrega (CLS). O INP vem de dados de visitantes reais do Chrome e só aparece quando a página tem acessos suficientes; em loja pequena, e em especial no fechamento do pedido, ele costuma faltar. Nesse caso, meça com uma ferramenta instalada no próprio site que registra os toques dos visitantes, ou teste você mesmo tocando nos botões com o painel de desempenho do Chrome aberto. O que cortar, na maioria das lojas pequenas, são imagens sem compressão, aplicativos instalados e esquecidos, e fontes e scripts que carregam antes do conteúdo.
 
 ## Quais números olhar e o que eles significam?
 
