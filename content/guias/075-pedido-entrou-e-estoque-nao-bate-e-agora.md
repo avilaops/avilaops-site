@@ -35,13 +35,13 @@ Saber a causa não resolve o pedido de hoje, mas decide o que você conserta na 
 4. Separe e reserve fisicamente as unidades dos primeiros da lista. Etiquete com o número do pedido.
 5. Para os que ficaram sem, mande a mensagem antes que eles perguntem, no mesmo dia.
 
-Para pagamento por Pix, devolva pelo próprio painel do intermediário de pagamento antes de mandar a mensagem, e diga na mensagem que o dinheiro já voltou. Para cartão, o estorno pode levar uma ou duas faturas para aparecer; avise isso com clareza. O guia sobre [Pix que não cai](https://avilaops.com/guias/pix-que-nao-cai-o-que-checar-antes-de-cancelar/) trata do caso inverso, quando o pagamento é a dúvida.
+Mande a mensagem primeiro e espere a escolha do cliente. Se ele escolher o dinheiro de volta e pagou por Pix, devolva pelo próprio painel do intermediário de pagamento, pela própria transação, e confirme que o valor voltou. Para cartão, o estorno pode levar uma ou duas faturas para aparecer; avise isso com clareza. O guia sobre [Pix que não cai](https://avilaops.com/guias/pix-que-nao-cai-o-que-checar-antes-de-cancelar/) trata do caso inverso, quando o pagamento é a dúvida.
 
 ## O que dizer para quem ficou sem?
 
-Curto, direto, com opções. "Oi, Marina. Vendemos mais unidades da luminária do que tínhamos, e o seu pedido ficou sem. Já devolvemos o valor no Pix. Se preferir, temos o modelo X pelo mesmo preço com envio hoje, ou podemos reservar uma unidade da próxima remessa, prevista para 10/12, com o preço da campanha. Me diz qual prefere."
+Curto, direto, com opções. "Oi, Marina. Vendemos mais unidades da luminária do que tínhamos, e o seu pedido ficou sem. Você escolhe: devolvemos o valor no Pix hoje, enviamos o modelo X pelo mesmo preço hoje, ou reservamos uma unidade da próxima remessa, prevista para 10/12, com o preço da campanha. Me diz qual prefere."
 
-Nessa mensagem, o erro é assumido na primeira frase, o dinheiro já voltou e as opções são reais. Pelo CDC (art. 35), quando a loja não cumpre a oferta, a escolha entre esperar o produto, levar outro equivalente ou cancelar é do cliente; por isso a mensagem pergunta. Não ofereça a remessa futura se o fornecedor não confirmou. O guia sobre [trocar em vez de estornar](https://avilaops.com/guias/trocar-em-vez-de-estornar-como-oferecer-sem-forcar/) explica como oferecer a troca sem parecer que está segurando o dinheiro.
+Nessa mensagem, o erro é assumido na primeira frase e as opções são reais, com o estorno entre elas. Pelo CDC (art. 35), quando a loja não cumpre a oferta, a escolha entre esperar o produto, levar outro equivalente ou cancelar é do cliente; por isso a mensagem pergunta. Não ofereça a remessa futura se o fornecedor não confirmou. O guia sobre [trocar em vez de estornar](https://avilaops.com/guias/trocar-em-vez-de-estornar-como-oferecer-sem-forcar/) explica como oferecer a troca sem parecer que está segurando o dinheiro.
 
 ## Como evitar na próxima vez?
 

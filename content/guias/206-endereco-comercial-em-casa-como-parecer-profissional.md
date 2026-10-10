@@ -23,12 +23,12 @@ Muita empresa pequena começa na sala de casa, e o dono trata isso como segredo.
 
 ## Como configurar o Google sem mostrar a casa?
 
-O Perfil da Empresa no Google tem uma opção para empresas que atendem os clientes no local deles ou remotamente. Nela, você informa o endereço para verificação, mas marca para não exibir, e define a área de atendimento por cidades ou CEPs. O perfil aparece nas buscas locais com o nome, o telefone, o horário e as avaliações, sem o pino na sua rua.
+O Perfil da Empresa no Google tem uma opção para empresas que vão até o cliente ou entregam pessoalmente no endereço dele. Nela, você informa o endereço para verificação, mas marca para não exibir, e define a área de atendimento por cidades ou CEPs. O perfil aparece nas buscas locais com o nome, o telefone, o horário e as avaliações, sem o pino na sua rua. Quem atende só a distância, por telefone ou internet, ou só despacha pelo correio, não pode ter perfil no Google Maps; nesse caso, o nome aparece pelo site e pelas redes.
 
 Da política do Google, o que importa aqui:
 
 1. Não use endereço que não seja seu. Caixa postal, escritório virtual onde você nunca vai, ou endereço de parente resultam em suspensão do perfil quando detectados.
-2. Se você recebe cliente em casa com hora marcada, pode mostrar o endereço. Aí o perfil é de local físico, e a política pede atendimento presencial no horário informado.
+2. Se você recebe cliente em casa com hora marcada, pode mostrar o endereço. Aí o perfil é de local físico, e a política pede placa fixa com o nome no endereço e atendimento presencial no horário informado.
 3. Área de atendimento é para dizer onde você vai, não para "cobrir" cidades onde você não atende de fato. O Google pede que ela não passe de 2 horas de carro de onde a empresa fica.
 
 O guia de como aparecer no Google cobre o resto da configuração: https://avilaops.com/guias/como-faco-para-minha-empresa-aparecer-no-google/.
@@ -57,7 +57,7 @@ Uma arquiteta atendia em casa e tinha no Google o endereço da residência, com 
 
 ## O que fazer agora
 
-Abra o Perfil da Empresa no Google e confira se o endereço exibido é o que você quer exibir. Se recebe cliente em casa, mantenha, com horário. Se não recebe, mude para área de atendimento hoje. Ajuste o rodapé e a página de contato. Perfil da Empresa no Google configurado junto com o site, com a área certa e sem risco de suspensão: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Abra o Perfil da Empresa no Google e confira se o endereço exibido é o que você quer exibir. Se recebe cliente em casa, mantenha, com horário. Se não recebe, mas vai até o cliente ou entrega pessoalmente, mude para área de atendimento hoje. Ajuste o rodapé e a página de contato. Perfil da Empresa no Google configurado junto com o site, com a área certa e sem risco de suspensão: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
