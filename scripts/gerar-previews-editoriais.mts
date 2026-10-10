@@ -42,7 +42,7 @@ async function render(src: string, title: string, label: string, detail: string,
   const dest = path.join("public", src);
   if (fs.existsSync(dest)) {
     // Arquivo gerado numa execução interrompida antes de gravar o manifesto: registra sem refazer.
-    if (!recorded.has(src)) manifest.push({ path: src, title, kind, bytes: fs.statSync(dest).size });
+    if (!recorded.has(src)) { manifest.push({ path: src, title, kind, bytes: fs.statSync(dest).size }); recorded.add(src); }
     return;
   }
   const themes = [ ["#f5f0e5", "#101827", "#0054fe"], ["#101827", "#ffffff", "#fdc401"], ["#eef3ff", "#101827", "#0054fe"] ];
@@ -68,6 +68,15 @@ async function render(src: string, title: string, label: string, detail: string,
   manifest.push({ path: src, title, kind, bytes: output.length });
 }
 try {
+  // Capa tipográfica já cadastrada em imagens.json mas fora do manifesto (execução
+  // interrompida entre as duas gravações): registra antes do laço, que a pula.
+  for (const asset of assets) {
+    const dest = path.join("public", asset.src);
+    if (asset.position === 1 && asset.alt.startsWith("Cartaz editorial") && !recorded.has(asset.src) && fs.existsSync(dest)) {
+      manifest.push({ path: asset.src, title: asset.alt.match(/“(.+)”/)?.[1] || asset.slug, kind: "capa tipográfica", bytes: fs.statSync(dest).size });
+      recorded.add(asset.src);
+    }
+  }
   for (const file of fs.readdirSync("content/guias").filter(file => file.endsWith(".md"))) {
     const { data } = matter(fs.readFileSync(path.join("content/guias", file), "utf8"));
     if (data.status !== "aprovado" || data.data_prevista > today || assets.some(item => item.slug === data.slug && item.position === 1)) continue;
