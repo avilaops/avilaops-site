@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-24"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/o-que-e-prazo-de-despacho-e-por-que-nao-e-prazo-de-entrega/", "/guias/fornecedor-unico-o-risco-que-ninguem-calcula/", "/guias/produto-sazonal-comprar-quanto-e-quando/"]
 ---
 

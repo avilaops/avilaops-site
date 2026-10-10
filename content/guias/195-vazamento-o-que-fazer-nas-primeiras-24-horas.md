@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-14"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-vazamento-de-dados/", "/guias/titular-dos-dados-quem-e-e-direitos/", "/contato/"]
 ---
 
@@ -44,7 +45,7 @@ Com isso você avalia o risco. Dado que permite golpe, fraude ou constrangimento
 
 Dois destinatários. A ANPD, pelo formulário no site dela, quando o risco for relevante. A Resolução CD/ANPD nº 15/2024 fixou prazo de três dias úteis a partir de quando você soube do incidente (o dobro para agente de pequeno porte), então as 24 horas são o momento de reunir a informação, não de esperar. Se ainda não sabe tudo, comunique o que sabe e complemente depois; a própria ANPD prevê isso.
 
-Os titulares, no mesmo prazo, com uma mensagem direta. O texto tem cinco partes: o que aconteceu, que dado seu foi afetado, o que você já fez, o que a pessoa deve fazer (trocar senha, desconfiar de mensagem em nome da empresa), e um canal para tirar dúvida. Sem "por precaução informamos que pode ter havido"; escreva "no dia 10/03/2027, uma planilha com nome, telefone e CPF de 240 clientes ficou acessível por link público. Fechamos o acesso no mesmo dia".
+Os titulares, no mesmo prazo, com uma mensagem direta. O texto tem cinco partes: o que aconteceu, que dado seu foi afetado, o que você já fez, o que a pessoa deve fazer (trocar senha, desconfiar de mensagem em nome da empresa), e um canal para tirar dúvida. Sem "por precaução informamos que pode ter havido"; escreva "no dia 10/03, uma planilha com nome, telefone e CPF de 240 clientes ficou acessível por link público. Fechamos o acesso no mesmo dia".
 
 Se houve crime, como invasão ou extorsão, registre boletim de ocorrência. Ele também é prova de que você tratou o caso a sério.
 

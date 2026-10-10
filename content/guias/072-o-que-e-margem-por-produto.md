@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Dados"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-11"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-ticket-medio-valor-medio-do-pedido/", "/guias/estoque-parado-depois-da-campanha-o-que-fazer/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -34,7 +35,7 @@ Uma loja de utilidades vendeu 300 unidades de uma garrafa térmica com 40% de de
 
 ## O que fazer agora
 
-Calcule a margem dos dez produtos mais vendidos desta semana, com o desconto de campanha aplicado. O que estiver abaixo de zero sai da oferta ou entra em kit hoje. Para ter esse número por produto, atualizado sozinho, a Avila Ops monta o painel ligado à loja: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Calcule a margem dos dez produtos mais vendidos nos últimos 30 dias, com o desconto de campanha aplicado. O que estiver abaixo de zero sai da oferta ou entra em kit hoje. Para ter esse número por produto, atualizado sozinho, a Avila Ops monta o painel ligado à loja: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

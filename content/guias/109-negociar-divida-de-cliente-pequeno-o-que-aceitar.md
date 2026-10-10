@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-18"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-cobrar-quem-ficou-devendo-sem-perder-o-cliente/", "/guias/o-13-do-cliente-o-mes-em-que-o-dinheiro-existe/", "/jornada/"]
 ---
 

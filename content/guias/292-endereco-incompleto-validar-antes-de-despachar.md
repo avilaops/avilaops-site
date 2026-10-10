@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-19"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/erro-de-envio-como-nao-perder-o-cliente-junto/", "/guias/confirmar-separar-avisar-o-processo-minimo/", "/loja-virtual/"]
 ---
 

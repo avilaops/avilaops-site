@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Sistema"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-20"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-erp-financeiro-estoque-e-vendas-juntos/", "/comparativos/avila-ops-vs-ferramentas-saas/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -50,7 +51,7 @@ Sob medida faz sentido quando a rotina tem uma particularidade que o de pratelei
 
 ## O que fazer agora
 
-Conte quantas vezes por semana alguém copia um dado de um lugar para outro na sua empresa. Se for zero, fique onde está. Se for mais de cinco, o sistema já se paga em horas. Se for migrar, janeiro ajuda: o ano anterior fecha e o novo começa limpo. Sair da planilha sem perder o histórico: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Conte quantas vezes por semana alguém copia um dado de um lugar para outro na sua empresa. Se for zero, fique onde está. Se for mais de cinco, o sistema já se paga em horas. Se for migrar, comece na virada de um mês, ou do ano: o período anterior fecha e o novo começa limpo. Sair da planilha sem perder o histórico: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

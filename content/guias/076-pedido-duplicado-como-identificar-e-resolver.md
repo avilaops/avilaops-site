@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-15"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/pedido-entrou-e-estoque-nao-bate-e-agora/", "/guias/pagamento-pendente-quanto-tempo-segurar-o-produto/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -40,9 +41,9 @@ Quem usa planilha faz isso com um filtro. Quem usa sistema pode ter um alerta au
 
 ## O que fazer em cada caso?
 
-1. **Só um pedido pago, o outro pendente.** Cancele o pendente sem perguntar. Mande uma mensagem: "recebemos dois pedidos seus, mantivemos o pago e cancelamos o outro". Pronto.
+1. **Só um pedido pago, o outro pendente.** Cancele o pendente sem perguntar e libere o estoque que ele segurava. Mande uma mensagem: "recebemos dois pedidos seus, mantivemos o pago e cancelamos o outro". Pronto.
 2. **Os dois pagos, mesmo endereço, mesmos itens.** Pergunte antes: "recebemos dois pedidos iguais, foi intencional?". Se não foi, devolva o segundo integralmente pelo painel do intermediário, no mesmo dia, e envie o primeiro. Se foi, envie os dois.
-3. **Um pedido, dois pagamentos.** Devolva o segundo pagamento na hora, sem esperar o cliente reclamar. Avise que devolveu. Pix volta em minutos; no cartão, o estorno pode levar uma ou duas faturas para aparecer, e isso precisa ser dito.
+3. **Um pedido, dois pagamentos.** Devolva o segundo pagamento na hora, pela própria transação no painel do intermediário, sem esperar o cliente reclamar. Avise que devolveu. Pix volta em minutos; no cartão, o estorno pode levar uma ou duas faturas para aparecer, e isso precisa ser dito.
 4. **Os dois já foram enviados.** Aconteceu. Mande a mensagem antes de ele receber, ofereça a devolução com postagem paga por você e devolva o valor quando o pacote voltar, ou ofereça manter os dois com desconto no segundo se fizer sentido para o cliente.
 
 Devolver o valor sem o cliente pedir parece perda. É o contrário: o cliente que vê o dinheiro voltar sozinho conta para os outros. O guia sobre [pagamento pendente](https://avilaops.com/guias/pagamento-pendente-quanto-tempo-segurar-o-produto/) explica quanto tempo esperar antes de cancelar o pedido não pago.

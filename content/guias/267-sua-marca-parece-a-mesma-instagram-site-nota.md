@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-25"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-identidade-visual-o-que-entra/", "/guias/checklist-de-presenca-digital-para-pequenas-empresas/", "/identidade-visual/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/o-que-e-identidade-visual-o-que-entra/", "/guias/checkl
 
 Abra o Instagram, o site, uma conversa de WhatsApp e a última nota fiscal da sua empresa lado a lado. Se o logo, a cor, a fonte, o nome e o telefone forem iguais nos quatro, a sua marca é uma só. Se algum deles for diferente, o cliente que passa de um para o outro sente uma pequena dúvida: "é a mesma empresa?". Essa dúvida custa venda, e a maioria dos donos nunca fez o teste porque cada peça foi feita em uma época, por uma pessoa.
 
-O teste leva 10 minutos. Com embalagem, cartão e anúncio de Dia das Mães circulando, as diferenças ficam mais à vista.
+O teste leva 10 minutos. Em datas como o Dia das Mães, com embalagem, cartão e anúncio circulando ao mesmo tempo, as diferenças ficam mais à vista.
 
 ## Por que a diferença custa venda?
 

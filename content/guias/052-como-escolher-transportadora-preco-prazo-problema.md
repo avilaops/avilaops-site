@@ -67,4 +67,4 @@ Depende da região e do produto. Correios cobrem o país inteiro e têm balcão 
 Costuma valer mesmo com volume pequeno, porque muitas não exigem mínimo: dá acesso a preço negociado e a etiqueta integrada. Confira quem responde no problema, se a plataforma ou a transportadora.
 
 **Quem paga quando o pacote extravia?**
-A loja responde ao cliente, sempre: reenvia ou devolve o dinheiro, conforme o cliente escolher (art. 35 do CDC). Depois, a loja cobra a indenização da transportadora, pelo procedimento acordado. Por isso o procedimento precisa estar combinado antes.
+A loja responde ao cliente, sempre: reenvia, troca por produto equivalente ou devolve o dinheiro, conforme o cliente escolher (art. 35 do CDC). Depois, a loja cobra a indenização da transportadora, pelo procedimento acordado. Por isso o procedimento precisa estar combinado antes.

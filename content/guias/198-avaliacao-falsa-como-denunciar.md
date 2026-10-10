@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Local"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-17"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/nota-1-no-google-roteiro-de-resposta/", "/guias/reclamacao-publica-responder-apagar-ou-ignorar/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

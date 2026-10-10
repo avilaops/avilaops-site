@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-17"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/o-que-e-separacao-de-pedido/", "/guias/o-que-e-prazo-de-despacho-e-por-que-nao-e-prazo-de-entrega/", "/guias/automatizar-o-que-primeiro-os-cinco-candidatos-obvios/"]
 ---
 
@@ -62,4 +63,4 @@ No mínimo, três: pagamento confirmado, pedido separado e embalado, cliente avi
 No dia da confirmação do pagamento ou no próximo dia útil. Se o prazo de despacho anunciado é maior que isso, tudo bem, mas a fila precisa ser visível para ninguém estourar.
 
 **Preciso mandar o código de rastreio para o cliente?**
-Precisa, e com prazo estimado. É a mensagem que mais reduz pergunta no WhatsApp. Um sistema manda sozinho no momento da postagem; sem sistema, é uma tarefa de fim de dia que não pode ser pulada.
+Precisa, e com prazo estimado. É a mensagem que mais reduz pergunta no WhatsApp. Um sistema manda sozinho no momento da postagem, por e-mail ou, no WhatsApp, pela API oficial com modelo aprovado e para quem aceitou receber; sem sistema, é uma tarefa de fim de dia que não pode ser pulada.

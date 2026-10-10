@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comanda"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-15"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/comanda-digital/", "/guias/pedido-antecipado-e-retirada-acabar-com-a-fila/", "/guias/festa-junina-o-digital-que-serve-ao-presencial/"]
 ---
 
@@ -24,10 +25,10 @@ O cliente não desiste da fila, porque não está sentindo a fila. E a loja não
 
 Sem aplicativo, o ciclo é este:
 
-1. O cliente lê um QR e recebe um número. Pode informar o WhatsApp para ser avisado, ou só acompanhar a tela.
+1. O cliente lê um QR e recebe um número. Pode informar o WhatsApp para ser avisado, ou só acompanhar a tela. O número informado serve para a chamada, não para propaganda.
 2. Uma tela na loja, ou o celular do atendente, mostra a senha atual e as próximas.
-3. Quando o atendente chama a próxima, o sistema manda a mensagem: "Sua vez, senha 47, balcão 2".
-4. Se o cliente não aparece em dois minutos, a senha pula e ele volta para o fim com um toque.
+3. Quando o atendente chama a próxima, o sistema manda a mensagem: "Sua vez, senha 47, balcão 2". Envio automático no WhatsApp passa pela API oficial, com modelo de mensagem aprovado.
+4. Se o cliente não aparece dentro do tempo de tolerância, a senha pula e ele volta para o fim com um toque.
 
 O que muda para a equipe: ninguém mais grita número, ninguém mais discute quem chegou primeiro. O sistema vira o árbitro, e o cliente aceita a ordem do sistema com mais facilidade do que a do atendente.
 

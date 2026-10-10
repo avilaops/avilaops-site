@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Anúncios"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-18"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/funil-de-vendas/", "/guias/instagram-meta-ads-whatsapp-funil/", "/glossario/pixel-da-meta/", "/meta-ads-para-empresas/"]
 ---
 
@@ -32,7 +33,7 @@ Erros comuns: mostrar preço, falar de "nossa história", pedir agendamento. Tud
 
 Mostre a prova. Quem é morno já sabe que você existe e tem uma dúvida: funciona? Vale? É sério? Responda com o que você tem de concreto: caso real de cliente (com autorização), bastidor de como o serviço é feito, comparação honesta entre opções, perguntas que os clientes fazem antes de fechar e as respostas.
 
-Na plataforma, o público morno é construído a partir de quem interagiu com o perfil, assistiu parte de um vídeo ou visitou o site. Para visita ao site contar, o pixel da Meta precisa estar instalado: https://avilaops.com/glossario/pixel-da-meta/.
+Na plataforma, o público morno é construído a partir de quem interagiu com o perfil, assistiu parte de um vídeo ou visitou o site. Para visita ao site contar, o pixel da Meta precisa estar instalado e carregar depois que o visitante aceitar os cookies: https://avilaops.com/glossario/pixel-da-meta/.
 
 Formato: carrossel com antes e depois, vídeo de um minuto com o dono explicando o processo, depoimento em texto sobre foto do serviço. O pedido cresce um pouco: agende uma avaliação, veja o catálogo, chame no WhatsApp para tirar dúvida.
 
@@ -40,7 +41,7 @@ Formato: carrossel com antes e depois, vídeo de um minuto com o dono explicando
 
 Faça a oferta e tire o obstáculo. Quem é quente já conversou ou já comprou. O que falta é um motivo para fechar agora ou para voltar. Aqui cabe preço, prazo, condição, bônus. Cabe também o lembrete: "seu orçamento vale até sexta", "última semana do valor de inverno".
 
-O público quente é pequeno e barato de alcançar. A lista de contatos do WhatsApp Business, os clientes do CRM e quem iniciou conversa pelo anúncio podem ser carregados na plataforma como público personalizado. Anúncio para esse grupo custa pouco no total, porque são poucas pessoas para alcançar.
+O público quente é pequeno e barato de alcançar. A lista de contatos do WhatsApp Business, os clientes do CRM e quem iniciou conversa pelo anúncio podem ser carregados na plataforma como público personalizado, desde que haja base legal documentada para esse uso, aviso na política de privacidade e exclusão de quem pediu para não receber. Anúncio para esse grupo custa pouco no total, porque são poucas pessoas para alcançar.
 
 Erro comum: tratar cliente antigo como frio, reapresentando a empresa. Ele já conhece. Vá direto ao ponto.
 
@@ -65,4 +66,4 @@ Frio nunca teve contato com a empresa. Morno já viu conteúdo, perfil ou site. 
 Depende do tamanho de cada grupo. Empresa nova quase não tem morno nem quente e precisa investir no frio. Empresa com anos de cliente pode tirar mais resultado do quente por menos dinheiro. Comece olhando quantas pessoas cada público tem na plataforma.
 
 **Posso usar minha lista de clientes do WhatsApp para anunciar?**
-Pode, carregando os contatos como público personalizado, desde que você tenha obtido os dados de forma legítima e respeite a LGPD. Use para oferta a quem já comprou, não para reapresentar a empresa.
+Pode, carregando os contatos como público personalizado, desde que você tenha base legal documentada pela LGPD para esse uso, informe isso na política de privacidade e retire da lista quem pediu para sair. Use para oferta a quem já comprou, não para reapresentar a empresa.

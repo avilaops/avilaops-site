@@ -9,14 +9,15 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-15"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/site-ou-instagram-para-pequena-empresa/", "/guias/como-automatizar-instagram-da-empresa/", "/guias/quanto-custa-um-cliente-novo/", "/sistema-para-pequenas-empresas/"]
 ---
 
 # Canal que mais traz cliente x o que mais dá trabalho
 
-O canal que mais ocupa a sua semana quase nunca é o que mais traz cliente. Para descobrir, cruze duas listas: horas gastas por canal e clientes fechados por canal. Onde o esforço é alto e o resultado baixo, corte ou automatize. Onde o resultado é alto e o esforço baixo, invista. A conta cabe numa folha e costuma mudar o segundo semestre.
+O canal que mais ocupa a sua semana quase nunca é o que mais traz cliente. Para descobrir, cruze duas listas: horas gastas por canal e clientes fechados por canal. Onde o esforço é alto e o resultado baixo, corte ou automatize. Onde o resultado é alto e o esforço baixo, invista. A conta cabe numa folha e costuma mudar os meses seguintes.
 
 O ponto de partida: numa empresa pequena, o que mais falta é o tempo do dono, mais que o dinheiro.
 
@@ -35,7 +36,7 @@ Multiplique as horas por um custo por hora, mesmo que aproximado. O seu tempo te
 
 ## Como medir o cliente que cada canal traz?
 
-Pegue os clientes novos de janeiro a junho e a origem de cada um. Se a origem não está registrada, pergunte aos últimos 30 e projete. Conte por canal. Some o faturamento de cada grupo.
+Pegue os clientes novos dos últimos seis meses e a origem de cada um. Se a origem não está registrada, pergunte aos últimos 30 e projete. Conte por canal. Some o faturamento de cada grupo.
 
 Agora coloque lado a lado, em quatro colunas: canal, horas no semestre, clientes novos, faturamento. O guia sobre quanto custa um cliente novo mostra como incluir o dinheiro gasto além do tempo: https://avilaops.com/guias/quanto-custa-um-cliente-novo/.
 
@@ -52,7 +53,7 @@ O Instagram consumiu 260 horas e trouxe três clientes. A indicação, 40 horas 
 
 ## O que fazer com cada tipo de canal?
 
-Muito trabalho, muito cliente: é o canal principal. Proteja o tempo dele e tire dele o que é repetitivo. Se for WhatsApp, respostas automáticas para as perguntas de sempre.
+Muito trabalho, muito cliente: é o canal principal. Proteja o tempo dele e tire dele o que é repetitivo. Se for WhatsApp, respostas rápidas salvas para as perguntas de sempre.
 
 Pouco trabalho, muito cliente: é o canal subestimado. Quase sempre é indicação ou Google. Dê a ele um pouco mais: pedir indicação de forma sistemática, responder avaliações, publicar um guia por mês no site.
 
@@ -64,7 +65,7 @@ A comparação entre site e Instagram, um clássico dessa tabela, tem guia próp
 
 ## O que fazer agora
 
-Anote as horas por canal por uma semana e cruze com a origem dos clientes do semestre. Escolha o canal de "muito trabalho, pouco cliente" e tire dele metade das horas em julho. Veja se alguma coisa piora. Quase nunca piora. Cinco números que cabem numa tela, atualizados sozinhos: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Anote as horas por canal por uma semana e cruze com a origem dos clientes do semestre. Escolha o canal de "muito trabalho, pouco cliente" e tire dele metade das horas no próximo mês. Veja se alguma coisa piora. Quase nunca piora. Cinco números que cabem numa tela, atualizados sozinhos: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

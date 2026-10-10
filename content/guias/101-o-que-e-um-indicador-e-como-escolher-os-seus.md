@@ -3,14 +3,15 @@ num: 101
 titulo: "O que é um indicador e como escolher os seus"
 slug: "o-que-e-um-indicador-e-como-escolher-os-seus"
 title_seo: "O que é um indicador e como escolher os seus"
-meta_description: "Indicador é um número que você acompanha com regularidade porque ele muda uma decisão. Veja como escolher os cinco que importam para a sua empresa em 2027."
+meta_description: "Indicador é um número que você acompanha com regularidade porque ele muda uma decisão. Veja como escolher os cinco que importam para a sua empresa."
 mes: "2026-12"
 bloco: "basico"
 puxa: "Dados"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/fechar-o-ano-cinco-numeros-que-cabem-numa-tela/", "/guias/metas-do-ano-que-vem-em-uma-pagina/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/fechar-o-ano-cinco-numeros-que-cabem-numa-tela/", "/gui
 
 Indicador é um número que você acompanha em intervalo fixo porque ele muda uma decisão sua. Faturamento do mês é indicador se, ao vê-lo cair, você faz algo diferente. Número de seguidores não é, se você não muda nada quando ele sobe ou desce. O que define o indicador não é o número, é a decisão ligada a ele.
 
-Escolher indicadores resolve o excesso: o Instagram mostra dezenas de métricas, a maquininha outras tantas, o sistema mais algumas. Nenhuma diz o que fazer amanhã. Dezembro, quando você fecha o ano e planeja o próximo, é a hora de decidir quais cinco números cabem na tela em 2027.
+Escolher indicadores resolve o excesso: o Instagram mostra dezenas de métricas, a maquininha outras tantas, o sistema mais algumas. Nenhuma diz o que fazer amanhã. Dezembro, quando você fecha o ano e planeja o próximo, é a hora de decidir quais cinco números cabem na tela no ano seguinte.
 
 ## Como saber se um número é indicador ou só curiosidade?
 
@@ -32,11 +33,11 @@ Um salão de beleza acompanhava faturamento e seguidores. Trocou por três: agen
 
 Cinco cabem numa tela e na cabeça. Mais que isso, você para de olhar. A lista muda por negócio, mas a estrutura é a mesma: um de dinheiro que entrou (caixa), um de venda (faturamento ou pedidos), um de eficiência (ticket médio ou margem), um de cliente (recompra ou falta) e um de funil (mensagens que viraram venda).
 
-O guia [Fechar o ano: cinco números que cabem numa tela](https://avilaops.com/guias/fechar-o-ano-cinco-numeros-que-cabem-numa-tela/) aplica isso ao fechamento de 2026. E [Metas do ano que vem em uma página](https://avilaops.com/guias/metas-do-ano-que-vem-em-uma-pagina/) transforma cada indicador em uma meta com número e prazo.
+O guia [Fechar o ano: cinco números que cabem numa tela](https://avilaops.com/guias/fechar-o-ano-cinco-numeros-que-cabem-numa-tela/) aplica isso ao fechamento do ano. E [Metas do ano que vem em uma página](https://avilaops.com/guias/metas-do-ano-que-vem-em-uma-pagina/) transforma cada indicador em uma meta com número e prazo.
 
 ## O que fazer agora
 
-Escreva os cinco números que quer ver toda segunda-feira em 2027 e, ao lado de cada um, o que faria se ele caísse. Se não souber, tire da lista. Cinco números que cabem numa tela, atualizados sozinhos: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escreva os cinco números que quer ver toda segunda-feira no próximo ano e, ao lado de cada um, o que faria se ele caísse. Se não souber, tire da lista. Cinco números que cabem numa tela, atualizados sozinhos: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

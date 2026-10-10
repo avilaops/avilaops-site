@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-02"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/guias/o-que-e-custo-de-aquisicao-de-cliente/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/como-configurar-pixel-da-meta-e-medir-conversoes/", "/g
 
 Retorno sobre investimento em anúncio é a relação entre o que você ganhou com as vendas que vieram do anúncio e o que gastou para fazê-lo rodar. Gastou R$ 1.000 e as vendas vindas dali somaram R$ 4.000: o retorno bruto foi de quatro para um. Descontando custo de produto, entrega e o próprio anúncio, sobra o retorno real.
 
-Esse número decide se o anúncio continua, aumenta ou para. Sem ele, a decisão vira sensação. Na revisão de meio de ano, é a primeira conta a fazer antes de renovar orçamento.
+Esse número decide se o anúncio continua, aumenta ou para. Sem ele, a decisão vira sensação. Em qualquer revisão de orçamento, é a primeira conta a fazer antes de renovar a verba.
 
 ## Qual a diferença entre ROI e ROAS?
 
@@ -36,12 +37,12 @@ Para quem vende pelo WhatsApp, o caminho é marcar a origem no primeiro contato 
 
 ## O que fazer agora
 
-Pegue o gasto em anúncio de janeiro a junho e as vendas que você consegue atribuir a ele. Calcule o ROAS e desconte a margem para chegar no ROI. Se não consegue atribuir venda a anúncio, o segundo semestre começa por consertar o rastreio. Cinco números que cabem numa tela, atualizados sozinhos: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Pegue o gasto em anúncio dos últimos seis meses e as vendas que você consegue atribuir a ele. Calcule o ROAS e desconte a margem para chegar no ROI. Se não consegue atribuir venda a anúncio, o próximo passo é consertar o rastreio. Cinco números que cabem numa tela, atualizados sozinhos: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
 **Qual é um bom ROAS para pequena empresa?**
-Depende da margem. Divida 100 pela sua margem em porcentagem para achar o ROAS de empate: margem de 25% pede ROAS 4 só para não perder dinheiro. Acima disso é lucro.
+Depende da margem. Divida 100 pela sua margem em porcentagem para achar o ROAS de empate: margem de 25% pede ROAS 4 só para não perder dinheiro na venda. Acima disso sobra margem, que ainda precisa cobrir os custos fixos antes de virar lucro.
 
 **O retorno do anúncio inclui cliente que volta a comprar?**
 Na conta do gerenciador, não. Ele enxerga uma janela de dias depois do clique. Se o seu cliente compra de novo por meses, o retorno real é maior. Cruze com o custo de aquisição de cliente: https://avilaops.com/guias/o-que-e-custo-de-aquisicao-de-cliente/.

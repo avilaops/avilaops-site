@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-18"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-indicacao-por-que-custa-menos/", "/guias/programa-de-indicacao-sem-aplicativo-nem-cupom/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -32,6 +33,8 @@ Você precisa de quatro números, todos do seu próprio caixa:
 Valor do cliente = ticket médio × frequência × tempo de vida. Valor líquido = valor do cliente menos custo de aquisição.
 
 Numa clínica de estética, o ticket médio é R$ 180. Frequência: seis vezes por ano. Tempo de vida: dois anos. Valor do cliente: 180 × 6 × 2 = R$ 2.160. Custo de aquisição por anúncio: R$ 90. Cliente de anúncio: R$ 2.070 líquido. Cliente indicado: R$ 2.160, porque o custo foi zero. A diferença parece pequena, R$ 90, até você contar em volume: 40 indicados por ano são R$ 3.600 que não foram para o anúncio.
+
+Essa conta é de faturamento, não de lucro. Para decidir quanto dá para gastar trazendo um cliente, troque o ticket médio pela margem por compra, já descontados o custo do produto ou serviço e a parte dos custos fixos que cabe a cada atendimento.
 
 ## Por que o indicado costuma valer ainda mais?
 

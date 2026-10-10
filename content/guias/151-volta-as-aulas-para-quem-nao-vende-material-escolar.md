@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-29"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/plano-digital-de-um-ano-em-uma-pagina/", "/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/", "/jornada/"]
 ---
 
@@ -39,7 +40,7 @@ A coluna do meio é a que importa. Se você consegue preencher a sua linha, tem 
 
 Fale do problema, não da data. "Volta às aulas: 10% de desconto" não diz nada para uma mãe. "Corte infantil com hora marcada na semana antes da escola, sem fila" diz.
 
-Use a lista que você já tem. Quem comprou em fevereiro do ano passado tem grande chance de precisar de novo. Uma mensagem pelo WhatsApp, pessoal, dez dias antes do início das aulas, custa nada. "Oi, Carla. A escola do Pedro começa dia 2, né? Reservei horários de corte na semana anterior. Quer que eu marque?" Isso é lista de contatos em uso, e é por isso que ela existe.
+Use a lista que você já tem. Quem comprou na volta às aulas anterior tem grande chance de precisar de novo. Uma mensagem pelo WhatsApp, pessoal, dez dias antes do início das aulas, para quem aceitou receber novidades, custa nada. "Oi, Carla. A escola do Pedro começa dia 2, né? Reservei horários de corte na semana anterior. Quer que eu marque?" Isso é lista de contatos em uso, e é por isso que ela existe.
 
 Para alcançar quem não está na lista, um anúncio curto na Meta, para o bairro, com o WhatsApp como destino: https://avilaops.com/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/. Mas só depois de a lista ter recebido a mensagem, porque ela responde mais e não custa.
 
@@ -49,13 +50,13 @@ A oferta concentra demanda em uma semana. Se o cliente só consegue marcar ligan
 
 1. Um jeito de o cliente marcar ou pedir sozinho: link de agendamento, formulário no site, pedido na loja online, ou pelo menos uma mensagem de saudação no WhatsApp Business que pergunte o que ele precisa e o horário.
 2. Uma resposta rápida para as três perguntas que todo mundo vai fazer: preço, horário disponível, como pagar.
-3. Um registro de quem pediu, para chamar de novo no meio do ano e na próxima volta às aulas. Esta data se repete todo ano; a lista de 2027 é o começo da venda de 2028.
+3. Um registro de quem pediu, para chamar de novo no meio do ano e na próxima volta às aulas. Esta data se repete todo ano; a lista desta volta às aulas é o começo da venda da próxima.
 
 Coloque a data no plano do ano, em https://avilaops.com/guias/plano-digital-de-um-ano-em-uma-pagina/, como o primeiro pico do calendário. O método vale para os outros: o que muda para o cliente, o que você já vende que ajuda.
 
 ## O que fazer agora
 
-Preencha a sua linha da tabela hoje. Se tiver oferta, escreva a mensagem de WhatsApp para a lista e mande dez dias antes do início das aulas na sua cidade. Confira se o cliente consegue marcar ou pedir sem ligar. Se a resposta for não, esse é o gargalo que a Avila Ops resolve antes da próxima data: descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Preencha a sua linha da tabela hoje. Se tiver oferta, escreva a mensagem de WhatsApp para quem, na sua lista, aceitou receber novidades, e mande dez dias antes do início das aulas na sua cidade. Confira se o cliente consegue marcar ou pedir sem ligar. Se a resposta for não, esse é o gargalo que a Avila Ops resolve antes da próxima data: descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

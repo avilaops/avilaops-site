@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/dominio/", "/guias/paguei-o-dominio-e-nunca-fiz-o-site/", "/identidade-visual/"]
 ---
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "SEO"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-17"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/impressao-clique-posicao-numeros-que-importam/", "/guias/conteudo-raso-300-palavras-nao-rendem/", "/guias/meu-site-perdeu-trafego-com-as-respostas-de-ia-do-google/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -54,7 +55,7 @@ Trocar duas palavras e mudar a data. Adicionar três parágrafos de enchimento n
 
 Também não conta refazer o visual. Layout novo com o mesmo texto antigo é o erro mais caro: gasta com design e mantém o problema. Se você vai investir, invista primeiro no que está escrito.
 
-Uma situação particular de 2027: páginas que perderam cliques desde que o Google passou a mostrar respostas de IA no topo da busca. Muitas dessas páginas ainda aparecem, mas o leitor lê o resumo e não clica. A revisão que funciona nesse caso é acrescentar o que o resumo não consegue dar: preço, disponibilidade local, exemplo concreto e caminho para o contato. O guia [meu site perdeu tráfego com as respostas de IA do Google](https://avilaops.com/guias/meu-site-perdeu-trafego-com-as-respostas-de-ia-do-google/) trata disso em detalhe.
+Uma situação particular dos últimos anos: páginas que perderam cliques desde que o Google passou a mostrar respostas de IA no topo da busca. Muitas dessas páginas ainda aparecem, mas o leitor lê o resumo e não clica. A revisão que funciona nesse caso é acrescentar o que o resumo não consegue dar: preço, disponibilidade local, exemplo concreto e caminho para o contato. O guia [meu site perdeu tráfego com as respostas de IA do Google](https://avilaops.com/guias/meu-site-perdeu-trafego-com-as-respostas-de-ia-do-google/) trata disso em detalhe.
 
 ## O que fazer agora
 
@@ -69,4 +70,4 @@ Pode, se você trocar o assunto, remover o que respondia à consulta ou mudar a 
 Quando algo mudou: preço, prazo, produto, lei. Fora isso, uma revisão por ano por página importante é suficiente. Revisar sem ter o que mudar não ajuda.
 
 **Vale mais atualizar ou criar página nova?**
-Se já existe página para o tema e ela aparece em alguma posição, atualize. Crie página nova quando a pergunta é diferente e nenhuma página sua responde. Criar uma segunda página sobre o mesmo tema gera disputa interna, que é assunto do próximo guia.
+Se já existe página para o tema e ela aparece em alguma posição, atualize. Crie página nova quando a pergunta é diferente e nenhuma página sua responde. Criar uma segunda página sobre o mesmo tema gera disputa interna, assunto do guia sobre duas páginas brigando pela mesma busca.

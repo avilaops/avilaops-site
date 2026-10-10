@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Domínio"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-25"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-dns-sem-termo-tecnico/", "/glossario/dns/", "/guias/o-que-e-monitoramento-de-site/", "/dominio-e-hospedagem/"]
 ---
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Site"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-28"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/site-feito-e-abandonado-quanto-custa-retomar/", "/guias/migrar-de-plataforma-sem-perder-o-google/", "/guias/site-institucional-landing-page-ou-loja-virtual/", "/criacao-de-site-profissional/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/site-feito-e-abandonado-quanto-custa-retomar/", "/guias
 
 Reforme o site quando a estrutura serve e o que envelheceu foi o conteúdo, as fotos ou a aparência. Refaça quando o que mudou foi o objetivo (o site era cartão de visita e precisa vender), a plataforma (lenta, abandonada, difícil de editar) ou a velocidade no celular, que reforma não conserta. A pergunta que decide não é "o site está feio?", e sim "o site consegue fazer o que a empresa precisa hoje?".
 
-Em julho, com o segundo semestre à frente e o orçamento em revisão, essa é uma decisão de infraestrutura, não de estética. O guia sobre site abandonado cobre o caso extremo, em que o site ficou anos sem toque: https://avilaops.com/guias/site-feito-e-abandonado-quanto-custa-retomar/. Aqui o caso é o site vivo, mas cansado.
+Com o orçamento em revisão, essa é uma decisão de infraestrutura, não de estética. O guia sobre site abandonado cobre o caso extremo, em que o site ficou anos sem toque: https://avilaops.com/guias/site-feito-e-abandonado-quanto-custa-retomar/. Aqui o caso é o site vivo, mas cansado.
 
 ## O que uma reforma resolve e o que ela não resolve?
 
@@ -55,7 +56,7 @@ Se ao refazer a dúvida for entre site institucional, página de destino ou loja
 
 ## O que fazer agora
 
-Responda as seis perguntas com o site aberto no celular. Se decidiu reformar, liste as cinco mudanças que mais importam e faça em julho. Se decidiu refazer, guarde a lista de páginas atuais e comece pelo protótipo. Em 48h você vê o protótipo do seu site, grátis: https://avilaops.com/criacao-de-site-profissional/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Responda as seis perguntas com o site aberto no celular. Se decidiu reformar, liste as cinco mudanças que mais importam e faça ainda este mês. Se decidiu refazer, guarde a lista de páginas atuais e comece pelo protótipo. Em 48h você vê o protótipo do seu site, grátis: https://avilaops.com/criacao-de-site-profissional/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

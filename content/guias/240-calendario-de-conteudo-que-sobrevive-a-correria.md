@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Conteúdo"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-28"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/uma-pagina-por-pergunta-do-cliente/", "/guias/blog-no-dominio-proprio-nao-em-plataforma-alugada/", "/guias/atualizar-texto-antigo-rende-mais/", "/criacao-de-site-profissional/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/uma-pagina-por-pergunta-do-cliente/", "/guias/blog-no-d
 
 O calendário de conteúdo que uma pequena empresa mantém tem uma regra: um texto por quinzena, escrito num horário fixo de duas horas, sobre a pergunta mais repetida no WhatsApp naquela quinzena, publicado no blog do domínio próprio e distribuído nos outros canais sem trabalho manual. Tudo o que é mais ambicioso que isso é abandonado no segundo mês. Tudo o que é menos que isso não acumula.
 
-O calendário típico morre de excesso. Começa com três postagens por semana, um texto por semana, um vídeo por mês, e na terceira semana o dono está atendendo cliente e o calendário está em branco. O calendário abaixo foi feito para abril, com o Dia das Mães chegando e a correria vencendo.
+O calendário típico morre de excesso. Começa com três postagens por semana, um texto por semana, um vídeo por mês, e na terceira semana o dono está atendendo cliente e o calendário está em branco. O calendário abaixo foi feito para os meses em que a correria vence, como as semanas antes do Dia das Mães ou do Natal.
 
 ## Por que o calendário morre e o que muda?
 
@@ -38,7 +39,7 @@ Uma rotina que cabe numa folha:
 1. Dia 1, 20 minutos. Ler as conversas do WhatsApp dos últimos 15 dias e anotar a pergunta mais repetida, com as palavras do cliente. Conferir no Google se há busca (autocompletar). Esse é o tema. O método está em [uma página por pergunta que o cliente faz](https://avilaops.com/guias/uma-pagina-por-pergunta-do-cliente/).
 2. Dia 2, bloco de duas horas. Escrever o texto: título com a pergunta, primeiro parágrafo com a resposta e o número, dois ou três subtítulos como pergunta, um exemplo real, o que fazer agora com link para o serviço, três perguntas frequentes. De 500 a 900 palavras.
 3. Dia 3, 20 minutos. Revisar em voz alta, cortar adjetivo, conferir preço e prazo. Publicar no blog do domínio, como explicado em [blog no domínio próprio](https://avilaops.com/guias/blog-no-dominio-proprio-nao-em-plataforma-alugada/).
-4. Dia 3 a 10, automático ou 30 minutos. Distribuir: primeiro parágrafo com link no WhatsApp (lista ou status), carrossel com os subtítulos no Instagram, postagem no Perfil da Empresa no Google, e-mail se houver base.
+4. Dia 3 a 10, automático ou 30 minutos. Distribuir: primeiro parágrafo com link no WhatsApp (status, ou lista só com quem pediu para receber), carrossel com os subtítulos no Instagram, postagem no Perfil da Empresa no Google, e-mail se houver base de quem aceitou receber, com descadastro fácil.
 5. Dia 15, 10 minutos. Olhar no Search Console se o texto da quinzena anterior foi indexado. Anotar.
 
 Total: cerca de três horas e meia por quinzena com distribuição manual; menos de três horas com distribuição automática. É o que uma pessoa que atende o dia inteiro consegue manter.
@@ -55,7 +56,7 @@ Um calendário para os próximos seis meses pode ser preenchido hoje, com os tem
 
 ## O que fazer agora
 
-Coloque na agenda o bloco de duas horas das próximas 12 quinzenas, ou seja, dos próximos seis meses. Depois abra o WhatsApp e anote a pergunta mais repetida das últimas duas semanas; esse é o primeiro texto. Se você quer o site com blog no domínio próprio e distribuição automática para WhatsApp, Instagram e Google, em 48h você vê o protótipo, grátis: https://avilaops.com/criacao-de-site-profissional/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Coloque na agenda o bloco de duas horas das próximas 12 quinzenas, ou seja, dos próximos seis meses. Depois abra o WhatsApp e anote a pergunta mais repetida das últimas duas semanas; esse é o primeiro texto. Se você quer o site com blog no domínio próprio e distribuição automática para Instagram e Google, e para o WhatsApp de quem aceitou receber, pela API oficial, em 48h você vê o protótipo, grátis: https://avilaops.com/criacao-de-site-profissional/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

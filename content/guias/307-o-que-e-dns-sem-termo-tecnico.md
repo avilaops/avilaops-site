@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Domínio"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-04"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/dns/", "/guias/dns-o-que-quebra-quando-alguem-mexe-errado/", "/dominio-e-hospedagem/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/glossario/dns/", "/guias/dns-o-que-quebra-quando-alguem-mexe-
 
 DNS é a lista de endereços do seu domínio. Quando alguém digita suaempresa.com.br, essa lista diz em qual computador o site está guardado e para onde os e-mails devem ir. O domínio é o nome; o DNS é o que liga o nome ao lugar certo. Se a lista está errada, o site some e o e-mail para, mesmo com tudo pago.
 
-O problema é que o DNS costuma ficar na mão de quem fez o site ou de um provedor esquecido. Quando o fornecedor muda, a lista precisa mudar junto. Julho, mês de revisar contrato e infraestrutura, é hora de saber onde a sua está.
+O problema é que o DNS costuma ficar na mão de quem fez o site ou de um provedor esquecido. Quando o fornecedor muda, a lista precisa mudar junto. Antes da próxima revisão de contrato ou troca de fornecedor, vale saber onde a sua está.
 
 ## Como funciona na prática?
 

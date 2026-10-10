@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-16"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/erro-de-envio-como-nao-perder-o-cliente-junto/", "/guias/kit-e-experiencia-vender-mais-que-o-produto/", "/guias/crm-para-pequenas-empresas-com-whatsapp/"]
 ---
 
@@ -32,7 +33,7 @@ Quando a resposta é "sim" nas três, ele não faz nada. E é aí que a loja tem
 
 | Quando | O que a loja faz | Como |
 |---|---|---|
-| Rastreio muda para "entregue" | Mensagem: "Seu pedido chegou. Confere aí e, se algo estiver diferente, responde essa mensagem." | Automação ligada ao rastreio |
+| Rastreio muda para "entregue" | Mensagem: "Seu pedido chegou. Confere aí e, se algo estiver diferente, responde essa mensagem." | Automação ligada ao rastreio, pela API oficial do WhatsApp com modelo aprovado, para quem aceitou o aviso |
 | Cliente responde com problema | Resposta em até 30 minutos dentro do horário comercial, com solução, não com pergunta | Pessoa, com o pedido aberto na tela |
 | Cliente responde bem | Agradecimento curto e um pedido de foto ou avaliação, sem insistir | Pessoa ou automação |
 | Cliente não responde | Nada nas duas horas. Um dia depois, mensagem de uso: "Se tiver dúvida sobre como usar, é só chamar." | Automação |
@@ -43,7 +44,7 @@ O que não fazer: mandar cupom de desconto na mesma hora. Parece que a loja quer
 
 ## Quando deu errado: as duas horas de socorro
 
-Se o cliente diz que veio errado, quebrado ou faltando, a resposta tem três partes, na mesma mensagem: reconhecimento ("foi erro nosso"), solução ("mando o correto amanhã, sem custo, e você fica com o que veio ou devolve na mesma etiqueta") e prazo ("chega até segunda, 21/06").
+Se o cliente diz que veio errado, quebrado ou faltando, a resposta tem três partes, na mesma mensagem: reconhecimento ("foi erro nosso"), solução ("mando o correto amanhã, sem custo, e você fica com o que veio ou devolve na mesma etiqueta") e prazo ("chega até segunda-feira").
 
 Perguntar "pode mandar foto?" é razoável para conferir, mas vem depois da solução, não antes. O cliente que precisa provar antes de ser atendido já se sente acusado.
 
@@ -59,7 +60,7 @@ Escreva a mensagem de "chegou" e ligue ao evento de entrega do rastreio. Com o r
 Sim, uma, curta, para quem aceitou receber aviso pelo WhatsApp na compra, com convite para responder se algo estiver errado. Não é propaganda, é presença. Cliente que sabe onde reclamar reclama com você antes de ir ao Procon ou ao Instagram.
 
 **Quanto tempo o cliente tem para reclamar de pedido errado?**
-Para compra pela internet, o CDC (art. 49) garante 7 dias para desistir sem motivo. Para defeito aparente ou produto em desacordo com o anúncio, o art. 26 dá 30 dias (produto não durável) ou 90 dias (durável) para reclamar. Na prática, a loja que resolve nas primeiras horas raramente chega a discutir prazo legal.
+Para compra pela internet, o CDC (art. 49) garante 7 dias, contados do recebimento, para desistir sem motivo. Para defeito aparente ou produto em desacordo com o anúncio, o art. 26 dá 30 dias (produto não durável) ou 90 dias (durável) para reclamar. Na prática, a loja que resolve nas primeiras horas raramente chega a discutir prazo legal.
 
 **Como saber que o pedido foi entregue sem olhar o rastreio um por um?**
 Com um sistema que consulta o rastreio sozinho e muda o status do pedido. É isso que permite disparar a mensagem de "chegou" na hora certa, sem alguém vigiando 30 códigos.

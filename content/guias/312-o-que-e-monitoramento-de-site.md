@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-09"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/por-que-o-certificado-de-seguranca-vence/", "/guias/quanto-tempo-seu-negocio-aguenta-sem-internet/", "/contato/"]
 ---
 
@@ -26,7 +27,7 @@ Ele detecta o que dá para ver de fora: site fora do ar, página de erro, certif
 
 Ele não detecta o que só se vê por dentro: formulário que parou de enviar, integração com o WhatsApp quebrada, produto com preço errado. Para isso, teste o próprio fluxo de vez em quando: preencha o formulário, faça um pedido de teste.
 
-Um escritório de advocacia recebia contatos por formulário. O site estava no ar, o monitoramento não acusava nada, mas o formulário tinha parado de enviar depois de uma atualização. Ficaram três semanas sem contato novo achando que julho estava fraco.
+Um escritório de advocacia recebia contatos por formulário. O site estava no ar, o monitoramento não acusava nada, mas o formulário tinha parado de enviar depois de uma atualização. Ficaram três semanas sem contato novo achando que o mês estava fraco.
 
 ## Quem deve receber o alerta?
 

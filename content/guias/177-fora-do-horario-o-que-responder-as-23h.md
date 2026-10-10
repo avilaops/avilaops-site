@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-24"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/atendimento-automatizado-onde-ele-para/", "/guias/tempo-de-resposta-numero-que-afeta-a-venda/", "/guias/como-automatizar-whatsapp-da-empresa/", "/automatizar-whatsapp/"]
 ---
 
@@ -70,4 +71,4 @@ Se você está acordado e a resposta leva um minuto, responda. O problema é cri
 No WhatsApp Business, você programa por dia e horário, então cobre fim de semana. Para o Carnaval, mude o texto na sexta-feira com a data de volta e lembre de restaurar na quarta. Um texto genérico "fora do horário" no domingo de Carnaval faz o cliente achar que você fechou de vez.
 
 **Posso usar inteligência artificial para responder à noite?**
-Pode, para perguntas dentro do que você cadastrou: preço, horário, prazo, o que está incluso. Fora disso, ela deve dizer que uma pessoa responde de manhã, e não inventar. Uma IA que promete prazo ou desconto que você não deu custa mais do que a espera.
+Pode, para perguntas dentro do que você cadastrou: preço, horário, prazo, o que está incluso. Fora disso, ela deve dizer que uma pessoa responde de manhã, e não inventar. Uma IA que promete prazo ou desconto que você não deu custa mais do que a espera. E as mensagens do cliente passam pela ferramenta: escolha uma que trate os dados conforme a LGPD e informe esse uso na sua política de privacidade.

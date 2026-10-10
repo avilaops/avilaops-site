@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-17"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-indicacao-por-que-custa-menos/", "/guias/quanto-vale-um-cliente-indicado/", "/guias/pedir-indicacao-na-entrega-nao-na-cobranca/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/o-que-e-indicacao-por-que-custa-menos/", "/guias/quanto
 
 Um programa de indicação para pequena empresa é uma rotina, não um sistema: pedir no momento certo, tornar o repasse fácil e agradecer quem indicou depois que o indicado comprou. Não precisa de aplicativo, código de cupom nem regulamento. Precisa de um hábito e de um lugar para anotar quem indicou quem. O resto (recompensa, ranking, link rastreável) é opcional e, na maioria dos negócios pequenos, atrapalha.
 
-Depois do Dia das Mães, você tem dezenas de clientes satisfeitos, num mês em que a família conversa. É uma boa hora para começar.
+Depois de uma data forte, como o Dia das Mães, você tem dezenas de clientes satisfeitos e famílias conversando sobre o presente. É uma boa hora para começar.
 
 ## Por que cupom e aplicativo atrapalham?
 
@@ -32,7 +33,7 @@ O que não atrapalha: agradecer de verdade depois. Um brinde, um serviço extra,
 
 1. Peça na hora certa, para a pessoa certa. A hora é logo depois de o cliente dizer que gostou, e não na cobrança nem na entrega apressada. A pessoa é quem elogiou; nunca quem reclamou ou ficou em silêncio. Detalhes em https://avilaops.com/guias/pedir-indicacao-na-entrega-nao-na-cobranca/.
 2. Facilite o repasse. Depois do "gostei", mande uma mensagem pronta para encaminhar: uma foto do produto ou serviço, uma frase e o seu link de WhatsApp (https://wa.me/55 mais o número). O cliente aperta "encaminhar" e escolhe o contato. Não peça para ele escrever nada.
-3. Agradeça depois que o indicado comprou. Quando alguém chegar dizendo "a Ana me indicou", registre. Quando essa pessoa comprar, mande para a Ana: "A sua amiga Carla fechou com a gente. Obrigado por confiar. Na sua próxima vez, o cartão é por minha conta." O agradecimento chega como surpresa, não como promessa.
+3. Agradeça depois que o indicado comprou. Quando alguém chegar dizendo "a Ana me indicou", registre. Quando essa pessoa comprar, mande para a Ana, sem contar o que ela comprou nem quanto pagou: "A sua amiga Carla fechou com a gente. Obrigado por confiar. Na sua próxima vez, o cartão é por minha conta." O agradecimento chega como surpresa, não como promessa.
 
 A mensagem para encaminhar segue este modelo (adapte ao seu tom): "Oi. Esse é o contato da floricultura que fez o arranjo da minha mãe. Entregam no dia, com cartão. https://wa.me/55XXXXXXXXXXX". Curta, com o link no fim, sem "promoção".
 
@@ -52,7 +53,7 @@ Anotar quem indicou quem em caderno funciona até uns 30 clientes por mês. Acim
 
 ## O que fazer agora
 
-Escreva hoje a mensagem para encaminhar, com foto e link do seu WhatsApp. Mande para os cinco clientes que mais elogiaram no Dia das Mães, logo depois de perguntar se a mãe gostou. Registre quem chegar. Saiba quem indicou quem e quantos indicados viram venda: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escreva hoje a mensagem para encaminhar, com foto e link do seu WhatsApp. Mande para os cinco clientes que mais elogiaram na última data forte, logo depois de perguntar se gostaram. Registre quem chegar. Saiba quem indicou quem e quantos indicados viram venda: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

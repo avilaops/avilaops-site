@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "E-mail"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-01"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/e-mail-profissional/", "/guias/spf-dkim-dmarc-sem-termo-tecnico/", "/email-profissional/"]
 ---
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-21"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-crm-cadastro-de-clientes-que-trabalha/", "/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -53,12 +54,12 @@ Uma regra para a equipe: cadastro é feito no dia, não na sexta. Cadastro de se
 
 ## O que fazer agora
 
-Abra o seu cadastro atual, planilha ou sistema, e conte os campos. Apague os que estão vazios em mais da metade das linhas. Acrescente "como conheceu" se não existir. Faça isso em janeiro, antes de o ano encher a base com cadastro ruim. Quando o cadastro precisar se preencher sozinho a partir do WhatsApp, saiba quantas mensagens viram venda: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Abra o seu cadastro atual, planilha ou sistema, e conte os campos. Apague os que estão vazios em mais da metade das linhas. Acrescente "como conheceu" se não existir. Faça isso agora, antes de a base encher de cadastro ruim. Quando o cadastro precisar se preencher sozinho a partir do WhatsApp, saiba quantas mensagens viram venda: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
 **Preciso pedir consentimento para cadastrar o cliente?**
-Para os dados necessários ao atendimento e à venda, a própria relação justifica. Para usar o contato depois, em oferta ou boletim, o caminho seguro é dizer o que vai mandar e permitir sair a qualquer momento. Anote no cadastro que a pessoa concordou e quando.
+Para os dados necessários ao atendimento e à venda, a própria relação justifica. Para usar o contato depois, em oferta ou boletim, o caminho seguro é pedir autorização, dizer o que vai mandar e permitir sair a qualquer momento, de forma fácil. Anote no cadastro que a pessoa concordou e quando.
 
 **Cadastro de pessoa jurídica é diferente?**
 Acrescente razão social, CNPJ e o nome da pessoa que decide, que raramente é quem chama. Os oito campos continuam valendo, com o "nome" sendo o do contato e uma observação sobre o cargo.

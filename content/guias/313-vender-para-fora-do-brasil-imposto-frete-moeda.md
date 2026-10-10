@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/site-institucional-landing-page-ou-loja-virtual/", "/loja-virtual/"]
 ---
 

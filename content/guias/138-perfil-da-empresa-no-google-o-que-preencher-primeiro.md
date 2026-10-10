@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Local"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-16"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/para-que-serve-o-perfil-da-empresa-no-google/", "/guias/avaliacao-no-google-como-pedir-e-responder/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/para-que-serve-o-perfil-da-empresa-no-google/", "/guias
 
 A ordem que funciona é: categoria principal, endereço ou área de atendimento, horário, telefone, fotos, descrição, e só depois o resto. Categoria vem primeiro porque é o que diz ao Google em que buscas a sua empresa pode aparecer. Um perfil com categoria errada e tudo o mais perfeito não aparece para quem procura o que você vende.
 
-Muita gente cria ou reabre o perfil em janeiro, com o horário do ano já definido e o cliente procurando. Para que serve o perfil, em termos gerais, está em https://avilaops.com/guias/para-que-serve-o-perfil-da-empresa-no-google/.
+Vale para quem está criando o perfil do zero e para quem está reabrindo um perfil esquecido. Para que serve o perfil, em termos gerais, está em https://avilaops.com/guias/para-que-serve-o-perfil-da-empresa-no-google/.
 
 ## Qual é a ordem de preenchimento?
 
@@ -44,7 +45,7 @@ Não deixe o perfil parado depois de preencher. Uma foto nova por mês e respost
 
 ## Como funciona a verificação?
 
-Depois de preencher, o Google exige provar que a empresa existe e é sua. O método é escolhido por ele, não por você, e pode ser vídeo ao vivo mostrando fachada, interior e algo que comprove a operação, código por telefone ou e-mail, ou carta pelo Correio com um código. O de vídeo é o mais comum hoje para empresa nova.
+Depois de preencher, o Google exige provar que a empresa existe e é sua. O método é escolhido por ele, não por você, e pode ser vídeo gravado ou chamada de vídeo mostrando fachada, interior e algo que comprove a operação, código por telefone ou e-mail, ou carta pelo Correio com um código. O de vídeo é o mais comum hoje para empresa nova.
 
 Sem verificação, o perfil novo não aparece nas buscas e as suas alterações não são publicadas. Depois de verificado, ele pode levar alguns dias para começar a aparecer. Se a verificação for negada, o motivo costuma ser nome inflado, categoria incompatível ou endereço que não bate com a fachada.
 

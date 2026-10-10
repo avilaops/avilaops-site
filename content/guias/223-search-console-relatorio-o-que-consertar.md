@@ -3,14 +3,15 @@ num: 223
 titulo: "Search Console: o relatório que diz o que consertar"
 slug: "search-console-relatorio-o-que-consertar"
 title_seo: "Search Console: o relatório que diz o que consertar"
-meta_description: "Em 20 minutos por mês, quatro relatórios do Search Console mostram o que está quebrado no seu site e o que vale melhorar primeiro. Roteiro passo a passo."
+meta_description: "Em 20 minutos por mês, quatro relatórios do Search Console mostram o que está quebrado no site e o que vale melhorar primeiro. Roteiro passo a passo."
 mes: "2027-04"
 bloco: "pratica"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-11"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-search-console/", "/guias/pagina-nao-indexa-cinco-causas/", "/guias/titulo-e-descricao-que-aparecem-no-google/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 
@@ -51,7 +52,7 @@ Um roteiro para o mês:
 1. Páginas: corrigir erros de noindex, robots e 5xx. Validar.
 2. Desempenho por página: reescrever título e descrição das três páginas com maior impressão e menor CTR.
 3. Desempenho por consulta: escolher três buscas na posição 8 a 20 e reforçar as páginas.
-4. Experiência: resolver o endereço mais ruim no celular.
+4. Experiência: resolver o pior endereço no celular.
 5. Links: só olhar.
 
 ## O que fazer agora

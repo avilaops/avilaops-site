@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-14"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-tom-de-voz-da-empresa/", "/guias/o-que-e-indicacao-por-que-custa-menos/", "/identidade-visual/"]
 ---
 
@@ -67,7 +68,7 @@ Pegue o cartão que você usou no último presente e olhe o verso. Se está em b
 À mão parece mais pessoal e funciona até uns 30 pedidos por dia. Acima disso, impresso em fonte que imite escrita, com o nome preenchido, mantém a qualidade. O que não funciona é letra ilegível ou impressão torta.
 
 **Posso colocar cupom de desconto no cartão para a mãe comprar depois?**
-Não no cartão do presente. A mãe está lendo uma mensagem do filho, e cupom ali soa como propaganda no meio de uma carta. Se quiser oferecer algo, mande ao comprador dias depois, para ele repassar se quiser.
+Não no cartão do presente. A mãe está lendo uma mensagem do filho, e cupom ali soa como propaganda no meio de uma carta. Se quiser oferecer algo, mande ao comprador dias depois, se ele aceitou receber novidades, para ele repassar se quiser.
 
 **O cliente não quer mandar mensagem. Deixo em branco?**
 Ofereça três modelos curtos. Se ainda assim não quiser, escreva só "Para Dona Helena, com carinho de Pedro". Nunca entregue cartão sem nome; é a diferença entre presente e encomenda.

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-31"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-monitoramento-de-site/", "/guias/copia-de-seguranca-do-site-frequencia-e-onde/", "/guias/como-automatizar-minha-empresa/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -59,7 +60,7 @@ Quem ainda opera no papel e na planilha tem outro problema, que é o oposto: nã
 
 ## O que fazer agora
 
-Calcule o seu custo por hora parada com os números do mês passado. Depois, desligue o Wi-Fi da empresa por dez minutos num dia calmo e veja o que para. O que parou e não tem plano B é a lista de julho. Sair da planilha sem perder o histórico: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Calcule o seu custo por hora parada com os números do mês passado. Depois, desligue o Wi-Fi da empresa por dez minutos num dia calmo e veja o que para. O que parou e não tem plano B é a sua lista de pendências. Sair da planilha sem perder o histórico: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

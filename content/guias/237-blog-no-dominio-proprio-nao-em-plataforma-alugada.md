@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "SEO"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-25"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/dominio/", "/guias/site-ou-instagram-para-pequena-empresa/", "/guias/paguei-o-dominio-e-nunca-fiz-o-site/", "/criacao-de-site-profissional/"]
 ---
 
@@ -23,7 +24,7 @@ A pequena empresa costuma fazer o contrário. Investe tempo em texto para o Inst
 ## O que acontece com o texto em plataforma alugada?
 
 1. O Google indexa para a plataforma, ou nem indexa. Desde julho de 2025, posts públicos de contas profissionais do Instagram podem aparecer no Google, como artigos do LinkedIn e do Medium, mas o domínio que ganha é o deles. Quando alguém busca o assunto, encontra "linkedin.com/pulse/...", não você.
-2. O alcance depende do algoritmo. A plataforma decide quem vê. Um texto que rendeu em 2025 pode não ser mostrado em 2027 porque a regra mudou. No seu domínio, o texto indexado continua trazendo visita por anos.
+2. O alcance depende do algoritmo. A plataforma decide quem vê. Um texto que rendeu num ano pode não ser mostrado no ano seguinte porque a regra mudou. No seu domínio, o texto indexado continua trazendo visita por anos.
 3. Você não controla o caminho até a venda. No seu site, o texto linka para a página de serviço e para o WhatsApp. Na plataforma, o link é limitado (no Instagram, só na bio) e o leitor é devolvido ao feed.
 4. Você pode perder tudo. Conta bloqueada, plataforma que fecha, mudança de termos.
 
@@ -36,14 +37,14 @@ O texto completo é publicado no blog do seu domínio. Depois, cada plataforma r
 | Plataforma | O que vai | Link |
 |---|---|---|
 | Instagram | Carrossel com os três pontos principais, ou vídeo curto | Link na bio ou no destaque |
-| WhatsApp (lista de transmissão ou status) | Duas frases e o link | Direto |
+| WhatsApp (status, ou lista de transmissão só com quem pediu para receber) | Duas frases e o link | Direto |
 | LinkedIn | Resumo de cinco linhas com opinião | Link no primeiro comentário ou no texto |
 | Perfil da Empresa no Google | Postagem curta com o link | Direto |
-| E-mail para clientes | Título, resposta em três frases e o link | Direto |
+| E-mail para clientes que aceitaram receber, com descadastro fácil | Título, resposta em três frases e o link | Direto |
 
 O texto original ganha visita do Google com o tempo; as versões distribuídas trazem visita hoje. Os dois juntos são o que faz um blog de pequena empresa funcionar. Distribuir sem o original é o erro de sempre; publicar o original e não distribuir é deixar o texto esperando o Google, o que leva meses.
 
-Isso pode ser automatizado. Um site com blog no domínio próprio e distribuição automática publica o texto e dispara as versões para Instagram, WhatsApp e Google sem trabalho manual; é como a Avila Ops entrega o blog nos sites que faz.
+Isso pode ser automatizado. Um site com blog no domínio próprio e distribuição automática publica o texto e dispara as versões para Instagram e Perfil no Google sem trabalho manual; no WhatsApp, o envio automático só vale pela API oficial, com modelo de mensagem aprovado e para quem aceitou receber; é como a Avila Ops entrega o blog nos sites que faz.
 
 ## Como monto o blog no meu domínio?
 

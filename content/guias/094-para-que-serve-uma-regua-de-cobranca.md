@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-03"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/quantas-mensagens-de-cobranca-e-quando-parar/", "/guias/como-usar-pix-automatico-para-cobranca-recorrente/", "/automatizar-whatsapp/"]
 ---
 
@@ -40,16 +41,16 @@ Cinco toques em 18 dias. Depois, a decisão vira humana. [Quantas mensagens de c
 
 No começo, não. Planilha com vencimentos e lembrete na agenda já é régua, desde que alguém execute. Em dezembro, ninguém executa.
 
-A automação garante que a mensagem saia na data certa, com o link certo, e que a resposta caia na conversa de quem atende. Se o pagamento é recorrente, o [Pix Automático](https://avilaops.com/guias/como-usar-pix-automatico-para-cobranca-recorrente/) elimina boa parte da régua, porque o débito acontece sem o cliente precisar agir.
+A automação garante que a mensagem saia na data certa, com o link certo, e que a resposta caia na conversa de quem atende. No WhatsApp, envio automático só pela API oficial, com modelo de mensagem aprovado e cliente que aceitou receber; o aplicativo WhatsApp Business não dispara mensagens sozinho. Se o pagamento é recorrente, o [Pix Automático](https://avilaops.com/guias/como-usar-pix-automatico-para-cobranca-recorrente/) elimina boa parte da régua, porque o débito acontece sem o cliente precisar agir.
 
 ## O que fazer agora
 
-Escreva a sua régua em cinco linhas: quando, por onde, o que diz. Aplique nos vencimentos de janeiro. Se quiser que ela rode sozinha pelo WhatsApp, a gente monta: https://avilaops.com/automatizar-whatsapp/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escreva a sua régua em cinco linhas: quando, por onde, o que diz. Aplique nos vencimentos do próximo mês. Se quiser que ela rode sozinha pelo WhatsApp, a gente monta: https://avilaops.com/automatizar-whatsapp/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
 **Posso cobrar pelo WhatsApp?**
-Pode, se o cliente aceitou receber mensagens por lá, em horário comercial, sem expor a dívida a terceiros e sem ameaça. O Código de Defesa do Consumidor (art. 42) proíbe expor ao ridículo ou constranger o devedor; mensagem neutra com link não constrange.
+Pode, se o cliente aceitou receber mensagens por lá, em horário comercial, com opção fácil de parar de receber os lembretes, sem expor a dívida a terceiros e sem ameaça. O Código de Defesa do Consumidor (art. 42) proíbe expor ao ridículo ou constranger o devedor; mensagem neutra com link não constrange.
 
 **Régua de cobrança serve para venda única ou só para assinatura?**
 Serve para os dois. Na venda única, a régua termina no pagamento ou no cancelamento do pedido. Na assinatura, repete a cada ciclo.

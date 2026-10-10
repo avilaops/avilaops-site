@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-04"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/funil-de-vendas/", "/guias/instagram-meta-ads-whatsapp-funil/", "/jornada/"]
 ---
 
@@ -40,7 +41,7 @@ Agora inverta: 20 chamaram, 20 receberam orçamento, 10 fecharam. O gargalo é n
 
 ## O que fazer agora
 
-Pegue o mês de dezembro e conte, mesmo de memória: quantos chamaram, quantos receberam proposta, quantos pagaram. Escreva os três números. É o começo do plano do ano. Se quiser que a gente desenhe o funil com você, descreva o seu negócio e o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Pegue o último mês fechado e conte, mesmo de memória: quantos chamaram, quantos receberam proposta, quantos pagaram. Escreva os três números. É o ponto de partida do plano. Se quiser que a gente desenhe o funil com você, descreva o seu negócio e o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-04"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/prazo-do-fornecedor-x-prazo-prometido-ao-cliente/", "/guias/o-que-e-separacao-de-pedido/"]
 ---
 
@@ -32,7 +33,7 @@ Se você despacha em até 2 dias úteis e o PAC leva 5 para o CEP do cliente, o 
 
 ## Por que separar os dois protege a sua loja
 
-Quando o cliente reclama de atraso, a primeira pergunta é: o atraso foi seu ou da transportadora? Se você postou dentro do prazo de despacho e tem o código de rastreio, a conversa é outra. Você mostra o rastreio e abre a reclamação com os Correios.
+Quando o cliente reclama de atraso, a primeira pergunta é: o atraso foi seu ou da transportadora? Se você postou dentro do prazo de despacho e tem o código de rastreio, a conversa é outra. Você mostra o rastreio e abre a reclamação com os Correios. Isso organiza a conversa, mas não tira a loja da história: para o cliente, a entrega continua sendo responsabilidade de quem vendeu, e é você quem acompanha até resolver.
 
 Na semana de data comemorativa, mostre a data limite de compra para chegar a tempo, calculada com a soma completa e mais dois ou três dias úteis de folga.
 

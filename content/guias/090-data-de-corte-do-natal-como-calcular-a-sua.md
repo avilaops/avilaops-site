@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-29"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-vale-presente-e-como-funciona/", "/guias/frete-atrasado-avisar-antes-de-o-cliente-perguntar/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/o-que-e-vale-presente-e-como-funciona/", "/guias/frete-
 
 Data de corte é o último dia em que alguém pode comprar na sua loja com o pacote chegando antes do Natal. A conta é feita de trás para a frente: pegue 24/12, subtraia o prazo da transportadora em dias úteis para o destino, subtraia o seu prazo de despacho, e subtraia de um a dois dias úteis de folga para o pico de dezembro. O resultado é a data que vai na sua loja, por região.
 
-Em 2026 o Natal cai numa sexta-feira. O último dia útil de entrega é quinta, 24/12, e a véspera costuma ter expediente reduzido. Quem calcula a data de corte com 25/12 como referência já começa um dia atrasado.
+Em 2026 o Natal cai numa sexta-feira. O último dia útil de entrega é quinta, 24/12, a véspera, que costuma ter expediente reduzido. Quem calcula a data de corte com 25/12 como referência já começa um dia atrasado. As datas da tabela abaixo usam o calendário de 2026; em outro ano, refaça a conta com os dias úteis daquele dezembro.
 
 ## Por que a data de corte precisa existir?
 

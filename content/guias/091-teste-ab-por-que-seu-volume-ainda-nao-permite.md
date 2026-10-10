@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-30"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-taxa-de-conversao-e-como-calcular/", "/guias/medir-a-campanha-os-numeros-que-importam/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -31,7 +32,7 @@ O guia sobre [taxa de conversão](https://avilaops.com/guias/o-que-e-taxa-de-con
 O que funciona com volume pequeno:
 
 1. **Mudança grande, uma por vez, com antes e depois.** Troque a foto principal do produto mais vendido, deixe duas semanas, compare com as duas semanas anteriores. Não é um teste controlado, mas uma mudança que dobra a conversão aparece mesmo assim.
-2. **Perguntar a quem não comprou.** Dez conversas de WhatsApp com quem abandonou o carrinho dizem mais do que um teste de cor de botão. "O que faltou para fechar?" costuma trazer frete, prazo, dúvida de tamanho e desconfiança.
+2. **Perguntar a quem não comprou.** Dez conversas de WhatsApp com quem abandonou o carrinho e aceitou receber mensagem da loja dizem mais do que um teste de cor de botão. "O que faltou para fechar?" costuma trazer frete, prazo, dúvida de tamanho e desconfiança.
 3. **Corrigir o óbvio antes de otimizar o sutil.** Site lento no celular, frete que só aparece no fim, cadastro obrigatório, foto escura. Nenhum desses precisa de teste; precisa de correção. Só depois de corrigir é que sobra algo sutil para testar.
 
 | Volume por semana | O que dá para fazer |
@@ -48,7 +49,7 @@ Com o volume de loja pequena, não vale testar coisa pequena: cor de botão, pos
 
 ## O que fazer agora
 
-Escolha uma mudança grande para o produto mais vendido, faça na segunda-feira e anote a conversão das duas semanas seguintes ao lado das duas anteriores. Enquanto isso, converse com dez pessoas que abandonaram o carrinho nesta campanha. Para a conversão por produto, por aparelho e por período aparecer pronta, sem planilha, a Avila Ops monta o painel: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escolha uma mudança grande para o produto mais vendido, faça na segunda-feira e anote a conversão das duas semanas seguintes ao lado das duas anteriores. Enquanto isso, converse com dez pessoas que abandonaram o carrinho recentemente e aceitaram receber mensagem da loja. Para a conversão por produto, por aparelho e por período aparecer pronta, sem planilha, a Avila Ops monta o painel: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

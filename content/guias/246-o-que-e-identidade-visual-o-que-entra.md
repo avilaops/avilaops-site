@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-04"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/para-que-serve-um-manual-de-marca/", "/guias/sua-marca-parece-a-mesma-instagram-site-nota/", "/identidade-visual/"]
 ---
 

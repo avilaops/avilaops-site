@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-28"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/pedir-avaliacao-sem-constranger/", "/guias/crm-para-pequenas-empresas-com-whatsapp/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -42,7 +43,7 @@ A regra prática: mensagem sobre o que a pessoa comprou, pode; mensagem para ven
 
 ## Como fazer isso sem depender de lembrar?
 
-Com o registro da venda num lugar que sabe a data. Num CRM, a venda muda para "entregue" e o sistema agenda os três contatos com o nome do atendente e o do cliente; a mensagem sai para aprovação ou automática, conforme você definir. Se o cliente respondeu com problema depois da primeira, a segunda não sai até resolver.
+Com o registro da venda num lugar que sabe a data. Num CRM, a venda muda para "entregue" e o sistema agenda os três contatos com o nome do atendente e o do cliente; a mensagem sai para aprovação ou automática, conforme você definir. Envio automático pelo WhatsApp exige a API oficial, com modelo de mensagem aprovado pela Meta e cliente que aceitou receber mensagens. Se o cliente respondeu com problema depois da primeira, a segunda não sai até resolver.
 
 Sem sistema, dá para começar com um lembrete no calendário por venda. Funciona para 10 vendas por mês; para 100, não. O que a ferramenta resolve não é o texto, é a constância, e constância é o que muda o resultado. O guia de CRM com WhatsApp mostra o fluxo: https://avilaops.com/guias/crm-para-pequenas-empresas-com-whatsapp/.
 

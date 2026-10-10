@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-24"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/quem-faz-o-que-dividir-operacao-entre-duas-pessoas/", "/glossario/automacao/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -55,7 +56,7 @@ Os que causam retrabalho, não os mais importantes. Os critérios, em ordem:
 
 Se uma tarefa marca os três, é a primeira. A tabela de "quem faz o quê", em https://avilaops.com/guias/quem-faz-o-que-dividir-operacao-entre-duas-pessoas/, já lista as tarefas; cada linha dela é candidata a uma página.
 
-Comece com três processos, não com 20. Vinte páginas escritas em janeiro e nunca lidas valem menos que três que a equipe usa.
+Comece com três processos, não com 20. Vinte páginas escritas num impulso e nunca lidas valem menos que três que a equipe usa.
 
 ## O que muda depois que o processo está escrito?
 
@@ -65,7 +66,7 @@ Processo não escrito não pode ser automatizado, porque ninguém sabe dizer à 
 
 ## O que fazer agora
 
-Escolha a tarefa que deu mais problema em dezembro. Escreva a página hoje, com gatilho, passos, pronto quando e se der errado. Peça para outra pessoa executar seguindo só a página, sem perguntar. O que ela perguntar mesmo assim é o que falta na página. Quando três ou quatro processos estiverem escritos e rodando, o passo seguinte é tirá-los da folha e colocar num sistema que executa os passos repetitivos e mostra os que ficaram parados: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escolha a tarefa que deu mais problema no último mês. Escreva a página hoje, com gatilho, passos, pronto quando e se der errado. Peça para outra pessoa executar seguindo só a página, sem perguntar. O que ela perguntar mesmo assim é o que falta na página. Quando três ou quatro processos estiverem escritos e rodando, o passo seguinte é tirá-los da folha e colocar num sistema que executa os passos repetitivos e mostra os que ficaram parados: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
@@ -73,7 +74,7 @@ Escolha a tarefa que deu mais problema em dezembro. Escreva a página hoje, com 
 Em um lugar só, que todos acessem: uma pasta compartilhada, um documento com um processo por página, ou impressos no ponto onde a tarefa acontece. Processo que ninguém acha não existe.
 
 **De quanto em quanto tempo revisar?**
-Sempre que a tarefa mudar ou que alguém errar seguindo a página. Se ninguém erra e nada muda, não precisa mexer. Uma revisão de todos em janeiro, junto com o plano do ano, é suficiente.
+Sempre que a tarefa mudar ou que alguém errar seguindo a página. Se ninguém erra e nada muda, não precisa mexer. Uma revisão de todos uma vez por ano, junto com o plano do ano, é suficiente.
 
 **Processo escrito engessa a empresa?**
 Engessa quando descreve como pensar. Não engessa quando descreve como fazer o que se repete. Orçamento de serviço sob medida não vira processo; envio de pedido, sim. A diferença é se os passos são sempre os mesmos.

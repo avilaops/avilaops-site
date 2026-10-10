@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comanda"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-13"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/comanda-digital/", "/guias/o-que-e-comanda-digital-e-o-que-muda-no-salao/", "/guias/pedido-antecipado-e-retirada-acabar-com-a-fila/", "/guias/fila-e-senha-digital-para-pequeno-comercio/"]
 ---
 

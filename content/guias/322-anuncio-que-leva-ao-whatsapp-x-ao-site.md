@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Anúncios"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-19"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/", "/guias/como-automatizar-whatsapp-da-empresa/", "/integrar-site-com-whatsapp/", "/meta-ads-para-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/", "/gu
 
 Anúncio que leva ao WhatsApp é melhor quando a venda depende de conversa e alguém consegue responder em minutos. Anúncio que leva ao site é melhor quando o cliente precisa ver antes de perguntar (catálogo, preço, portfólio) ou quando ninguém consegue responder rápido. A escolha errada não estraga o anúncio; estraga o que acontece depois do clique, que é onde a venda se decide.
 
-Em julho, com equipe de férias, essa escolha muda para muita empresa. Quem sempre mandou para o WhatsApp e agora demora horas para responder está pagando por conversa que esfria.
+Nas férias, com equipe reduzida, essa escolha muda para muita empresa. Quem sempre mandou para o WhatsApp e agora demora horas para responder está pagando por conversa que esfria.
 
 ## Quando o WhatsApp é o destino certo?
 
@@ -32,7 +33,7 @@ Desvantagens: chega muita conversa curiosa que não vira venda, o custo de atend
 
 Quando o cliente precisa de informação antes de conversar, ou quando você precisa filtrar quem chega. Uma loja com 200 produtos, um arquiteto com portfólio, uma clínica com tabela de convênios: o cliente quer ver, e mandar direto para o WhatsApp gera "quanto custa?" dez vezes por dia.
 
-Vantagens: o site responde as perguntas repetidas antes de a pessoa chamar, o pixel mede cada passo até a compra ou o formulário, e o anúncio continua funcionando enquanto ninguém está atendendo. Numa loja virtual, o cliente fecha sozinho, com Pix, cartão ou boleto.
+Vantagens: o site responde as perguntas repetidas antes de a pessoa chamar, o pixel, carregado depois do consentimento de cookies, mede cada passo até a compra ou o formulário, e o anúncio continua funcionando enquanto ninguém está atendendo. Numa loja virtual, o cliente fecha sozinho, com Pix, cartão ou boleto.
 
 Desvantagens: a página precisa ser boa e rápida, senão o clique é desperdiçado. E a barreira é maior: preencher formulário ou navegar exige mais do que abrir conversa.
 

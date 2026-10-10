@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Local"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-19"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/perfil-da-empresa-no-google-o-que-preencher-primeiro/", "/guias/endereco-telefone-e-horario-iguais-em-todo-lugar/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

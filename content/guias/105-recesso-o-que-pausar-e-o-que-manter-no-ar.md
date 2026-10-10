@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-14"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/horario-de-fim-de-ano-no-google-no-site-e-no-whatsapp/", "/guias/plantao-de-fim-de-ano-com-equipe-reduzida/", "/sistema-para-pequenas-empresas/"]
 ---
 

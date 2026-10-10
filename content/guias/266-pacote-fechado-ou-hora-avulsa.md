@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-24"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-no-show-e-quanto-custa/", "/guias/o-que-e-assinatura-eletronica-e-quando-vale/", "/guias/como-usar-pix-automatico-para-cobranca-recorrente/", "/jornada/"]
 ---
 

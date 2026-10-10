@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Local"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-15"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/guias/perfil-da-empresa-no-google-o-que-preencher-primeiro/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

@@ -9,14 +9,15 @@ bloco: "pratica"
 puxa: "Conteúdo"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-28"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-aumentar-o-alcance-no-instagram-com-o-algoritmo-atual/", "/guias/meu-site-perdeu-trafego-com-as-respostas-de-ia-do-google/", "/criacao-de-site-profissional/"]
 ---
 
 # Balanço de conteúdo: o que deu audiência e o que não
 
-Balanço de conteúdo é olhar tudo que você publicou em 2026, no Instagram, no site e no WhatsApp, e separar em três pilhas: o que trouxe conversa ou venda, o que trouxe só curtida, e o que não trouxe nada. A decisão para 2027 sai da primeira pilha. As outras duas mostram o que parar de fazer, que em conteúdo vale tanto quanto o que começar.
+Balanço de conteúdo é olhar tudo que você publicou no ano, no Instagram, no site e no WhatsApp, e separar em três pilhas: o que trouxe conversa ou venda, o que trouxe só curtida, e o que não trouxe nada. A decisão para o ano seguinte sai da primeira pilha. As outras duas mostram o que parar de fazer, que em conteúdo vale tanto quanto o que começar.
 
 A armadilha do balanço é medir só alcance. Alcance é o que a plataforma mostra em destaque, e é o número que menos diz sobre o seu caixa. Um vídeo com 40 mil visualizações que não gerou uma mensagem vale menos que um post de 600 que gerou oito pedidos de orçamento.
 
@@ -32,7 +33,7 @@ Cabe em uma tarde:
 
 O número que manda é o último de cada linha: quantas conversas ou pedidos a publicação gerou. Salvamento e compartilhamento vêm em segundo, porque indicam que alguém achou útil o bastante para guardar. Curtida vem por último.
 
-Se você não tem como saber a origem das conversas, esse é o achado principal do balanço: em 2026 você publicou sem saber o que voltou. O CRM ligado ao WhatsApp resolve isso para 2027, marcando de onde cada conversa veio.
+Se você não tem como saber a origem das conversas, esse é o achado principal do balanço: no ano que passou você publicou sem saber o que voltou. O CRM ligado ao WhatsApp resolve isso para o próximo, marcando de onde cada conversa veio.
 
 ## Como separar as três pilhas e o que cada uma ensina?
 
@@ -44,15 +45,15 @@ A pilha dois, muita curtida e pouca conversa, costuma ser o conteúdo bonito: fr
 
 A pilha três, nada, é o que sair. Sem culpa. Cada publicação que não funciona liberou tempo para uma que funciona.
 
-O que mudou no Instagram este ano, e como isso afeta a leitura dos números, está em [Como aumentar o alcance no Instagram com o algoritmo atual](https://avilaops.com/guias/como-aumentar-o-alcance-no-instagram-com-o-algoritmo-atual/).
+O que mudou no Instagram recentemente, e como isso afeta a leitura dos números, está em [Como aumentar o alcance no Instagram com o algoritmo atual](https://avilaops.com/guias/como-aumentar-o-alcance-no-instagram-com-o-algoritmo-atual/).
 
 ## O que o site e o blog mostram que o Instagram não mostra?
 
 O Instagram entrega audiência por um dia. O site entrega por anos. Um guia publicado em março que responde "quanto custa X" continua trazendo gente pelo Google em dezembro, sem você postar de novo. No balanço, o site aparece com menos volume e mais consistência, e é onde a conversa costuma chegar mais pronta para comprar.
 
-Olhe no Search Console quais termos trouxeram gente. Os termos que aparecem e ainda não têm página são a pauta de 2027. E se o tráfego do site caiu no ano, [Meu site perdeu tráfego com as respostas de IA do Google](https://avilaops.com/guias/meu-site-perdeu-trafego-com-as-respostas-de-ia-do-google/) explica o que aconteceu e o que fazer.
+Olhe no Search Console quais termos trouxeram gente. Os termos que aparecem e ainda não têm página são a pauta do ano que vem. E se o tráfego do site caiu no ano, [Meu site perdeu tráfego com as respostas de IA do Google](https://avilaops.com/guias/meu-site-perdeu-trafego-com-as-respostas-de-ia-do-google/) explica o que aconteceu e o que fazer.
 
-Se você não tem site com blog no seu domínio, o balanço de 2026 é só Instagram, e o conteúdo que você produziu este ano vive em uma plataforma que não é sua. Em 2027, cada guia publicado no seu domínio é um ativo que fica.
+Se você não tem site com blog no seu domínio, o balanço do ano é só Instagram, e o conteúdo que você produziu vive em uma plataforma que não é sua. No ano que vem, cada guia publicado no seu domínio é um ativo que fica.
 
 ## O que fazer agora
 
@@ -60,11 +61,11 @@ Reserve uma tarde antes de 31/12. Puxe os números das três fontes e monte as t
 
 ## Perguntas frequentes
 
-**Quantas publicações por semana devo fazer em 2027?**
+**Quantas publicações por semana devo fazer no ano que vem?**
 As que você consegue fazer com a qualidade da pilha um. Três por semana que respondem dúvida real valem mais que uma por dia de qualquer coisa. O número certo é o que você sustenta por 12 meses.
 
 **Vale a pena pagar para impulsionar o que deu certo?**
 Vale, e é o uso mais seguro de anúncio: colocar dinheiro no que já provou que gera conversa, com destino no WhatsApp ou no site, e medindo até o pedido. Impulsionar o que não funcionou de graça não faz funcionar.
 
 **O que fazer com o conteúdo antigo que ainda traz gente?**
-Atualizar. Um guia de 2025 que ainda aparece no Google com preço ou prazo velho traz gente e perde a venda. Revise os dez mais acessados do site em janeiro; custa menos que escrever dez novos.
+Atualizar. Um guia de dois anos atrás que ainda aparece no Google com preço ou prazo velho traz gente e perde a venda. Revise os dez mais acessados do site em janeiro; custa menos que escrever dez novos.

@@ -9,14 +9,15 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-20"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-cobrar-quem-ficou-devendo-sem-perder-o-cliente/", "/guias/como-usar-pix-automatico-para-cobranca-recorrente/", "/jornada/"]
 ---
 
 # O 13º do cliente: o mês em que o dinheiro existe
 
-O 13º salário é pago em duas parcelas: a primeira até 30/11 e a segunda até 20/12 (em 2026, o dia 20 cai num domingo e o pagamento sai até sexta, 18/12). Entre essas datas, o cliente assalariado tem mais dinheiro na conta do que em qualquer outro mês. É a janela para receber o que ficou atrasado, vender o que o cliente adiou o ano inteiro e fechar planos anuais com pagamento à vista. Depois de 20/12, o dinheiro vira presente, ceia e viagem, e em janeiro vira IPVA.
+O 13º salário é pago em duas parcelas: a primeira até 30/11 e a segunda até 20/12 (quando o dia 20 cai em fim de semana, o pagamento é antecipado; em 2026, sai até sexta, 18/12). Entre essas datas, o cliente assalariado tem mais dinheiro na conta do que em qualquer outro mês. É a janela para receber o que ficou atrasado, vender o que o cliente adiou o ano inteiro e fechar planos anuais com pagamento à vista. Depois de 20/12, o dinheiro vira presente, ceia e viagem, e em janeiro vira IPVA.
 
 Isso muda a ordem do seu mês. Cobrança e proposta de plano anual entram na primeira quinzena, antes do dinheiro ter destino. A venda de Natal fica para a segunda, quando o cliente já decidiu quanto vai gastar com presente.
 
@@ -24,7 +25,7 @@ Isso muda a ordem do seu mês. Cobrança e proposta de plano anual entram na pri
 
 Porque o cliente que deve para você e recebe o 13º vai pagar alguém. Se a sua cobrança chega primeiro, com o Pix e uma proposta sem juros, você entra na lista. Se chega em janeiro, você compete com o IPVA e perde.
 
-A mensagem de dezembro é diferente da de outubro. Não fala em atraso; fala em fechar o ano. "Oi, Carlos. Para fechar 2026 sem pendência, consigo tirar os juros da parcela de outubro se o pagamento entrar até 20/12. Segue o Pix." É honesta, tem prazo e tem motivo. O roteiro inteiro está em [Como cobrar quem ficou devendo sem perder o cliente](https://avilaops.com/guias/como-cobrar-quem-ficou-devendo-sem-perder-o-cliente/).
+A mensagem de dezembro é diferente da de outubro. Não fala em atraso; fala em fechar o ano. "Oi, Carlos. Para fechar o ano sem pendência, consigo tirar os juros da parcela de outubro se o pagamento entrar até 20/12. Segue o Pix." É honesta, tem prazo e tem motivo. O roteiro inteiro está em [Como cobrar quem ficou devendo sem perder o cliente](https://avilaops.com/guias/como-cobrar-quem-ficou-devendo-sem-perder-o-cliente/).
 
 ## O que vender para quem tem 13º?
 
@@ -46,7 +47,7 @@ O cliente sabe que recebeu 13º e sabe que todo mundo quer uma parte. Mensagem g
 
 Isso exige saber quem é quem. Quem tem mensalidade e nunca atrasou recebe a proposta do anual. Quem deve recebe a proposta de quitação. Quem perguntou de um produto em setembro e não comprou recebe a mensagem sobre aquele produto. Quem comprou ontem não recebe nada, porque acabou de gastar.
 
-Sem um registro de clientes que diga isso, você manda a mesma mensagem para todos e acerta poucos. Com o registro, você manda 40 mensagens diferentes e fecha uma parte boa delas. A diferença entre os dois cenários é o CRM, não o texto.
+Sem um registro de clientes que diga isso, você manda a mesma mensagem para todos e acerta poucos. Com o registro, você manda 40 mensagens diferentes e fecha uma parte boa delas. A diferença entre os dois cenários é o CRM, não o texto. Oferta só vai para quem aceitou receber mensagens da empresa, sempre com um jeito fácil de pedir para parar.
 
 Calendário prático para dezembro:
 
@@ -63,7 +64,7 @@ Separe três listas hoje: quem deve, quem paga mensalidade em dia, quem pergunto
 ## Perguntas frequentes
 
 **Quando cai o 13º salário?**
-Pela Lei 4.749/1965, a primeira parcela deve ser paga até 30 de novembro e a segunda até 20 de dezembro; quando o dia 20 cai em fim de semana, como em 2026, o pagamento costuma ser antecipado. Algumas empresas pagam a primeira junto com as férias, mais cedo. Autônomos e informais não recebem, e são parte relevante dos clientes de muita empresa pequena.
+Pela Lei 4.749/1965, a primeira parcela deve ser paga até 30 de novembro e a segunda até 20 de dezembro; quando o dia 20 cai em fim de semana, como em 2026, o pagamento deve ser antecipado. Algumas empresas pagam a primeira junto com as férias, mais cedo. Autônomos e informais não recebem, e são parte relevante dos clientes de muita empresa pequena.
 
 **Devo dar desconto no plano anual?**
 Sim, e diga quanto. O cliente está antecipando dinheiro e assumindo o risco de não usar. Dois meses de desconto em 12 é uma referência comum; mais que isso, confira se a margem aguenta.

@@ -3,20 +3,21 @@ num: 253
 titulo: "Dia das Mães: a data que mais vende para pequeno negócio"
 slug: "dia-das-maes-data-que-mais-vende"
 title_seo: "Dia das Mães: a data que mais vende para pequeno negócio"
-meta_description: "Dia das Mães é 09/05/2027. Por que a data pesa mais para o pequeno negócio do que a Black Friday, o que vender, quando começar e como não perder a semana."
+meta_description: "Dia das Mães é no segundo domingo de maio (09/05 em 2027). Por que pesa mais que a Black Friday para o pequeno negócio, o que vender e quando começar."
 mes: "2027-05"
 bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-11"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/campanha-que-comeca-em-abril-cronograma-real/", "/guias/presente-por-faixa-de-preco-facilitar-escolha/", "/guias/depois-do-dia-das-maes-quem-comprou-presente/", "/jornada/"]
 ---
 
 # Dia das Mães: a data que mais vende para pequeno negócio
 
-Dia das Mães, em 2027, é 09/05, segundo domingo de maio. No varejo, é a data que mais vende no ano depois do Natal, segundo a CNDL, e no setor de flores é a principal, segundo o Ibraflor. Quase todo mundo tem uma mãe para presentear, o presente é emocional e não de preço, e a compra acontece perto de casa. A Black Friday é da loja grande. O Dia das Mães é seu.
+Dia das Mães é sempre no segundo domingo de maio; em 2027, cai em 09/05. No varejo, é a data que mais vende no ano depois do Natal, segundo a CNDL, e no setor de flores é a principal, segundo o Ibraflor. Quase todo mundo tem uma mãe para presentear, o presente é emocional e não de preço, e a compra acontece perto de casa. A Black Friday é da loja grande. O Dia das Mães é seu.
 
 Se você lê antes da data e a campanha ainda não começou, dá para aproveitar os últimos dias. Se já passou, o mais importante vem depois: o que fazer com quem comprou.
 
@@ -48,8 +49,8 @@ Campanha de Dia das Mães começa em abril: foto, kit, preço, entrega e agenda 
 
 1. Escolha uma ou duas opções fechadas do que você já tem em estoque ou já sabe fazer.
 2. Fotografe hoje, com luz natural, em fundo limpo.
-3. Publique no Instagram e mande para os clientes que compraram no último ano, com link direto para pedir pelo WhatsApp ou pela loja.
-4. Defina o último dia de pedido (quinta-feira, 06/05, é seguro para entrega no sábado) e diga isso em toda mensagem.
+3. Publique no Instagram e mande para os clientes do último ano que aceitaram receber mensagens, com link direto para pedir pelo WhatsApp ou pela loja.
+4. Defina o último dia de pedido (a quinta-feira antes da data, 06/05 em 2027, é segura para entrega no sábado) e diga isso em toda mensagem.
 5. Separe quem pediu numa lista com nome, produto, endereço e horário de entrega.
 
 Não invente promoção de desconto nos últimos dias. Quem compra presente de mãe não está esperando o preço cair. Está esperando alguém resolver.

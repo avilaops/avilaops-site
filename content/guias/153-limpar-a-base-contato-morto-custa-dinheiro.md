@@ -9,14 +9,15 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-31"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/lista-de-contatos-e-sua-nao-da-rede-social/", "/guias/cadastro-de-cliente-campos-que-importam/", "/crm-para-pequenas-empresas/"]
 ---
 
 # Limpar a base: contato morto custa dinheiro
 
-Contato morto é o cadastro que não compra, não responde e não abre nada há mais de dois anos, e o parado há mais de um vai pelo mesmo caminho. Os dois custam de três formas: paga envio, em ferramenta de e-mail ou de WhatsApp cobrada por contato; gasta o tempo de quem tenta falar com ele; e derruba a entrega dos e-mails, porque provedores tratam remetente com muitos endereços inativos como suspeito. Limpar a base uma vez por ano, em janeiro, devolve os três.
+Contato morto é o cadastro que não compra, não responde e não abre nada há mais de dois anos, e o parado há mais de um vai pelo mesmo caminho. Os dois custam de três formas: paga envio, em ferramenta de e-mail ou de WhatsApp cobrada por contato; gasta o tempo de quem tenta falar com ele; e derruba a entrega dos e-mails, porque provedores tratam remetente com muitos endereços inativos como suspeito. Limpar a base uma vez por ano, por exemplo no começo do ano, devolve os três.
 
 Limpar não é apagar tudo que está parado. É separar quem ainda pode voltar de quem não vai, tentar uma vez com o primeiro grupo e tirar o segundo do caminho. Base menor e viva vende mais que base grande e morta, porque cada mensagem chega em quem lê.
 
@@ -36,7 +37,7 @@ Os prazos são ponto de partida. Uma loja de roupa infantil tem ciclo curto: 12 
 
 Uma mensagem, pessoal, curta, com uma pergunta fácil. Pelo canal em que a pessoa falou com você da última vez.
 
-"Oi, Fernanda. Faz um tempo que a gente não se fala. Estou organizando a lista de clientes para 2027 e queria saber: ainda faz sentido te avisar quando chegar novidade? Se sim, é só responder 'sim'. Se não, pode ignorar que eu tiro você da lista, sem problema."
+"Oi, Fernanda. Faz um tempo que a gente não se fala. Estou organizando a lista de clientes e queria saber: ainda faz sentido te avisar quando chegar novidade? Se sim, é só responder 'sim'. Se não, pode ignorar que eu tiro você da lista, sem problema."
 
 Quem responde "sim" volta para ativo, com a data de hoje como último contato. Quem responde "não" sai, com agradecimento. Quem não responde em 15 dias vai para morto. Não mande a segunda mensagem: a primeira já foi a chance.
 
@@ -54,7 +55,7 @@ Limpar também mostra a origem dos contatos. Se metade dos mortos veio de um sor
 
 ## O que fazer agora
 
-Exporte a base para uma planilha, com a coluna de último contato. Separe nos três grupos. Mande a mensagem de reativação para os adormecidos nesta semana, marque 15 dias, e feche a limpeza em fevereiro com a lista viva. Anote o critério usado para repetir no próximo janeiro. Quando a base for grande demais para planilha, o CRM marca o último contato sozinho, dispara a reativação na data e mostra quantos voltaram: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Exporte a base para uma planilha, com a coluna de último contato. Separe nos três grupos. Mande a mensagem de reativação para os adormecidos nesta semana, marque 15 dias e, no fim desse prazo, feche a limpeza com a lista viva. Anote o critério usado para repetir daqui a um ano. Quando a base for grande demais para planilha, o CRM marca o último contato sozinho, dispara a reativação na data, por e-mail ou pela API oficial do WhatsApp com modelo aprovado, e mostra quantos voltaram: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

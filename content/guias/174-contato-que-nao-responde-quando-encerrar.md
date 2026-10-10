@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-21"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-lead-e-quando-vira-cliente/", "/guias/onde-o-cliente-trava-achar-o-gargalo/", "/guias/crm-para-pequenas-empresas-com-whatsapp/", "/jornada/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/o-que-e-lead-e-quando-vira-cliente/", "/guias/onde-o-cl
 
 Encerre depois de três retornos sem resposta, espaçados ao longo de pouco mais de duas semanas, cada um com algo novo a dizer. No terceiro, avise que está encerrando e deixe a porta aberta. Antes disso, é cedo: muita gente some por uma semana e volta. Depois disso, é insistência, e insistência custa a sua reputação e o seu tempo.
 
-Os dois erros saem caros. Quem desiste na primeira mensagem sem resposta perde quem estava só ocupado. Quem manda "oi, tudo bem?" pela oitava vez vira contato bloqueado. Em fevereiro, com o Carnaval, o silêncio de uma semana é ainda mais normal e ainda menos conclusivo.
+Os dois erros saem caros. Quem desiste na primeira mensagem sem resposta perde quem estava só ocupado. Quem manda "oi, tudo bem?" pela oitava vez vira contato bloqueado. Em semana de feriado, como a do Carnaval, o silêncio de uma semana é ainda mais normal e ainda menos conclusivo.
 
 ## Por que o cliente para de responder?
 

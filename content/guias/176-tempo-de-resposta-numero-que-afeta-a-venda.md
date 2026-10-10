@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/onde-o-cliente-trava-achar-o-gargalo/", "/guias/fora-do-horario-o-que-responder-as-23h/", "/guias/quantas-mensagens-ate-a-venda/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -41,7 +42,7 @@ As medidas, em ordem de esforço:
 
 A segunda medida é a que mais reduz o tempo percebido. O cliente que recebe, em segundos, "a avaliação custa R$ 80 e é descontada do conserto; me diz a marca e o modelo?" sente que foi atendido. Ele responde, e quando você entra na conversa uma hora depois, ela já andou. O que essa mensagem deve dizer, por horário, está em https://avilaops.com/guias/fora-do-horario-o-que-responder-as-23h/.
 
-A terceira medida parece contraditória, mas não é. Responder tudo às 9h, às 13h e às 17h dá um tempo máximo de quatro horas, previsível, e libera o resto do dia. Olhar o celular o tempo todo dá tempos que variam de um minuto a um dia, dependendo de quando você viu.
+A terceira medida parece contraditória, mas não é. Responder tudo às 9h, às 13h e às 17h dá, dentro do horário comercial, um tempo máximo de quatro horas, previsível, e libera o resto do dia. Olhar o celular o tempo todo dá tempos que variam de um minuto a um dia, dependendo de quando você viu.
 
 ## Qual tempo é aceitável?
 

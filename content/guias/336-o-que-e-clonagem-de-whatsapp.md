@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-08-02"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/whatsapp-clonado-como-evitar-e-o-que-fazer/", "/guias/como-trocar-o-numero-do-whatsapp-business-da-empresa/", "/contato/"]
 ---
 
@@ -41,7 +42,7 @@ Ative a confirmação em duas etapas hoje, no seu número e no da empresa. Se qu
 ## Perguntas frequentes
 
 **Como saber se meu WhatsApp foi clonado?**
-O aplicativo pede para você verificar o número de novo e as conversas somem. Clientes ou amigos avisam que receberam pedido de dinheiro em seu nome. Se isso acontecer, reative o número no seu aparelho na hora: a sessão do golpista cai. Se ele tiver criado um PIN, o WhatsApp pode pedir sete dias de espera para você entrar, mas ele já saiu.
+O aplicativo pede para você verificar o número de novo e as conversas somem. Clientes ou amigos avisam que receberam pedido de dinheiro em seu nome. Se isso acontecer, reative o número no seu aparelho na hora: a sessão do golpista cai. Se ele tiver criado um PIN, o WhatsApp pode exigir sete dias de espera para você entrar sem esse PIN. Enquanto isso, avise os clientes por outro canal e acione o suporte do WhatsApp.
 
 **Clonaram meu WhatsApp, eles leem minhas mensagens antigas?**
 Não. A conta ativada no aparelho do golpista começa vazia. O que ele tem é o número, o nome e a lista de contatos que mandam mensagem a partir dali.

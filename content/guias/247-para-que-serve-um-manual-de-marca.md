@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-05"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-identidade-visual-o-que-entra/", "/guias/cor-fonte-e-logo-num-arquivo-so/", "/identidade-visual/"]
 ---
 
@@ -24,7 +25,7 @@ O manual faz falta no dia em que alguém além de você mexe na marca. A gráfic
 
 A dúvida: qual logo usar em fundo escuro, qual o código exato da cor, qual fonte é de título. Quem tem o manual não pergunta; abre e confere.
 
-A inconsistência: sem regra escrita, cada material é uma interpretação. Com regra, o cartão de 2025 e o post de 2027 parecem irmãos.
+A inconsistência: sem regra escrita, cada material é uma interpretação. Com regra, o cartão impresso há dois anos e o post de hoje parecem irmãos.
 
 A troca de fornecedor: se quem cuidava dos seus posts saiu, a próxima pessoa recebe o manual e continua. O que compõe a identidade em si está em https://avilaops.com/guias/o-que-e-identidade-visual-o-que-entra/.
 

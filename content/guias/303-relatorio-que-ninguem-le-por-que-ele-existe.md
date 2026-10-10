@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-30"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/o-que-e-painel-de-indicadores/", "/guias/para-que-serve-um-alerta-automatico/", "/guias/produto-sazonal-comprar-quanto-e-quando/"]
 ---
 
@@ -59,7 +60,7 @@ Um limite: o relatório útil exige que o dado exista no sistema, registrado no 
 
 ## O que fazer agora
 
-Liste os relatórios que você produz ou recebe todo mês e aplique as três perguntas. O que falhar, pare de fazer em julho. O que passar, veja se pode ser gerado sozinho. Cinco números que cabem numa tela, atualizados sozinhos, e relatório só para o que decide alguma coisa: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Liste os relatórios que você produz ou recebe todo mês e aplique as três perguntas. O que falhar, pare de fazer no mês seguinte. O que passar, veja se pode ser gerado sozinho. Cinco números que cabem numa tela, atualizados sozinhos, e relatório só para o que decide alguma coisa: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

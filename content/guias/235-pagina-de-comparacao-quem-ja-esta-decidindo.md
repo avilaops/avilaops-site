@@ -3,14 +3,15 @@ num: 235
 titulo: "Página de comparação: capturar quem já está decidindo"
 slug: "pagina-de-comparacao-quem-ja-esta-decidindo"
 title_seo: "Página de comparação: capturar quem já está decidindo"
-meta_description: "Quem busca 'X ou Y' está perto de comprar. Uma página de comparação honesta responde a essa busca e leva ao contato. Como escrever sem virar propaganda."
+meta_description: "Quem busca 'X ou Y' está perto de comprar. Uma página de comparação honesta responde a essa busca e leva ao contato. Como fazer sem virar propaganda."
 mes: "2027-04"
 bloco: "pratica"
 puxa: "SEO"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-23"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/comparativos/avila-ops-vs-agencia-tradicional/", "/guias/o-que-e-intencao-de-busca/", "/guias/site-institucional-landing-page-ou-loja-virtual/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

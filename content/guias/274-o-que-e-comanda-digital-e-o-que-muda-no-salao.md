@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Comanda"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-01"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/comanda-digital/", "/guias/para-que-serve-o-cardapio-por-qr/", "/guias/festa-junina-o-digital-que-serve-ao-presencial/"]
 ---
 

@@ -3,14 +3,15 @@ num: 227
 titulo: "Palavra-chave longa para negócio de bairro"
 slug: "palavra-chave-longa-negocio-de-bairro"
 title_seo: "Palavra-chave longa para negócio de bairro"
-meta_description: "Negócio de bairro não compete por 'dentista'; compete por 'dentista que atende sábado no Jardim Alto Rio Preto'. Saiba montar e usar a palavra-chave longa."
+meta_description: "Negócio de bairro não compete por 'dentista'; compete por 'dentista que atende sábado no Jardim Alto Rio Preto'. Monte a sua palavra-chave longa."
 mes: "2027-04"
 bloco: "pratica"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-15"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-palavra-chave-como-descobrir/", "/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/guias/uma-pagina-por-pergunta-do-cliente/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

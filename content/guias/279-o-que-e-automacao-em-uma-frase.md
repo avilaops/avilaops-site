@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-06"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/automatizar-whatsapp/", "/glossario/automacao/", "/guias/como-automatizar-minha-empresa/", "/guias/automatizar-o-que-primeiro-os-cinco-candidatos-obvios/"]
 ---
 
@@ -22,7 +23,7 @@ Para pequena empresa, a automação não serve para parecer moderna. Serve para 
 
 ## O que é e o que não é automação
 
-É automação: pedido pago gera mensagem de confirmação. Estoque abaixo do mínimo gera aviso. Cliente que não respondeu em dois dias recebe lembrete. Nota fiscal emitida vai para a pasta certa. Em cada caso há um gatilho claro e uma ação previsível.
+É automação: pedido pago gera mensagem de confirmação. Estoque abaixo do mínimo gera aviso. Cliente que não respondeu em dois dias recebe lembrete. Nota fiscal emitida vai para a pasta certa. Em cada caso há um gatilho claro e uma ação previsível. No WhatsApp, mensagem que sai sozinha, como a confirmação de pagamento, exige a API oficial, modelo de mensagem aprovado e cliente que aceitou receber. As respostas rápidas do aplicativo WhatsApp Business ajudam, mas ainda dependem de alguém clicar.
 
 Não é automação: uma pessoa lembrar de fazer. Um lembrete no celular que você precisa ler e agir. Uma planilha que calcula, mas espera alguém abrir. Tudo isso ainda depende de gente no meio, e gente no meio esquece.
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Loja"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-28"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-usar-pix-automatico-para-cobranca-recorrente/", "/guias/o-que-e-fidelizacao-sem-programa-de-pontos/", "/loja-virtual/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/como-usar-pix-automatico-para-cobranca-recorrente/", "/
 
 Clube de assinatura é o cliente pagar todo mês, automaticamente, para receber um produto sem precisar pedir de novo. Serve para o que acaba e precisa ser reposto (café, ração, cosmético, suplemento, flores, pão) e para o que a pessoa gosta de receber como surpresa (caixa de chá, vinho, livro). Para a loja, é faturamento previsível e cliente que não precisa ser reconquistado a cada mês.
 
-Depois do Dia das Mães, muita loja tem um produto que vendeu bem e uma lista de gente que gostou. É uma boa hora para oferecer "quer receber todo mês?".
+Depois de uma data forte, como o Dia das Mães, muita loja tem um produto que vendeu bem e uma lista de gente que gostou. É uma boa hora para oferecer "quer receber todo mês?".
 
 ## Quais produtos servem e quais não servem?
 
@@ -51,7 +52,7 @@ Na loja virtual, a assinatura é um produto com a opção "receber todo mês" e 
 - Cancelamento difícil. Se para cancelar a pessoa precisa ligar, mandar e-mail e esperar, ela cancela o Pix no banco e fala mal. Cancelar deve ser tão fácil quanto assinar.
 - Esquecer o assinante. Ele não pede, não conversa, só recebe. Uma mensagem por mês ("vai a caixa de junho, com o grão do Cerrado") mantém a relação viva. O assinante costuma ser o seu cliente mais fiel, e merece o mesmo cuidado de quem compra na loja: https://avilaops.com/guias/o-que-e-fidelizacao-sem-programa-de-pontos/.
 
-Exemplo: uma torrefação vende 200 pacotes de café no Dia das Mães, muitos como presente. Em junho, manda para quem comprou: "Quer receber 500 g todo mês, com um grão diferente a cada vez, por R$ 5 a menos do que o avulso? Cancela quando quiser." Parte assina. A partir daí, esses pacotes saem no dia 5 sem que ninguém precise vender de novo.
+Exemplo: uma torrefação vende 200 pacotes de café no Dia das Mães, muitos como presente. Em junho, manda para quem comprou e aceitou receber mensagens: "Quer receber 500 g todo mês, com um grão diferente a cada vez, por R$ 5 a menos do que o avulso? Cancela quando quiser." Parte assina. A partir daí, esses pacotes saem no dia 5 sem que ninguém precise vender de novo.
 
 ## O que fazer agora
 
@@ -60,7 +61,7 @@ Escolha um produto que passa no teste dos 30 dias. Defina o preço da assinatura
 ## Perguntas frequentes
 
 **Quantos assinantes preciso para valer a pena?**
-Depende do seu custo de entrega. Faça a conta: valor da assinatura menos custo do produto menos custo da entrega. Se sobra margem com 10 assinantes, comece com 10.
+Depende do seu custo de entrega. Faça a conta: valor da assinatura menos custo do produto, da embalagem, da entrega e da tarifa de cobrança, menos a parte dos custos fixos que cabe a cada assinatura. Se sobra margem com 10 assinantes, comece com 10.
 
 **Posso oferecer assinatura sem loja virtual?**
 Pode, para até uns 20 assinantes, com Pix Automático e uma planilha. Acima disso, ou com mais de um produto, a gestão de quem pagou, o que vai e quando sai precisa de sistema, senão o erro de entrega aparece.

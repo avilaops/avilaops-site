@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-21"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/cliente-que-some-sinais-antes-de-perder/", "/guias/o-que-e-tom-de-voz-da-empresa/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -36,7 +37,7 @@ Adapte ao seu [tom de voz](https://avilaops.com/guias/o-que-e-tom-de-voz-da-empr
 | Serviço com agenda (salão, clínica, personal) | "Oi, Carla. Faz uns dois meses desde a última vez. Abriu horário quinta às 15h, do jeito que você gosta. Reservo?" |
 | Loja de produto sem ciclo fixo (roupa, presente, decoração) | "Oi, Pedro. Chegou a linha nova na cor que você levou no Natal. Quer ver uma foto antes de ir para o site?" |
 | Cliente que reclamou e sumiu | "Oi, Marina. Da última vez o pedido atrasou e eu não resolvi como devia. Mudei a entrega desde então. A próxima é por minha conta. Topa dar outra chance?" |
-| Cliente de data (comprou só no Dia das Mães) | "Oi, Lucas. Com o cuidado certo, as orquídeas que você deu para a sua mãe florescem de novo. E o Dia dos Pais é 08/08. Quer que eu avise quando abrir?" |
+| Cliente de data (comprou só no Dia das Mães) | "Oi, Lucas. Com o cuidado certo, as orquídeas que você deu para a sua mãe florescem de novo. E o Dia dos Pais é em agosto. Quer que eu avise quando abrir?" |
 
 Repare no que nenhum dos cinco tem: "sentimos sua falta", "não esqueça da gente", "promoção imperdível", ponto de exclamação. E no que todos têm: uma pergunta no fim, que dá ao cliente uma resposta fácil.
 
@@ -57,7 +58,7 @@ Escreva hoje o seu modelo para a situação mais comum do seu negócio, com nome
 ## Perguntas frequentes
 
 **Posso mandar a mesma mensagem de reativação para todos de uma vez?**
-Pode mandar em lote, desde que cada uma tenha o nome e o produto certos. Melhor 10 mensagens certas por dia do que 200 genéricas por mês.
+Pode mandar em lote, desde que cada uma tenha o nome e o produto certos, só para quem aceitou receber mensagens suas e com um jeito fácil de parar de receber. Se o envio for automático, só pela API oficial do WhatsApp, com modelo aprovado. Melhor 10 mensagens certas por dia do que 200 genéricas por mês.
 
 **Devo oferecer desconto na reativação?**
 Só para quem reclamou e sumiu, como reparo. Para os outros, o motivo útil (produto acabando, horário aberto, novidade) resolve sem mexer no preço. Desconto ensina o cliente a sumir para ganhar cupom.

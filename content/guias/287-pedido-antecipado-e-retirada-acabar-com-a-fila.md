@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comanda"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-14"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/comanda-digital/", "/guias/fila-e-senha-digital-para-pequeno-comercio/", "/guias/festa-junina-o-digital-que-serve-ao-presencial/", "/guias/como-automatizar-whatsapp-da-empresa/"]
 ---
 
@@ -33,7 +34,7 @@ O que muda para a cozinha é maior. Ela recebe o pedido antes de o cliente chega
 1. Cardápio digital com o que pode ser antecipado. Nem tudo entra. Bolo de festa entra. Pão quente da hora talvez não. Comece com os 10 itens que mais geram fila.
 2. Pagamento antes de confirmar. Pix cai na hora e é o padrão. Cartão também. Pedido sem pagamento não vai para a cozinha, para ninguém produzir o que não vai ser buscado.
 3. Horário de retirada escolhido pelo cliente, em janelas de 15 ou 30 minutos, com limite de pedidos por janela. Isso é o que impede a cozinha de receber 40 pedidos para as 12h.
-4. Aviso no WhatsApp quando o pedido está pronto. Automático, com o número do pedido. O cliente chega quando está pronto, não antes.
+4. Aviso no WhatsApp quando o pedido está pronto. Automático, com o número do pedido, pela API oficial com modelo de mensagem aprovado e só para quem aceitou receber o aviso ao fazer o pedido. O cliente chega quando está pronto, não antes.
 5. Ponto de retirada separado do caixa. Uma bancada, uma placa, uma pessoa. Se a retirada divide o balcão com quem está comprando na hora, a fila volta.
 
 Pedido antecipado só funciona se a cozinha cumpre o horário. Se o cliente chega às 12h15 e o pedido sai às 12h40, você criou uma fila pior, de gente que já pagou.

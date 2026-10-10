@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-07"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/logo-em-fundo-escuro-e-icone-de-aplicativo/", "/guias/o-que-e-identidade-visual-o-que-entra/", "/identidade-visual/"]
 ---
 
@@ -32,7 +33,7 @@ O navegador pede mais de um arquivo, porque o ícone aparece em lugares diferent
 
 - 32 por 32 pixels, em PNG ou ICO: a aba no computador.
 - 180 por 180 pixels, em PNG: quando alguém salva o site na tela inicial do iPhone (apple-touch-icon).
-- 192 e 512 por 512 pixels, em PNG: Android e Google.
+- 192 por 192 e 512 por 512 pixels, em PNG: Android e Google.
 - Um arquivo SVG (desenho vetorial, que não perde qualidade ao ampliar), quando o navegador aceita.
 
 Quem monta o site coloca esses arquivos e as linhas de código que apontam para eles. Se você contratou site e o favicon não apareceu, pergunte. O que compõe a marca inteira está em https://avilaops.com/guias/o-que-e-identidade-visual-o-que-entra/.

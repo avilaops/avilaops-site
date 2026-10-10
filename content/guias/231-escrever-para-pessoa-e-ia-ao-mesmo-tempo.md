@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "IA"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-19"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias/", "/guias/o-que-faz-ia-citar-sua-empresa/", "/guias/o-que-e-llms-txt/", "/automacao-de-atendimento/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias/
 
 Não existe conflito entre escrever para pessoa e escrever para inteligência artificial. O texto que uma IA consegue citar tem a resposta no primeiro parágrafo, frases que fazem sentido isoladas, número no lugar de adjetivo e a fonte declarada. É exatamente o texto que uma pessoa apressada, no celular, agradece.
 
-Em 2027, boa parte das buscas passa por uma resposta gerada: o resumo no topo do Google, o ChatGPT, os assistentes no WhatsApp. Quem é citado nessas respostas recebe o cliente; quem não é, some. E a citação não depende de truque; depende de o texto ter uma frase que responda à pergunta e possa ser reproduzida sem perder o sentido. O panorama está em [como fazer minha empresa aparecer no ChatGPT e nas IAs](https://avilaops.com/guias/como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias/).
+Hoje, boa parte das buscas passa por uma resposta gerada: o resumo no topo do Google, o ChatGPT, os assistentes no WhatsApp. Quem é citado nessas respostas recebe o cliente; quem não é, some. E a citação não depende de truque; depende de o texto ter uma frase que responda à pergunta e possa ser reproduzida sem perder o sentido. O panorama está em [como fazer minha empresa aparecer no ChatGPT e nas IAs](https://avilaops.com/guias/como-fazer-minha-empresa-aparecer-no-chatgpt-e-nas-ias/).
 
 ## O que a IA precisa encontrar no texto?
 

@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Sistema"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-05"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/planilha-sistema-ou-caderno-quando-trocar/", "/comparativos/avila-ops-vs-ferramentas-saas/", "/sistema-para-pequenas-empresas/"]
 ---
 

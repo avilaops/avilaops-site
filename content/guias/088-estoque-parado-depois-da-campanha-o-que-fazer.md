@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-27"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-margem-por-produto/", "/guias/data-de-corte-do-natal-como-calcular-a-sua/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -44,7 +45,7 @@ Liquide em janeiro o que é sazonal ou o que ocupa espaço e caixa que você pre
 
 Espere quando o produto não é sazonal, tem margem boa e a única coisa que sobrou foi quantidade. Vender 15 unidades por mês pelo preço normal durante seis meses rende mais que liquidar 90 em uma semana. O custo de esperar é o espaço e o dinheiro parado; para loja pequena, o dinheiro parado costuma pesar mais, e é por isso que a decisão precisa de número, não de sensação.
 
-## Como não repetir em 2027?
+## Como não repetir na próxima campanha?
 
 Anotar agora, por produto: quanto comprou, quanto vendeu na campanha, quanto sobrou. Essa lista, em setembro do ano que vem, é o que evita comprar 200 unidades do que vendeu 80. Loja que mantém histórico de estoque por campanha compra melhor a cada ano. Loja que decide por memória repete a sobra.
 

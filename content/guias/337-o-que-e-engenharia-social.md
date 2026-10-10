@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-08-03"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-phishing-golpe-de-email-falso/", "/guias/o-que-e-clonagem-de-whatsapp/", "/contato/"]
 ---
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-26"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-logistica-reversa-devolucao-pelo-correio/", "/guias/trocar-em-vez-de-estornar-como-oferecer-sem-forcar/", "/sistema-para-pequenas-empresas/"]
 ---
 

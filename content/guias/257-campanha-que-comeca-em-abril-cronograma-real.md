@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-15"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/dia-das-maes-data-que-mais-vende/", "/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/", "/jornada/"]
 ---
 
@@ -33,7 +34,7 @@ Duas semanas dão para publicar alguma coisa. Não dão para testar o anúncio, 
 | 5 semanas antes | 05/04 a 11/04 | Decisão do que vender: no máximo três ou quatro opções fechadas, com preço final. Pedido de insumo e embalagem ao fornecedor. |
 | 4 semanas antes | 12/04 a 18/04 | Produto montado de verdade, fotografado com luz natural. Texto de cada opção (o que vem, prazo de pedido, entrega). Página ou categoria na loja publicada. |
 | 3 semanas antes | 19/04 a 25/04 | Anúncio no ar com verba pequena, para testar qual foto e qual texto trazem conversa. Modelo de resposta no WhatsApp pronto. Capacidade de entrega calculada. |
-| 2 semanas antes | 26/04 a 02/05 | Ajuste do anúncio com o que funcionou. Mensagem para a base de clientes do último ano. Cartões e embalagens em estoque antes do feriado de 01/05 (sábado). Lista de pedidos aberta. |
+| 2 semanas antes | 26/04 a 02/05 | Ajuste do anúncio com o que funcionou. Mensagem para os clientes do último ano que aceitaram receber novidades. Cartões e embalagens em estoque antes do feriado de 01/05 (sábado). Lista de pedidos aberta. |
 | Semana da data | 03/05 a 08/05 | Venda e produção. Último dia de pedido na quinta, 06/05. Confirmação de endereço na sexta. Entrega no sábado. |
 | Semana seguinte | 10/05 a 16/05 | Mensagem de pós-venda, registro de quem comprou, contagem do que vendeu e do que sobrou. |
 
@@ -51,7 +52,7 @@ O guia sobre como o anúncio conversa com o WhatsApp está em https://avilaops.c
 
 ## O que fazer agora
 
-Pegue o cronograma acima e troque as datas para o Dia dos Pais (08/08/2027): a primeira semana vira 05/07. Anote no calendário hoje. Se a campanha de Dia das Mães atrasou, escreva em qual semana e por quê; esse é o gargalo que precisa de ajuda. Descreva o seu negócio e a gente monta o diagnóstico e o cronograma: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Pegue o cronograma acima e troque as datas para a próxima data forte do seu negócio. No Dia dos Pais (08/08/2027), por exemplo, a primeira semana vira 05/07. Anote no calendário hoje. Se a campanha de Dia das Mães atrasou, escreva em qual semana e por quê; esse é o gargalo que precisa de ajuda. Descreva o seu negócio e a gente monta o diagnóstico e o cronograma: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

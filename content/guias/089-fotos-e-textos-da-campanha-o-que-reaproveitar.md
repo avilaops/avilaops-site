@@ -9,14 +9,15 @@ bloco: "pratica"
 puxa: "Conteúdo"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-28"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/medir-a-campanha-os-numeros-que-importam/", "/guias/como-aumentar-o-alcance-no-instagram-com-o-algoritmo-atual/", "/criacao-de-site-profissional/"]
 ---
 
 # Fotos e textos da campanha: o que reaproveitar
 
-Reaproveite tudo o que não tem "Black Friday" nem preço escrito em cima: a foto de produto com fundo limpo, a descrição que mais converteu, o vídeo curto mostrando o produto em uso, as perguntas que os clientes fizeram no WhatsApp e as respostas que funcionaram. Descarte o que tem selo de desconto, urgência ou data. O que sobra é o material de conteúdo do primeiro semestre de 2027.
+Reaproveite tudo o que não tem "Black Friday" nem preço escrito em cima: a foto de produto com fundo limpo, a descrição que mais converteu, o vídeo curto mostrando o produto em uso, as perguntas que os clientes fizeram no WhatsApp e as respostas que funcionaram. Descarte o que tem selo de desconto, urgência ou data. O que sobra é o material de conteúdo do primeiro semestre seguinte.
 
 A campanha é o momento em que a loja pequena mais produz conteúdo em menos tempo. A maior parte é usada uma vez e esquecida numa pasta.
 

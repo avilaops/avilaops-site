@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-20"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/quantas-mensagens-ate-a-venda/", "/guias/tempo-de-resposta-numero-que-afeta-a-venda/", "/glossario/funil-de-vendas/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/quantas-mensagens-ate-a-venda/", "/guias/tempo-de-respo
 
 O gargalo é a etapa em que a maior parte dos clientes some entre o primeiro contato e o pagamento. Para achá-lo, pegue as últimas 30 conversas do WhatsApp, anote em qual etapa cada uma parou e conte. A etapa com mais paradas é o gargalo. Leva uma tarde, não precisa de sistema, e o resultado costuma surpreender: quase nunca é onde o dono imaginava.
 
-Fevereiro é um bom mês para essa tarefa. O movimento cai na semana do Carnaval, e as conversas de janeiro já tiveram tempo de fechar ou morrer. O que você acha agora corrige março. Se ainda não fez a conta de quantas conversas viram uma venda, comece por ela: https://avilaops.com/guias/quantas-mensagens-ate-a-venda/.
+Uma semana de movimento mais fraco, como a do Carnaval, é boa para essa tarefa. Use conversas iniciadas há pelo menos duas semanas, que já tiveram tempo de fechar ou morrer. O que você acha agora corrige o mês seguinte. Se ainda não fez a conta de quantas conversas viram uma venda, comece por ela: https://avilaops.com/guias/quantas-mensagens-ate-a-venda/.
 
 ## Quais são as etapas entre o contato e o pagamento?
 
@@ -36,7 +37,7 @@ O caminho todo é o funil de vendas, descrito em https://avilaops.com/glossario/
 
 ## Como achar o gargalo em uma tarde?
 
-1. Abra o WhatsApp Business e pegue as 30 conversas mais recentes que começaram com pedido ou pergunta de cliente novo. Não escolha as boas; pegue as 30 últimas.
+1. Abra o WhatsApp Business e pegue as 30 conversas mais recentes, iniciadas há pelo menos duas semanas, que começaram com pedido ou pergunta de cliente novo. Não escolha as boas; pegue as 30 últimas.
 2. Para cada uma, anote numa folha ou planilha: data do primeiro contato, etapa em que parou (1 a 5) ou "fechou", e o tempo entre a mensagem dele e a sua resposta na etapa em que parou.
 3. Conte quantas pararam em cada etapa.
 4. Olhe a coluna de tempo de resposta nas conversas que pararam. Se o tempo é longo justamente ali, o gargalo é demora. Se é curto, o gargalo é conteúdo: a proposta, o preço ou a forma de pagar.

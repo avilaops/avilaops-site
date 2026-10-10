@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-11"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/presente-de-ultima-hora-retirada-digital-e-vale/", "/guias/horario-de-fim-de-ano-no-google-no-site-e-no-whatsapp/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -29,7 +30,7 @@ A conta é de trás para frente. Comece pelo dia 24 e desconte, nesta ordem:
 3. Seu tempo de separação e embalagem. Se hoje leva um dia, em dezembro leva dois.
 4. Se o produto é feito sob encomenda, o tempo de produção com a fila cheia, não com a fila de novembro.
 
-O resultado é a data limite para compra com entrega garantida. Se os Correios informam 5 dias úteis para a capital mais distante, com 1 dia de folga e 2 de separação, a conta em dias úteis, de trás para frente a partir de quinta, 24/12, dá postagem até 16/12 e pedido feito até domingo, 13/12, para separar na segunda e na terça. Para a mesma cidade, com motoboy, a data pode ser 22/12.
+O resultado é a data limite para compra com entrega garantida. Se os Correios informam 5 dias úteis para a capital mais distante, com 1 dia de folga e 2 de separação, a conta em dias úteis, de trás para frente a partir de quinta, 24/12, dá postagem até 16/12 e pedido feito até domingo, 13/12, para separar na segunda e na terça. Para a mesma cidade, com motoboy, a data pode ser 22/12. Os dias da semana do exemplo são os de 2026; em outro ano, refaça a conta no calendário daquele ano.
 
 Se você atende regiões com prazos muito diferentes, publique duas datas: uma para a sua cidade e outra para o resto do país. Duas datas claras vendem mais que uma data vaga.
 

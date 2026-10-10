@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-08-08"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-da-e-o-que-nao-da-para-delegar/", "/comparativos/avila-ops-vs-agencia-tradicional/", "/jornada/"]
 ---
 

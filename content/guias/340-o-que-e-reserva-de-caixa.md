@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-08-06"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/planejar-o-proximo-ano-com-os-dados-deste/", "/guias/precificar-de-novo-quando-o-custo-subiu/", "/jornada/"]
 ---
 
@@ -22,7 +23,7 @@ A pergunta que a reserva responde é simples: se a empresa não vender nada nos 
 
 ## Quanto guardar e onde?
 
-O Sebrae fala em três a seis meses de despesas fixas; para quem parte do zero, dois a três meses são uma primeira meta razoável. Some aluguel, folha, energia, internet, sistemas, contador e parcelas. Se dá R$ 12.000 por mês, a primeira meta fica entre R$ 24.000 e R$ 36.000, construída aos poucos.
+A referência mais citada é de três a seis meses de despesas fixas; para quem parte do zero, dois a três meses são uma primeira meta razoável. Some aluguel, folha, energia, internet, sistemas, contador e parcelas. Se dá R$ 12.000 por mês, a primeira meta fica entre R$ 24.000 e R$ 36.000, construída aos poucos.
 
 Onde guardar: numa conta separada, em nome da empresa, com rendimento e resgate no mesmo dia. CDB com liquidez diária ou fundo de renda fixa simples resolvem. Na conta corrente não serve: mistura com o caixa e some.
 
@@ -32,7 +33,7 @@ Uma loja de presentes vende bem em maio, junho e agosto, com o Dia dos Pais, e c
 
 Defina um percentual fixo de tudo que entra, e transfira no mesmo dia. Pode ser 5% para começar. Em mês bom vai mais, em mês ruim vai menos, mas vai sempre. Automatizar essa transferência no banco tira a decisão da sua mão, e é isso que faz funcionar.
 
-Em agosto, o Dia dos Pais costuma trazer um pico de venda, e a reserva pode nascer do que sobrar dele. Trate a reserva como despesa fixa, não como sobra. Sobra nunca sobra.
+Datas fortes, como o Dia dos Pais em agosto, costumam trazer um pico de venda, e a reserva pode nascer do que sobrar dele. Trate a reserva como despesa fixa, não como sobra. Sobra nunca sobra.
 
 ## O que fazer agora
 

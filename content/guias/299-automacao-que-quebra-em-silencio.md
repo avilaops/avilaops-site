@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Automação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-26"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/automatizar-whatsapp/", "/guias/quando-a-automacao-precisa-avisar-uma-pessoa/", "/guias/para-que-serve-um-alerta-automatico/", "/guias/automatizar-o-que-primeiro-os-cinco-candidatos-obvios/"]
 ---
 

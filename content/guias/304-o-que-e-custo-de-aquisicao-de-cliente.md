@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-01"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/quanto-custa-um-cliente-novo/", "/guias/crm-para-pequenas-empresas-com-whatsapp/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/quanto-custa-um-cliente-novo/", "/guias/crm-para-pequen
 
 Custo de aquisição de cliente (CAC) é quanto a sua empresa gasta, em média, para conquistar um cliente novo. Some tudo o que saiu em marketing e vendas num período e divida pelo número de clientes novos do mesmo período. Gastou R$ 1.500 em junho e fechou 10 clientes novos: o CAC foi de R$ 150.
 
-O CAC diz se o dinheiro que sai para atrair gente está voltando. Em julho, com seis meses fechados, já dá para comparar mês a mês.
+O CAC diz se o dinheiro que sai para atrair gente está voltando. Com seis meses de registro, já dá para comparar mês a mês.
 
 ## Por que a conta é simples e quase ninguém faz?
 

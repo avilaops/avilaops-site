@@ -35,12 +35,21 @@ const logo = `data:image/png;base64,${fs.readFileSync("public/logo.png").toStrin
 const browser = await chromium.launch();
 const page = await browser.newPage({ viewport: { width: 1200, height: 630 }, deviceScaleFactor: 1 });
 const manifest: { path: string; title: string; kind: string; bytes: number }[] = [];
+const recordPath = "content/previews-editoriais.json";
+const existing: typeof manifest = fs.existsSync(recordPath) ? JSON.parse(fs.readFileSync(recordPath, "utf8")) : [];
+const recorded = new Set(existing.map(item => item.path));
 async function render(src: string, title: string, label: string, detail: string, variant: number, kind: string) {
   const dest = path.join("public", src);
-  if (fs.existsSync(dest)) return;
+  if (fs.existsSync(dest)) {
+    // Arquivo gerado numa execução interrompida antes de gravar o manifesto: registra sem refazer.
+    if (!recorded.has(src)) { manifest.push({ path: src, title, kind, bytes: fs.statSync(dest).size }); recorded.add(src); }
+    return;
+  }
   const themes = [ ["#f5f0e5", "#101827", "#0054fe"], ["#101827", "#ffffff", "#fdc401"], ["#eef3ff", "#101827", "#0054fe"] ];
   const [background, foreground, accent] = themes[variant % themes.length];
-  const size = title.length > 60 ? 60 : title.length > 38 ? 72 : 84;
+  // Começa no tamanho pela contagem de caracteres e reduz até o título caber.
+  const start = title.length > 60 ? 60 : title.length > 38 ? 72 : 84;
+  for (const size of [84, 72, 60, 52].filter(value => value <= start)) {
   await page.setContent(`<!doctype html><html lang="pt-BR"><meta charset="utf-8"><style>
     *{box-sizing:border-box;margin:0}body{width:1200px;height:630px;overflow:hidden;background:${background};color:${foreground};font-family:Arial,sans-serif;padding:58px 66px;position:relative}
     header{display:flex;align-items:center;gap:14px;font-size:26px;font-weight:700}header img{width:44px;height:44px;object-fit:contain}.label{font-size:18px;letter-spacing:2px;text-transform:uppercase;margin-top:40px;color:${accent};font-weight:700}
@@ -48,7 +57,9 @@ async function render(src: string, title: string, label: string, detail: string,
     .shapes{position:absolute;right:30px;top:130px;width:185px;height:350px}.triangle{width:0;height:0;border-left:70px solid transparent;border-right:70px solid transparent;border-bottom:125px solid #0054fe;transform:rotate(${variant % 2 ? 12 : -12}deg)}.pill{width:58px;height:150px;background:#f62a26;border-radius:40px;transform:rotate(35deg);margin:20px 0 0 70px}.arc{position:absolute;width:105px;height:105px;border:22px solid #fdc401;border-bottom-color:transparent;border-radius:50%;right:4px;bottom:0}
   </style><body><header><img src="${logo}" alt="">Avila Ops</header><div class="label">${escape(label)}</div><h1>${escape(title)}</h1><p>${escape(detail)}</p><div class="shapes"><div class="triangle"></div><div class="pill"></div><div class="arc"></div></div><footer>avilaops.com · Conhecimento aplicado</footer></body></html>`);
   const overflow = await page.locator("h1").evaluate(el => el.getBoundingClientRect().bottom > 440);
-  if (overflow) throw new Error(`Título não cabe no preview: ${title}`);
+  if (!overflow) break;
+  if (size === 52) throw new Error(`Título não cabe no preview: ${title}`);
+  }
   const png = await page.screenshot();
   fs.mkdirSync(path.dirname(dest), { recursive: true });
   const output = src.endsWith(".webp") ? await sharp(png).webp({ quality: 88 }).toBuffer() : await sharp(png).jpeg({ quality: 88, mozjpeg: true }).toBuffer();
@@ -57,6 +68,15 @@ async function render(src: string, title: string, label: string, detail: string,
   manifest.push({ path: src, title, kind, bytes: output.length });
 }
 try {
+  // Capa tipográfica já cadastrada em imagens.json mas fora do manifesto (execução
+  // interrompida entre as duas gravações): registra antes do laço, que a pula.
+  for (const asset of assets) {
+    const dest = path.join("public", asset.src);
+    if (asset.position === 1 && asset.alt.startsWith("Cartaz editorial") && !recorded.has(asset.src) && fs.existsSync(dest)) {
+      manifest.push({ path: asset.src, title: asset.alt.match(/“(.+)”/)?.[1] || asset.slug, kind: "capa tipográfica", bytes: fs.statSync(dest).size });
+      recorded.add(asset.src);
+    }
+  }
   for (const file of fs.readdirSync("content/guias").filter(file => file.endsWith(".md"))) {
     const { data } = matter(fs.readFileSync(path.join("content/guias", file), "utf8"));
     if (data.status !== "aprovado" || data.data_prevista > today || assets.some(item => item.slug === data.slug && item.position === 1)) continue;
@@ -82,8 +102,6 @@ try {
       await render(listingPreviewPath(collection.base, number), collection.title, `Biblioteca / Página ${number}`, collection.detail, index++, "listagem");
     }
   }
-  const recordPath = "content/previews-editoriais.json";
-  const existing = fs.existsSync(recordPath) ? JSON.parse(fs.readFileSync(recordPath, "utf8")) : [];
   fs.writeFileSync(recordPath, JSON.stringify([...existing, ...manifest], null, 2) + "\n");
   console.log(JSON.stringify({ artigos: posts.length, previewsGerados: manifest.length }));
 } finally { await browser.close(); }

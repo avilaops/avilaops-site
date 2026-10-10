@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-03"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/crm/", "/guias/cliente-que-some-sinais-antes-de-perder/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -36,7 +37,7 @@ Na passagem da fase 2 para a 3. A maioria cuida bem da primeira venda e some dep
 
 Cliente que comprava todo mês e passou dois meses sem comprar mandou um sinal. Quem tem histórico vê; quem não tem só percebe quando ele já está no concorrente. Um CRM (sistema que guarda o histórico de cada cliente) existe para isso: https://avilaops.com/glossario/crm/. Os sinais estão em https://avilaops.com/guias/cliente-que-some-sinais-antes-de-perder/.
 
-Uma loja de cosméticos que vende 120 kits de Dia das Mães pode mandar mensagem em junho só para quem levou o kit de cabelo, lembrando que o produto dura cerca de 60 dias. Em julho, parte volta para repor.
+Uma loja de cosméticos que vende 120 kits de Dia das Mães pode mandar mensagem em junho só para quem levou o kit de cabelo e aceitou receber novidades, lembrando que o produto dura cerca de 60 dias. Em julho, parte volta para repor.
 
 ## O que fazer agora
 

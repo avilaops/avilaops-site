@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-02"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-fluxo-de-caixa-faturamento-nao-e-lucro/", "/guias/prevenir-calote-na-hora-da-venda-nao-depois/", "/jornada/"]
 ---
 
@@ -38,7 +39,7 @@ Medir é o primeiro passo para um [fluxo de caixa](https://avilaops.com/guias/o-
 
 ## O que fazer agora
 
-Calcule a inadimplência de novembro hoje, com a lista de vencimentos em mãos. Se o número passou da sua margem, o diagnóstico vem antes de qualquer campanha de Natal. Descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Calcule a inadimplência do último mês fechado hoje, com a lista de vencimentos em mãos. Se o número passou da sua margem, o diagnóstico vem antes da próxima campanha, inclusive a de Natal. Descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

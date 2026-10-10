@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "CRM"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-02"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/funil-de-vendas/", "/guias/programa-de-indicacao-sem-aplicativo-nem-cupom/", "/crm-para-pequenas-empresas/"]
 ---
 

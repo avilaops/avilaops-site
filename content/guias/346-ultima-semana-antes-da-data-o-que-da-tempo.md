@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-08-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/dia-dos-pais-presente-generico-o-que-vender/", "/guias/como-usar-meta-ads-para-gerar-leads-no-whatsapp/", "/loja-virtual/", "/jornada/"]
 ---
 
@@ -34,7 +35,7 @@ Muita compra de presente acontece nos últimos dias. Isso é bom para quem não 
 
 ## Quais canais rendem em uma semana?
 
-Lista de clientes. Quem já comprou de você é quem compra na última semana. Uma mensagem direta, com foto, preço e prazo, para os últimos 100 ou 200 clientes vale mais que qualquer post. Se você não tem essa lista em lugar nenhum, esse é o aprendizado da data para o resto do ano.
+Lista de clientes. Quem já comprou de você é quem compra na última semana. Uma mensagem direta, com foto, preço e prazo, para os últimos 100 ou 200 clientes que aceitaram receber suas mensagens vale mais que qualquer post. Inclua sempre um jeito fácil de pedir para sair da lista. Se você não tem essa lista em lugar nenhum, esse é o aprendizado da data para o resto do ano.
 
 Perfil da Empresa no Google. Cliente que digita "presente dia dos pais perto de mim" vê o seu perfil antes de ver o seu site. Publique a oferta lá, com foto e preço, e confira se o horário está certo para a semana.
 

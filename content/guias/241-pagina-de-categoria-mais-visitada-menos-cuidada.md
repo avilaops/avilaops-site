@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "SEO"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-29"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/duas-paginas-brigando-pela-mesma-busca/", "/guias/o-que-e-link-interno-por-que-importa/", "/guias/conteudo-raso-300-palavras-nao-rendem/", "/loja-virtual/"]
 ---
 
@@ -52,7 +53,7 @@ A categoria é o centro dos [links internos](https://avilaops.com/guias/o-que-e-
 
 ## Qual é o erro mais comum?
 
-Criar um texto de blog para a busca que a categoria já deveria atender. "Os melhores tênis de corrida de 2027" no blog, listando os mesmos produtos, disputa com a categoria e nenhum dos dois sobe. A regra é a categoria ficar; o blog fala do que a categoria não responde (como treinar, como cuidar do tênis, quando trocar). O caso está detalhado em [duas páginas brigando pela mesma busca](https://avilaops.com/guias/duas-paginas-brigando-pela-mesma-busca/).
+Criar um texto de blog para a busca que a categoria já deveria atender. "Os melhores tênis de corrida do ano" no blog, listando os mesmos produtos, disputa com a categoria e nenhum dos dois sobe. A regra é a categoria ficar; o blog fala do que a categoria não responde (como treinar, como cuidar do tênis, quando trocar). O caso está detalhado em [duas páginas brigando pela mesma busca](https://avilaops.com/guias/duas-paginas-brigando-pela-mesma-busca/).
 
 O segundo erro é o texto de apoio copiado. Descrição genérica de "tênis de corrida" existe em milhares de lojas. O que faz a sua categoria valer é o que só você sabe: quais modelos saem mais na sua cidade, para que tipo de corredor, qual o prazo real da sua entrega. Texto de categoria também pode ser [raso](https://avilaops.com/guias/conteudo-raso-300-palavras-nao-rendem/), e quase sempre é.
 

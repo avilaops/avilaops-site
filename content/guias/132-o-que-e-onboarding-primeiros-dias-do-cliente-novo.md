@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-10"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/primeiros-sete-dias-de-um-cliente-novo/", "/portal-do-cliente/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -41,7 +42,7 @@ O passo a passo, dia a dia, está em https://avilaops.com/guias/primeiros-sete-d
 
 ## O que fazer agora
 
-Escreva a mensagem que o cliente recebe no dia em que paga. Se hoje ela não existe, é o primeiro processo a criar em janeiro. Quando o volume crescer, o CRM manda essa mensagem sozinho e marca os prazos: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escreva a mensagem que o cliente recebe no dia em que paga. Se hoje ela não existe, é o primeiro processo a criar. Quando o volume crescer, o CRM manda essa mensagem sozinho, por e-mail ou pela API oficial do WhatsApp com modelo aprovado, e marca os prazos: https://avilaops.com/crm-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

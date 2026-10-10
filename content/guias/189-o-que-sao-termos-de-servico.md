@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-08"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/para-que-serve-politica-de-privacidade/", "/guias/garantia-como-oferecer-sem-se-expor/", "/loja-virtual/"]
 ---
 
@@ -27,8 +28,8 @@ O que o seu cliente pergunta antes de fechar, em ordem:
 1. O que você entrega e o que fica de fora. "Site de até cinco páginas; textos fornecidos pelo cliente" é um limite claro.
 2. Prazo e o que o atrasa. Se depende de material do cliente, diga.
 3. Pagamento: valor, forma, parcelas, o que acontece com atraso.
-4. Cancelamento e arrependimento: para venda a distância, o cliente tem 7 dias para desistir, art. 49 do CDC (Lei 8.078/1990). Seus termos não podem reduzir isso.
-5. Troca e garantia: prazo, condição do produto, quem paga o frete.
+4. Cancelamento e arrependimento: para venda a distância, o cliente tem 7 dias para desistir, contados do recebimento ou da contratação, art. 49 do CDC (Lei 8.078/1990). Seus termos não podem reduzir isso.
+5. Troca e garantia: prazo, condição do produto, quem paga o frete. A garantia legal, de 30 dias para não durável e 90 para durável, vale sempre; a sua só soma a ela.
 6. Responsabilidade: até onde vai a sua. Uma loja que vende peça de reposição não responde pela instalação feita por terceiro.
 7. Contato e foro: e-mail para resolver e cidade onde uma disputa seria julgada. Com consumidor, ele pode processar na cidade dele mesmo assim (art. 101 do CDC).
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-11-20"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/frete-atrasado-avisar-antes-de-o-cliente-perguntar/", "/guias/o-que-e-logistica-reversa-devolucao-pelo-correio/", "/sistema-para-pequenas-empresas/"]
 ---
 

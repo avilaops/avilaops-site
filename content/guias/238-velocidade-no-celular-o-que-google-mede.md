@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Site"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-26"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/search-console-relatorio-o-que-consertar/", "/guias/o-que-e-search-console/", "/dominio-e-hospedagem/", "/criacao-de-site-profissional/"]
 ---
 
@@ -66,7 +67,7 @@ Teste a sua página inicial no PageSpeed Insights, no modo celular, e veja os n�
 Não. Conteúdo que responde à busca pesa muito mais. A velocidade desempata entre páginas parecidas e evita que o visitante vá embora antes de ler. Trate como higiene, não como estratégia.
 
 **Meu site é rápido no meu celular. Por que o Google diz que é lento?**
-Porque você tem o site em cache, Wi-Fi bom e celular recente. O Google mede a média dos seus visitantes, muitos em 4G e aparelho mais simples. O PageSpeed simula essa condição.
+Porque você tem o site em cache, Wi-Fi bom e celular recente. O Google mede o conjunto dos seus visitantes (o percentil 75, não o melhor caso), muitos em 4G e aparelho mais simples. O PageSpeed simula essa condição.
 
 **Plugin de cache resolve?**
 Ajuda na resposta do servidor e em parte do LCP. Não resolve imagem pesada, script demais nem CLS. Use, mas corrija as causas.

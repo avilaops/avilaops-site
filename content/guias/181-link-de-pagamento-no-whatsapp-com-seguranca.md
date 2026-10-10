@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Pagamento"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-28"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/orcamento-por-whatsapp-sem-virar-leilao/", "/guias/o-que-e-cobranca-recorrente/", "/guias/como-trocar-o-numero-do-whatsapp-business-da-empresa/", "/loja-virtual/"]
 ---
 
@@ -68,4 +69,4 @@ Abra o último link de pagamento que você mandou e confira os quatro pontos: n�
 Não. Link que chega antes do "sim" parece pressão e, para quem desconfia, parece golpe. Confirme o pedido, receba o aceite, mande o link. Três mensagens, nessa ordem.
 
 **O cliente pagou por Pix e pediu estorno. E agora?**
-Pix tem o mecanismo especial de devolução (MED) para golpe e fraude, acionado pelo banco do cliente. Para desistência de compra, vale o Código de Defesa do Consumidor: sete dias de arrependimento em compra fora da loja física, art. 49. Tenha o pedido e a entrega registrados na conversa para responder ao banco se for preciso.
+Pix tem o mecanismo especial de devolução (MED) para golpe e fraude, acionado pelo banco do cliente. Para desistência de compra, vale o Código de Defesa do Consumidor: sete dias de arrependimento em compra fora da loja física, contados do recebimento do produto ou da contratação do serviço. Tenha o pedido e a entrega registrados na conversa para responder ao banco se for preciso.

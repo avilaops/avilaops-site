@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-22"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/cadastro-de-cliente-campos-que-importam/", "/guias/crm-para-pequenas-empresas-com-whatsapp/", "/crm-para-pequenas-empresas/"]
 ---
 

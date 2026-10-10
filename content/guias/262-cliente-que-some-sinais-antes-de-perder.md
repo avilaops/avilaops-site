@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-20"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-ciclo-de-vida-do-cliente/", "/guias/mensagem-de-reativacao-que-nao-implora/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -46,7 +47,7 @@ Nos sinais 1 e 2, uma mensagem simples costuma resolver. No 3 já precisa de con
 
 ## O que fazer no primeiro sinal?
 
-Não é promoção. Cliente que atrasou 50% do intervalo não está esperando desconto; provavelmente só esqueceu ou está ocupado. O que funciona:
+Não é promoção. Cliente que atrasou 50% do intervalo não está esperando desconto; provavelmente só esqueceu ou está ocupado. O que funciona, para quem aceitou receber mensagens suas:
 
 - Uma mensagem com nome e com referência ao que ele comprou por último: "Oi, Ana. A ração que você levou em março costuma durar uns 40 dias. Quer que eu separe?". Isso é lembrete útil, não venda.
 - Se ele tem serviço agendável, ofereça o horário direto: "Tem vaga quinta às 15h, do jeito que você gosta."
@@ -69,4 +70,4 @@ Não, se o intervalo dele sempre foi longo. O sinal é a mudança em relação a
 No primeiro sinal, não. Promoção ensina o cliente a esperar desconto para voltar. Lembrete útil com o nome dele resolve a maioria. Desconto fica para o sinal 4 ou 5, como reparo, e não como rotina.
 
 **Quantos clientes é normal perder por mês?**
-Não existe número de mercado confiável para citar. O seu número é: clientes que passaram de 90 dias sem comprar (ou mais, se o seu ciclo é longo), divididos pelo total de ativos. Meça hoje e de novo em 60 dias.
+Não existe número de mercado confiável para citar. O seu número é: dos clientes que compraram nos últimos 12 meses, quantos passaram de 90 dias sem comprar (ou mais, se o seu ciclo é longo), divididos pelo total desses mesmos clientes. Meça hoje e de novo em 60 dias.

@@ -3,14 +3,15 @@ num: 236
 titulo: "Site de página única: quando limita o alcance"
 slug: "site-de-pagina-unica-quando-limita-alcance"
 title_seo: "Site de página única: quando limita o alcance"
-meta_description: "Site de uma página só aparece para poucas buscas. Com cinco serviços, quatro tendem a sumir no Google. Veja quando a página única serve e quando limita."
+meta_description: "Site de uma página aparece para poucas buscas. Com cinco serviços, quatro tendem a sumir no Google. Veja quando a página única serve e quando limita."
 mes: "2027-04"
 bloco: "pratica"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-24"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/landing-page/", "/guias/site-institucional-landing-page-ou-loja-virtual/", "/guias/uma-pagina-por-pergunta-do-cliente/", "/criacao-de-site-profissional/"]
 ---
 

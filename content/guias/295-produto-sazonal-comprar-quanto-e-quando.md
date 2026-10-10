@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-22"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/sistema-para-pequenas-empresas/", "/guias/o-que-e-estoque-minimo/", "/guias/prazo-do-fornecedor-x-prazo-prometido-ao-cliente/", "/guias/fornecedor-unico-o-risco-que-ninguem-calcula/"]
 ---
 
@@ -26,11 +27,11 @@ A média anual não serve para produto sazonal. Ela dilui três semanas boas em 
 
 Se não tem o histórico, porque é o primeiro ano ou porque a planilha se perdeu, use dois pontos de referência: a venda do produto mais parecido que você tem e o estoque que o fornecedor recomenda para o seu tamanho, dividido por dois. Compre menos na primeira remessa e reponha. É mais caro por unidade, mas sobra menos.
 
-E o histórico se decide agora: o que você vende em junho de 2027 precisa estar registrado por dia e por produto para junho de 2028. Se o sistema não guarda isso, você vai palpitar de novo.
+E o histórico se decide na temporada: o que você vende em junho precisa estar registrado por dia e por produto para servir de base no junho seguinte. Se o sistema não guarda isso, você vai palpitar de novo.
 
 ## Quando comprar: a conta de trás para frente
 
-1. Data em que a venda acaba. Dia dos Namorados: 12/06, com a última compra pela internet uns 4 dias antes. Festa junina: o fim de junho (o último fim de semana cai em 26 e 27/06 em 2027), com cauda nas festas julinas.
+1. Data em que a venda acaba. Dia dos Namorados: 12/06, com a última compra pela internet uns 4 dias antes. Festa junina: o fim de junho (confira no calendário do ano em que dias cai o último fim de semana), com cauda nas festas julinas.
 2. Prazo do fornecedor em junho, não em abril. Fornecedor de produto sazonal atrasa na temporada, porque todo mundo pede junto. Some 30% ao prazo que ele diz.
 3. Data limite da última reposição: data em que a venda acaba, menos o prazo do fornecedor com folga. Depois disso, não se compra mais, mesmo que esteja vendendo.
 4. Primeira compra: para chegar no dia em que a procura começa, que costuma ser de duas a três semanas antes da data.
@@ -52,7 +53,7 @@ Produto que aguenta um ano: guarde com data de validade conferida e registre a q
 
 Produto que não aguenta: kit, desconto de saída na primeira semana de julho, ou combinação com produto que vende o ano inteiro. Vender com margem menor em julho é melhor que descartar em agosto.
 
-O registro é o que faz a próxima compra ser melhor: quanto comprou, quanto vendeu, quanto sobrou, por produto. São três números por produto, e são eles que resolvem a temporada de 2028.
+O registro é o que faz a próxima compra ser melhor: quanto comprou, quanto vendeu, quanto sobrou, por produto. São três números por produto, e são eles que resolvem a próxima temporada.
 
 ## O que fazer agora
 

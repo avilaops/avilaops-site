@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Dados"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-07-14"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-custo-de-aquisicao-de-cliente/", "/guias/como-usar-pix-automatico-para-cobranca-recorrente/", "/glossario/crm/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -35,7 +36,7 @@ Numa loja de móveis planejados: anúncio, R$ 6.000 no semestre, 20 clientes, R$
 
 Custo alto por si só não é problema. Problema é custo alto para cliente que deixa pouco. A comparação é com a margem que o cliente gera, não com o custo dos outros canais.
 
-Se o cliente de anúncio custa R$ 300 e compra R$ 8.000 em móveis com margem de 35%, ele deixa R$ 2.800. Vale. Se o cliente de Instagram custa R$ 600 e a agência atrai gente que só pede orçamento, não vale, mesmo que o perfil esteja bonito.
+Se o cliente de anúncio custa R$ 300 e compra R$ 8.000 em móveis com margem de 35%, já descontados impostos, produto e a parte dos custos fixos, ele deixa R$ 2.800. Vale. Se o cliente de Instagram custa R$ 600 e a agência atrai gente que só pede orçamento, não vale, mesmo que o perfil esteja bonito.
 
 Três caminhos para custo alto que não se paga:
 
@@ -47,11 +48,11 @@ Três caminhos para custo alto que não se paga:
 
 Porque o preço precisa cobrir o custo de trazer o cliente, e não só o custo do produto. Muita empresa pequena calcula preço como custo mais margem e esquece que cada cliente custou R$ 150 para chegar. Quando o anúncio cresce, esse R$ 150 vira R$ 250, e a margem que parecia boa some.
 
-O cálculo correto para uma venda única: preço mínimo é custo do produto, mais impostos e taxas, mais custo de entrega, mais custo de aquisição, mais a margem que você quer. Para cliente recorrente, o custo de aquisição se dilui pelas compras seguintes, o que permite preço mais competitivo na primeira. É por isso que quem tem cliente que volta consegue anunciar mais barato do que quem vende uma vez.
+O cálculo correto para uma venda única: preço mínimo é custo do produto, mais impostos e taxas, mais custo de entrega, mais a parte dos custos fixos que cabe a cada venda, mais custo de aquisição, mais a margem que você quer. Para cliente recorrente, o custo de aquisição se dilui pelas compras seguintes, o que permite preço mais competitivo na primeira. É por isso que quem tem cliente que volta consegue anunciar mais barato do que quem vende uma vez.
 
 ## O que fazer agora
 
-Calcule o custo por canal com os dados de janeiro a junho, mesmo que a metade seja estimativa. Coloque ao lado a margem que o cliente de cada canal deixa. O canal onde o custo passa da margem é a primeira decisão do segundo semestre. Cinco números que cabem numa tela, atualizados sozinhos: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Calcule o custo por canal com os dados dos últimos seis meses, mesmo que a metade seja estimativa. Coloque ao lado a margem que o cliente de cada canal deixa. O canal onde o custo passa da margem é a primeira decisão a tomar. Cinco números que cabem numa tela, atualizados sozinhos: https://avilaops.com/sistema-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Marca"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-29"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/sua-marca-parece-a-mesma-instagram-site-nota/", "/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/identidade-visual/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/sua-marca-parece-a-mesma-instagram-site-nota/", "/guias
 
 Uniforme, veículo e fachada são os únicos anúncios que você paga uma vez e continuam circulando por anos, sem custo por clique. O carro de entrega roda o bairro inteiro toda semana. A camiseta do entregador aparece em cada porta. A fachada é vista por quem passa todo dia, mesmo quem nunca entrou. O que a maioria das empresas pequenas faz com essa mídia é desperdiçar: logo pequeno, telefone que ninguém consegue anotar, cor diferente da do Instagram.
 
-Com as entregas de Dia das Mães, esse anúncio rodou muito neste mês. Vale conferir o que ele disse.
+Em datas como o Dia das Mães, com entrega o dia inteiro, esse anúncio roda muito. Vale conferir o que ele diz.
 
 ## O que cada peça precisa dizer?
 

@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "IA"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-30"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/ia/prompts-para-ia/", "/guias/escrever-para-pessoa-e-ia-ao-mesmo-tempo/", "/guias/conteudo-raso-300-palavras-nao-rendem/", "/automacao-de-atendimento/"]
 ---
 
@@ -59,7 +60,7 @@ Ordem que funciona: grave um áudio de 10 minutos respondendo à pergunta do cli
 
 ## O que fazer agora
 
-Pegue o último texto que você publicou com ajuda de IA e passe a tabela nele, item por item. Corte o que está na coluna da esquerda e acrescente os cinco itens que só você tem. Se você quer IA trabalhando no seu atendimento, respondendo o repetitivo com as suas informações e chamando você para decidir: https://avilaops.com/automacao-de-atendimento/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Pegue o último texto que você publicou com ajuda de IA e passe a tabela nele, item por item. Corte o que aparece na coluna "Como reconhecer" e acrescente os cinco itens que só você tem. Se você quer IA trabalhando no seu atendimento, respondendo o repetitivo com as suas informações e chamando você para decidir: https://avilaops.com/automacao-de-atendimento/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

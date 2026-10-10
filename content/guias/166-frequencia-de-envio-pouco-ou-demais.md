@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "E-mail"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-13"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-reputacao-de-remetente/", "/guias/descadastro-protege-a-entrega/", "/criacao-de-site-profissional/"]
 ---
 
@@ -34,7 +35,7 @@ Três sinais, em ordem de gravidade:
 2. As respostas caem enquanto o volume sobe. Você manda o dobro e recebe a metade de retorno.
 3. Aparecem marcações de spam de gente que se cadastrou por vontade própria. É o sinal de que o cansaço virou irritação.
 
-O erro mais comum em fevereiro é a compensação. A empresa ficou quieta em dezembro e janeiro e tenta recuperar mandando promoção de Carnaval na segunda, lembrete na quarta e "última chance" na sexta. Três e-mails de venda em uma semana, depois de dois meses de silêncio, produzem os três sinais de uma vez.
+O erro mais comum antes de uma data forte é a compensação. A empresa ficou quieta por dois meses e tenta recuperar mandando promoção de Carnaval na segunda, lembrete na quarta e "última chance" na sexta. Três e-mails de venda em uma semana, depois de dois meses de silêncio, produzem os três sinais de uma vez.
 
 ## Qual ritmo escolher e como manter?
 

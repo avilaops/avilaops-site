@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Legal"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-05"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-dado-pessoal-na-pratica/", "/guias/lgpd-para-quem-tem-tres-funcionarios/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -33,9 +34,9 @@ Os que aparecem no dia a dia de um negócio pequeno:
 
 ## Como responder a um pedido do titular?
 
-Com um canal e um prazo. O canal pode ser um e-mail, como privacidade@suaempresa.com.br, publicado na política de privacidade. Para o pedido de acesso, a lei dá 15 dias para a resposta completa (art. 19), e a empresa de pequeno porte tem o dobro, pela Resolução CD/ANPD nº 2/2022. Para os outros pedidos, o prazo depende de regulamentação; responda o quanto antes.
+Com um canal e um prazo. O canal pode ser um e-mail, como privacidade@suaempresa.com.br, publicado na política de privacidade. Para o pedido de acesso, a lei dá 15 dias para a resposta completa (art. 19), e o agente de tratamento de pequeno porte tem o dobro, pela Resolução CD/ANPD nº 2/2022. Para os outros pedidos, o prazo depende de regulamentação; responda o quanto antes.
 
-Numa loja de roupas, uma cliente pede para sair da lista de WhatsApp e saber que dados a loja tem. Você confirma o recebimento no mesmo dia, remove o número da lista de disparo, e responde em uma mensagem: nome, telefone, três pedidos com data e valor, guardados pelo prazo fiscal. Levou 10 minutos. Sem sistema, levaria uma tarde procurando em planilha e conversa.
+Numa loja de roupas, uma cliente pede para sair da lista de WhatsApp e saber que dados a loja tem. Antes de mostrar qualquer dado, confirme que quem pede é a titular: o pedido veio do contato cadastrado ou ela confirmou um código. Você confirma o recebimento no mesmo dia, remove o número da lista de disparo, e responde em uma mensagem: nome, telefone, três pedidos com data e valor, guardados pelo prazo fiscal. Levou 10 minutos. Sem sistema, levaria uma tarde procurando em planilha e conversa.
 
 ## O que fazer agora
 

@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-01-09"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/proposta-que-fecha-sem-reuniao/", "/guias/para-que-serve-contrato-de-prestacao-de-servico/", "/jornada/"]
 ---
 
@@ -38,7 +39,7 @@ Uma página costuma bastar. Proposta de 12 páginas não é levada mais a sério
 
 Preço sem contexto. Quando o cliente vê "R$ 3.200" sem entender o que aquilo resolve, ele compara com o número mais baixo que recebeu, não com o valor. Por isso o problema vem antes do preço, e a lista de entregas vem antes do número.
 
-Um serviço de manutenção de ar-condicionado, ao mandar proposta para um escritório, em vez de "limpeza de 6 aparelhos, R$ 900", escreve: "Seis aparelhos, dois com barulho relatado. Limpeza geral, troca de filtro, teste de gás, relatório por aparelho. Não inclui peça. Feito em um dia, sábado. R$ 900, Pix ou boleto. Válido até 20/01/2027." O cliente tem tudo para decidir.
+Um serviço de manutenção de ar-condicionado, ao mandar proposta para um escritório, em vez de "limpeza de 6 aparelhos, R$ 900", escreve: "Seis aparelhos, dois com barulho relatado. Limpeza geral, troca de filtro, teste de gás, relatório por aparelho. Não inclui peça. Feito em um dia, sábado. R$ 900, Pix ou boleto. Válido por 15 dias." O cliente tem tudo para decidir.
 
 O contrato vem depois do aceite e fixa o combinado: https://avilaops.com/guias/para-que-serve-contrato-de-prestacao-de-servico/.
 

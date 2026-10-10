@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/jornada/", "/guias/dia-dos-namorados-presente-sem-guerra-de-preco/", "/guias/produto-sazonal-comprar-quanto-e-quando/", "/loja-virtual/"]
 ---
 
@@ -55,11 +56,11 @@ Experiência é a lista de coisas que acontecem entre o clique e o dia seguinte 
 | Abriu | Cartão com a mensagem do cliente, instruções de uso, cupom para a próxima compra | Separação |
 | Uma semana depois | Pedido de avaliação ou foto | Automação |
 
-Nada nessa tabela é caro. Tudo é processo, e as mensagens de WhatsApp dependem de o cliente ter aceitado recebê-las no pedido. O que separa a loja que faz da loja que não faz é ter escrito a lista e ligado cada linha a alguém ou a uma regra.
+Nada nessa tabela é caro. Tudo é processo. As mensagens automáticas de WhatsApp exigem a API oficial, modelo de mensagem aprovado e cliente que aceitou recebê-las no pedido; o pedido de avaliação e o cupom seguem a mesma regra, com saída fácil para quem não quer mais receber. O que separa a loja que faz da loja que não faz é ter escrito a lista e ligado cada linha a alguém ou a uma regra.
 
 ## O que fazer agora
 
-Escolha um só kit para junho, com ocasião, preço e foto montada, e escreva as cinco mensagens da tabela acima. Isso é uma tarde de trabalho e vale a temporada. Descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Escolha um só kit para a próxima data forte do seu calendário, com ocasião, preço e foto montada, e escreva as cinco mensagens da tabela acima. Isso é uma tarde de trabalho e vale a temporada. Descreva o seu negócio; o diagnóstico é por nossa conta: https://avilaops.com/jornada/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 

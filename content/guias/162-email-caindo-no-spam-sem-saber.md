@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "E-mail"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-09"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-caixa-de-spam/", "/guias/spf-dkim-dmarc-sem-termo-tecnico/", "/email-profissional/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/o-que-e-caixa-de-spam/", "/guias/spf-dkim-dmarc-sem-ter
 
 Se cliente diz "não recebi" mais de uma vez por mês, ou responde dias depois com "estava no spam", parte dos seus e-mails está sendo filtrada. Você não é avisado quando isso acontece. O provedor do destinatário decide sozinho, em silêncio, e a mensagem some numa pasta que quase ninguém abre. Dá para descobrir em 10 minutos, sem ferramenta paga.
 
-Em fevereiro isso pesa mais. É o mês do aviso de horário de Carnaval, da retomada do orçamento parado desde dezembro, da cobrança do primeiro boleto do ano. Cada um desses e-mails que cai no spam vira uma conversa que não acontece.
+Isso pesa mais nas datas em que o e-mail carrega o que importa: o aviso de horário de feriado, como o Carnaval, a retomada de um orçamento parado, a cobrança de um boleto. Cada um desses e-mails que cai no spam vira uma conversa que não acontece.
 
 ## Como testar se meu e-mail cai no spam?
 

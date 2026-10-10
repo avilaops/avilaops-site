@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-03-27"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/como-automatizar-whatsapp-da-empresa/", "/guias/agente-de-ia-no-whatsapp-vale-a-pena-para-pequena-empresa/", "/jornada/"]
 ---
 
@@ -46,7 +47,7 @@ Se você não tem a informação, diga quando terá: "Estou na rua, confirmo o e
 
 ## Como manter isso quando o volume cresce?
 
-Primeiro, um lugar onde preço, estoque e prazo estão atualizados e quem atende consulta sem perguntar para ninguém. Segundo, as cinco respostas salvas como modelo no WhatsApp Business, com o nome de quem responde. Terceiro, quando o volume passa do que uma pessoa dá conta, automação para o repetitivo: a mensagem de "qual horário" e "onde fica" pode ser respondida na hora, sem gente, e o "quanto custa" pode vir com o catálogo. O guia de automação do WhatsApp mostra por onde começar: https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/.
+Primeiro, um lugar onde preço, estoque e prazo estão atualizados e quem atende consulta sem perguntar para ninguém. Segundo, as cinco respostas salvas como modelo no WhatsApp Business, com o nome de quem responde. Terceiro, quando o volume passa do que uma pessoa dá conta, automação para o repetitivo, pela API oficial do WhatsApp: a mensagem de "qual horário" e "onde fica" pode ser respondida na hora, sem gente, e o "quanto custa" pode vir com o catálogo. O guia de automação do WhatsApp mostra por onde começar: https://avilaops.com/guias/como-automatizar-whatsapp-da-empresa/.
 
 O que medir: tempo até a primeira resposta e número de mensagens até fechar ou perder. Se a média é oito mensagens por venda, tem vaivém sobrando. Meta razoável para pedido simples: três a quatro mensagens de cada lado.
 

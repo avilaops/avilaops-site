@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-02"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-search-console/", "/guias/pagina-nao-indexa-cinco-causas/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

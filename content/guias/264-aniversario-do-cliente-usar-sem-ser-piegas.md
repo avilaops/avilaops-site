@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "CRM"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-22"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/cliente-fiel-merece-o-que-alem-de-desconto/", "/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -66,4 +67,4 @@ Vale dar algo, mas separado do parabéns e sem prazo curto. "Válido até doming
 Comece a perguntar hoje, na conversa. Em seis meses você terá a data de boa parte dos clientes ativos. Não busque em rede social; dado pessoal se pede, não se coleta por fora.
 
 **Posso mandar mensagem de aniversário pelo WhatsApp automático?**
-Pode, se o cliente aceitou receber mensagens suas (a política do WhatsApp Business exige isso no envio automático), se o texto for curto e se alguém responder às respostas. O que não pode é o cliente descobrir que ninguém está do outro lado. A mensagem automática que ninguém acompanha é pior do que nenhuma.
+Pode, pela API oficial do WhatsApp, com modelo de mensagem aprovado, se o cliente aceitou receber mensagens suas (a política do WhatsApp exige isso no envio automático), se o texto for curto e se alguém responder às respostas. O que não pode é o cliente descobrir que ninguém está do outro lado. A mensagem automática que ninguém acompanha é pior do que nenhuma.

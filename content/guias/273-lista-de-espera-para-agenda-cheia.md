@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Operação"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-05-31"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/confirmacao-de-agendamento-que-reduz-falta/", "/guias/cliente-fiel-merece-o-que-alem-de-desconto/", "/guias/para-que-serve-uma-agenda-online/", "/sistema-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/confirmacao-de-agendamento-que-reduz-falta/", "/guias/c
 
 Lista de espera é a lista de quem queria um horário e não conseguiu, com o que quer, quando pode e como avisar. Quando alguém cancela, você olha a lista, avisa quem cabe naquele horário e a vaga é preenchida em minutos, em vez de ficar vazia. É o que transforma cancelamento em venda. Sem lista, "hoje não tenho horário" é cliente perdido e vaga que abre mais tarde fica sem ninguém.
 
-Na semana do Dia das Mães, com a agenda lotada, você provavelmente disse "não tenho horário" mais vezes do que conseguiu anotar.
+Em semanas de pico, como a do Dia das Mães, com a agenda lotada, você provavelmente diz "não tenho horário" mais vezes do que consegue anotar.
 
 ## Por que a agenda cheia sem lista perde dinheiro duas vezes?
 
@@ -53,9 +54,9 @@ Avisar um por vez e esperar resposta perde a vaga. Avisar 10 de uma vez gera nov
 
 Quando a lista passa de 20 nomes ou quando mais de uma pessoa atende. Nesse ponto, a planilha atrasa: alguém avisa um cliente que já foi atendido, outro nunca é avisado porque estava embaixo, e a ordem se perde.
 
-Com a agenda online ligada ao cadastro, o cancelamento dispara sozinho a mensagem para os três primeiros que cabem, o primeiro que responde ocupa a vaga e a lista se atualiza. Quem atende só vê o resultado. O que uma agenda online resolve, e quando vale, está em https://avilaops.com/guias/para-que-serve-uma-agenda-online/.
+Com a agenda online ligada ao cadastro e ao WhatsApp pela API oficial, com modelo de mensagem aprovado, o cancelamento dispara sozinho a mensagem para os três primeiros que cabem, o primeiro que responde ocupa a vaga e a lista se atualiza. Quem atende só vê o resultado. O que uma agenda online resolve, e quando vale, está em https://avilaops.com/guias/para-que-serve-uma-agenda-online/.
 
-Num salão com três profissionais, a lista ficava na cabeça da recepcionista. Na semana do Dia das Mães, o salão disse não para muita gente e teve horários vazios por cancelamento. Montou a lista em planilha compartilhada, com a rotina dos três primeiros. Na semana seguinte, boa parte dos cancelamentos foi preenchida no mesmo dia. Quando a lista passou de 40 nomes, a agenda passou a fazer o aviso sozinha.
+Num salão com três profissionais, a lista ficava na cabeça da recepcionista. Na semana do Dia das Mães, o salão disse não para muita gente e teve horários vazios por cancelamento. Montou a lista em planilha compartilhada, com a rotina dos três primeiros. Na semana seguinte, boa parte dos cancelamentos foi preenchida no mesmo dia. Quando a lista passou de 20 nomes, a agenda passou a fazer o aviso sozinha.
 
 ## O que fazer agora
 

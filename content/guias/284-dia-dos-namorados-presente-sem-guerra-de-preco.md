@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Vendas"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-06-11"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/jornada/", "/guias/kit-e-experiencia-vender-mais-que-o-produto/", "/guias/o-que-e-prazo-de-despacho-e-por-que-nao-e-prazo-de-entrega/", "/guias/o-que-uma-pequena-empresa-precisa-para-vender-melhor-no-digital/"]
 ---
 
@@ -28,9 +29,9 @@ Os três medos e o que os resolve:
 
 | Medo do comprador | O que a loja mostra | Onde mostrar |
 |---|---|---|
-| Não vai chegar a tempo | Data limite de compra para chegar até sexta, 11/06, por região | Página do produto e carrinho |
+| Não vai chegar a tempo | Data limite de compra para chegar até a véspera, 11/06, por região | Página do produto e carrinho |
 | Vai parecer sem esforço | Embalagem de presente e cartão com mensagem, com foto | Página do produto |
-| Vai dar errado e não terei como trocar | Regra de troca clara. Os 7 dias do CDC (art. 49) são para desistir da compra on-line; troca por tamanho ou gosto é regra sua | Rodapé e página do produto |
+| Vai dar errado e não terei como trocar | Regra de troca clara. Os 7 dias do CDC (art. 49), contados do recebimento, são para desistir da compra on-line; troca por tamanho ou gosto é regra sua | Rodapé e página do produto |
 
 Nenhum item dessa tabela é desconto. Todos são operação mostrada. Uma loja que despacha rápido mas não escreve isso na página está competindo só por preço, sem querer.
 

@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "Segurança"
 pilar: "Operação"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-08-04"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/gerenciador-de-senha-em-vez-de-papel/", "/guias/contas-por-pessoa-nao-por-empresa/", "/contato/"]
 ---
 

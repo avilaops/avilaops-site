@@ -9,8 +9,9 @@ bloco: "basico"
 puxa: "SEO"
 pilar: "Presença"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-07"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-indexacao-pagina-nao-existe-google/", "/guias/pagina-de-categoria-mais-visitada-menos-cuidada/", "/presenca-digital-para-pequenas-empresas/"]
 ---
 

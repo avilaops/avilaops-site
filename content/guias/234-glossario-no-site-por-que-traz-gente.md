@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "SEO"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-04-22"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/glossario/dominio/", "/guias/o-que-e-link-interno-por-que-importa/", "/guias/blog-no-dominio-proprio-nao-em-plataforma-alugada/", "/criacao-de-site-profissional/"]
 ---
 

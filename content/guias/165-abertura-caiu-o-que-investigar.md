@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "E-mail"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-12"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/taxa-de-abertura-o-que-ela-nao-diz/", "/guias/email-caindo-no-spam-sem-saber/", "/guias/assunto-de-email-que-faz-abrir/", "/email-profissional/"]
 ---
 
@@ -39,7 +40,7 @@ Cinco causas cobrem quase todos os casos:
 1. Entrega. Mande o mesmo e-mail para três contas suas em provedores diferentes. Se cair no spam em qualquer uma, pare aqui: o problema é entrega, e o roteiro está em https://avilaops.com/guias/email-caindo-no-spam-sem-saber/.
 2. Lista. Veja se o envio incluiu contatos novos. Contatos importados de uma planilha velha diluem a taxa e, pior, geram devoluções que puxam a entrega para baixo no envio seguinte.
 3. Assunto. Compare os dois últimos assuntos lado a lado. Se o que caiu tem cifrão, caixa alta, "grátis" ou promessa vaga, ele pode ter sido filtrado ou ignorado. Critérios em https://avilaops.com/guias/assunto-de-email-que-faz-abrir/.
-4. Horário. Anote dia e hora dos dois envios. Um foi na terça às 10h e o outro no sábado às 20h? Fevereiro tem ainda o Carnaval, e um envio no dia 08/02 ou 09/02 de 2027 vai render menos por motivo óbvio.
+4. Horário. Anote dia e hora dos dois envios. Um foi na terça às 10h e o outro no sábado às 20h? Confira também feriados: um envio na segunda ou na terça de Carnaval vai render menos por motivo óbvio.
 5. Ferramenta. Cheque se a ferramenta de envio mudou a forma de contar abertura. O Apple Mail já inflava o número; ferramentas que passaram a descontar isso mostram queda sem nada ter mudado do seu lado.
 
 Se nenhum dos cinco explica, olhe cliques e respostas. Se eles não caíram, a abertura caiu por medição, e você pode seguir a vida.
@@ -59,8 +60,8 @@ Rode o teste de entrega antes de qualquer outra coisa. Se o e-mail de envio aind
 **Abertura caiu depois que troquei de ferramenta de envio. É normal?**
 É comum. A nova ferramenta envia de servidores diferentes, que ainda não estão no seu SPF, e mede abertura de outro jeito. Confira o SPF e compare cliques entre as duas ferramentas antes de concluir.
 
-**A taxa de abertura cai em fevereiro por causa do Carnaval?**
-Nos dias de Carnaval, sim, e volta ao normal na semana seguinte. Se você enviou entre 06/02 e 10/02 de 2027, compare com o envio anterior a esse período, não com o de janeiro.
+**A taxa de abertura cai por causa do Carnaval?**
+Nos dias de Carnaval, sim, e volta ao normal na semana seguinte. Se você enviou entre o sábado de Carnaval e a Quarta-feira de Cinzas, compare com o envio anterior a esse período, não com o de um mês sem feriado.
 
 **Devo apagar os contatos que nunca abrem?**
 Não apague; separe. Quem não abre há seis meses vai para um grupo com envio raro, uma vez por mês, com pergunta direta se ainda quer receber. Quem não responder sai. Isso protege a entrega para todo o resto.

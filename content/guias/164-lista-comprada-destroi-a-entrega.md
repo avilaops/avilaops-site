@@ -9,8 +9,9 @@ bloco: "pratica"
 puxa: "E-mail"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2027-02-11"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/o-que-e-reputacao-de-remetente/", "/guias/como-usar-ia-no-atendimento-sem-violar-a-lgpd/", "/crm-para-pequenas-empresas/"]
 ---
 
@@ -18,7 +19,7 @@ links_internos: ["/guias/o-que-e-reputacao-de-remetente/", "/guias/como-usar-ia-
 
 Lista de e-mails comprada não gera cliente e derruba a entrega de tudo o que você enviar depois, inclusive o orçamento para quem pediu. O motivo é mecânico: a lista tem endereços que não existem, endereços armadilha e milhares de pessoas que nunca ouviram falar de você. Um envio para ela produz devoluções, marcações de spam e denúncias em quantidade suficiente para o Gmail rebaixar o seu domínio no mesmo dia.
 
-A oferta chega em fevereiro com um argumento sedutor: "5.000 contatos da sua cidade por R$ 200, para você lançar a campanha de Carnaval". A conta parece boa até o e-mail do dia seguinte, para um cliente de verdade, cair no spam.
+A oferta costuma chegar antes das datas fortes, com um argumento sedutor: "5.000 contatos da sua cidade por R$ 200, para você lançar a campanha de Carnaval". A conta parece boa até o e-mail do dia seguinte, para um cliente de verdade, cair no spam.
 
 ## O que exatamente acontece quando você envia para uma lista comprada?
 
@@ -44,9 +45,9 @@ Construir a sua, que é menor e vale mais. Lugares onde a empresa pequena já co
 - WhatsApp: pergunte, ao fechar um atendimento, se a pessoa quer receber avisos por e-mail também;
 - formulário no site: um campo, uma frase clara sobre o que vai receber, uma caixa de consentimento;
 - balcão e evento: uma folha ou um QR para cadastro, com a mesma frase;
-- orçamentos não fechados: quem pediu orçamento e não comprou já se relacionou com você e pode receber retorno.
+- orçamentos não fechados: quem pediu orçamento e não comprou pode receber retorno sobre aquele pedido; para entrar na lista de novidades, pergunte se quer receber.
 
-Uma lista de 300 pessoas que pediram para estar nela entrega mais venda do que 5.000 desconhecidos, e não custa a reputação do domínio. E cada nome nessa lista precisa de um registro: de onde veio, quando consentiu, o que já comprou. Isso é trabalho de CRM, não de planilha solta.
+Em todo envio, um link de descadastro que funciona na hora. Uma lista de 300 pessoas que pediram para estar nela entrega mais venda do que 5.000 desconhecidos, e não custa a reputação do domínio. E cada nome nessa lista precisa de um registro: de onde veio, quando consentiu, o que já comprou. Isso é trabalho de CRM, não de planilha solta.
 
 ## O que fazer agora
 

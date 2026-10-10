@@ -9,16 +9,17 @@ bloco: "pratica"
 puxa: "Comercial"
 pilar: "Crescimento"
 autor: "Nicolas Avila"
-status: "revisado"
-data_prevista: "2026-12-31"
+status: "aprovado"
+data_publicacao: "2026-10-09"
+data_prevista: "2026-10-09"
 links_internos: ["/guias/cancelar-o-que-nao-usa-assinaturas-esquecidas/", "/guias/metas-do-ano-que-vem-em-uma-pagina/", "/jornada/"]
 ---
 
 # O que cortar em janeiro para poder investir
 
-Em janeiro, corte quatro coisas, nesta ordem: assinaturas e serviços que ninguém usa, produtos que ocupam caixa e dão pouca margem, clientes que custam mais do que pagam, e trabalho manual que alguém repete toda semana. O que sobra dessa conta, em dinheiro e em horas, vai para uma única coisa que faça 2027 diferente de 2026. Não para três. Uma.
+Em janeiro, corte quatro coisas, nesta ordem: assinaturas e serviços que ninguém usa, produtos que ocupam caixa e dão pouca margem, clientes que custam mais do que pagam, e trabalho manual que alguém repete toda semana. O que sobra dessa conta, em dinheiro e em horas, vai para uma única coisa que faça o ano novo diferente do que passou. Não para três. Uma.
 
-Para muitas empresas pequenas, janeiro é o mês mais fraco em venda, e o único em que sobra tempo para mexer na estrutura. Fevereiro já tem Carnaval, março já tem movimento, e o corte que não foi feito em janeiro é carregado o ano inteiro.
+Para muitas empresas pequenas, janeiro é o mês mais fraco em venda, e o único em que sobra tempo para mexer na estrutura. Fevereiro costuma ter Carnaval, março já tem movimento, e o corte que não foi feito em janeiro é carregado o ano inteiro.
 
 ## Por que cortar antes de investir?
 
@@ -41,7 +42,7 @@ Faça a conta do trabalho manual assim: liste o que é feito toda semana à mão
 
 ## Em que investir o que sobrou?
 
-Em uma coisa, escolhida pela meta que mais depende dela. Se a meta principal de 2027 é recompra, o investimento é no registro de clientes e na mensagem automática de retorno. Se é inadimplência, é na forma de receber e na régua de cobrança. Se é margem, é no controle de estoque e de custo por produto. Se é tempo, é em tirar o trabalho manual da semana. A página de [Metas do ano que vem](https://avilaops.com/guias/metas-do-ano-que-vem-em-uma-pagina/) diz qual é.
+Em uma coisa, escolhida pela meta que mais depende dela. Se a meta principal do ano é recompra, o investimento é no registro de clientes e na mensagem automática de retorno. Se é inadimplência, é na forma de receber e na régua de cobrança. Se é margem, é no controle de estoque e de custo por produto. Se é tempo, é em tirar o trabalho manual da semana. A página de [Metas do ano que vem](https://avilaops.com/guias/metas-do-ano-que-vem-em-uma-pagina/) diz qual é.
 
 O que não cortar, mesmo com caixa apertado: domínio, hospedagem e e-mail profissional, porque derrubam tudo e custam pouco; cópia de segurança; o que fala diretamente com o cliente e funciona (WhatsApp Business, Perfil da Empresa no Google); e a pessoa que sabe como a operação funciona. Cortar gente em janeiro para investir em ferramenta é o erro que custa o ano.
 
@@ -57,7 +58,7 @@ Some as quatro pilhas ainda em dezembro, com o extrato, a lista de produtos, a l
 Corte o anúncio que não é medido até o pedido. Mantenha o que você sabe quanto trouxe, com orçamento menor. Anúncio sem medição é a assinatura esquecida mais cara da lista.
 
 **E se depois de cortar tudo ainda não sobrar nada para investir?**
-Então o investimento de 2027 é tempo, não dinheiro: as horas que saíram do trabalho manual. Use-as para cobrar, para a mensagem de retorno, para o registro de clientes. Muita coisa que muda o ano custa disciplina, não caixa.
+Então o investimento do ano é tempo, não dinheiro: as horas que saíram do trabalho manual. Use-as para cobrar, para a mensagem de retorno, para o registro de clientes. Muita coisa que muda o ano custa disciplina, não caixa.
 
 **Cortar produto ou cliente não vai derrubar o faturamento?**
 Vai derrubar o faturamento e subir a margem, se o corte for feito pelo número e não pela irritação. Faturamento que não deixa margem é trabalho para o fornecedor. O que importa é o que sobra, e a página de metas mede isso.
