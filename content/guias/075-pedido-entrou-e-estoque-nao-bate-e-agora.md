@@ -17,7 +17,7 @@ links_internos: ["/guias/trocar-em-vez-de-estornar-como-oferecer-sem-forcar/", "
 
 # O pedido entrou e o estoque não bate: e agora
 
-Primeiro, tire o produto do ar. Depois conte o que existe de verdade. Só então decida quem recebe e quem não recebe, pela ordem de pagamento, e avise cada cliente sem produto com três opções e o dinheiro já de volta. A ordem importa: quem avisa antes de contar promete errado duas vezes.
+Primeiro, tire o produto do ar. Depois conte o que existe de verdade. Só então decida quem recebe e quem não recebe, pela ordem de pagamento, e avise cada cliente sem produto com três opções: esperar a reposição, levar um equivalente ou receber o dinheiro de volta. O estorno sai assim que ele escolher. A ordem importa: quem avisa antes de contar promete errado duas vezes.
 
 Sobrevender é comum em campanha. O site dizia 20 unidades, você vendeu 26, e na prateleira tem 18. O que define se isso vira reclamação pública ou uma mensagem de agradecimento é o que você faz na primeira hora.
 

@@ -17,7 +17,7 @@ links_internos: ["/guias/como-faco-para-minha-empresa-aparecer-no-google/", "/gu
 
 # Endereço comercial em casa: como parecer profissional
 
-Quem trabalha de casa parece profissional quando diz a verdade de um jeito específico: no Perfil da Empresa no Google, configura a empresa como prestadora que atende em área, oculta o endereço residencial e mostra as cidades que atende; no site, escreve "atendimento em Rio Preto e região, com hora marcada"; no rodapé, mantém razão social e CNPJ. O que não funciona é inventar um endereço comercial que não existe. O Google suspende e o cliente que aparece na porta descobre.
+Quem trabalha de casa parece profissional quando diz a verdade de um jeito específico: no Perfil da Empresa no Google, se vai até o cliente ou entrega pessoalmente, configura a empresa como prestadora que atende em área, oculta o endereço residencial e mostra as cidades que atende; no site, escreve "atendimento em Rio Preto e região, com hora marcada"; no rodapé, mantém razão social e CNPJ. O que não funciona é inventar um endereço comercial que não existe. O Google suspende e o cliente que aparece na porta descobre.
 
 Muita empresa pequena começa na sala de casa, e o dono trata isso como segredo. Não é. Prestador de serviço que vai até o cliente, consultor que atende online, loja virtual que despacha pelos Correios: nenhum deles precisa de vitrine. O que o cliente quer saber é se a empresa existe, onde atua e como chega até ela.
 
