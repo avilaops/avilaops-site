@@ -3598,5 +3598,95 @@
     "height": 630,
     "position": 1,
     "section": "Abertura do guia"
+  },
+  {
+    "slug": "retirada-na-loja",
+    "src": "/editorial/guias/retirada-na-loja-2.webp",
+    "alt": "Sacola separada na prateleira, relógio e cartão de confirmação ilustram a preparação de um pedido para retirada.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como configurar a retirada?",
+    "position": 2
+  },
+  {
+    "slug": "vender-no-instagram-e-entregar-pela-loja",
+    "src": "/editorial/guias/vender-no-instagram-e-entregar-pela-loja-2.webp",
+    "alt": "Dois cartões mostram o mesmo calçado, ligando a divulgação à ficha do produto na loja.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como o caminho fica?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-o-cdc-exige-de-quem-vende-online",
+    "src": "/editorial/guias/o-que-o-cdc-exige-de-quem-vende-online-2.webp",
+    "alt": "Cartões com símbolos de loja, produto, preço, entrega e atendimento representam informações para o consumidor.",
+    "width": 1200,
+    "height": 800,
+    "section": "Quais são as obrigações principais?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-nota-fiscal-eletronica-e-quando-emitir",
+    "src": "/editorial/guias/o-que-e-nota-fiscal-eletronica-e-quando-emitir-2.webp",
+    "alt": "Documento em envelope transparente acompanha uma caixa preparada para envio.",
+    "width": 1200,
+    "height": 800,
+    "section": "Quando a empresa precisa emitir?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-chargeback-estorno-forcado-pelo-banco",
+    "src": "/editorial/guias/o-que-e-chargeback-estorno-forcado-pelo-banco-2.webp",
+    "alt": "Cartão e pacote aparecem ao lado de uma pasta de comprovantes de entrega.",
+    "width": 1200,
+    "height": 800,
+    "section": "Por que o cliente contesta uma compra?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-antecipacao-de-recebivel",
+    "src": "/editorial/guias/o-que-e-antecipacao-de-recebivel-2.webp",
+    "alt": "Envelope de recebimento e moedas separadas ilustram que antecipar o pagamento tem um custo.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como a taxa funciona?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-landing-page-e-quando-usar",
+    "src": "/editorial/guias/o-que-e-landing-page-e-quando-usar-2.webp",
+    "alt": "Pessoa pratica pilates sobre um colchonete ao lado de um símbolo de contato, ilustrando uma oferta focada.",
+    "width": 1200,
+    "height": 800,
+    "section": "Quando uma página de destino faz sentido?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-remarketing-anuncio-para-quem-ja-visitou",
+    "src": "/editorial/guias/o-que-e-remarketing-anuncio-para-quem-ja-visitou-2.webp",
+    "alt": "Pessoa vê um calçado na vitrine e depois reconhece o mesmo produto em um anúncio.",
+    "width": 1200,
+    "height": 800,
+    "section": "Como o remarketing funciona?",
+    "position": 2
+  },
+  {
+    "slug": "preco-de-referencia-regra-que-evita-multa-procon",
+    "src": "/editorial/guias/preco-de-referencia-regra-que-evita-multa-procon-2.webp",
+    "alt": "Etiquetas arquivadas ao lado de uma camisa representam a conferência do histórico de preços.",
+    "width": 1200,
+    "height": 800,
+    "section": "O que o Procon considera desconto falso?",
+    "position": 2
+  },
+  {
+    "slug": "o-que-e-rastreio-e-como-reduz-mensagem-no-atendimento",
+    "src": "/editorial/guias/o-que-e-rastreio-e-como-reduz-mensagem-no-atendimento-2.webp",
+    "alt": "Três etapas mostram um pedido sendo preparado, transportado e entregue, com avisos de andamento.",
+    "width": 1200,
+    "height": 800,
+    "section": "Por que o cliente pergunta mesmo tendo o código?",
+    "position": 2
   }
 ]
