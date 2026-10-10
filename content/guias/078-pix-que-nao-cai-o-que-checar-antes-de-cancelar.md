@@ -34,7 +34,7 @@ Em lugar nenhum, porque o comprovante é falso ou editado. Comprovante de Pix é
 ## Os cinco pontos para checar, em ordem
 
 1. **Painel do intermediário.** Filtre por valor e horário. Se está lá como pago, o problema é a ligação com o pedido; marque o pedido como pago manualmente e siga.
-2. **Comprovante em detalhe.** Nome do recebedor, CNPJ, valor exato com centavos, data e hora, e o identificador da transação (E2E, um código de 32 caracteres que começa com a letra "E"). Peça o identificador e procure no painel ou no banco. Confira também o nome de quem pagou: se é outra pessoa, não libere. Pix de terceiro é sinal comum de golpe, e o dono da conta pode pedir a devolução pelo banco depois que o produto saiu; peça o pagamento pela conta do próprio comprador e devolva o recebido pela própria transação.
+2. **Comprovante em detalhe.** Nome do recebedor, CNPJ, valor exato com centavos, data e hora, e o identificador da transação (E2E, um código de 32 caracteres que começa com a letra "E"). Peça o identificador e procure no painel ou no banco. Confira também o nome de quem pagou: se é outra pessoa, segure a liberação até confirmar. Pix de terceiro pode ser legítimo, como o de um parente, mas também é o sinal mais comum do golpe da triangulação. Confirme com o titular da conta que pagou, por um contato que não veio do comprador, ou siga a política de risco do intermediário; sem essa confirmação, devolva pela própria transação e peça o pagamento pela conta do comprador.
 3. **Outros pedidos do cliente.** Mesmo nome ou e-mail nas últimas duas horas.
 4. **Status do intermediário.** Em dia de pico, a página de status do serviço mostra se há atraso na confirmação. Se há, espere; o pagamento vai aparecer.
 5. **Chave usada.** Se o cliente pagou por chave e não por código, veja o extrato bancário e vincule à mão.
@@ -60,7 +60,7 @@ Anote a ordem dos cinco pontos e deixe visível para quem atende. Nas Lojas Avil
 ## Perguntas frequentes
 
 **Pix pode demorar mais de uma hora para cair?**
-Em regra, não. A exceção é a análise de fraude: o banco de quem paga pode segurar o Pix para análise por até 30 minutos em dia útil, das 8h às 20h, e até 60 minutos nos outros horários, e avisa o cliente quando faz isso. Fora isso, o que atrasa é a confirmação do intermediário para a loja, em dia de instabilidade: o dinheiro já está na conta, o status do pedido é que não atualizou.
+Em regra, não. A exceção é a análise de fraude: o banco de quem paga pode segurar o Pix para análise por até 30 minutos em dia útil, das 8h às 20h no horário de Brasília, e até 60 minutos nos outros horários, e avisa o cliente quando faz isso. Fora isso, o que atrasa é a confirmação do intermediário para a loja, em dia de instabilidade: o dinheiro já está na conta, o status do pedido é que não atualizou.
 
 **Como saber se um comprovante de Pix é falso?**
 Não dá para saber pela imagem. Confirme pelo painel do intermediário ou pelo extrato do banco, usando o identificador da transação. Sem aparecer lá, não houve pagamento.

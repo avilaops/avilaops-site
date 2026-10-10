@@ -57,7 +57,7 @@ Uma arquiteta atendia em casa e tinha no Google o endereço da residência, com 
 
 ## O que fazer agora
 
-Abra o Perfil da Empresa no Google e confira se o endereço exibido é o que você quer exibir. Se recebe cliente em casa, mantenha, com horário. Se não recebe, mas vai até o cliente ou entrega pessoalmente, mude para área de atendimento hoje. Ajuste o rodapé e a página de contato. Perfil da Empresa no Google configurado junto com o site, com a área certa e sem risco de suspensão: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
+Abra o Perfil da Empresa no Google e confira se o endereço exibido é o que você quer exibir. Se recebe cliente em casa, com placa fixa com o nome da empresa e atendimento no horário informado, mantenha o endereço. Sem placa, oculte o endereço. Se não recebe, mas vai até o cliente ou entrega pessoalmente, mude para área de atendimento hoje. Ajuste o rodapé e a página de contato. Perfil da Empresa no Google configurado junto com o site, com a área certa e sem risco de suspensão: https://avilaops.com/presenca-digital-para-pequenas-empresas/ ou chame no WhatsApp: https://wa.me/5517997811471.
 
 ## Perguntas frequentes
 
